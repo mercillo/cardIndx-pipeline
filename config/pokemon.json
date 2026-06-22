@@ -1,0 +1,17 @@
+{
+  "game": "pokemon",
+  "targetSets": [
+    {
+      "id": "sv3pt5",
+      "name": "151"
+    },
+    {
+      "id": "sv4pt5",
+      "name": "Paldean Fates"
+    }
+  ],
+  "videoConfig": {
+    "topCount": 10,
+    "trend": "down"
+  }
+}

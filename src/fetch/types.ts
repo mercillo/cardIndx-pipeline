@@ -7,9 +7,10 @@ export const CardMarketDataSchema = z.object({
   setName: z.string(),
   artUrl: z.string().url(),
   prices: z.object({
-    psa10Current: z.number().nullable(),
-    psa10Change30d: z.number().nullable(),
     rawCurrent: z.number().nullable(),
+    psa10Current: z.number().nullable(),
+    psa10Change7d: z.number().nullable(),
+    psa10Change30d: z.number().nullable(),
   }),
 });
 

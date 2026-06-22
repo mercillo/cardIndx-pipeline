@@ -6,8 +6,9 @@ jspm_packages/
 dist/
 out/
 
-# Local data cache & video outputs
-output/
+# Video renders are too large for git — download from Actions artifacts
+output/**/*_video.mp4
+output/**/video.mp4
 
 # Credentials and environment secrets
 .env

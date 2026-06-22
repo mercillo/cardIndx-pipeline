@@ -1,0 +1,15 @@
+export const theme = {
+  colors: {
+    bg: "#0F0F0F",
+    text: "#FFFFFF",
+    up: "#22C55E",
+    down: "#EF4444",
+    accent: "#CC0000",
+    muted: "#666666",
+    surface: "#1A1A1A",
+  },
+  fonts: {
+    main: "Inter, Helvetica, Arial, sans-serif",
+    mono: "JetBrains Mono, Menlo, Courier New, monospace",
+  },
+};

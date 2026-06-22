@@ -1,0 +1,106 @@
+[
+  {
+    "id": "sv3pt5-199",
+    "name": "Charizard ex",
+    "cardNumber": "199",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/199_hires.png",
+    "prices": {
+      "rawCurrent": 461.39,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-200",
+    "name": "Blastoise ex",
+    "cardNumber": "200",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/200_hires.png",
+    "prices": {
+      "rawCurrent": 163.49,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-198",
+    "name": "Venusaur ex",
+    "cardNumber": "198",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/198_hires.png",
+    "prices": {
+      "rawCurrent": 127.91,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-202",
+    "name": "Zapdos ex",
+    "cardNumber": "202",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/202_hires.png",
+    "prices": {
+      "rawCurrent": 111.39,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-201",
+    "name": "Alakazam ex",
+    "cardNumber": "201",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/201_hires.png",
+    "prices": {
+      "rawCurrent": 80.81,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-193",
+    "name": "Mew ex",
+    "cardNumber": "193",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/193_hires.png",
+    "prices": {
+      "rawCurrent": 48.57,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-205",
+    "name": "Mew ex",
+    "cardNumber": "205",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/205_hires.png",
+    "prices": {
+      "rawCurrent": 34.71,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  },
+  {
+    "id": "sv3pt5-192",
+    "name": "Zapdos ex",
+    "cardNumber": "192",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/192_hires.png",
+    "prices": {
+      "rawCurrent": 13.24,
+      "psa10Current": null,
+      "psa10Change7d": null,
+      "psa10Change30d": null
+    }
+  }
+]

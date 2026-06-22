@@ -1,0 +1,106 @@
+[
+  {
+    "id": "sv3pt5-166",
+    "name": "Charizard ex",
+    "cardNumber": "166",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/166_hires.png",
+    "prices": {
+      "psa10Current": 150.00,
+      "psa10Change30d": 5.2,
+      "psa10Change7d": 2.1,
+      "rawCurrent": 90.00
+    }
+  },
+  {
+    "id": "sv3pt5-175",
+    "name": "Mewtwo ex",
+    "cardNumber": "175",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/175_hires.png",
+    "prices": {
+      "psa10Current": 180.00,
+      "psa10Change30d": 9.3,
+      "psa10Change7d": 5.6,
+      "rawCurrent": 110.00
+    }
+  },
+  {
+    "id": "sv3pt5-169",
+    "name": "Pikachu",
+    "cardNumber": "169",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/169_hires.png",
+    "prices": {
+      "psa10Current": 200.00,
+      "psa10Change30d": 12.5,
+      "psa10Change7d": 4.3,
+      "rawCurrent": 150.00
+    }
+  },
+  {
+    "id": "sv3pt5-174",
+    "name": "Gengar ex",
+    "cardNumber": "174",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/174_hires.png",
+    "prices": {
+      "psa10Current": 95.00,
+      "psa10Change30d": 7.8,
+      "psa10Change7d": 3.5,
+      "rawCurrent": 55.00
+    }
+  },
+  {
+    "id": "sv3pt5-167",
+    "name": "Blastoise ex",
+    "cardNumber": "167",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/167_hires.png",
+    "prices": {
+      "psa10Current": 85.00,
+      "psa10Change30d": -2.1,
+      "psa10Change7d": -0.8,
+      "rawCurrent": 40.00
+    }
+  },
+  {
+    "id": "sv3pt5-168",
+    "name": "Venusaur ex",
+    "cardNumber": "168",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/168_hires.png",
+    "prices": {
+      "psa10Current": 70.00,
+      "psa10Change30d": 0.5,
+      "psa10Change7d": 1.2,
+      "rawCurrent": 35.00
+    }
+  },
+  {
+    "id": "sv3pt5-170",
+    "name": "Mew ex",
+    "cardNumber": "170",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/170_hires.png",
+    "prices": {
+      "psa10Current": 45.00,
+      "psa10Change30d": -8.4,
+      "psa10Change7d": -3.1,
+      "rawCurrent": 25.00
+    }
+  },
+  {
+    "id": "sv3pt5-172",
+    "name": "Alakazam ex",
+    "cardNumber": "172",
+    "setName": "151",
+    "artUrl": "https://images.pokemontcg.io/sv3pt5/172_hires.png",
+    "prices": {
+      "psa10Current": 50.00,
+      "psa10Change30d": -1.2,
+      "psa10Change7d": 0.4,
+      "rawCurrent": 20.00
+    }
+  }
+]

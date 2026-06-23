@@ -1,35 +1,41 @@
 [
   {
-    "id": "me2pt5-284",
-    "name": "Mega Gengar ex",
-    "cardNumber": "284/217",
-    "setName": "Ascended Heroes",
-    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-284/large",
-    "prices": {
-      "rawCurrent": 1372.59,
-      "psa10Current": null,
-      "psa10Change7d": 2.05,
-      "psa10Change30d": -1.98
-    }
-  },
-  {
     "id": "me2pt5-276",
     "name": "Pikachu ex",
     "cardNumber": "276/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-276/large",
     "prices": {
-      "rawCurrent": 1368.11,
+      "rawCurrent": 1368.44,
       "psa10Current": null,
-      "psa10Change7d": 3.86,
-      "psa10Change30d": -2.6
+      "psa10Change7d": 3.89,
+      "psa10Change30d": -2.58
+    }
+  },
+  {
+    "id": "me2pt5-284",
+    "name": "Mega Gengar ex",
+    "cardNumber": "284/217",
+    "setId": "me2pt5",
+    "setName": "Ascended Heroes",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-284/large",
+    "prices": {
+      "rawCurrent": 1367.79,
+      "psa10Current": null,
+      "psa10Change7d": 1.69,
+      "psa10Change30d": -2.32
     }
   },
   {
     "id": "me2pt5-290",
     "name": "Mega Dragonite ex",
     "cardNumber": "290/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-290/large",
     "prices": {
       "rawCurrent": 872.76,
@@ -42,65 +48,75 @@
     "id": "me2pt5-294",
     "name": "Mega Charizard Y ex",
     "cardNumber": "294/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Mega Hyper Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-294/large",
     "prices": {
-      "rawCurrent": 624.75,
+      "rawCurrent": 624.17,
       "psa10Current": null,
-      "psa10Change7d": -0.74,
-      "psa10Change30d": -7.48
+      "psa10Change7d": -0.83,
+      "psa10Change30d": -7.57
     }
   },
   {
     "id": "me2pt5-277",
     "name": "Pikachu ex",
     "cardNumber": "277/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-277/large",
     "prices": {
-      "rawCurrent": 464.09,
+      "rawCurrent": 463.73,
       "psa10Current": null,
-      "psa10Change7d": -0.7,
-      "psa10Change30d": -0.63
+      "psa10Change7d": -0.68,
+      "psa10Change30d": -0.7
     }
   },
   {
     "id": "me2pt5-281",
     "name": "Team Rocket's Mewtwo ex",
     "cardNumber": "281/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-281/large",
     "prices": {
-      "rawCurrent": 431.58,
+      "rawCurrent": 429.55,
       "psa10Current": null,
-      "psa10Change7d": -4.58,
-      "psa10Change30d": -4.76
+      "psa10Change7d": -5.03,
+      "psa10Change30d": -5.21
     }
   },
   {
     "id": "me2pt5-295",
     "name": "Mega Dragonite ex",
     "cardNumber": "295/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Mega Hyper Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-295/large",
     "prices": {
-      "rawCurrent": 325.74,
+      "rawCurrent": 324.56,
       "psa10Current": null,
-      "psa10Change7d": -1.61,
-      "psa10Change30d": -3.55
+      "psa10Change7d": -1.97,
+      "psa10Change30d": -4.04
     }
   },
   {
     "id": "me2pt5-280",
     "name": "Lillie's Clefairy ex",
     "cardNumber": "280/217",
+    "setId": "me2pt5",
     "setName": "Ascended Heroes",
+    "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me2pt5-280/large",
     "prices": {
-      "rawCurrent": 208.78,
+      "rawCurrent": 209.02,
       "psa10Current": null,
-      "psa10Change7d": 1.75,
-      "psa10Change30d": 1.96
+      "psa10Change7d": 1.97,
+      "psa10Change30d": 2.08
     }
   }
 ]

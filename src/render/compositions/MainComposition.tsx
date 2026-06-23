@@ -1,4 +1,4 @@
-import { AbsoluteFill, Sequence } from "remotion";
+import { AbsoluteFill, Sequence, Audio, staticFile, useVideoConfig } from "remotion";
 import { Mosaic } from "../scenes/Mosaic";
 import { DetailSlide } from "../scenes/DetailSlide";
 import { Outro } from "../scenes/Outro";
@@ -28,11 +28,19 @@ const SLIDE_DURATION = 75;   // 2.5s per card
 const OUTRO_DURATION = 120;  // 4s
 
 export const MainComposition = ({ data, date }: MainCompositionProps) => {
+  const { fps } = useVideoConfig();
   const slidesStart = MOSAIC_DURATION;
   const outroStart = slidesStart + data.length * SLIDE_DURATION;
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#0F0F0F" }}>
+      {/* Background music — starts 17s into the file, plays to end of video */}
+      <Audio
+        src={staticFile("pokemon_music.mp3")}
+        trimBefore={17 * fps}
+        volume={0.3}
+      />
+
       {/* 1. Mosaic grid — opens the video */}
       <Sequence from={0} durationInFrames={MOSAIC_DURATION}>
         <Mosaic cards={data} date={date} />

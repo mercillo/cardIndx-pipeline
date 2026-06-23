@@ -24,7 +24,7 @@ interface MainCompositionProps {
 
 // Segment durations in frames (30fps)
 const MOSAIC_DURATION = 90;  // 3s
-const SLIDE_DURATION = 60;   // 2s per card
+const SLIDE_DURATION = 75;   // 2.5s per card
 const OUTRO_DURATION = 120;  // 4s
 
 export const MainComposition = ({ data }: MainCompositionProps) => {

@@ -2,8 +2,8 @@ import "dotenv/config";
 import { Command } from "commander";
 import fs from "fs";
 import path from "path";
-import { runIngestion } from "./fetch/index.js";
-import { CardMarketData } from "./fetch/types.js";
+import { fetchLivePrices } from "./data/priceSync.js";
+import type { CardMarketData } from "./fetch/types.js";
 import { renderVideo } from "./render/renderVideo.js";
 
 const program = new Command();
@@ -11,7 +11,8 @@ program
   .requiredOption("-g, --game <type>", "Game name")
   .requiredOption("-c, --config <path>", "Config path")
   .option("-s, --set-id <id>", "Set ID to run (e.g. sv3pt5, me4)")
-  .option("-i, --set-index <number>", "Index into targetSets array — auto-rotates by day if neither flag is passed");
+  .option("-i, --set-index <number>", "Index into targetSets array — auto-rotates by day if neither flag is passed")
+  .option("--fetch-only", "Fetch and print card data without saving or rendering");
 
 program.parse(process.argv);
 const options = program.opts();
@@ -54,8 +55,8 @@ function enrichWithPriceHistory(cards: CardMarketData[], setId: string): CardMar
       ...card,
       prices: {
         ...card.prices,
-        psa10Change7d: pctChange(curr, past7),
-        psa10Change30d: pctChange(curr, past30),
+        psa10Change7d: pctChange(curr, past7) ?? card.prices.psa10Change7d,
+        psa10Change30d: pctChange(curr, past30) ?? card.prices.psa10Change30d,
       },
     };
   });
@@ -106,7 +107,17 @@ async function main() {
 
   // 2. PHASE 1: INGESTION
   console.log("\n--- Phase 1: Data Ingestion ---");
-  const marketData = await runIngestion(targetSet.id);
+  const marketData = await fetchLivePrices(targetSet.id);
+
+  if (options.fetchOnly) {
+    console.log("\n📋 Top cards:");
+    marketData.forEach((c, i) => {
+      const price = c.prices.rawCurrent != null ? `$${c.prices.rawCurrent.toFixed(2)}` : "N/A";
+      console.log(`  ${i + 1}. ${c.name} #${c.cardNumber} — ${price}`);
+    });
+    return;
+  }
+
   const enriched = enrichWithPriceHistory(marketData, targetSet.id);
 
   const dataFile = path.join(outputDir, `${targetSet.id}_data.json`);

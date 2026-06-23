@@ -5,8 +5,8 @@ on:
     - cron: '0 13 * * *'   # 9am ET every day
   workflow_dispatch:
     inputs:
-      set_index:
-        description: 'Set index to run (0 = Chaos Rising, leave blank to auto-rotate by day)'
+      set_id:
+        description: 'Set ID to run (e.g. me2pt5) — leave blank to auto-rotate by day'
         required: false
         type: string
 
@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # full history so price diffs can read old data.json files
+          fetch-depth: 0   # full history so price diffs can read old data snapshots
 
       - uses: actions/setup-node@v4
         with:
@@ -40,12 +40,13 @@ jobs:
       - name: Run pipeline
         run: |
           ARGS="-g pokemon -c config/pokemon.json"
-          if [ -n "${{ inputs.set_index }}" ]; then
-            ARGS="$ARGS --set-index ${{ inputs.set_index }}"
+          if [ -n "${{ inputs.set_id }}" ]; then
+            ARGS="$ARGS --set-id ${{ inputs.set_id }}"
           fi
           npx tsx src/pipeline.ts $ARGS
         env:
           POKEMON_TCG_API_KEY: ${{ secrets.POKEMON_TCG_API_KEY }}
+          JUSTTCG_API_KEY: ${{ secrets.JUSTTCG_API_KEY }}
 
       - name: Commit data snapshot
         run: |

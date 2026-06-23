@@ -5,6 +5,7 @@ interface CardData {
   id: string;
   name: string;
   cardNumber: string;
+  rarity?: string;
   setName: string;
   artUrl: string;
   prices: {
@@ -15,37 +16,14 @@ interface CardData {
   };
 }
 
-const ChangeRow = ({
-  label,
-  value,
-}: {
-  label: string;
-  value: number | null | undefined;
-}) => {
-  if (value === null || value === undefined) return null;
+const ChangeText = ({ value, label }: { value: number | null | undefined; label: string }) => {
+  if (value == null) return null;
   const isUp = value >= 0;
   return (
-    <div
-      style={{
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "space-between",
-        marginBottom: 12,
-      }}
-    >
-      <span style={{ color: theme.colors.muted, fontSize: 30, fontFamily: theme.fonts.mono }}>
-        {label}
-      </span>
-      <span
-        style={{
-          color: isUp ? theme.colors.up : theme.colors.down,
-          fontSize: 34,
-          fontFamily: theme.fonts.mono,
-          fontWeight: 700,
-        }}
-      >
-        {isUp ? "▲" : "▼"} {isUp ? "+" : ""}
-        {value.toFixed(1)}%
+    <div style={{ display: "inline-flex", alignItems: "center", gap: 12, marginBottom: 10 }}>
+      <span style={{ color: theme.colors.muted, fontSize: 22, fontFamily: theme.fonts.mono }}>{label}</span>
+      <span style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 30, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
+        {isUp ? "+" : ""}{value.toFixed(1)}%
       </span>
     </div>
   );
@@ -151,65 +129,37 @@ export const DetailSlide = ({ card, rank }: { card: CardData; rank: number }) =>
           {card.name}
         </div>
 
-        {/* Set name */}
-        <div
-          style={{
-            color: theme.colors.muted,
-            fontSize: 28,
-            fontFamily: theme.fonts.main,
-            marginBottom: 26,
-          }}
-        >
-          {card.setName}
+        {/* Set + card number + rarity */}
+        <div style={{ display: "flex", alignItems: "center", gap: 16, marginBottom: 24 }}>
+          <div style={{ color: theme.colors.muted, fontSize: 26, fontFamily: theme.fonts.main }}>
+            {card.setName}
+          </div>
+          <div style={{ color: "rgba(255,255,255,0.2)", fontSize: 22 }}>·</div>
+          <div style={{ color: theme.colors.muted, fontSize: 22, fontFamily: theme.fonts.mono }}>
+            #{card.cardNumber}
+          </div>
+          {card.rarity && (
+            <>
+              <div style={{ color: "rgba(255,255,255,0.2)", fontSize: 22 }}>·</div>
+              <div style={{ color: theme.colors.accent, fontSize: 20, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
+                {card.rarity}
+              </div>
+            </>
+          )}
         </div>
 
-        {/* Prices */}
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            gap: 36,
-            marginBottom: 22,
-          }}
-        >
-          <div>
-            <div style={{ color: theme.colors.muted, fontSize: 20, fontFamily: theme.fonts.mono, marginBottom: 4 }}>
-              RAW
-            </div>
-            <div style={{ color: theme.colors.text, fontSize: 40, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
-              {card.prices.rawCurrent != null ? `$${card.prices.rawCurrent.toFixed(2)}` : "N/A"}
-            </div>
+        {/* 7d change — always visible above market price */}
+        <ChangeText label="7d" value={card.prices.psa10Change7d ?? card.prices.psa10Change30d} />
+
+        {/* Market price */}
+        <div style={{ marginBottom: 20 }}>
+          <div style={{ color: theme.colors.muted, fontSize: 18, fontFamily: theme.fonts.mono, marginBottom: 4, letterSpacing: 1 }}>
+            MARKET PRICE
           </div>
-          <div
-            style={{
-              width: 2,
-              backgroundColor: "rgba(255,255,255,0.1)",
-              borderRadius: 1,
-              alignSelf: "stretch",
-            }}
-          />
-          <div>
-            <div style={{ color: theme.colors.muted, fontSize: 20, fontFamily: theme.fonts.mono, marginBottom: 4 }}>
-              PSA 10
-            </div>
-            <div style={{ color: theme.colors.text, fontSize: 40, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
-              {card.prices.psa10Current != null ? `$${card.prices.psa10Current.toFixed(2)}` : "N/A"}
-            </div>
+          <div style={{ color: theme.colors.text, fontSize: 48, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
+            {card.prices.rawCurrent != null ? `$${card.prices.rawCurrent.toFixed(2)}` : "N/A"}
           </div>
         </div>
-
-        {/* Divider */}
-        <div
-          style={{
-            height: 1,
-            backgroundColor: "rgba(255,255,255,0.08)",
-            marginBottom: 20,
-          }}
-        />
-
-        {/* Change rows */}
-        <ChangeRow label="7d" value={card.prices.psa10Change7d} />
-        <ChangeRow label="30d" value={card.prices.psa10Change30d} />
 
         {/* Footer handle */}
         <div

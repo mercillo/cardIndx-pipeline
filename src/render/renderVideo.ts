@@ -8,7 +8,7 @@ export async function renderVideo(cards: CardMarketData[], outputDir: string, se
   const outFile = path.join(outputDir, `${setId}_video.mp4`);
 
   console.log("📦 Bundling Remotion composition...");
-  const bundleLocation = await bundle({ entryPoint });
+  const bundleLocation = await bundle({ entryPoint, enableCaching: false });
 
   const inputProps = { data: cards };
 

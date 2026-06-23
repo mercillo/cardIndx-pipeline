@@ -1,0 +1,1393 @@
+{
+  "setId": "rsv10pt5",
+  "setName": "White Flare",
+  "printedTotal": 86,
+  "totalCards": 173,
+  "builtAt": "2026-06-23T01:08:02.576Z",
+  "cards": [
+    {
+      "id": "rsv10pt5-1",
+      "name": "Sewaddle",
+      "cardNumber": "1",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/1_hires.png"
+    },
+    {
+      "id": "rsv10pt5-2",
+      "name": "Swadloon",
+      "cardNumber": "2",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/2_hires.png"
+    },
+    {
+      "id": "rsv10pt5-3",
+      "name": "Leavanny",
+      "cardNumber": "3",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/3_hires.png"
+    },
+    {
+      "id": "rsv10pt5-4",
+      "name": "Cottonee",
+      "cardNumber": "4",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/4_hires.png"
+    },
+    {
+      "id": "rsv10pt5-5",
+      "name": "Whimsicott ex",
+      "cardNumber": "5",
+      "rarity": "Double Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/5_hires.png"
+    },
+    {
+      "id": "rsv10pt5-6",
+      "name": "Deerling",
+      "cardNumber": "6",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/6_hires.png"
+    },
+    {
+      "id": "rsv10pt5-7",
+      "name": "Sawsbuck",
+      "cardNumber": "7",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/7_hires.png"
+    },
+    {
+      "id": "rsv10pt5-8",
+      "name": "Shelmet",
+      "cardNumber": "8",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/8_hires.png"
+    },
+    {
+      "id": "rsv10pt5-9",
+      "name": "Accelgor",
+      "cardNumber": "9",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/9_hires.png"
+    },
+    {
+      "id": "rsv10pt5-10",
+      "name": "Virizion",
+      "cardNumber": "10",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/10_hires.png"
+    },
+    {
+      "id": "rsv10pt5-11",
+      "name": "Tepig",
+      "cardNumber": "11",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/11_hires.png"
+    },
+    {
+      "id": "rsv10pt5-12",
+      "name": "Pignite",
+      "cardNumber": "12",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/12_hires.png"
+    },
+    {
+      "id": "rsv10pt5-13",
+      "name": "Emboar",
+      "cardNumber": "13",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/13_hires.png"
+    },
+    {
+      "id": "rsv10pt5-14",
+      "name": "Pansear",
+      "cardNumber": "14",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/14_hires.png"
+    },
+    {
+      "id": "rsv10pt5-15",
+      "name": "Simisear",
+      "cardNumber": "15",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/15_hires.png"
+    },
+    {
+      "id": "rsv10pt5-16",
+      "name": "Litwick",
+      "cardNumber": "16",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/16_hires.png"
+    },
+    {
+      "id": "rsv10pt5-17",
+      "name": "Lampent",
+      "cardNumber": "17",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/17_hires.png"
+    },
+    {
+      "id": "rsv10pt5-18",
+      "name": "Chandelure",
+      "cardNumber": "18",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/18_hires.png"
+    },
+    {
+      "id": "rsv10pt5-19",
+      "name": "Heatmor",
+      "cardNumber": "19",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/19_hires.png"
+    },
+    {
+      "id": "rsv10pt5-20",
+      "name": "Reshiram ex",
+      "cardNumber": "20",
+      "rarity": "Double Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/20_hires.png"
+    },
+    {
+      "id": "rsv10pt5-21",
+      "name": "Oshawott",
+      "cardNumber": "21",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/21_hires.png"
+    },
+    {
+      "id": "rsv10pt5-22",
+      "name": "Dewott",
+      "cardNumber": "22",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/22_hires.png"
+    },
+    {
+      "id": "rsv10pt5-23",
+      "name": "Samurott",
+      "cardNumber": "23",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/23_hires.png"
+    },
+    {
+      "id": "rsv10pt5-24",
+      "name": "Basculin",
+      "cardNumber": "24",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/24_hires.png"
+    },
+    {
+      "id": "rsv10pt5-25",
+      "name": "Ducklett",
+      "cardNumber": "25",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/25_hires.png"
+    },
+    {
+      "id": "rsv10pt5-26",
+      "name": "Swanna",
+      "cardNumber": "26",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/26_hires.png"
+    },
+    {
+      "id": "rsv10pt5-27",
+      "name": "Vanillite",
+      "cardNumber": "27",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/27_hires.png"
+    },
+    {
+      "id": "rsv10pt5-28",
+      "name": "Vanillish",
+      "cardNumber": "28",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/28_hires.png"
+    },
+    {
+      "id": "rsv10pt5-29",
+      "name": "Vanilluxe",
+      "cardNumber": "29",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/29_hires.png"
+    },
+    {
+      "id": "rsv10pt5-30",
+      "name": "Keldeo ex",
+      "cardNumber": "30",
+      "rarity": "Double Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/30_hires.png"
+    },
+    {
+      "id": "rsv10pt5-31",
+      "name": "Blitzle",
+      "cardNumber": "31",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/31_hires.png"
+    },
+    {
+      "id": "rsv10pt5-32",
+      "name": "Zebstrika",
+      "cardNumber": "32",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/32_hires.png"
+    },
+    {
+      "id": "rsv10pt5-33",
+      "name": "Joltik",
+      "cardNumber": "33",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/33_hires.png"
+    },
+    {
+      "id": "rsv10pt5-34",
+      "name": "Galvantula",
+      "cardNumber": "34",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/34_hires.png"
+    },
+    {
+      "id": "rsv10pt5-35",
+      "name": "Stunfisk",
+      "cardNumber": "35",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/35_hires.png"
+    },
+    {
+      "id": "rsv10pt5-36",
+      "name": "Woobat",
+      "cardNumber": "36",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/36_hires.png"
+    },
+    {
+      "id": "rsv10pt5-37",
+      "name": "Swoobat",
+      "cardNumber": "37",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/37_hires.png"
+    },
+    {
+      "id": "rsv10pt5-38",
+      "name": "Sigilyph",
+      "cardNumber": "38",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/38_hires.png"
+    },
+    {
+      "id": "rsv10pt5-39",
+      "name": "Yamask",
+      "cardNumber": "39",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/39_hires.png"
+    },
+    {
+      "id": "rsv10pt5-40",
+      "name": "Cofagrigus",
+      "cardNumber": "40",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/40_hires.png"
+    },
+    {
+      "id": "rsv10pt5-41",
+      "name": "Gothita",
+      "cardNumber": "41",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/41_hires.png"
+    },
+    {
+      "id": "rsv10pt5-42",
+      "name": "Gothorita",
+      "cardNumber": "42",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/42_hires.png"
+    },
+    {
+      "id": "rsv10pt5-43",
+      "name": "Gothitelle",
+      "cardNumber": "43",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/43_hires.png"
+    },
+    {
+      "id": "rsv10pt5-44",
+      "name": "Frillish",
+      "cardNumber": "44",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/44_hires.png"
+    },
+    {
+      "id": "rsv10pt5-45",
+      "name": "Jellicent ex",
+      "cardNumber": "45",
+      "rarity": "Double Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/45_hires.png"
+    },
+    {
+      "id": "rsv10pt5-46",
+      "name": "Roggenrola",
+      "cardNumber": "46",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/46_hires.png"
+    },
+    {
+      "id": "rsv10pt5-47",
+      "name": "Boldore",
+      "cardNumber": "47",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/47_hires.png"
+    },
+    {
+      "id": "rsv10pt5-48",
+      "name": "Gigalith",
+      "cardNumber": "48",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/48_hires.png"
+    },
+    {
+      "id": "rsv10pt5-49",
+      "name": "Sawk",
+      "cardNumber": "49",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/49_hires.png"
+    },
+    {
+      "id": "rsv10pt5-50",
+      "name": "Archen",
+      "cardNumber": "50",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/50_hires.png"
+    },
+    {
+      "id": "rsv10pt5-51",
+      "name": "Archeops",
+      "cardNumber": "51",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/51_hires.png"
+    },
+    {
+      "id": "rsv10pt5-52",
+      "name": "Mienfoo",
+      "cardNumber": "52",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/52_hires.png"
+    },
+    {
+      "id": "rsv10pt5-53",
+      "name": "Mienshao",
+      "cardNumber": "53",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/53_hires.png"
+    },
+    {
+      "id": "rsv10pt5-54",
+      "name": "Terrakion",
+      "cardNumber": "54",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/54_hires.png"
+    },
+    {
+      "id": "rsv10pt5-55",
+      "name": "Purrloin",
+      "cardNumber": "55",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/55_hires.png"
+    },
+    {
+      "id": "rsv10pt5-56",
+      "name": "Liepard",
+      "cardNumber": "56",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/56_hires.png"
+    },
+    {
+      "id": "rsv10pt5-57",
+      "name": "Scraggy",
+      "cardNumber": "57",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/57_hires.png"
+    },
+    {
+      "id": "rsv10pt5-58",
+      "name": "Scrafty",
+      "cardNumber": "58",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/58_hires.png"
+    },
+    {
+      "id": "rsv10pt5-59",
+      "name": "Trubbish",
+      "cardNumber": "59",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/59_hires.png"
+    },
+    {
+      "id": "rsv10pt5-60",
+      "name": "Garbodor",
+      "cardNumber": "60",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/60_hires.png"
+    },
+    {
+      "id": "rsv10pt5-61",
+      "name": "Zorua",
+      "cardNumber": "61",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/61_hires.png"
+    },
+    {
+      "id": "rsv10pt5-62",
+      "name": "Zoroark",
+      "cardNumber": "62",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/62_hires.png"
+    },
+    {
+      "id": "rsv10pt5-63",
+      "name": "Vullaby",
+      "cardNumber": "63",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/63_hires.png"
+    },
+    {
+      "id": "rsv10pt5-64",
+      "name": "Mandibuzz",
+      "cardNumber": "64",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/64_hires.png"
+    },
+    {
+      "id": "rsv10pt5-65",
+      "name": "Deino",
+      "cardNumber": "65",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/65_hires.png"
+    },
+    {
+      "id": "rsv10pt5-66",
+      "name": "Zweilous",
+      "cardNumber": "66",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/66_hires.png"
+    },
+    {
+      "id": "rsv10pt5-67",
+      "name": "Hydreigon ex",
+      "cardNumber": "67",
+      "rarity": "Double Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/67_hires.png"
+    },
+    {
+      "id": "rsv10pt5-68",
+      "name": "Ferroseed",
+      "cardNumber": "68",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/68_hires.png"
+    },
+    {
+      "id": "rsv10pt5-69",
+      "name": "Ferrothorn",
+      "cardNumber": "69",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/69_hires.png"
+    },
+    {
+      "id": "rsv10pt5-70",
+      "name": "Durant",
+      "cardNumber": "70",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/70_hires.png"
+    },
+    {
+      "id": "rsv10pt5-71",
+      "name": "Druddigon",
+      "cardNumber": "71",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/71_hires.png"
+    },
+    {
+      "id": "rsv10pt5-72",
+      "name": "Patrat",
+      "cardNumber": "72",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/72_hires.png"
+    },
+    {
+      "id": "rsv10pt5-73",
+      "name": "Watchog",
+      "cardNumber": "73",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/73_hires.png"
+    },
+    {
+      "id": "rsv10pt5-74",
+      "name": "Lillipup",
+      "cardNumber": "74",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/74_hires.png"
+    },
+    {
+      "id": "rsv10pt5-75",
+      "name": "Herdier",
+      "cardNumber": "75",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/75_hires.png"
+    },
+    {
+      "id": "rsv10pt5-76",
+      "name": "Stoutland",
+      "cardNumber": "76",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/76_hires.png"
+    },
+    {
+      "id": "rsv10pt5-77",
+      "name": "Bouffalant ex",
+      "cardNumber": "77",
+      "rarity": "Double Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/77_hires.png"
+    },
+    {
+      "id": "rsv10pt5-78",
+      "name": "Tornadus",
+      "cardNumber": "78",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/78_hires.png"
+    },
+    {
+      "id": "rsv10pt5-79",
+      "name": "Antique Plume Fossil",
+      "cardNumber": "79",
+      "rarity": "Common",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/79_hires.png"
+    },
+    {
+      "id": "rsv10pt5-80",
+      "name": "Brave Bangle",
+      "cardNumber": "80",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/80_hires.png"
+    },
+    {
+      "id": "rsv10pt5-81",
+      "name": "Cheren",
+      "cardNumber": "81",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/81_hires.png"
+    },
+    {
+      "id": "rsv10pt5-82",
+      "name": "Energy Retrieval",
+      "cardNumber": "82",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/82_hires.png"
+    },
+    {
+      "id": "rsv10pt5-83",
+      "name": "Harlequin",
+      "cardNumber": "83",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/83_hires.png"
+    },
+    {
+      "id": "rsv10pt5-84",
+      "name": "Hilda",
+      "cardNumber": "84",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/84_hires.png"
+    },
+    {
+      "id": "rsv10pt5-85",
+      "name": "Tool Scrapper",
+      "cardNumber": "85",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/85_hires.png"
+    },
+    {
+      "id": "rsv10pt5-86",
+      "name": "Ignition Energy",
+      "cardNumber": "86",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/86_hires.png"
+    },
+    {
+      "id": "rsv10pt5-87",
+      "name": "Sewaddle",
+      "cardNumber": "87",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/87_hires.png"
+    },
+    {
+      "id": "rsv10pt5-88",
+      "name": "Swadloon",
+      "cardNumber": "88",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/88_hires.png"
+    },
+    {
+      "id": "rsv10pt5-89",
+      "name": "Leavanny",
+      "cardNumber": "89",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/89_hires.png"
+    },
+    {
+      "id": "rsv10pt5-90",
+      "name": "Cottonee",
+      "cardNumber": "90",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/90_hires.png"
+    },
+    {
+      "id": "rsv10pt5-91",
+      "name": "Deerling",
+      "cardNumber": "91",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/91_hires.png"
+    },
+    {
+      "id": "rsv10pt5-92",
+      "name": "Sawsbuck",
+      "cardNumber": "92",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/92_hires.png"
+    },
+    {
+      "id": "rsv10pt5-93",
+      "name": "Shelmet",
+      "cardNumber": "93",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/93_hires.png"
+    },
+    {
+      "id": "rsv10pt5-94",
+      "name": "Accelgor",
+      "cardNumber": "94",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/94_hires.png"
+    },
+    {
+      "id": "rsv10pt5-95",
+      "name": "Virizion",
+      "cardNumber": "95",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/95_hires.png"
+    },
+    {
+      "id": "rsv10pt5-96",
+      "name": "Tepig",
+      "cardNumber": "96",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/96_hires.png"
+    },
+    {
+      "id": "rsv10pt5-97",
+      "name": "Pignite",
+      "cardNumber": "97",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/97_hires.png"
+    },
+    {
+      "id": "rsv10pt5-98",
+      "name": "Emboar",
+      "cardNumber": "98",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/98_hires.png"
+    },
+    {
+      "id": "rsv10pt5-99",
+      "name": "Pansear",
+      "cardNumber": "99",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/99_hires.png"
+    },
+    {
+      "id": "rsv10pt5-100",
+      "name": "Simisear",
+      "cardNumber": "100",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/100_hires.png"
+    },
+    {
+      "id": "rsv10pt5-101",
+      "name": "Litwick",
+      "cardNumber": "101",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/101_hires.png"
+    },
+    {
+      "id": "rsv10pt5-102",
+      "name": "Lampent",
+      "cardNumber": "102",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/102_hires.png"
+    },
+    {
+      "id": "rsv10pt5-103",
+      "name": "Chandelure",
+      "cardNumber": "103",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/103_hires.png"
+    },
+    {
+      "id": "rsv10pt5-104",
+      "name": "Heatmor",
+      "cardNumber": "104",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/104_hires.png"
+    },
+    {
+      "id": "rsv10pt5-105",
+      "name": "Oshawott",
+      "cardNumber": "105",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/105_hires.png"
+    },
+    {
+      "id": "rsv10pt5-106",
+      "name": "Dewott",
+      "cardNumber": "106",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/106_hires.png"
+    },
+    {
+      "id": "rsv10pt5-107",
+      "name": "Samurott",
+      "cardNumber": "107",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/107_hires.png"
+    },
+    {
+      "id": "rsv10pt5-108",
+      "name": "Basculin",
+      "cardNumber": "108",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/108_hires.png"
+    },
+    {
+      "id": "rsv10pt5-109",
+      "name": "Ducklett",
+      "cardNumber": "109",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/109_hires.png"
+    },
+    {
+      "id": "rsv10pt5-110",
+      "name": "Swanna",
+      "cardNumber": "110",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/110_hires.png"
+    },
+    {
+      "id": "rsv10pt5-111",
+      "name": "Vanillite",
+      "cardNumber": "111",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/111_hires.png"
+    },
+    {
+      "id": "rsv10pt5-112",
+      "name": "Vanillish",
+      "cardNumber": "112",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/112_hires.png"
+    },
+    {
+      "id": "rsv10pt5-113",
+      "name": "Vanilluxe",
+      "cardNumber": "113",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/113_hires.png"
+    },
+    {
+      "id": "rsv10pt5-114",
+      "name": "Blitzle",
+      "cardNumber": "114",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/114_hires.png"
+    },
+    {
+      "id": "rsv10pt5-115",
+      "name": "Zebstrika",
+      "cardNumber": "115",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/115_hires.png"
+    },
+    {
+      "id": "rsv10pt5-116",
+      "name": "Joltik",
+      "cardNumber": "116",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/116_hires.png"
+    },
+    {
+      "id": "rsv10pt5-117",
+      "name": "Galvantula",
+      "cardNumber": "117",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/117_hires.png"
+    },
+    {
+      "id": "rsv10pt5-118",
+      "name": "Stunfisk",
+      "cardNumber": "118",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/118_hires.png"
+    },
+    {
+      "id": "rsv10pt5-119",
+      "name": "Woobat",
+      "cardNumber": "119",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/119_hires.png"
+    },
+    {
+      "id": "rsv10pt5-120",
+      "name": "Swoobat",
+      "cardNumber": "120",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/120_hires.png"
+    },
+    {
+      "id": "rsv10pt5-121",
+      "name": "Sigilyph",
+      "cardNumber": "121",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/121_hires.png"
+    },
+    {
+      "id": "rsv10pt5-122",
+      "name": "Yamask",
+      "cardNumber": "122",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/122_hires.png"
+    },
+    {
+      "id": "rsv10pt5-123",
+      "name": "Cofagrigus",
+      "cardNumber": "123",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/123_hires.png"
+    },
+    {
+      "id": "rsv10pt5-124",
+      "name": "Gothita",
+      "cardNumber": "124",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/124_hires.png"
+    },
+    {
+      "id": "rsv10pt5-125",
+      "name": "Gothorita",
+      "cardNumber": "125",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/125_hires.png"
+    },
+    {
+      "id": "rsv10pt5-126",
+      "name": "Frillish",
+      "cardNumber": "126",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/126_hires.png"
+    },
+    {
+      "id": "rsv10pt5-127",
+      "name": "Roggenrola",
+      "cardNumber": "127",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/127_hires.png"
+    },
+    {
+      "id": "rsv10pt5-128",
+      "name": "Boldore",
+      "cardNumber": "128",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/128_hires.png"
+    },
+    {
+      "id": "rsv10pt5-129",
+      "name": "Gigalith",
+      "cardNumber": "129",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/129_hires.png"
+    },
+    {
+      "id": "rsv10pt5-130",
+      "name": "Sawk",
+      "cardNumber": "130",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/130_hires.png"
+    },
+    {
+      "id": "rsv10pt5-131",
+      "name": "Archen",
+      "cardNumber": "131",
+      "rarity": "Uncommon",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/131_hires.png"
+    },
+    {
+      "id": "rsv10pt5-132",
+      "name": "Archeops",
+      "cardNumber": "132",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/132_hires.png"
+    },
+    {
+      "id": "rsv10pt5-133",
+      "name": "Mienfoo",
+      "cardNumber": "133",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/133_hires.png"
+    },
+    {
+      "id": "rsv10pt5-134",
+      "name": "Mienshao",
+      "cardNumber": "134",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/134_hires.png"
+    },
+    {
+      "id": "rsv10pt5-135",
+      "name": "Terrakion",
+      "cardNumber": "135",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/135_hires.png"
+    },
+    {
+      "id": "rsv10pt5-136",
+      "name": "Purrloin",
+      "cardNumber": "136",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/136_hires.png"
+    },
+    {
+      "id": "rsv10pt5-137",
+      "name": "Liepard",
+      "cardNumber": "137",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/137_hires.png"
+    },
+    {
+      "id": "rsv10pt5-138",
+      "name": "Scraggy",
+      "cardNumber": "138",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/138_hires.png"
+    },
+    {
+      "id": "rsv10pt5-139",
+      "name": "Scrafty",
+      "cardNumber": "139",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/139_hires.png"
+    },
+    {
+      "id": "rsv10pt5-140",
+      "name": "Trubbish",
+      "cardNumber": "140",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/140_hires.png"
+    },
+    {
+      "id": "rsv10pt5-141",
+      "name": "Garbodor",
+      "cardNumber": "141",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/141_hires.png"
+    },
+    {
+      "id": "rsv10pt5-142",
+      "name": "Zorua",
+      "cardNumber": "142",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/142_hires.png"
+    },
+    {
+      "id": "rsv10pt5-143",
+      "name": "Zoroark",
+      "cardNumber": "143",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/143_hires.png"
+    },
+    {
+      "id": "rsv10pt5-144",
+      "name": "Vullaby",
+      "cardNumber": "144",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/144_hires.png"
+    },
+    {
+      "id": "rsv10pt5-145",
+      "name": "Mandibuzz",
+      "cardNumber": "145",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/145_hires.png"
+    },
+    {
+      "id": "rsv10pt5-146",
+      "name": "Deino",
+      "cardNumber": "146",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/146_hires.png"
+    },
+    {
+      "id": "rsv10pt5-147",
+      "name": "Zweilous",
+      "cardNumber": "147",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/147_hires.png"
+    },
+    {
+      "id": "rsv10pt5-148",
+      "name": "Ferroseed",
+      "cardNumber": "148",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/148_hires.png"
+    },
+    {
+      "id": "rsv10pt5-149",
+      "name": "Ferrothorn",
+      "cardNumber": "149",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/149_hires.png"
+    },
+    {
+      "id": "rsv10pt5-150",
+      "name": "Durant",
+      "cardNumber": "150",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/150_hires.png"
+    },
+    {
+      "id": "rsv10pt5-151",
+      "name": "Druddigon",
+      "cardNumber": "151",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/151_hires.png"
+    },
+    {
+      "id": "rsv10pt5-152",
+      "name": "Patrat",
+      "cardNumber": "152",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/152_hires.png"
+    },
+    {
+      "id": "rsv10pt5-153",
+      "name": "Watchog",
+      "cardNumber": "153",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/153_hires.png"
+    },
+    {
+      "id": "rsv10pt5-154",
+      "name": "Lillipup",
+      "cardNumber": "154",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/154_hires.png"
+    },
+    {
+      "id": "rsv10pt5-155",
+      "name": "Herdier",
+      "cardNumber": "155",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/155_hires.png"
+    },
+    {
+      "id": "rsv10pt5-156",
+      "name": "Stoutland",
+      "cardNumber": "156",
+      "rarity": "Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/156_hires.png"
+    },
+    {
+      "id": "rsv10pt5-157",
+      "name": "Whimsicott ex",
+      "cardNumber": "157",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/157_hires.png"
+    },
+    {
+      "id": "rsv10pt5-158",
+      "name": "Reshiram ex",
+      "cardNumber": "158",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/158_hires.png"
+    },
+    {
+      "id": "rsv10pt5-159",
+      "name": "Keldeo ex",
+      "cardNumber": "159",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/159_hires.png"
+    },
+    {
+      "id": "rsv10pt5-160",
+      "name": "Jellicent ex",
+      "cardNumber": "160",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/160_hires.png"
+    },
+    {
+      "id": "rsv10pt5-161",
+      "name": "Hydreigon ex",
+      "cardNumber": "161",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/161_hires.png"
+    },
+    {
+      "id": "rsv10pt5-162",
+      "name": "Bouffalant ex",
+      "cardNumber": "162",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/162_hires.png"
+    },
+    {
+      "id": "rsv10pt5-163",
+      "name": "Harlequin",
+      "cardNumber": "163",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/163_hires.png"
+    },
+    {
+      "id": "rsv10pt5-164",
+      "name": "Hilda",
+      "cardNumber": "164",
+      "rarity": "Ultra Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/164_hires.png"
+    },
+    {
+      "id": "rsv10pt5-165",
+      "name": "Whimsicott ex",
+      "cardNumber": "165",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/165_hires.png"
+    },
+    {
+      "id": "rsv10pt5-166",
+      "name": "Reshiram ex",
+      "cardNumber": "166",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/166_hires.png"
+    },
+    {
+      "id": "rsv10pt5-167",
+      "name": "Keldeo ex",
+      "cardNumber": "167",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/167_hires.png"
+    },
+    {
+      "id": "rsv10pt5-168",
+      "name": "Jellicent ex",
+      "cardNumber": "168",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/168_hires.png"
+    },
+    {
+      "id": "rsv10pt5-169",
+      "name": "Hydreigon ex",
+      "cardNumber": "169",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/169_hires.png"
+    },
+    {
+      "id": "rsv10pt5-170",
+      "name": "Bouffalant ex",
+      "cardNumber": "170",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/170_hires.png"
+    },
+    {
+      "id": "rsv10pt5-171",
+      "name": "Hilda",
+      "cardNumber": "171",
+      "rarity": "Special Illustration Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/171_hires.png"
+    },
+    {
+      "id": "rsv10pt5-172",
+      "name": "Victini",
+      "cardNumber": "172",
+      "rarity": "Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/172_hires.png"
+    },
+    {
+      "id": "rsv10pt5-173",
+      "name": "Reshiram ex",
+      "cardNumber": "173",
+      "rarity": "Black White Rare",
+      "setName": "White Flare",
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/173_hires.png"
+    }
+  ]
+}

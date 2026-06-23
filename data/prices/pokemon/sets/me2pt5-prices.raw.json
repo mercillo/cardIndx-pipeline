@@ -1,0 +1,5703 @@
+{
+  "data": [
+    {
+      "id": "pokemon-me-ascended-heroes-mega-gengar-ex-284-217-special-illustration-rare",
+      "uuid": "cded5f92-3425-5fe8-a466-69866b0335de",
+      "name": "Mega Gengar ex - 284/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "284/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676096",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-284-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "9cced916-6554-5fb4-b6ec-3d41b5406b04",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126027",
+          "price": 1372.59,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 1345,
+              "t": 1781568000
+            },
+            {
+              "p": 1376.6,
+              "t": 1781654400
+            },
+            {
+              "p": 1414.2,
+              "t": 1781740800
+            },
+            {
+              "p": 1376.2,
+              "t": 1781827200
+            },
+            {
+              "p": 1371.99,
+              "t": 1781913600
+            },
+            {
+              "p": 1372.59,
+              "t": 1782000000
+            },
+            {
+              "p": 1372.59,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 2.05,
+          "avgPrice": 1375.73,
+          "minPrice7d": 1337.86,
+          "maxPrice7d": 1454.18,
+          "stddevPopPrice7d": 31.47,
+          "covPrice7d": 0.022878266249549677,
+          "iqrPrice7d": 12.61,
+          "trendSlope7d": 1.9081794148553002,
+          "priceChangesCount7d": 9,
+          "priceChange30d": -1.98,
+          "avgPrice30d": 1358.12,
+          "minPrice30d": 1230.79,
+          "maxPrice30d": 1454.18,
+          "stddevPopPrice30d": 40.35,
+          "covPrice30d": 0.029708217266511332,
+          "iqrPrice30d": 58.85,
+          "trendSlope30d": 0.0603070329397518,
+          "priceChangesCount30d": 40,
+          "priceRelativeTo30dRange": 0.6347643135323873,
+          "priceChange90d": 27.68,
+          "avgPrice90d": 1278.29,
+          "minPrice90d": 689.8,
+          "maxPrice90d": 1492.76,
+          "stddevPopPrice90d": 138.57,
+          "covPrice90d": 0.10840591036417054,
+          "iqrPrice90d": 205.39,
+          "trendSlope90d": 3.2774851183479,
+          "priceChangesCount90d": 136,
+          "priceRelativeTo90dRange": 0.8503412374215403,
+          "minPrice1y": 689.8,
+          "maxPrice1y": 1492.76,
+          "minPriceAllTime": 689.8,
+          "minPriceAllTimeDate": "2026-04-26T12:41:03.558Z",
+          "maxPriceAllTime": 1492.76,
+          "maxPriceAllTimeDate": "2026-04-30T19:42:48.964Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-284-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "32a8e35c-3bdf-5408-adac-f2a1a9647313",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126028",
+          "price": 1105.83,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 1105.83,
+              "t": 1781568000
+            },
+            {
+              "p": 1105.83,
+              "t": 1781654400
+            },
+            {
+              "p": 1105.83,
+              "t": 1781740800
+            },
+            {
+              "p": 1105.83,
+              "t": 1781827200
+            },
+            {
+              "p": 1105.83,
+              "t": 1781913600
+            },
+            {
+              "p": 1105.83,
+              "t": 1782000000
+            },
+            {
+              "p": 1105.83,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 1105.83,
+          "minPrice7d": 1105.83,
+          "maxPrice7d": 1105.83,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0.26,
+          "avgPrice30d": 1105.05,
+          "minPrice30d": 1103,
+          "maxPrice30d": 1105.83,
+          "stddevPopPrice30d": 1.26,
+          "covPrice30d": 0.001144620238603446,
+          "iqrPrice30d": 2.83,
+          "trendSlope30d": 0.11503136969321699,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 16.53,
+          "avgPrice90d": 1068.11,
+          "minPrice90d": 949,
+          "maxPrice90d": 1105.83,
+          "stddevPopPrice90d": 55.02,
+          "covPrice90d": 0.05151383799468358,
+          "iqrPrice90d": 62.05,
+          "trendSlope90d": 1.7582134899885802,
+          "priceChangesCount90d": 5,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 949,
+          "maxPrice1y": 1105.83,
+          "minPriceAllTime": 949,
+          "minPriceAllTimeDate": "2026-04-07T02:01:19.426Z",
+          "maxPriceAllTime": 1105.83,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.247Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-284-217-special-illustration-rare_damaged_holofoil",
+          "uuid": "897e48fd-be5f-53c3-91ed-aba5128b9620",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126031",
+          "price": 650,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 650,
+              "t": 1781568000
+            },
+            {
+              "p": 650,
+              "t": 1781654400
+            },
+            {
+              "p": 650,
+              "t": 1781740800
+            },
+            {
+              "p": 650,
+              "t": 1781827200
+            },
+            {
+              "p": 650,
+              "t": 1781913600
+            },
+            {
+              "p": 650,
+              "t": 1782000000
+            },
+            {
+              "p": 650,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 650,
+          "minPrice7d": 650,
+          "maxPrice7d": 650,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 650,
+          "minPrice30d": 650,
+          "maxPrice30d": 650,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 650,
+          "minPrice90d": 650,
+          "maxPrice90d": 650,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 650,
+          "maxPrice1y": 650,
+          "minPriceAllTime": 650,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.247Z",
+          "maxPriceAllTime": 650,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.247Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-284-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "9e353b3e-af32-5694-9d2a-d12b0f118583",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126029",
+          "price": 512.69,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 512.69,
+              "t": 1781568000
+            },
+            {
+              "p": 512.69,
+              "t": 1781654400
+            },
+            {
+              "p": 512.69,
+              "t": 1781740800
+            },
+            {
+              "p": 512.69,
+              "t": 1781827200
+            },
+            {
+              "p": 512.69,
+              "t": 1781913600
+            },
+            {
+              "p": 512.69,
+              "t": 1782000000
+            },
+            {
+              "p": 512.69,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 512.69,
+          "minPrice7d": 512.69,
+          "maxPrice7d": 512.69,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 512.69,
+          "minPrice30d": 512.69,
+          "maxPrice30d": 512.69,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": -2.42,
+          "avgPrice90d": 514.47,
+          "minPrice90d": 512.69,
+          "maxPrice90d": 525.38,
+          "stddevPopPrice90d": 4.41,
+          "covPrice90d": 0.008567790849440123,
+          "iqrPrice90d": 0,
+          "trendSlope90d": -0.12300041168837801,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 0,
+          "minPrice1y": 512.69,
+          "maxPrice1y": 525.38,
+          "minPriceAllTime": 512.69,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.247Z",
+          "maxPriceAllTime": 525.38,
+          "maxPriceAllTimeDate": "2026-04-18T18:00:49.743Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-284-217-special-illustration-rare_heavily-played_holofoil",
+          "uuid": "f89857c7-d093-55cf-9db9-9e963011191d",
+          "condition": "Heavily Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126030",
+          "price": 450,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 450,
+              "t": 1781568000
+            },
+            {
+              "p": 450,
+              "t": 1781654400
+            },
+            {
+              "p": 450,
+              "t": 1781740800
+            },
+            {
+              "p": 450,
+              "t": 1781827200
+            },
+            {
+              "p": 450,
+              "t": 1781913600
+            },
+            {
+              "p": 450,
+              "t": 1782000000
+            },
+            {
+              "p": 450,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 450,
+          "minPrice7d": 450,
+          "maxPrice7d": 450,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 450,
+          "minPrice30d": 450,
+          "maxPrice30d": 450,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 450,
+          "minPrice90d": 450,
+          "maxPrice90d": 450,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 0,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 450,
+          "maxPrice1y": 450,
+          "minPriceAllTime": 450,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.247Z",
+          "maxPriceAllTime": 450,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.247Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-pikachu-ex-276-217-special-illustration-rare",
+      "uuid": "d774c0e8-ed8c-5c84-8d2c-1aa09443fd25",
+      "name": "Pikachu ex - 276/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "276/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676088",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-pikachu-ex-276-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "b367d6f9-1c0a-5cc2-91c3-bac5bf14a5f8",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125987",
+          "price": 1368.11,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 1317.25,
+              "t": 1781568000
+            },
+            {
+              "p": 1355.05,
+              "t": 1781654400
+            },
+            {
+              "p": 1400.11,
+              "t": 1781740800
+            },
+            {
+              "p": 1366.11,
+              "t": 1781827200
+            },
+            {
+              "p": 1368.11,
+              "t": 1781913600
+            },
+            {
+              "p": 1368.11,
+              "t": 1782000000
+            },
+            {
+              "p": 1368.11,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 3.86,
+          "avgPrice": 1354.9,
+          "minPrice7d": 1317.25,
+          "maxPrice7d": 1400.11,
+          "stddevPopPrice7d": 23.05,
+          "covPrice7d": 0.017009944090308805,
+          "iqrPrice7d": 24.64,
+          "trendSlope7d": 8.4275493116269,
+          "priceChangesCount7d": 7,
+          "priceChange30d": -2.6,
+          "avgPrice30d": 1321.6,
+          "minPrice30d": 1220.48,
+          "maxPrice30d": 1404.62,
+          "stddevPopPrice30d": 44.07,
+          "covPrice30d": 0.033348831232415305,
+          "iqrPrice30d": 62.95,
+          "trendSlope30d": 0.646331144863192,
+          "priceChangesCount30d": 44,
+          "priceRelativeTo30dRange": 0.8017269468882372,
+          "priceChange90d": 145.94,
+          "avgPrice90d": 1087.57,
+          "minPrice90d": 556.28,
+          "maxPrice90d": 1404.92,
+          "stddevPopPrice90d": 249.82,
+          "covPrice90d": 0.22970794123895188,
+          "iqrPrice90d": 423.13,
+          "trendSlope90d": 8.78246429299008,
+          "priceChangesCount90d": 161,
+          "priceRelativeTo90dRange": 0.9566247171945701,
+          "minPrice1y": 471.77,
+          "maxPrice1y": 1404.92,
+          "minPriceAllTime": 471.77,
+          "minPriceAllTimeDate": "2026-02-27T03:10:24.276Z",
+          "maxPriceAllTime": 1404.92,
+          "maxPriceAllTimeDate": "2026-05-23T13:55:57.572Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-pikachu-ex-276-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "bd0d4743-bc4b-5521-9428-f9a735da42f8",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125988",
+          "price": 913.09,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 1,
+          "priceHistory": [
+            {
+              "p": 904.05,
+              "t": 1781568000
+            },
+            {
+              "p": 904.05,
+              "t": 1781654400
+            },
+            {
+              "p": 904.05,
+              "t": 1781740800
+            },
+            {
+              "p": 904.05,
+              "t": 1781827200
+            },
+            {
+              "p": 904.05,
+              "t": 1781913600
+            },
+            {
+              "p": 904.05,
+              "t": 1782000000
+            },
+            {
+              "p": 913.09,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 1,
+          "avgPrice": 904.37,
+          "minPrice7d": 904.05,
+          "maxPrice7d": 913.09,
+          "stddevPopPrice7d": 1.68,
+          "covPrice7d": 0.0018550036213440663,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0.265540397644787,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 5.51,
+          "avgPrice30d": 888.55,
+          "minPrice30d": 852.31,
+          "maxPrice30d": 913.09,
+          "stddevPopPrice30d": 18.06,
+          "covPrice30d": 0.020324162122548985,
+          "iqrPrice30d": 31.29,
+          "trendSlope30d": 1.89237820257507,
+          "priceChangesCount30d": 5,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 99.24,
+          "avgPrice90d": 758.08,
+          "minPrice90d": 458.29,
+          "maxPrice90d": 913.09,
+          "stddevPopPrice90d": 145.11,
+          "covPrice90d": 0.1914218978212562,
+          "iqrPrice90d": 229.17,
+          "trendSlope90d": 5.25992380321932,
+          "priceChangesCount90d": 19,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 458.29,
+          "maxPrice1y": 913.09,
+          "minPriceAllTime": 458.29,
+          "minPriceAllTimeDate": "2026-04-01T17:49:15.140Z",
+          "maxPriceAllTime": 913.09,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.688Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-pikachu-ex-276-217-special-illustration-rare_heavily-played_holofoil",
+          "uuid": "edf78209-4379-5d48-a6d9-4348dd032767",
+          "condition": "Heavily Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125990",
+          "price": 849.99,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 849.99,
+              "t": 1781568000
+            },
+            {
+              "p": 849.99,
+              "t": 1781654400
+            },
+            {
+              "p": 849.99,
+              "t": 1781740800
+            },
+            {
+              "p": 849.99,
+              "t": 1781827200
+            },
+            {
+              "p": 849.99,
+              "t": 1781913600
+            },
+            {
+              "p": 849.99,
+              "t": 1782000000
+            },
+            {
+              "p": 849.99,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 849.99,
+          "minPrice7d": 849.99,
+          "maxPrice7d": 849.99,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 849.99,
+          "minPrice30d": 849.99,
+          "maxPrice30d": 849.99,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 849.99,
+          "minPrice90d": 849.99,
+          "maxPrice90d": 849.99,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 849.99,
+          "maxPrice1y": 849.99,
+          "minPriceAllTime": 849.99,
+          "minPriceAllTimeDate": "2026-06-22T19:15:20.688Z",
+          "maxPriceAllTime": 849.99,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.688Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-290-217-special-illustration-rare",
+      "uuid": "c47db116-2784-54c4-b7e9-1cda0f5dd5ed",
+      "name": "Mega Dragonite ex - 290/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "290/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676102",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-290-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "5489c06a-a4b5-543c-a09e-58621f7f61ed",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126057",
+          "price": 872.76,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.28,
+          "priceHistory": [
+            {
+              "p": 878.83,
+              "t": 1781568000
+            },
+            {
+              "p": 878.83,
+              "t": 1781654400
+            },
+            {
+              "p": 879.57,
+              "t": 1781740800
+            },
+            {
+              "p": 879.57,
+              "t": 1781827200
+            },
+            {
+              "p": 879.57,
+              "t": 1781913600
+            },
+            {
+              "p": 878.17,
+              "t": 1782000000
+            },
+            {
+              "p": 872.76,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.69,
+          "avgPrice": 878.44,
+          "minPrice7d": 872.76,
+          "maxPrice7d": 880.43,
+          "stddevPopPrice7d": 1.95,
+          "covPrice7d": 0.0022215042022640497,
+          "iqrPrice7d": 0.9,
+          "trendSlope7d": -0.555129341416469,
+          "priceChangesCount7d": 6,
+          "priceChange30d": 4.8,
+          "avgPrice30d": 858.86,
+          "minPrice30d": 821.63,
+          "maxPrice30d": 880.43,
+          "stddevPopPrice30d": 22.55,
+          "covPrice30d": 0.0262506523840418,
+          "iqrPrice30d": 46.13,
+          "trendSlope30d": 2.27008222071793,
+          "priceChangesCount30d": 32,
+          "priceRelativeTo30dRange": 0.8695578231292517,
+          "priceChange90d": 28.4,
+          "avgPrice90d": 803.76,
+          "minPrice90d": 673.7,
+          "maxPrice90d": 880.43,
+          "stddevPopPrice90d": 71,
+          "covPrice90d": 0.08833083319030131,
+          "iqrPrice90d": 120.17,
+          "trendSlope90d": 2.42214336582035,
+          "priceChangesCount90d": 113,
+          "priceRelativeTo90dRange": 0.9628984665989455,
+          "minPrice1y": 399.99,
+          "maxPrice1y": 880.43,
+          "minPriceAllTime": 399.99,
+          "minPriceAllTimeDate": "2026-01-30T19:50:53.677Z",
+          "maxPriceAllTime": 880.43,
+          "maxPriceAllTimeDate": "2026-06-18T00:33:52.236Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-290-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "6d328644-7032-513d-afc6-b1201119ba6d",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126058",
+          "price": 691.19,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 691.19,
+              "t": 1781568000
+            },
+            {
+              "p": 691.19,
+              "t": 1781654400
+            },
+            {
+              "p": 691.19,
+              "t": 1781740800
+            },
+            {
+              "p": 691.19,
+              "t": 1781827200
+            },
+            {
+              "p": 691.19,
+              "t": 1781913600
+            },
+            {
+              "p": 691.19,
+              "t": 1782000000
+            },
+            {
+              "p": 691.19,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 691.19,
+          "minPrice7d": 691.19,
+          "maxPrice7d": 691.19,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 691.19,
+          "minPrice30d": 691.19,
+          "maxPrice30d": 691.19,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": -4,
+          "avgPrice90d": 688.57,
+          "minPrice90d": 664,
+          "maxPrice90d": 719.99,
+          "stddevPopPrice90d": 13.97,
+          "covPrice90d": 0.020283687886586053,
+          "iqrPrice90d": 6.19,
+          "trendSlope90d": -0.023299520366298697,
+          "priceChangesCount90d": 4,
+          "priceRelativeTo90dRange": 0.4856224325772459,
+          "minPrice1y": 664,
+          "maxPrice1y": 719.99,
+          "minPriceAllTime": 664,
+          "minPriceAllTimeDate": "2026-05-02T00:33:22.044Z",
+          "maxPriceAllTime": 719.99,
+          "maxPriceAllTimeDate": "2026-04-02T13:05:43.497Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-290-217-special-illustration-rare_damaged_holofoil",
+          "uuid": "9b91971f-50af-54cb-8ff3-5ec400b36a98",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126061",
+          "price": 600,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 600,
+              "t": 1781568000
+            },
+            {
+              "p": 600,
+              "t": 1781654400
+            },
+            {
+              "p": 600,
+              "t": 1781740800
+            },
+            {
+              "p": 600,
+              "t": 1781827200
+            },
+            {
+              "p": 600,
+              "t": 1781913600
+            },
+            {
+              "p": 600,
+              "t": 1782000000
+            },
+            {
+              "p": 600,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 600,
+          "minPrice7d": 600,
+          "maxPrice7d": 600,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 600,
+          "minPrice30d": 600,
+          "maxPrice30d": 600,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 600,
+          "minPrice90d": 600,
+          "maxPrice90d": 600,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 600,
+          "maxPrice1y": 600,
+          "minPriceAllTime": 600,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.239Z",
+          "maxPriceAllTime": 600,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.239Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-charizard-y-ex-294-217-mega-hyper-rare",
+      "uuid": "90ad7efe-eb8a-5bfc-817f-1b1849837bca",
+      "name": "Mega Charizard Y ex - 294/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "294/217",
+      "rarity": "Mega Hyper Rare",
+      "tcgplayerId": "676106",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-charizard-y-ex-294-217-mega-hyper-rare_near-mint_holofoil",
+          "uuid": "5af21251-6b3c-58dc-937e-09bb414d494d",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126077",
+          "price": 624.75,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.26,
+          "priceHistory": [
+            {
+              "p": 629.38,
+              "t": 1781568000
+            },
+            {
+              "p": 626.95,
+              "t": 1781654400
+            },
+            {
+              "p": 628.19,
+              "t": 1781740800
+            },
+            {
+              "p": 627.59,
+              "t": 1781827200
+            },
+            {
+              "p": 626.39,
+              "t": 1781913600
+            },
+            {
+              "p": 626.39,
+              "t": 1782000000
+            },
+            {
+              "p": 624.75,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.74,
+          "avgPrice": 627.55,
+          "minPrice7d": 624.75,
+          "maxPrice7d": 630.19,
+          "stddevPopPrice7d": 1.43,
+          "covPrice7d": 0.002279618009424941,
+          "iqrPrice7d": 2.7,
+          "trendSlope7d": -0.558536177202054,
+          "priceChangesCount7d": 8,
+          "priceChange30d": -7.48,
+          "avgPrice30d": 649.24,
+          "minPrice30d": 624.75,
+          "maxPrice30d": 675.28,
+          "stddevPopPrice30d": 15.81,
+          "covPrice30d": 0.024356997202711547,
+          "iqrPrice30d": 26.18,
+          "trendSlope30d": -1.81291674636777,
+          "priceChangesCount30d": 27,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": 43.18,
+          "avgPrice90d": 592.77,
+          "minPrice90d": 431.34,
+          "maxPrice90d": 675.28,
+          "stddevPopPrice90d": 85.08,
+          "covPrice90d": 0.14352914828456917,
+          "iqrPrice90d": 155.92,
+          "trendSlope90d": 2.69387283584406,
+          "priceChangesCount90d": 104,
+          "priceRelativeTo90dRange": 0.7928588997294417,
+          "minPrice1y": 430.48,
+          "maxPrice1y": 686.3,
+          "minPriceAllTime": 430.48,
+          "minPriceAllTimeDate": "2026-03-24T09:14:38.181Z",
+          "maxPriceAllTime": 686.3,
+          "maxPriceAllTimeDate": "2026-01-31T23:15:54.482Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-charizard-y-ex-294-217-mega-hyper-rare_lightly-played_holofoil",
+          "uuid": "16bac1ee-1ea5-5031-b4e0-d670595fdcae",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126078",
+          "price": 494.87,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 494.87,
+              "t": 1781568000
+            },
+            {
+              "p": 494.87,
+              "t": 1781654400
+            },
+            {
+              "p": 494.87,
+              "t": 1781740800
+            },
+            {
+              "p": 494.87,
+              "t": 1781827200
+            },
+            {
+              "p": 494.87,
+              "t": 1781913600
+            },
+            {
+              "p": 494.87,
+              "t": 1782000000
+            },
+            {
+              "p": 494.87,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 494.87,
+          "minPrice7d": 494.87,
+          "maxPrice7d": 494.87,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 1.67,
+          "avgPrice30d": 493.33,
+          "minPrice30d": 486.74,
+          "maxPrice30d": 494.87,
+          "stddevPopPrice30d": 3.19,
+          "covPrice30d": 0.006460586817777347,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.256259313477124,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 20.92,
+          "avgPrice90d": 460.34,
+          "minPrice90d": 405.4,
+          "maxPrice90d": 494.87,
+          "stddevPopPrice90d": 33.58,
+          "covPrice90d": 0.07295628116524981,
+          "iqrPrice90d": 61.08,
+          "trendSlope90d": 1.2330536755741601,
+          "priceChangesCount90d": 15,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 405.4,
+          "maxPrice1y": 494.87,
+          "minPriceAllTime": 405.4,
+          "minPriceAllTimeDate": "2026-04-02T06:46:50.681Z",
+          "maxPriceAllTime": 494.87,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.236Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-charizard-y-ex-294-217-mega-hyper-rare_damaged_holofoil",
+          "uuid": "ed8940b5-01e7-5383-b846-726d94f1c163",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126081",
+          "price": 450,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 450,
+              "t": 1781568000
+            },
+            {
+              "p": 450,
+              "t": 1781654400
+            },
+            {
+              "p": 450,
+              "t": 1781740800
+            },
+            {
+              "p": 450,
+              "t": 1781827200
+            },
+            {
+              "p": 450,
+              "t": 1781913600
+            },
+            {
+              "p": 450,
+              "t": 1782000000
+            },
+            {
+              "p": 450,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 450,
+          "minPrice7d": 450,
+          "maxPrice7d": 450,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 450,
+          "minPrice30d": 450,
+          "maxPrice30d": 450,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 450,
+          "minPrice90d": 450,
+          "maxPrice90d": 450,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 450,
+          "maxPrice1y": 450,
+          "minPriceAllTime": 450,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.236Z",
+          "maxPriceAllTime": 450,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.236Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-charizard-y-ex-294-217-mega-hyper-rare_heavily-played_holofoil",
+          "uuid": "0c9b7bcd-ac21-5d2a-929a-dfd1a42ff4b9",
+          "condition": "Heavily Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126080",
+          "price": 300,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 300,
+              "t": 1781568000
+            },
+            {
+              "p": 300,
+              "t": 1781654400
+            },
+            {
+              "p": 300,
+              "t": 1781740800
+            },
+            {
+              "p": 300,
+              "t": 1781827200
+            },
+            {
+              "p": 300,
+              "t": 1781913600
+            },
+            {
+              "p": 300,
+              "t": 1782000000
+            },
+            {
+              "p": 300,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 300,
+          "minPrice7d": 300,
+          "maxPrice7d": 300,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 300,
+          "minPrice30d": 300,
+          "maxPrice30d": 300,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 300,
+          "minPrice90d": 300,
+          "maxPrice90d": 300,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 300,
+          "maxPrice1y": 300,
+          "minPriceAllTime": 300,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.236Z",
+          "maxPriceAllTime": 300,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.236Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-charizard-y-ex-294-217-mega-hyper-rare_moderately-played_holofoil",
+          "uuid": "dff68b1d-6d02-59f3-932e-0ad1e737ddf8",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126079",
+          "price": 300,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 300,
+              "t": 1781568000
+            },
+            {
+              "p": 300,
+              "t": 1781654400
+            },
+            {
+              "p": 300,
+              "t": 1781740800
+            },
+            {
+              "p": 300,
+              "t": 1781827200
+            },
+            {
+              "p": 300,
+              "t": 1781913600
+            },
+            {
+              "p": 300,
+              "t": 1782000000
+            },
+            {
+              "p": 300,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 300,
+          "minPrice7d": 300,
+          "maxPrice7d": 300,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 300,
+          "minPrice30d": 300,
+          "maxPrice30d": 300,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 300,
+          "minPrice90d": 300,
+          "maxPrice90d": 300,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 300,
+          "maxPrice1y": 300,
+          "minPriceAllTime": 300,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.237Z",
+          "maxPriceAllTime": 300,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.237Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-pikachu-ex-277-217-special-illustration-rare",
+      "uuid": "a4116364-0afe-568e-bc5e-bd919deaadab",
+      "name": "Pikachu ex - 277/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "277/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676089",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-pikachu-ex-277-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "f6da75b5-a5d3-589b-b8f5-3c5f20f37243",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125992",
+          "price": 464.09,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 466.92,
+              "t": 1781568000
+            },
+            {
+              "p": 466.92,
+              "t": 1781654400
+            },
+            {
+              "p": 466.92,
+              "t": 1781740800
+            },
+            {
+              "p": 465.67,
+              "t": 1781827200
+            },
+            {
+              "p": 464.63,
+              "t": 1781913600
+            },
+            {
+              "p": 464.49,
+              "t": 1782000000
+            },
+            {
+              "p": 464.09,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.7,
+          "avgPrice": 465.81,
+          "minPrice7d": 464.09,
+          "maxPrice7d": 467.36,
+          "stddevPopPrice7d": 1.25,
+          "covPrice7d": 0.0026924883882509594,
+          "iqrPrice7d": 2.43,
+          "trendSlope7d": -0.561309430314492,
+          "priceChangesCount7d": 6,
+          "priceChange30d": -0.63,
+          "avgPrice30d": 466.55,
+          "minPrice30d": 461.67,
+          "maxPrice30d": 475.23,
+          "stddevPopPrice30d": 3.22,
+          "covPrice30d": 0.006898205144699336,
+          "iqrPrice30d": 5.57,
+          "trendSlope30d": -0.151405233382923,
+          "priceChangesCount30d": 32,
+          "priceRelativeTo30dRange": 0.17846607669616518,
+          "priceChange90d": 37.56,
+          "avgPrice90d": 441.47,
+          "minPrice90d": 334.45,
+          "maxPrice90d": 496.59,
+          "stddevPopPrice90d": 54.29,
+          "covPrice90d": 0.12297333482142477,
+          "iqrPrice90d": 74.44,
+          "trendSlope90d": 1.49200783946638,
+          "priceChangesCount90d": 116,
+          "priceRelativeTo90dRange": 0.799555939311706,
+          "minPrice1y": 326.75,
+          "maxPrice1y": 496.59,
+          "minPriceAllTime": 326.75,
+          "minPriceAllTimeDate": "2026-03-02T23:54:45.726Z",
+          "maxPriceAllTime": 496.59,
+          "maxPriceAllTimeDate": "2026-05-02T00:33:31.502Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-pikachu-ex-277-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "96497f6d-17a9-5de3-93b9-737b2740ad76",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125993",
+          "price": 357.06,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 345.74,
+              "t": 1781568000
+            },
+            {
+              "p": 345.74,
+              "t": 1781654400
+            },
+            {
+              "p": 357.06,
+              "t": 1781740800
+            },
+            {
+              "p": 357.06,
+              "t": 1781827200
+            },
+            {
+              "p": 357.06,
+              "t": 1781913600
+            },
+            {
+              "p": 357.06,
+              "t": 1782000000
+            },
+            {
+              "p": 357.06,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 3.27,
+          "avgPrice": 353.42,
+          "minPrice7d": 345.74,
+          "maxPrice7d": 357.06,
+          "stddevPopPrice7d": 5.29,
+          "covPrice7d": 0.014958690365876562,
+          "iqrPrice7d": 11.32,
+          "trendSlope7d": 2.1061943063058,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 3.27,
+          "avgPrice30d": 347.59,
+          "minPrice30d": 345.74,
+          "maxPrice30d": 357.06,
+          "stddevPopPrice30d": 4.19,
+          "covPrice30d": 0.012052542224190098,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.310055424888108,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 14.81,
+          "avgPrice90d": 339.12,
+          "minPrice90d": 311,
+          "maxPrice90d": 357.06,
+          "stddevPopPrice90d": 10.65,
+          "covPrice90d": 0.031404449659693356,
+          "iqrPrice90d": 17.23,
+          "trendSlope90d": 0.34691148574113795,
+          "priceChangesCount90d": 9,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 311,
+          "maxPrice1y": 357.06,
+          "minPriceAllTime": 311,
+          "minPriceAllTimeDate": "2026-04-02T19:23:19.346Z",
+          "maxPriceAllTime": 357.06,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.689Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-team-rocket-s-mewtwo-ex-281-217-special-illustration-rare",
+      "uuid": "57ad883e-957b-5a06-b5b2-60848f4a4c16",
+      "name": "Team Rocket's Mewtwo ex - 281/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "281/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676093",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-team-rocket-s-mewtwo-ex-281-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "485ea737-25d0-53f2-a269-85bef8375458",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126012",
+          "price": 431.58,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": -0.72,
+          "priceHistory": [
+            {
+              "p": 452.28,
+              "t": 1781568000
+            },
+            {
+              "p": 445.65,
+              "t": 1781654400
+            },
+            {
+              "p": 447.08,
+              "t": 1781740800
+            },
+            {
+              "p": 444.84,
+              "t": 1781827200
+            },
+            {
+              "p": 442.13,
+              "t": 1781913600
+            },
+            {
+              "p": 439.37,
+              "t": 1782000000
+            },
+            {
+              "p": 431.58,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -4.58,
+          "avgPrice": 443.94,
+          "minPrice7d": 431.58,
+          "maxPrice7d": 452.28,
+          "stddevPopPrice7d": 5.67,
+          "covPrice7d": 0.01278192111231657,
+          "iqrPrice7d": 5.64,
+          "trendSlope7d": -2.61652537141242,
+          "priceChangesCount7d": 11,
+          "priceChange30d": -4.76,
+          "avgPrice30d": 454.11,
+          "minPrice30d": 431.58,
+          "maxPrice30d": 462.55,
+          "stddevPopPrice30d": 7.14,
+          "covPrice30d": 0.015716898149940962,
+          "iqrPrice30d": 8.52,
+          "trendSlope30d": -0.465107078906197,
+          "priceChangesCount30d": 35,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": 54.99,
+          "avgPrice90d": 429.16,
+          "minPrice90d": 277,
+          "maxPrice90d": 517.76,
+          "stddevPopPrice90d": 62.66,
+          "covPrice90d": 0.1460100131151188,
+          "iqrPrice90d": 57.92,
+          "trendSlope90d": 1.60892624479583,
+          "priceChangesCount90d": 134,
+          "priceRelativeTo90dRange": 0.6420501744475826,
+          "minPrice1y": 277,
+          "maxPrice1y": 517.76,
+          "minPriceAllTime": 277,
+          "minPriceAllTimeDate": "2026-03-27T03:18:54.028Z",
+          "maxPriceAllTime": 517.76,
+          "maxPriceAllTimeDate": "2026-05-02T20:28:06.050Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-team-rocket-s-mewtwo-ex-281-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "95405ba6-e7c7-52b5-981c-18512361e552",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126013",
+          "price": 329.74,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 329.74,
+              "t": 1781568000
+            },
+            {
+              "p": 329.74,
+              "t": 1781654400
+            },
+            {
+              "p": 329.74,
+              "t": 1781740800
+            },
+            {
+              "p": 329.74,
+              "t": 1781827200
+            },
+            {
+              "p": 329.74,
+              "t": 1781913600
+            },
+            {
+              "p": 329.74,
+              "t": 1782000000
+            },
+            {
+              "p": 329.74,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 329.74,
+          "minPrice7d": 329.74,
+          "maxPrice7d": 329.74,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 329.74,
+          "minPrice30d": 329.74,
+          "maxPrice30d": 329.74,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 37.39,
+          "avgPrice90d": 312.05,
+          "minPrice90d": 240,
+          "maxPrice90d": 329.74,
+          "stddevPopPrice90d": 27.64,
+          "covPrice90d": 0.08856136264873381,
+          "iqrPrice90d": 21.19,
+          "trendSlope90d": 0.861304361118655,
+          "priceChangesCount90d": 6,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 240,
+          "maxPrice1y": 329.74,
+          "minPriceAllTime": 240,
+          "minPriceAllTimeDate": "2026-04-01T17:49:18.165Z",
+          "maxPriceAllTime": 329.74,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.733Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-team-rocket-s-mewtwo-ex-281-217-special-illustration-rare_damaged_holofoil",
+          "uuid": "43d70e6d-9104-585b-b570-5a13ce782ffd",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126016",
+          "price": 315,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 315,
+              "t": 1781568000
+            },
+            {
+              "p": 315,
+              "t": 1781654400
+            },
+            {
+              "p": 315,
+              "t": 1781740800
+            },
+            {
+              "p": 315,
+              "t": 1781827200
+            },
+            {
+              "p": 315,
+              "t": 1781913600
+            },
+            {
+              "p": 315,
+              "t": 1782000000
+            },
+            {
+              "p": 315,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 315,
+          "minPrice7d": 315,
+          "maxPrice7d": 315,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 315,
+          "minPrice30d": 315,
+          "maxPrice30d": 315,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 315,
+          "minPrice90d": 315,
+          "maxPrice90d": 315,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 315,
+          "maxPrice1y": 315,
+          "minPriceAllTime": 315,
+          "minPriceAllTimeDate": "2026-06-22T19:15:20.733Z",
+          "maxPriceAllTime": 315,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.733Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-295-217-mega-hyper-rare",
+      "uuid": "46489d32-fefd-5866-a724-0bff31d6f29e",
+      "name": "Mega Dragonite ex - 295/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "295/217",
+      "rarity": "Mega Hyper Rare",
+      "tcgplayerId": "676107",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-295-217-mega-hyper-rare_near-mint_holofoil",
+          "uuid": "4b14aec5-88f7-5506-96af-fe3cabbd3eaf",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126082",
+          "price": 325.74,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.17,
+          "priceHistory": [
+            {
+              "p": 331.07,
+              "t": 1781568000
+            },
+            {
+              "p": 331.23,
+              "t": 1781654400
+            },
+            {
+              "p": 328.42,
+              "t": 1781740800
+            },
+            {
+              "p": 326.3,
+              "t": 1781827200
+            },
+            {
+              "p": 326.3,
+              "t": 1781913600
+            },
+            {
+              "p": 326.3,
+              "t": 1782000000
+            },
+            {
+              "p": 325.74,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -1.61,
+          "avgPrice": 328.25,
+          "minPrice7d": 325.74,
+          "maxPrice7d": 331.23,
+          "stddevPopPrice7d": 2.08,
+          "covPrice7d": 0.006348841014632249,
+          "iqrPrice7d": 4.77,
+          "trendSlope7d": -0.9542276392228279,
+          "priceChangesCount7d": 6,
+          "priceChange30d": -3.55,
+          "avgPrice30d": 332.25,
+          "minPrice30d": 325.74,
+          "maxPrice30d": 339.12,
+          "stddevPopPrice30d": 3.56,
+          "covPrice30d": 0.010709848504830569,
+          "iqrPrice30d": 2.55,
+          "trendSlope30d": -0.37494465673705696,
+          "priceChangesCount30d": 28,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": 8.33,
+          "avgPrice90d": 320.69,
+          "minPrice90d": 285.86,
+          "maxPrice90d": 340.09,
+          "stddevPopPrice90d": 19.6,
+          "covPrice90d": 0.06112966535517142,
+          "iqrPrice90d": 37.51,
+          "trendSlope90d": 0.56786863752243,
+          "priceChangesCount90d": 100,
+          "priceRelativeTo90dRange": 0.7353863175364189,
+          "minPrice1y": 285.86,
+          "maxPrice1y": 549,
+          "minPriceAllTime": 285.86,
+          "minPriceAllTimeDate": "2026-04-10T18:48:17.398Z",
+          "maxPriceAllTime": 549,
+          "maxPriceAllTimeDate": "2026-02-07T15:53:00.240Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-295-217-mega-hyper-rare_moderately-played_holofoil",
+          "uuid": "2498ac3e-0c0b-5988-a9f7-dc3ec6cea6e1",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126084",
+          "price": 300,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 300,
+              "t": 1781568000
+            },
+            {
+              "p": 300,
+              "t": 1781654400
+            },
+            {
+              "p": 300,
+              "t": 1781740800
+            },
+            {
+              "p": 300,
+              "t": 1781827200
+            },
+            {
+              "p": 300,
+              "t": 1781913600
+            },
+            {
+              "p": 300,
+              "t": 1782000000
+            },
+            {
+              "p": 300,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 300,
+          "minPrice7d": 300,
+          "maxPrice7d": 300,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 300,
+          "minPrice30d": 300,
+          "maxPrice30d": 300,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 300,
+          "minPrice90d": 300,
+          "maxPrice90d": 300,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 300,
+          "maxPrice1y": 300,
+          "minPriceAllTime": 300,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.240Z",
+          "maxPriceAllTime": 300,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.240Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-dragonite-ex-295-217-mega-hyper-rare_lightly-played_holofoil",
+          "uuid": "eb3e4da3-75ed-58aa-bcfd-21f3321b76c4",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126083",
+          "price": 292.27,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.3,
+          "priceHistory": [
+            {
+              "p": 290.47,
+              "t": 1781568000
+            },
+            {
+              "p": 290.45,
+              "t": 1781654400
+            },
+            {
+              "p": 293.14,
+              "t": 1781740800
+            },
+            {
+              "p": 293.14,
+              "t": 1781827200
+            },
+            {
+              "p": 293.14,
+              "t": 1781913600
+            },
+            {
+              "p": 293.14,
+              "t": 1782000000
+            },
+            {
+              "p": 292.27,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.61,
+          "avgPrice": 292.22,
+          "minPrice7d": 290.45,
+          "maxPrice7d": 293.14,
+          "stddevPopPrice7d": 1.23,
+          "covPrice7d": 0.004199590152653007,
+          "iqrPrice7d": 2.67,
+          "trendSlope7d": 0.44818765463099297,
+          "priceChangesCount7d": 4,
+          "priceChange30d": 0.63,
+          "avgPrice30d": 290.88,
+          "minPrice30d": 290.45,
+          "maxPrice30d": 293.14,
+          "stddevPopPrice30d": 0.97,
+          "covPrice30d": 0.003323294460674566,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.0709845168412626,
+          "priceChangesCount30d": 5,
+          "priceRelativeTo30dRange": 0.6765799256505576,
+          "priceChange90d": 2.61,
+          "avgPrice90d": 287.23,
+          "minPrice90d": 280.37,
+          "maxPrice90d": 293.14,
+          "stddevPopPrice90d": 3.96,
+          "covPrice90d": 0.013796514747515948,
+          "iqrPrice90d": 6.5,
+          "trendSlope90d": 0.137988480222583,
+          "priceChangesCount90d": 18,
+          "priceRelativeTo90dRange": 0.9318715740015662,
+          "minPrice1y": 280.37,
+          "maxPrice1y": 313.51,
+          "minPriceAllTime": 280.37,
+          "minPriceAllTimeDate": "2026-04-07T20:44:22.038Z",
+          "maxPriceAllTime": 313.51,
+          "maxPriceAllTimeDate": "2026-03-21T15:11:01.180Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-lillie-s-clefairy-ex-280-217-special-illustration-rare",
+      "uuid": "cce0417b-5c2a-5173-8c63-a1605d42da91",
+      "name": "Lillie's Clefairy ex - 280/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "280/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676092",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-lillie-s-clefairy-ex-280-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "e7df34a0-29d4-5200-853b-ba5deb17eb97",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126007",
+          "price": 208.78,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.03,
+          "priceHistory": [
+            {
+              "p": 204.99,
+              "t": 1781568000
+            },
+            {
+              "p": 204.59,
+              "t": 1781654400
+            },
+            {
+              "p": 208.27,
+              "t": 1781740800
+            },
+            {
+              "p": 208.72,
+              "t": 1781827200
+            },
+            {
+              "p": 208.91,
+              "t": 1781913600
+            },
+            {
+              "p": 208.85,
+              "t": 1782000000
+            },
+            {
+              "p": 208.78,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 1.75,
+          "avgPrice": 207.63,
+          "minPrice7d": 204.59,
+          "maxPrice7d": 209.05,
+          "stddevPopPrice7d": 1.75,
+          "covPrice7d": 0.00841894954498623,
+          "iqrPrice7d": 3.67,
+          "trendSlope7d": 0.6820447763301939,
+          "priceChangesCount7d": 13,
+          "priceChange30d": 1.96,
+          "avgPrice30d": 205.37,
+          "minPrice30d": 199.81,
+          "maxPrice30d": 209.05,
+          "stddevPopPrice30d": 2.46,
+          "covPrice30d": 0.011999091763328387,
+          "iqrPrice30d": 3.14,
+          "trendSlope30d": 0.22235759925342802,
+          "priceChangesCount30d": 48,
+          "priceRelativeTo30dRange": 0.9707792207792207,
+          "priceChange90d": 14.32,
+          "avgPrice90d": 193.58,
+          "minPrice90d": 168.54,
+          "maxPrice90d": 209.05,
+          "stddevPopPrice90d": 14.8,
+          "covPrice90d": 0.07644078988355472,
+          "iqrPrice90d": 29.42,
+          "trendSlope90d": 0.504693582452026,
+          "priceChangesCount90d": 163,
+          "priceRelativeTo90dRange": 0.9933349790175265,
+          "minPrice1y": 168.54,
+          "maxPrice1y": 277,
+          "minPriceAllTime": 168.54,
+          "minPriceAllTimeDate": "2026-04-02T13:05:43.493Z",
+          "maxPriceAllTime": 277,
+          "maxPriceAllTimeDate": "2026-01-31T16:41:25.126Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-lillie-s-clefairy-ex-280-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "75913865-73d2-513d-9331-2f7874b62c84",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126008",
+          "price": 181.9,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 181.1,
+              "t": 1781568000
+            },
+            {
+              "p": 181.1,
+              "t": 1781654400
+            },
+            {
+              "p": 181.1,
+              "t": 1781740800
+            },
+            {
+              "p": 181.1,
+              "t": 1781827200
+            },
+            {
+              "p": 181.1,
+              "t": 1781913600
+            },
+            {
+              "p": 181.9,
+              "t": 1782000000
+            },
+            {
+              "p": 181.9,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.44,
+          "avgPrice": 181.3,
+          "minPrice7d": 181.1,
+          "maxPrice7d": 181.9,
+          "stddevPopPrice7d": 0.35,
+          "covPrice7d": 0.0019107013872795117,
+          "iqrPrice7d": 0.2,
+          "trendSlope7d": 0.127959354081302,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 0.72,
+          "avgPrice30d": 180.99,
+          "minPrice30d": 180.02,
+          "maxPrice30d": 181.9,
+          "stddevPopPrice30d": 0.37,
+          "covPrice30d": 0.0020545130011541675,
+          "iqrPrice30d": 0.12,
+          "trendSlope30d": 0.0265649822027056,
+          "priceChangesCount30d": 5,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": -0.92,
+          "avgPrice90d": 179.09,
+          "minPrice90d": 176.03,
+          "maxPrice90d": 183.58,
+          "stddevPopPrice90d": 2.06,
+          "covPrice90d": 0.011509679627636188,
+          "iqrPrice90d": 3.61,
+          "trendSlope90d": 0.0405525132636018,
+          "priceChangesCount90d": 27,
+          "priceRelativeTo90dRange": 0.7774834437086092,
+          "minPrice1y": 176.03,
+          "maxPrice1y": 230,
+          "minPriceAllTime": 176.03,
+          "minPriceAllTimeDate": "2026-05-02T20:27:54.880Z",
+          "maxPriceAllTime": 230,
+          "maxPriceAllTimeDate": "2026-02-24T23:20:03.238Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-lillie-s-clefairy-ex-280-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "caf59904-6102-550b-bed3-9413a1548edd",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126009",
+          "price": 160,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 160,
+              "t": 1781568000
+            },
+            {
+              "p": 160,
+              "t": 1781654400
+            },
+            {
+              "p": 160,
+              "t": 1781740800
+            },
+            {
+              "p": 160,
+              "t": 1781827200
+            },
+            {
+              "p": 160,
+              "t": 1781913600
+            },
+            {
+              "p": 160,
+              "t": 1782000000
+            },
+            {
+              "p": 160,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 160,
+          "minPrice7d": 160,
+          "maxPrice7d": 160,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 160,
+          "minPrice30d": 160,
+          "maxPrice30d": 160,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 6.67,
+          "avgPrice90d": 157.32,
+          "minPrice90d": 150,
+          "maxPrice90d": 160,
+          "stddevPopPrice90d": 4.43,
+          "covPrice90d": 0.028140078147720154,
+          "iqrPrice90d": 10,
+          "trendSlope90d": 0.21237483464451098,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 150,
+          "maxPrice1y": 160,
+          "minPriceAllTime": 150,
+          "minPriceAllTimeDate": "2026-05-14T01:39:59.213Z",
+          "maxPriceAllTime": 160,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.226Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-lillie-s-clefairy-ex-280-217-special-illustration-rare_damaged_holofoil",
+          "uuid": "65c65305-80a6-51e9-8883-2d46787d7ffa",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126011",
+          "price": 100,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 100,
+              "t": 1781568000
+            },
+            {
+              "p": 100,
+              "t": 1781654400
+            },
+            {
+              "p": 100,
+              "t": 1781740800
+            },
+            {
+              "p": 100,
+              "t": 1781827200
+            },
+            {
+              "p": 100,
+              "t": 1781913600
+            },
+            {
+              "p": 100,
+              "t": 1782000000
+            },
+            {
+              "p": 100,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 100,
+          "minPrice7d": 100,
+          "maxPrice7d": 100,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 100,
+          "minPrice30d": 100,
+          "maxPrice30d": 100,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 100,
+          "minPrice90d": 100,
+          "maxPrice90d": 100,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 100,
+          "maxPrice1y": 100,
+          "minPriceAllTime": 100,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.226Z",
+          "maxPriceAllTime": 100,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.226Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-n-s-zoroark-ex-286-217-special-illustration-rare",
+      "uuid": "21d88e67-8873-540f-bc9b-69ca8a5e91cf",
+      "name": "N's Zoroark ex - 286/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "286/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676098",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-n-s-zoroark-ex-286-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "7b60ffb7-6b85-54be-a7ab-02fdbd030f3b",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126037",
+          "price": 194.71,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": -0.93,
+          "priceHistory": [
+            {
+              "p": 196,
+              "t": 1781568000
+            },
+            {
+              "p": 194.21,
+              "t": 1781654400
+            },
+            {
+              "p": 196.73,
+              "t": 1781740800
+            },
+            {
+              "p": 196.65,
+              "t": 1781827200
+            },
+            {
+              "p": 196.79,
+              "t": 1781913600
+            },
+            {
+              "p": 196.65,
+              "t": 1782000000
+            },
+            {
+              "p": 194.71,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.73,
+          "avgPrice": 195.92,
+          "minPrice7d": 194.12,
+          "maxPrice7d": 196.79,
+          "stddevPopPrice7d": 1.03,
+          "covPrice7d": 0.005236933452151696,
+          "iqrPrice7d": 2.02,
+          "trendSlope7d": 0.124688555434605,
+          "priceChangesCount7d": 14,
+          "priceChange30d": 9.65,
+          "avgPrice30d": 188.93,
+          "minPrice30d": 176.71,
+          "maxPrice30d": 196.79,
+          "stddevPopPrice30d": 7.24,
+          "covPrice30d": 0.03830589805118682,
+          "iqrPrice30d": 16.2,
+          "trendSlope30d": 0.781261639217208,
+          "priceChangesCount30d": 54,
+          "priceRelativeTo30dRange": 0.896414342629482,
+          "priceChange90d": 34.54,
+          "avgPrice90d": 175.89,
+          "minPrice90d": 141.85,
+          "maxPrice90d": 199.06,
+          "stddevPopPrice90d": 20.15,
+          "covPrice90d": 0.11454617823220761,
+          "iqrPrice90d": 40.23,
+          "trendSlope90d": 0.620563953716728,
+          "priceChangesCount90d": 166,
+          "priceRelativeTo90dRange": 0.9239643418982695,
+          "minPrice1y": 141.85,
+          "maxPrice1y": 199.06,
+          "minPriceAllTime": 141.85,
+          "minPriceAllTimeDate": "2026-03-30T14:44:32.813Z",
+          "maxPriceAllTime": 199.06,
+          "maxPriceAllTimeDate": "2026-05-01T16:17:23.374Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-n-s-zoroark-ex-286-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "25cc9efc-7589-50d9-a7f9-ea829291b209",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126038",
+          "price": 165.33,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 165.33,
+              "t": 1781568000
+            },
+            {
+              "p": 165.33,
+              "t": 1781654400
+            },
+            {
+              "p": 165.33,
+              "t": 1781740800
+            },
+            {
+              "p": 165.33,
+              "t": 1781827200
+            },
+            {
+              "p": 165.33,
+              "t": 1781913600
+            },
+            {
+              "p": 165.33,
+              "t": 1782000000
+            },
+            {
+              "p": 165.33,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 165.33,
+          "minPrice7d": 165.33,
+          "maxPrice7d": 165.33,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 3.21,
+          "avgPrice30d": 163.29,
+          "minPrice30d": 160.19,
+          "maxPrice30d": 165.33,
+          "stddevPopPrice30d": 1.89,
+          "covPrice30d": 0.011600501668945355,
+          "iqrPrice30d": 3.96,
+          "trendSlope30d": 0.207848970072184,
+          "priceChangesCount30d": 3,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 22.12,
+          "avgPrice90d": 151.62,
+          "minPrice90d": 135.38,
+          "maxPrice90d": 165.33,
+          "stddevPopPrice90d": 12.32,
+          "covPrice90d": 0.08123414118150295,
+          "iqrPrice90d": 25.99,
+          "trendSlope90d": 0.440831561257025,
+          "priceChangesCount90d": 8,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 135.38,
+          "maxPrice1y": 165.33,
+          "minPriceAllTime": 135.38,
+          "minPriceAllTimeDate": "2026-04-25T00:51:08.363Z",
+          "maxPriceAllTime": 165.33,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.676Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-n-s-zoroark-ex-286-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "486f05f4-d44c-5c12-8bd5-cfbdb78bd7f2",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126039",
+          "price": 150,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 150,
+              "t": 1781568000
+            },
+            {
+              "p": 150,
+              "t": 1781654400
+            },
+            {
+              "p": 150,
+              "t": 1781740800
+            },
+            {
+              "p": 150,
+              "t": 1781827200
+            },
+            {
+              "p": 150,
+              "t": 1781913600
+            },
+            {
+              "p": 150,
+              "t": 1782000000
+            },
+            {
+              "p": 150,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 150,
+          "minPrice7d": 150,
+          "maxPrice7d": 150,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 150,
+          "minPrice30d": 150,
+          "maxPrice30d": 150,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 150,
+          "minPrice90d": 150,
+          "maxPrice90d": 150,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 150,
+          "maxPrice1y": 150,
+          "minPriceAllTime": 150,
+          "minPriceAllTimeDate": "2026-06-22T19:15:20.676Z",
+          "maxPriceAllTime": 150,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.676Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-feraligatr-ex-274-217-special-illustration-rare",
+      "uuid": "5daebceb-8023-541e-9cc3-abc6b208c406",
+      "name": "Mega Feraligatr ex - 274/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "274/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676086",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-feraligatr-ex-274-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "92e6f04b-0eef-5cac-a90e-2bb4dc49031e",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125977",
+          "price": 187.54,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.01,
+          "priceHistory": [
+            {
+              "p": 185.11,
+              "t": 1781568000
+            },
+            {
+              "p": 188.03,
+              "t": 1781654400
+            },
+            {
+              "p": 187.42,
+              "t": 1781740800
+            },
+            {
+              "p": 186.04,
+              "t": 1781827200
+            },
+            {
+              "p": 186.04,
+              "t": 1781913600
+            },
+            {
+              "p": 187.56,
+              "t": 1782000000
+            },
+            {
+              "p": 187.54,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 1.31,
+          "avgPrice": 186.52,
+          "minPrice7d": 183.96,
+          "maxPrice7d": 188.03,
+          "stddevPopPrice7d": 1.21,
+          "covPrice7d": 0.006504358906973509,
+          "iqrPrice7d": 1.73,
+          "trendSlope7d": 0.339235821552405,
+          "priceChangesCount7d": 12,
+          "priceChange30d": 6.68,
+          "avgPrice30d": 182.57,
+          "minPrice30d": 172.81,
+          "maxPrice30d": 188.59,
+          "stddevPopPrice30d": 4.77,
+          "covPrice30d": 0.026139867937834578,
+          "iqrPrice30d": 9.52,
+          "trendSlope30d": 0.502144389654855,
+          "priceChangesCount30d": 55,
+          "priceRelativeTo30dRange": 0.9334600760456274,
+          "priceChange90d": 22.82,
+          "avgPrice90d": 172.1,
+          "minPrice90d": 148.91,
+          "maxPrice90d": 188.59,
+          "stddevPopPrice90d": 10.14,
+          "covPrice90d": 0.058944949322076175,
+          "iqrPrice90d": 12.97,
+          "trendSlope90d": 0.35827725259762305,
+          "priceChangesCount90d": 175,
+          "priceRelativeTo90dRange": 0.9735383064516129,
+          "minPrice1y": 138.01,
+          "maxPrice1y": 236.33,
+          "minPriceAllTime": 138.01,
+          "minPriceAllTimeDate": "2026-03-15T06:33:22.961Z",
+          "maxPriceAllTime": 236.33,
+          "maxPriceAllTimeDate": "2026-02-04T09:46:44.293Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-feraligatr-ex-274-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "e9fcd2bc-72e1-552c-a5e3-b796906842f5",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125978",
+          "price": 169.43,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 169.43,
+              "t": 1781568000
+            },
+            {
+              "p": 169.43,
+              "t": 1781654400
+            },
+            {
+              "p": 169.43,
+              "t": 1781740800
+            },
+            {
+              "p": 169.43,
+              "t": 1781827200
+            },
+            {
+              "p": 169.43,
+              "t": 1781913600
+            },
+            {
+              "p": 169.43,
+              "t": 1782000000
+            },
+            {
+              "p": 169.43,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 169.43,
+          "minPrice7d": 169.43,
+          "maxPrice7d": 169.43,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0.64,
+          "avgPrice30d": 169.62,
+          "minPrice30d": 168.36,
+          "maxPrice30d": 169.77,
+          "stddevPopPrice30d": 0.28,
+          "covPrice30d": 0.001673459833481426,
+          "iqrPrice30d": 0.34,
+          "trendSlope30d": -0.0046242211801835196,
+          "priceChangesCount30d": 2,
+          "priceRelativeTo30dRange": 0.7588652482269503,
+          "priceChange90d": -3.18,
+          "avgPrice90d": 168.05,
+          "minPrice90d": 162.66,
+          "maxPrice90d": 174.99,
+          "stddevPopPrice90d": 3.49,
+          "covPrice90d": 0.02075136539273064,
+          "iqrPrice90d": 4.66,
+          "trendSlope90d": -0.0029757731227141896,
+          "priceChangesCount90d": 10,
+          "priceRelativeTo90dRange": 0.5490673154906731,
+          "minPrice1y": 162.66,
+          "maxPrice1y": 174.99,
+          "minPriceAllTime": 162.66,
+          "minPriceAllTimeDate": "2026-05-02T00:33:22.047Z",
+          "maxPriceAllTime": 174.99,
+          "maxPriceAllTimeDate": "2026-04-02T19:23:19.333Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-feraligatr-ex-274-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "32c07561-749e-5d25-9e88-67d694ca9217",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125979",
+          "price": 164,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 164,
+              "t": 1781654400
+            },
+            {
+              "p": 164,
+              "t": 1781740800
+            },
+            {
+              "p": 164,
+              "t": 1781827200
+            },
+            {
+              "p": 164,
+              "t": 1781913600
+            },
+            {
+              "p": 164,
+              "t": 1782000000
+            },
+            {
+              "p": 164,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 164,
+          "minPrice7d": 164,
+          "maxPrice7d": 164,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 0,
+          "avgPrice30d": 164,
+          "minPrice30d": 164,
+          "maxPrice30d": 164,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 164,
+          "minPrice90d": 164,
+          "maxPrice90d": 164,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 164,
+          "maxPrice1y": 164,
+          "minPriceAllTime": 164,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.243Z",
+          "maxPriceAllTime": 164,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.243Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-steven-s-metagross-ex-special-illustration-rare",
+      "uuid": "b62aff10-fef1-5ac4-bef8-1442b324eb61",
+      "name": "Steven's Metagross ex",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "289/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676101",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-steven-s-metagross-ex-special-illustration-rare_near-mint_holofoil",
+          "uuid": "ec59d7e8-44f2-5dbc-a26b-8338548556cc",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126052",
+          "price": 104.95,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": -0.19,
+          "priceHistory": [
+            {
+              "p": 105.93,
+              "t": 1781568000
+            },
+            {
+              "p": 106.19,
+              "t": 1781654400
+            },
+            {
+              "p": 107.07,
+              "t": 1781740800
+            },
+            {
+              "p": 106.77,
+              "t": 1781827200
+            },
+            {
+              "p": 106.63,
+              "t": 1781913600
+            },
+            {
+              "p": 105.16,
+              "t": 1782000000
+            },
+            {
+              "p": 104.95,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.34,
+          "avgPrice": 106.15,
+          "minPrice7d": 104.59,
+          "maxPrice7d": 107.07,
+          "stddevPopPrice7d": 0.76,
+          "covPrice7d": 0.007113177376970837,
+          "iqrPrice7d": 1.13,
+          "trendSlope7d": -0.0389851731769762,
+          "priceChangesCount7d": 11,
+          "priceChange30d": 1.73,
+          "avgPrice30d": 105.3,
+          "minPrice30d": 102.86,
+          "maxPrice30d": 107.07,
+          "stddevPopPrice30d": 1.06,
+          "covPrice30d": 0.010026046530818079,
+          "iqrPrice30d": 1.44,
+          "trendSlope30d": 0.0783444468234579,
+          "priceChangesCount30d": 57,
+          "priceRelativeTo30dRange": 0.49643705463182897,
+          "priceChange90d": 27.94,
+          "avgPrice90d": 100.53,
+          "minPrice90d": 80.97,
+          "maxPrice90d": 109.84,
+          "stddevPopPrice90d": 7.5,
+          "covPrice90d": 0.07459834182641485,
+          "iqrPrice90d": 8.94,
+          "trendSlope90d": 0.17254103049473302,
+          "priceChangesCount90d": 193,
+          "priceRelativeTo90dRange": 0.8306200207828195,
+          "minPrice1y": 77.54,
+          "maxPrice1y": 125.48,
+          "minPriceAllTime": 77.54,
+          "minPriceAllTimeDate": "2026-03-11T09:56:04.857Z",
+          "maxPriceAllTime": 125.48,
+          "maxPriceAllTimeDate": "2026-02-08T10:35:21.357Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-steven-s-metagross-ex-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "5fd2eac3-9822-5f8f-95d3-fe9632a7a89d",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126053",
+          "price": 90.93,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 90.93,
+              "t": 1781568000
+            },
+            {
+              "p": 90.93,
+              "t": 1781654400
+            },
+            {
+              "p": 90.93,
+              "t": 1781740800
+            },
+            {
+              "p": 90.93,
+              "t": 1781827200
+            },
+            {
+              "p": 90.93,
+              "t": 1781913600
+            },
+            {
+              "p": 90.93,
+              "t": 1782000000
+            },
+            {
+              "p": 90.93,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 90.93,
+          "minPrice7d": 90.93,
+          "maxPrice7d": 90.93,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 1.65,
+          "avgPrice30d": 90.75,
+          "minPrice30d": 89.45,
+          "maxPrice30d": 90.93,
+          "stddevPopPrice30d": 0.47,
+          "covPrice30d": 0.005201433268988148,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.032359547097650695,
+          "priceChangesCount30d": 3,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 8.34,
+          "avgPrice90d": 87.71,
+          "minPrice90d": 83.93,
+          "maxPrice90d": 90.93,
+          "stddevPopPrice90d": 2.63,
+          "covPrice90d": 0.029995771254396283,
+          "iqrPrice90d": 5.79,
+          "trendSlope90d": 0.0977751734896492,
+          "priceChangesCount90d": 10,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 80,
+          "maxPrice1y": 90.93,
+          "minPriceAllTime": 80,
+          "minPriceAllTimeDate": "2026-03-16T22:23:46.724Z",
+          "maxPriceAllTime": 90.93,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.717Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-steven-s-metagross-ex-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "888bb13a-dbc0-50f2-97cb-2a740856a47d",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126054",
+          "price": 89.99,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 89.99,
+              "t": 1781568000
+            },
+            {
+              "p": 89.99,
+              "t": 1781654400
+            },
+            {
+              "p": 89.99,
+              "t": 1781740800
+            },
+            {
+              "p": 89.99,
+              "t": 1781827200
+            },
+            {
+              "p": 89.99,
+              "t": 1781913600
+            },
+            {
+              "p": 89.99,
+              "t": 1782000000
+            },
+            {
+              "p": 89.99,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 89.99,
+          "minPrice7d": 89.99,
+          "maxPrice7d": 89.99,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 89.99,
+          "minPrice30d": 89.99,
+          "maxPrice30d": 89.99,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 89.99,
+          "minPrice90d": 89.99,
+          "maxPrice90d": 89.99,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 89.99,
+          "maxPrice1y": 89.99,
+          "minPriceAllTime": 89.99,
+          "minPriceAllTimeDate": "2026-06-22T19:15:20.718Z",
+          "maxPriceAllTime": 89.99,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.718Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-steven-s-metagross-ex-special-illustration-rare_damaged_holofoil",
+          "uuid": "9b41c768-4885-5049-9ed9-2f90905f27ee",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126056",
+          "price": 40,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 40,
+              "t": 1781568000
+            },
+            {
+              "p": 40,
+              "t": 1781654400
+            },
+            {
+              "p": 40,
+              "t": 1781740800
+            },
+            {
+              "p": 40,
+              "t": 1781827200
+            },
+            {
+              "p": 40,
+              "t": 1781913600
+            },
+            {
+              "p": 40,
+              "t": 1782000000
+            },
+            {
+              "p": 40,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 40,
+          "minPrice7d": 40,
+          "maxPrice7d": 40,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 40,
+          "minPrice30d": 40,
+          "maxPrice30d": 40,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 40,
+          "minPrice90d": 40,
+          "maxPrice90d": 40,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 40,
+          "maxPrice1y": 40,
+          "minPriceAllTime": 40,
+          "minPriceAllTimeDate": "2026-06-22T19:15:20.717Z",
+          "maxPriceAllTime": 40,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.717Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-psyduck-226-217-illustration-rare",
+      "uuid": "f373bb62-f663-54f8-9a5b-dd125ca2fe0a",
+      "name": "Psyduck - 226/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "226/217",
+      "rarity": "Illustration Rare",
+      "tcgplayerId": "676038",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-psyduck-226-217-illustration-rare_near-mint_holofoil",
+          "uuid": "ea3b387b-4df9-50a4-b5f3-df4d1f0721bd",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125737",
+          "price": 101.19,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": -0.15,
+          "priceHistory": [
+            {
+              "p": 104.53,
+              "t": 1781568000
+            },
+            {
+              "p": 103.87,
+              "t": 1781654400
+            },
+            {
+              "p": 106.05,
+              "t": 1781740800
+            },
+            {
+              "p": 104.49,
+              "t": 1781827200
+            },
+            {
+              "p": 102.94,
+              "t": 1781913600
+            },
+            {
+              "p": 101.88,
+              "t": 1782000000
+            },
+            {
+              "p": 101.19,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -3.2,
+          "avgPrice": 103.59,
+          "minPrice7d": 101.19,
+          "maxPrice7d": 106.05,
+          "stddevPopPrice7d": 1.42,
+          "covPrice7d": 0.013733935208000193,
+          "iqrPrice7d": 2.51,
+          "trendSlope7d": -0.46433562504906595,
+          "priceChangesCount7d": 23,
+          "priceChange30d": 4.61,
+          "avgPrice30d": 109.55,
+          "minPrice30d": 96.73,
+          "maxPrice30d": 121.15,
+          "stddevPopPrice30d": 4.73,
+          "covPrice30d": 0.04317654238078845,
+          "iqrPrice30d": 6.78,
+          "trendSlope30d": -0.422916922136165,
+          "priceChangesCount30d": 100,
+          "priceRelativeTo30dRange": 0.18263718263718265,
+          "priceChange90d": 40.91,
+          "avgPrice90d": 94.88,
+          "minPrice90d": 69.08,
+          "maxPrice90d": 121.15,
+          "stddevPopPrice90d": 13.76,
+          "covPrice90d": 0.14500146610201098,
+          "iqrPrice90d": 20.4,
+          "trendSlope90d": 0.4748370750825,
+          "priceChangesCount90d": 294,
+          "priceRelativeTo90dRange": 0.6166698674860764,
+          "minPrice1y": 60.4,
+          "maxPrice1y": 121.15,
+          "minPriceAllTime": 60.4,
+          "minPriceAllTimeDate": "2026-02-23T08:07:49.258Z",
+          "maxPriceAllTime": 121.15,
+          "maxPriceAllTimeDate": "2026-05-24T20:53:47.278Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-psyduck-226-217-illustration-rare_lightly-played_holofoil",
+          "uuid": "0c1c764c-53f1-5b13-aa3a-80186671a69b",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125738",
+          "price": 101.06,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 100.58,
+              "t": 1781568000
+            },
+            {
+              "p": 101.06,
+              "t": 1781654400
+            },
+            {
+              "p": 101.06,
+              "t": 1781740800
+            },
+            {
+              "p": 101.06,
+              "t": 1781827200
+            },
+            {
+              "p": 101.06,
+              "t": 1781913600
+            },
+            {
+              "p": 101.06,
+              "t": 1782000000
+            },
+            {
+              "p": 101.06,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.52,
+          "avgPrice": 100.97,
+          "minPrice7d": 100.54,
+          "maxPrice7d": 101.06,
+          "stddevPopPrice7d": 0.19,
+          "covPrice7d": 0.0018831559855093194,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0.0623386556366034,
+          "priceChangesCount7d": 2,
+          "priceChange30d": 15.01,
+          "avgPrice30d": 97.37,
+          "minPrice30d": 87.87,
+          "maxPrice30d": 101.06,
+          "stddevPopPrice30d": 4.08,
+          "covPrice30d": 0.04193919819677366,
+          "iqrPrice30d": 3.96,
+          "trendSlope30d": 0.43179620648294403,
+          "priceChangesCount30d": 25,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 46.04,
+          "avgPrice90d": 83.84,
+          "minPrice90d": 67.76,
+          "maxPrice90d": 101.06,
+          "stddevPopPrice90d": 11.64,
+          "covPrice90d": 0.1388382666547677,
+          "iqrPrice90d": 25.24,
+          "trendSlope90d": 0.436744503312242,
+          "priceChangesCount90d": 89,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 66.51,
+          "maxPrice1y": 101.06,
+          "minPriceAllTime": 66.51,
+          "minPriceAllTimeDate": "2026-03-10T20:44:30.856Z",
+          "maxPriceAllTime": 101.06,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.694Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-psyduck-226-217-illustration-rare_moderately-played_holofoil",
+          "uuid": "3375846f-6a98-539d-83b3-a241c6e74357",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125739",
+          "price": 72.51,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 72.51,
+              "t": 1781568000
+            },
+            {
+              "p": 72.51,
+              "t": 1781654400
+            },
+            {
+              "p": 72.51,
+              "t": 1781740800
+            },
+            {
+              "p": 72.51,
+              "t": 1781827200
+            },
+            {
+              "p": 72.51,
+              "t": 1781913600
+            },
+            {
+              "p": 72.51,
+              "t": 1782000000
+            },
+            {
+              "p": 72.51,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 72.51,
+          "minPrice7d": 72.51,
+          "maxPrice7d": 72.51,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 10.13,
+          "avgPrice30d": 70.98,
+          "minPrice30d": 65.84,
+          "maxPrice30d": 73.76,
+          "stddevPopPrice30d": 2.95,
+          "covPrice30d": 0.041598873698037164,
+          "iqrPrice30d": 3.33,
+          "trendSlope30d": 0.268506467871212,
+          "priceChangesCount30d": 4,
+          "priceRelativeTo30dRange": 0.8421717171717171,
+          "priceChange90d": 24.25,
+          "avgPrice90d": 64.16,
+          "minPrice90d": 58.36,
+          "maxPrice90d": 73.76,
+          "stddevPopPrice90d": 5.66,
+          "covPrice90d": 0.08823418685872936,
+          "iqrPrice90d": 11.65,
+          "trendSlope90d": 0.196444204497779,
+          "priceChangesCount90d": 9,
+          "priceRelativeTo90dRange": 0.9188311688311688,
+          "minPrice1y": 51.1,
+          "maxPrice1y": 73.76,
+          "minPriceAllTime": 51.1,
+          "minPriceAllTimeDate": "2026-02-24T10:15:04.424Z",
+          "maxPriceAllTime": 73.76,
+          "maxPriceAllTimeDate": "2026-06-10T17:16:58.784Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-psyduck-226-217-illustration-rare_heavily-played_holofoil",
+          "uuid": "7a691836-6ae4-5af9-84f6-3fbf5ece577b",
+          "condition": "Heavily Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125740",
+          "price": 63.5,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 63.5,
+              "t": 1781568000
+            },
+            {
+              "p": 63.5,
+              "t": 1781654400
+            },
+            {
+              "p": 63.5,
+              "t": 1781740800
+            },
+            {
+              "p": 63.5,
+              "t": 1781827200
+            },
+            {
+              "p": 63.5,
+              "t": 1781913600
+            },
+            {
+              "p": 63.5,
+              "t": 1782000000
+            },
+            {
+              "p": 63.5,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 63.5,
+          "minPrice7d": 63.5,
+          "maxPrice7d": 63.5,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 63.5,
+          "minPrice30d": 63.5,
+          "maxPrice30d": 63.5,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 15.45,
+          "avgPrice90d": 59.4,
+          "minPrice90d": 55,
+          "maxPrice90d": 63.5,
+          "stddevPopPrice90d": 4.25,
+          "covPrice90d": 0.07150366594165729,
+          "iqrPrice90d": 8.5,
+          "trendSlope90d": 0.152372573389084,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 55,
+          "maxPrice1y": 63.5,
+          "minPriceAllTime": 55,
+          "minPriceAllTimeDate": "2026-05-12T20:08:31.687Z",
+          "maxPriceAllTime": 63.5,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:20.694Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-psyduck-226-217-illustration-rare_damaged_holofoil",
+          "uuid": "92b0abcd-30ae-5230-8dfe-8923bfc8b444",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125741",
+          "price": 53.41,
+          "lastUpdated": 1782155720,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 53.41,
+              "t": 1781568000
+            },
+            {
+              "p": 53.41,
+              "t": 1781654400
+            },
+            {
+              "p": 55.48,
+              "t": 1781740800
+            },
+            {
+              "p": 53.41,
+              "t": 1781827200
+            },
+            {
+              "p": 53.41,
+              "t": 1781913600
+            },
+            {
+              "p": 53.41,
+              "t": 1782000000
+            },
+            {
+              "p": 53.41,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 53.93,
+          "minPrice7d": 53.41,
+          "maxPrice7d": 55.48,
+          "stddevPopPrice7d": 0.9,
+          "covPrice7d": 0.01662113565280968,
+          "iqrPrice7d": 0.52,
+          "trendSlope7d": -0.0785741153737606,
+          "priceChangesCount7d": 2,
+          "priceChange30d": 0,
+          "avgPrice30d": 53.53,
+          "minPrice30d": 53.41,
+          "maxPrice30d": 55.48,
+          "stddevPopPrice30d": 0.49,
+          "covPrice30d": 0.00920741074421352,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.017905231637864602,
+          "priceChangesCount30d": 3,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": 33.52,
+          "avgPrice90d": 50.93,
+          "minPrice90d": 40,
+          "maxPrice90d": 55.48,
+          "stddevPopPrice90d": 3.72,
+          "covPrice90d": 0.07297521632325764,
+          "iqrPrice90d": 3.6,
+          "trendSlope90d": 0.0826353182601931,
+          "priceChangesCount90d": 7,
+          "priceRelativeTo90dRange": 0.8662790697674418,
+          "minPrice1y": 40,
+          "maxPrice1y": 55.48,
+          "minPriceAllTime": 40,
+          "minPriceAllTimeDate": "2026-04-01T17:49:18.141Z",
+          "maxPriceAllTime": 55.48,
+          "maxPriceAllTimeDate": "2026-06-19T12:46:32.398Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-meganium-ex-272-217-special-illustration-rare",
+      "uuid": "fc04f2fc-430d-544c-9852-23494a59230a",
+      "name": "Mega Meganium ex - 272/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "272/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676084",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-meganium-ex-272-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "33ad73b9-1d7d-5e0f-be0f-6f2884417bdd",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125967",
+          "price": 100.86,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.51,
+          "priceHistory": [
+            {
+              "p": 103.84,
+              "t": 1781568000
+            },
+            {
+              "p": 106.46,
+              "t": 1781654400
+            },
+            {
+              "p": 105.15,
+              "t": 1781740800
+            },
+            {
+              "p": 104.36,
+              "t": 1781827200
+            },
+            {
+              "p": 102.2,
+              "t": 1781913600
+            },
+            {
+              "p": 101.94,
+              "t": 1782000000
+            },
+            {
+              "p": 100.86,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -4.14,
+          "avgPrice": 103.6,
+          "minPrice7d": 100.86,
+          "maxPrice7d": 106.46,
+          "stddevPopPrice7d": 1.61,
+          "covPrice7d": 0.015570150884301841,
+          "iqrPrice7d": 2.95,
+          "trendSlope7d": -0.678713144284738,
+          "priceChangesCount7d": 17,
+          "priceChange30d": 10.36,
+          "avgPrice30d": 100.14,
+          "minPrice30d": 91.39,
+          "maxPrice30d": 106.46,
+          "stddevPopPrice30d": 3.61,
+          "covPrice30d": 0.036002454593292973,
+          "iqrPrice30d": 6.18,
+          "trendSlope30d": 0.371122333563172,
+          "priceChangesCount30d": 60,
+          "priceRelativeTo30dRange": 0.6284007962840079,
+          "priceChange90d": 3.37,
+          "avgPrice90d": 97.32,
+          "minPrice90d": 89.58,
+          "maxPrice90d": 106.46,
+          "stddevPopPrice90d": 3.84,
+          "covPrice90d": 0.03950579631373925,
+          "iqrPrice90d": 5.16,
+          "trendSlope90d": 0.0878059401435157,
+          "priceChangesCount90d": 182,
+          "priceRelativeTo90dRange": 0.6682464454976303,
+          "minPrice1y": 89.58,
+          "maxPrice1y": 149.94,
+          "minPriceAllTime": 89.58,
+          "minPriceAllTimeDate": "2026-05-21T04:47:00.593Z",
+          "maxPriceAllTime": 149.94,
+          "maxPriceAllTimeDate": "2026-02-02T16:37:13.032Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-meganium-ex-272-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "a50628c3-05b8-5c1b-bb3d-cdac98afaf3d",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125968",
+          "price": 94.5,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 94,
+              "t": 1781568000
+            },
+            {
+              "p": 94,
+              "t": 1781654400
+            },
+            {
+              "p": 93.68,
+              "t": 1781740800
+            },
+            {
+              "p": 94.5,
+              "t": 1781827200
+            },
+            {
+              "p": 94.5,
+              "t": 1781913600
+            },
+            {
+              "p": 94.5,
+              "t": 1782000000
+            },
+            {
+              "p": 94.5,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.53,
+          "avgPrice": 94.19,
+          "minPrice7d": 93.68,
+          "maxPrice7d": 94.5,
+          "stddevPopPrice7d": 0.31,
+          "covPrice7d": 0.003288678799266592,
+          "iqrPrice7d": 0.5,
+          "trendSlope7d": 0.108790724450153,
+          "priceChangesCount7d": 2,
+          "priceChange30d": 0.96,
+          "avgPrice30d": 93.95,
+          "minPrice30d": 93.59,
+          "maxPrice30d": 94.5,
+          "stddevPopPrice30d": 0.25,
+          "covPrice30d": 0.002710730504584302,
+          "iqrPrice30d": 0.17,
+          "trendSlope30d": 0.0229254778987683,
+          "priceChangesCount30d": 5,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": -1.53,
+          "avgPrice90d": 94.02,
+          "minPrice90d": 93.13,
+          "maxPrice90d": 95.97,
+          "stddevPopPrice90d": 0.67,
+          "covPrice90d": 0.007077411253997384,
+          "iqrPrice90d": 0.3,
+          "trendSlope90d": -0.00671937724066947,
+          "priceChangesCount90d": 15,
+          "priceRelativeTo90dRange": 0.4823943661971831,
+          "minPrice1y": 93.13,
+          "maxPrice1y": 100,
+          "minPriceAllTime": 93.13,
+          "minPriceAllTimeDate": "2026-04-29T22:29:55.192Z",
+          "maxPriceAllTime": 100,
+          "maxPriceAllTimeDate": "2026-03-01T00:55:22.590Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-meganium-ex-272-217-special-illustration-rare_damaged_holofoil",
+          "uuid": "bd7d2669-f6d5-5f0e-8c77-ec9e53dffb75",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125971",
+          "price": 83,
+          "lastUpdated": 1776677510,
+          "priceChange24hr": null,
+          "priceHistory": null,
+          "priceChange7d": null,
+          "avgPrice": null,
+          "minPrice7d": null,
+          "maxPrice7d": null,
+          "stddevPopPrice7d": null,
+          "covPrice7d": null,
+          "iqrPrice7d": 0,
+          "trendSlope7d": null,
+          "priceChangesCount7d": 0,
+          "priceChange30d": null,
+          "avgPrice30d": null,
+          "minPrice30d": null,
+          "maxPrice30d": null,
+          "stddevPopPrice30d": null,
+          "covPrice30d": null,
+          "iqrPrice30d": 0,
+          "trendSlope30d": null,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 83,
+          "minPrice90d": 83,
+          "maxPrice90d": 83,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 83,
+          "maxPrice1y": 83,
+          "minPriceAllTime": 83,
+          "minPriceAllTimeDate": "2026-04-20T09:31:50.831Z",
+          "maxPriceAllTime": 83,
+          "maxPriceAllTimeDate": "2026-04-20T09:31:50.831Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-meganium-ex-272-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "d7bc1a4b-0408-57c8-b10c-7bae91cf0631",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125969",
+          "price": 79.58,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 79.58,
+              "t": 1781568000
+            },
+            {
+              "p": 79.58,
+              "t": 1781654400
+            },
+            {
+              "p": 79.58,
+              "t": 1781740800
+            },
+            {
+              "p": 79.58,
+              "t": 1781827200
+            },
+            {
+              "p": 79.58,
+              "t": 1781913600
+            },
+            {
+              "p": 79.58,
+              "t": 1782000000
+            },
+            {
+              "p": 79.58,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 79.58,
+          "minPrice7d": 79.58,
+          "maxPrice7d": 79.58,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 79.58,
+          "minPrice30d": 79.58,
+          "maxPrice30d": 79.58,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 79.58,
+          "minPrice90d": 79.58,
+          "maxPrice90d": 79.58,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 79.58,
+          "maxPrice1y": 79.58,
+          "minPriceAllTime": 79.58,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.250Z",
+          "maxPriceAllTime": 79.58,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.250Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-marnie-s-grimmsnarl-ex-special-illustration-rare",
+      "uuid": "3c8850c5-920f-5469-9627-8a647d2bfb05",
+      "name": "Marnie's Grimmsnarl ex",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "287/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676099",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-marnie-s-grimmsnarl-ex-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "91737046-7f31-52ae-8ab7-33298f25f23f",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126044",
+          "price": 90,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 90,
+              "t": 1781568000
+            },
+            {
+              "p": 90,
+              "t": 1781654400
+            },
+            {
+              "p": 90,
+              "t": 1781740800
+            },
+            {
+              "p": 90,
+              "t": 1781827200
+            },
+            {
+              "p": 90,
+              "t": 1781913600
+            },
+            {
+              "p": 90,
+              "t": 1782000000
+            },
+            {
+              "p": 90,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 90,
+          "minPrice7d": 90,
+          "maxPrice7d": 90,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 90,
+          "minPrice30d": 90,
+          "maxPrice30d": 90,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 90,
+          "minPrice90d": 90,
+          "maxPrice90d": 90,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 0,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 90,
+          "maxPrice1y": 90,
+          "minPriceAllTime": 90,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.231Z",
+          "maxPriceAllTime": 90,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.231Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-marnie-s-grimmsnarl-ex-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "95fc426b-de38-5c21-a593-76c50d55445a",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126043",
+          "price": 87.72,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 87.72,
+              "t": 1781568000
+            },
+            {
+              "p": 87.72,
+              "t": 1781654400
+            },
+            {
+              "p": 87.72,
+              "t": 1781740800
+            },
+            {
+              "p": 87.72,
+              "t": 1781827200
+            },
+            {
+              "p": 87.72,
+              "t": 1781913600
+            },
+            {
+              "p": 87.72,
+              "t": 1782000000
+            },
+            {
+              "p": 87.72,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 87.72,
+          "minPrice7d": 87.72,
+          "maxPrice7d": 87.72,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": -0.88,
+          "avgPrice30d": 88.17,
+          "minPrice30d": 87.72,
+          "maxPrice30d": 88.6,
+          "stddevPopPrice30d": 0.32,
+          "covPrice30d": 0.0036808363796911226,
+          "iqrPrice30d": 0.78,
+          "trendSlope30d": -0.0349878816455253,
+          "priceChangesCount30d": 4,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": -9.27,
+          "avgPrice90d": 90.67,
+          "minPrice90d": 87.72,
+          "maxPrice90d": 96.68,
+          "stddevPopPrice90d": 2.69,
+          "covPrice90d": 0.029686070985837646,
+          "iqrPrice90d": 4.5,
+          "trendSlope90d": -0.0968015030882143,
+          "priceChangesCount90d": 12,
+          "priceRelativeTo90dRange": 0,
+          "minPrice1y": 87.72,
+          "maxPrice1y": 102.01,
+          "minPriceAllTime": 87.72,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.231Z",
+          "maxPriceAllTime": 102.01,
+          "maxPriceAllTimeDate": "2026-03-19T03:00:05.610Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-marnie-s-grimmsnarl-ex-special-illustration-rare_near-mint_holofoil",
+          "uuid": "311df293-0f3e-5235-87fd-f2c4fe6be7f5",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126042",
+          "price": 81.45,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.16,
+          "priceHistory": [
+            {
+              "p": 83.98,
+              "t": 1781568000
+            },
+            {
+              "p": 83.71,
+              "t": 1781654400
+            },
+            {
+              "p": 83.2,
+              "t": 1781740800
+            },
+            {
+              "p": 82.51,
+              "t": 1781827200
+            },
+            {
+              "p": 82.27,
+              "t": 1781913600
+            },
+            {
+              "p": 81.78,
+              "t": 1782000000
+            },
+            {
+              "p": 81.45,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -3.25,
+          "avgPrice": 82.83,
+          "minPrice7d": 81.45,
+          "maxPrice7d": 84.19,
+          "stddevPopPrice7d": 0.89,
+          "covPrice7d": 0.010766738699768198,
+          "iqrPrice7d": 1.57,
+          "trendSlope7d": -0.431118733077482,
+          "priceChangesCount7d": 12,
+          "priceChange30d": -0.12,
+          "avgPrice30d": 84.33,
+          "minPrice30d": 81.45,
+          "maxPrice30d": 86.24,
+          "stddevPopPrice30d": 1.44,
+          "covPrice30d": 0.017019906448829492,
+          "iqrPrice30d": 2.24,
+          "trendSlope30d": -0.0354926048631662,
+          "priceChangesCount30d": 55,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": -16.62,
+          "avgPrice90d": 87.17,
+          "minPrice90d": 81.2,
+          "maxPrice90d": 98.79,
+          "stddevPopPrice90d": 4.65,
+          "covPrice90d": 0.053289041701684005,
+          "iqrPrice90d": 5.72,
+          "trendSlope90d": -0.14691386548591098,
+          "priceChangesCount90d": 174,
+          "priceRelativeTo90dRange": 0.014212620807276862,
+          "minPrice1y": 81.2,
+          "maxPrice1y": 176.67,
+          "minPriceAllTime": 81.2,
+          "minPriceAllTimeDate": "2026-05-23T13:55:53.186Z",
+          "maxPriceAllTime": 176.67,
+          "maxPriceAllTimeDate": "2026-02-01T05:48:20.868Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-marnie-s-grimmsnarl-ex-special-illustration-rare_damaged_holofoil",
+          "uuid": "cb422f4c-8c3b-5f3e-a541-fba1e3de1614",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126046",
+          "price": 70,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 70,
+              "t": 1781568000
+            },
+            {
+              "p": 70,
+              "t": 1781654400
+            },
+            {
+              "p": 70,
+              "t": 1781740800
+            },
+            {
+              "p": 70,
+              "t": 1781827200
+            },
+            {
+              "p": 70,
+              "t": 1781913600
+            },
+            {
+              "p": 70,
+              "t": 1782000000
+            },
+            {
+              "p": 70,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 70,
+          "minPrice7d": 70,
+          "maxPrice7d": 70,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": -6.67,
+          "avgPrice30d": 72.8,
+          "minPrice30d": 70,
+          "maxPrice30d": 75,
+          "stddevPopPrice30d": 2.48,
+          "covPrice30d": 0.03408883166485442,
+          "iqrPrice30d": 5,
+          "trendSlope30d": -0.247380232698181,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": -6.67,
+          "avgPrice90d": 74.22,
+          "minPrice90d": 70,
+          "maxPrice90d": 75,
+          "stddevPopPrice90d": 1.82,
+          "covPrice90d": 0.024473484774389292,
+          "iqrPrice90d": 0,
+          "trendSlope90d": -0.044281506526307496,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 0,
+          "minPrice1y": 70,
+          "maxPrice1y": 75,
+          "minPriceAllTime": 70,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.230Z",
+          "maxPriceAllTime": 75,
+          "maxPriceAllTimeDate": "2026-06-09T23:10:32.041Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-marnie-s-grimmsnarl-ex-special-illustration-rare_heavily-played_holofoil",
+          "uuid": "4ef3dc4c-7e51-5531-999e-39ec157f8641",
+          "condition": "Heavily Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126045",
+          "price": 70,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 70,
+              "t": 1781568000
+            },
+            {
+              "p": 70,
+              "t": 1781654400
+            },
+            {
+              "p": 70,
+              "t": 1781740800
+            },
+            {
+              "p": 70,
+              "t": 1781827200
+            },
+            {
+              "p": 70,
+              "t": 1781913600
+            },
+            {
+              "p": 70,
+              "t": 1782000000
+            },
+            {
+              "p": 70,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 70,
+          "minPrice7d": 70,
+          "maxPrice7d": 70,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 70,
+          "minPrice30d": 70,
+          "maxPrice30d": 70,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 70,
+          "minPrice90d": 70,
+          "maxPrice90d": 70,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 70,
+          "maxPrice1y": 70,
+          "minPriceAllTime": 70,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.231Z",
+          "maxPriceAllTime": 70,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.231Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-froslass-ex-275-217-special-illustration-rare",
+      "uuid": "74a99b5e-acdf-50f0-8fe8-202833c77c13",
+      "name": "Mega Froslass ex - 275/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "275/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676087",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-froslass-ex-275-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "c4674d8b-d5a6-560d-a8d8-837a158b2c34",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125982",
+          "price": 87.54,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0.11,
+          "priceHistory": [
+            {
+              "p": 90.97,
+              "t": 1781568000
+            },
+            {
+              "p": 91.19,
+              "t": 1781654400
+            },
+            {
+              "p": 90.44,
+              "t": 1781740800
+            },
+            {
+              "p": 89.3,
+              "t": 1781827200
+            },
+            {
+              "p": 89.07,
+              "t": 1781913600
+            },
+            {
+              "p": 87.49,
+              "t": 1782000000
+            },
+            {
+              "p": 87.54,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -4.04,
+          "avgPrice": 89.53,
+          "minPrice7d": 87.44,
+          "maxPrice7d": 91.23,
+          "stddevPopPrice7d": 1.4,
+          "covPrice7d": 0.015606368407558647,
+          "iqrPrice7d": 2.73,
+          "trendSlope7d": -0.655598752482275,
+          "priceChangesCount7d": 18,
+          "priceChange30d": -9.81,
+          "avgPrice30d": 91.1,
+          "minPrice30d": 87.44,
+          "maxPrice30d": 97.11,
+          "stddevPopPrice30d": 1.82,
+          "covPrice30d": 0.019939788111101527,
+          "iqrPrice30d": 0.98,
+          "trendSlope30d": -0.166212977873439,
+          "priceChangesCount30d": 64,
+          "priceRelativeTo30dRange": 0.010341261633919338,
+          "priceChange90d": 13.32,
+          "avgPrice90d": 92.14,
+          "minPrice90d": 75.87,
+          "maxPrice90d": 113.99,
+          "stddevPopPrice90d": 8.62,
+          "covPrice90d": 0.09351494904360252,
+          "iqrPrice90d": 8.53,
+          "trendSlope90d": 0.0729678202514482,
+          "priceChangesCount90d": 194,
+          "priceRelativeTo90dRange": 0.3061385099685205,
+          "minPrice1y": 71.31,
+          "maxPrice1y": 170,
+          "minPriceAllTime": 71.31,
+          "minPriceAllTimeDate": "2026-03-07T17:24:03.733Z",
+          "maxPriceAllTime": 170,
+          "maxPriceAllTimeDate": "2026-01-31T10:03:15.971Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-froslass-ex-275-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "2f267e9d-3531-5d1e-a674-3e11dffe6981",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125983",
+          "price": 78.54,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 78.54,
+              "t": 1781568000
+            },
+            {
+              "p": 78.54,
+              "t": 1781654400
+            },
+            {
+              "p": 78.54,
+              "t": 1781740800
+            },
+            {
+              "p": 78.54,
+              "t": 1781827200
+            },
+            {
+              "p": 78.54,
+              "t": 1781913600
+            },
+            {
+              "p": 78.54,
+              "t": 1782000000
+            },
+            {
+              "p": 78.54,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 78.54,
+          "minPrice7d": 78.54,
+          "maxPrice7d": 78.54,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 1.79,
+          "avgPrice30d": 78.09,
+          "minPrice30d": 77.16,
+          "maxPrice30d": 78.54,
+          "stddevPopPrice30d": 0.51,
+          "covPrice30d": 0.006479537440222938,
+          "iqrPrice30d": 0.7,
+          "trendSlope30d": 0.0540350531017291,
+          "priceChangesCount30d": 3,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 13.37,
+          "avgPrice90d": 75.78,
+          "minPrice90d": 69.28,
+          "maxPrice90d": 78.54,
+          "stddevPopPrice90d": 2.41,
+          "covPrice90d": 0.0317422641588453,
+          "iqrPrice90d": 4.03,
+          "trendSlope90d": 0.0874832681981308,
+          "priceChangesCount90d": 11,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 60,
+          "maxPrice1y": 78.54,
+          "minPriceAllTime": 60,
+          "minPriceAllTimeDate": "2026-03-07T23:10:59.206Z",
+          "maxPriceAllTime": 78.54,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.245Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-gengar-ex-269-217-mega-attack-rare",
+      "uuid": "181251fa-70ed-5dbf-84b3-54a6b4d39f48",
+      "name": "Mega Gengar ex - 269/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "269/217",
+      "rarity": "Mega Attack Rare",
+      "tcgplayerId": "676081",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-269-217-mega-attack-rare_lightly-played_holofoil",
+          "uuid": "a629775c-2b84-5b59-bdfe-46a42463e973",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125953",
+          "price": 81.68,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.05,
+          "priceHistory": [
+            {
+              "p": 82.56,
+              "t": 1781568000
+            },
+            {
+              "p": 81.72,
+              "t": 1781654400
+            },
+            {
+              "p": 81.72,
+              "t": 1781740800
+            },
+            {
+              "p": 81.72,
+              "t": 1781827200
+            },
+            {
+              "p": 81.72,
+              "t": 1781913600
+            },
+            {
+              "p": 81.72,
+              "t": 1782000000
+            },
+            {
+              "p": 81.68,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -1.61,
+          "avgPrice": 81.95,
+          "minPrice7d": 81.68,
+          "maxPrice7d": 83.02,
+          "stddevPopPrice7d": 0.4,
+          "covPrice7d": 0.004896390280468761,
+          "iqrPrice7d": 0.21,
+          "trendSlope7d": -0.149064123326264,
+          "priceChangesCount7d": 3,
+          "priceChange30d": -6.91,
+          "avgPrice30d": 84.85,
+          "minPrice30d": 81.68,
+          "maxPrice30d": 87.74,
+          "stddevPopPrice30d": 2,
+          "covPrice30d": 0.023573321581744005,
+          "iqrPrice30d": 2.91,
+          "trendSlope30d": -0.22645384005524502,
+          "priceChangesCount30d": 22,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": 37.28,
+          "avgPrice90d": 80.42,
+          "minPrice90d": 59.5,
+          "maxPrice90d": 87.83,
+          "stddevPopPrice90d": 9.03,
+          "covPrice90d": 0.11224090087695274,
+          "iqrPrice90d": 11.16,
+          "trendSlope90d": 0.254581488750018,
+          "priceChangesCount90d": 73,
+          "priceRelativeTo90dRange": 0.7829156371337804,
+          "minPrice1y": 56.44,
+          "maxPrice1y": 87.83,
+          "minPriceAllTime": 56.44,
+          "minPriceAllTimeDate": "2026-03-10T20:44:30.848Z",
+          "maxPriceAllTime": 87.83,
+          "maxPriceAllTimeDate": "2026-05-20T09:50:50.055Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-269-217-mega-attack-rare_near-mint_holofoil",
+          "uuid": "7b535572-90fd-5d8d-9be3-b452440d04f6",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125952",
+          "price": 75.22,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 1.05,
+          "priceHistory": [
+            {
+              "p": 73.45,
+              "t": 1781568000
+            },
+            {
+              "p": 71.88,
+              "t": 1781654400
+            },
+            {
+              "p": 75.22,
+              "t": 1781740800
+            },
+            {
+              "p": 76.87,
+              "t": 1781827200
+            },
+            {
+              "p": 74.31,
+              "t": 1781913600
+            },
+            {
+              "p": 73.84,
+              "t": 1782000000
+            },
+            {
+              "p": 75.22,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.19,
+          "avgPrice": 74.43,
+          "minPrice7d": 71.88,
+          "maxPrice7d": 77.03,
+          "stddevPopPrice7d": 1.47,
+          "covPrice7d": 0.01980767505795687,
+          "iqrPrice7d": 2,
+          "trendSlope7d": 0.180730606864905,
+          "priceChangesCount7d": 24,
+          "priceChange30d": -18.55,
+          "avgPrice30d": 82.86,
+          "minPrice30d": 71.88,
+          "maxPrice30d": 92.35,
+          "stddevPopPrice30d": 6.34,
+          "covPrice30d": 0.07651043994592117,
+          "iqrPrice30d": 12.22,
+          "trendSlope30d": -0.663953708751764,
+          "priceChangesCount30d": 97,
+          "priceRelativeTo30dRange": 0.16316560820713238,
+          "priceChange90d": 10.44,
+          "avgPrice90d": 86.7,
+          "minPrice90d": 65.69,
+          "maxPrice90d": 102.13,
+          "stddevPopPrice90d": 9.43,
+          "covPrice90d": 0.10872188997965462,
+          "iqrPrice90d": 14.6,
+          "trendSlope90d": -0.0187866808507246,
+          "priceChangesCount90d": 306,
+          "priceRelativeTo90dRange": 0.2615257958287596,
+          "minPrice1y": 50.34,
+          "maxPrice1y": 132.5,
+          "minPriceAllTime": 50.34,
+          "minPriceAllTimeDate": "2026-03-07T17:24:03.733Z",
+          "maxPriceAllTime": 132.5,
+          "maxPriceAllTimeDate": "2026-01-30T19:50:53.678Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-269-217-mega-attack-rare_moderately-played_holofoil",
+          "uuid": "b251dfcb-c55a-5dfe-8297-418fc15df618",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125954",
+          "price": 66.67,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 66.67,
+              "t": 1781568000
+            },
+            {
+              "p": 66.67,
+              "t": 1781654400
+            },
+            {
+              "p": 66.67,
+              "t": 1781740800
+            },
+            {
+              "p": 66.67,
+              "t": 1781827200
+            },
+            {
+              "p": 66.67,
+              "t": 1781913600
+            },
+            {
+              "p": 66.67,
+              "t": 1782000000
+            },
+            {
+              "p": 66.67,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 66.67,
+          "minPrice7d": 66.67,
+          "maxPrice7d": 66.67,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 66.67,
+          "minPrice30d": 66.67,
+          "maxPrice30d": 66.67,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 21.22,
+          "avgPrice90d": 62.86,
+          "minPrice90d": 55,
+          "maxPrice90d": 66.67,
+          "stddevPopPrice90d": 4.98,
+          "covPrice90d": 0.07916699198963018,
+          "iqrPrice90d": 9.17,
+          "trendSlope90d": 0.165183422041862,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 55,
+          "maxPrice1y": 66.67,
+          "minPriceAllTime": 55,
+          "minPriceAllTimeDate": "2026-04-07T14:26:47.236Z",
+          "maxPriceAllTime": 66.67,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.246Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-269-217-mega-attack-rare_heavily-played_holofoil",
+          "uuid": "d928d85c-08ed-5c5f-b2ad-e43785592c3a",
+          "condition": "Heavily Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125955",
+          "price": 52.49,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 52.49,
+              "t": 1781568000
+            },
+            {
+              "p": 52.49,
+              "t": 1781654400
+            },
+            {
+              "p": 52.49,
+              "t": 1781740800
+            },
+            {
+              "p": 52.49,
+              "t": 1781827200
+            },
+            {
+              "p": 52.49,
+              "t": 1781913600
+            },
+            {
+              "p": 52.49,
+              "t": 1782000000
+            },
+            {
+              "p": 52.49,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 52.49,
+          "minPrice7d": 52.49,
+          "maxPrice7d": 52.49,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 5,
+          "avgPrice30d": 51.41,
+          "minPrice30d": 49.99,
+          "maxPrice30d": 52.49,
+          "stddevPopPrice30d": 1.24,
+          "covPrice30d": 0.02408080467676047,
+          "iqrPrice30d": 2.5,
+          "trendSlope30d": 0.12353534850375601,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 5,
+          "avgPrice90d": 50.73,
+          "minPrice90d": 49.99,
+          "maxPrice90d": 52.49,
+          "stddevPopPrice90d": 1.14,
+          "covPrice90d": 0.02252312642876056,
+          "iqrPrice90d": 2.5,
+          "trendSlope90d": 0.0536375037823199,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 49.99,
+          "maxPrice1y": 52.49,
+          "minPriceAllTime": 49.99,
+          "minPriceAllTimeDate": "2026-06-06T03:54:43.193Z",
+          "maxPriceAllTime": 52.49,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.246Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-gengar-ex-269-217-mega-attack-rare_damaged_holofoil",
+          "uuid": "5dba909d-9d83-5aad-9e54-1b2c18808c4e",
+          "condition": "Damaged",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9125956",
+          "price": 45,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 45,
+              "t": 1781568000
+            },
+            {
+              "p": 45,
+              "t": 1781654400
+            },
+            {
+              "p": 45,
+              "t": 1781740800
+            },
+            {
+              "p": 45,
+              "t": 1781827200
+            },
+            {
+              "p": 45,
+              "t": 1781913600
+            },
+            {
+              "p": 45,
+              "t": 1782000000
+            },
+            {
+              "p": 45,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 45,
+          "minPrice7d": 45,
+          "maxPrice7d": 45,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 45,
+          "minPrice30d": 45,
+          "maxPrice30d": 45,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 45,
+          "minPrice90d": 45,
+          "maxPrice90d": 45,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 45,
+          "maxPrice1y": 45,
+          "minPriceAllTime": 45,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.246Z",
+          "maxPriceAllTime": 45,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.246Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-fezandipiti-ex-288-217-special-illustration-rare",
+      "uuid": "f322d1cd-f292-546d-a3f6-3d06bc3d1d65",
+      "name": "Fezandipiti ex - 288/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "288/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676100",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-fezandipiti-ex-288-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "6dc81900-0ea9-550d-a2bf-1cbf8620aa7d",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126048",
+          "price": 77.64,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 78.06,
+              "t": 1781568000
+            },
+            {
+              "p": 77.64,
+              "t": 1781654400
+            },
+            {
+              "p": 77.64,
+              "t": 1781740800
+            },
+            {
+              "p": 77.64,
+              "t": 1781827200
+            },
+            {
+              "p": 77.64,
+              "t": 1781913600
+            },
+            {
+              "p": 77.64,
+              "t": 1782000000
+            },
+            {
+              "p": 77.64,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.54,
+          "avgPrice": 77.75,
+          "minPrice7d": 77.64,
+          "maxPrice7d": 78.06,
+          "stddevPopPrice7d": 0.18,
+          "covPrice7d": 0.002339254418865935,
+          "iqrPrice7d": 0.1,
+          "trendSlope7d": -0.0671876689039495,
+          "priceChangesCount7d": 1,
+          "priceChange30d": -3.53,
+          "avgPrice30d": 78.44,
+          "minPrice30d": 77.64,
+          "maxPrice30d": 80.48,
+          "stddevPopPrice30d": 0.7,
+          "covPrice30d": 0.008985658981722992,
+          "iqrPrice30d": 0.52,
+          "trendSlope30d": -0.0728705670199605,
+          "priceChangesCount30d": 5,
+          "priceRelativeTo30dRange": 0,
+          "priceChange90d": -13.73,
+          "avgPrice90d": 82.73,
+          "minPrice90d": 77.64,
+          "maxPrice90d": 90,
+          "stddevPopPrice90d": 3.89,
+          "covPrice90d": 0.04707345852321905,
+          "iqrPrice90d": 7.72,
+          "trendSlope90d": -0.145754137945374,
+          "priceChangesCount90d": 16,
+          "priceRelativeTo90dRange": 0,
+          "minPrice1y": 77.64,
+          "maxPrice1y": 126.5,
+          "minPriceAllTime": 77.64,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.183Z",
+          "maxPriceAllTime": 126.5,
+          "maxPriceAllTimeDate": "2026-03-04T19:56:37.008Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-fezandipiti-ex-288-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "0d06e3eb-e3c7-568e-854e-b5373bccfc70",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126047",
+          "price": 72.3,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0.71,
+          "priceHistory": [
+            {
+              "p": 71.98,
+              "t": 1781568000
+            },
+            {
+              "p": 71.86,
+              "t": 1781654400
+            },
+            {
+              "p": 71.25,
+              "t": 1781740800
+            },
+            {
+              "p": 71.05,
+              "t": 1781827200
+            },
+            {
+              "p": 71.06,
+              "t": 1781913600
+            },
+            {
+              "p": 71.79,
+              "t": 1782000000
+            },
+            {
+              "p": 72.3,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.44,
+          "avgPrice": 71.6,
+          "minPrice7d": 71.05,
+          "maxPrice7d": 72.3,
+          "stddevPopPrice7d": 0.4,
+          "covPrice7d": 0.005617893278675112,
+          "iqrPrice7d": 0.68,
+          "trendSlope7d": -0.031060630831874502,
+          "priceChangesCount7d": 12,
+          "priceChange30d": 1.62,
+          "avgPrice30d": 72.76,
+          "minPrice30d": 71.05,
+          "maxPrice30d": 74.89,
+          "stddevPopPrice30d": 1.27,
+          "covPrice30d": 0.017490839876517728,
+          "iqrPrice30d": 2.34,
+          "trendSlope30d": -0.00568722928740519,
+          "priceChangesCount30d": 57,
+          "priceRelativeTo30dRange": 0.3255208333333333,
+          "priceChange90d": -14.98,
+          "avgPrice90d": 78.18,
+          "minPrice90d": 70.45,
+          "maxPrice90d": 88.98,
+          "stddevPopPrice90d": 5.92,
+          "covPrice90d": 0.07568379883482156,
+          "iqrPrice90d": 12.08,
+          "trendSlope90d": -0.20009343373128702,
+          "priceChangesCount90d": 183,
+          "priceRelativeTo90dRange": 0.09983810037776579,
+          "minPrice1y": 70.45,
+          "maxPrice1y": 164,
+          "minPriceAllTime": 70.45,
+          "minPriceAllTimeDate": "2026-05-21T04:47:00.560Z",
+          "maxPriceAllTime": 164,
+          "maxPriceAllTimeDate": "2026-02-02T09:57:31.563Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-fezandipiti-ex-288-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "9849ae8f-2ea2-5eb2-a828-1e23da362d6a",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126049",
+          "price": 65.5,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 3.97,
+          "priceHistory": [
+            {
+              "p": 63,
+              "t": 1781568000
+            },
+            {
+              "p": 63,
+              "t": 1781654400
+            },
+            {
+              "p": 63,
+              "t": 1781740800
+            },
+            {
+              "p": 63,
+              "t": 1781827200
+            },
+            {
+              "p": 63,
+              "t": 1781913600
+            },
+            {
+              "p": 63,
+              "t": 1782000000
+            },
+            {
+              "p": 65.5,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 3.97,
+          "avgPrice": 63.09,
+          "minPrice7d": 63,
+          "maxPrice7d": 65.5,
+          "stddevPopPrice7d": 0.46,
+          "covPrice7d": 0.007353739630210348,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0.073434626359509,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 3.97,
+          "avgPrice30d": 63.02,
+          "minPrice30d": 63,
+          "maxPrice30d": 65.5,
+          "stddevPopPrice30d": 0.23,
+          "covPrice30d": 0.0036672612320510253,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.004266352756259781,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 3.97,
+          "avgPrice90d": 63.01,
+          "minPrice90d": 63,
+          "maxPrice90d": 65.5,
+          "stddevPopPrice90d": 0.17,
+          "covPrice90d": 0.0027378042260252774,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0.00129811032520887,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 63,
+          "maxPrice1y": 65.5,
+          "minPriceAllTime": 63,
+          "minPriceAllTimeDate": "2026-06-22T13:14:10.479Z",
+          "maxPriceAllTime": 65.5,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.184Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-scrafty-ex-285-217-special-illustration-rare",
+      "uuid": "37d2fa0d-7b04-5151-8cfd-4f9e56b1e502",
+      "name": "Mega Scrafty ex - 285/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "285/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676097",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-scrafty-ex-285-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "51cbda02-eb93-583b-bfa6-683b29f60835",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126032",
+          "price": 76.73,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.29,
+          "priceHistory": [
+            {
+              "p": 77.93,
+              "t": 1781568000
+            },
+            {
+              "p": 78.13,
+              "t": 1781654400
+            },
+            {
+              "p": 76.9,
+              "t": 1781740800
+            },
+            {
+              "p": 77.11,
+              "t": 1781827200
+            },
+            {
+              "p": 77.05,
+              "t": 1781913600
+            },
+            {
+              "p": 77.04,
+              "t": 1782000000
+            },
+            {
+              "p": 76.73,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -1.07,
+          "avgPrice": 77.29,
+          "minPrice7d": 76.73,
+          "maxPrice7d": 78.36,
+          "stddevPopPrice7d": 0.44,
+          "covPrice7d": 0.005748103996414277,
+          "iqrPrice7d": 0.65,
+          "trendSlope7d": -0.18101230565278498,
+          "priceChangesCount7d": 20,
+          "priceChange30d": 1.56,
+          "avgPrice30d": 76.05,
+          "minPrice30d": 73.91,
+          "maxPrice30d": 78.67,
+          "stddevPopPrice30d": 1.45,
+          "covPrice30d": 0.01905824659712486,
+          "iqrPrice30d": 2.54,
+          "trendSlope30d": 0.142419989858471,
+          "priceChangesCount30d": 61,
+          "priceRelativeTo30dRange": 0.592436974789916,
+          "priceChange90d": 20.46,
+          "avgPrice90d": 72.92,
+          "minPrice90d": 63.23,
+          "maxPrice90d": 79.22,
+          "stddevPopPrice90d": 5.16,
+          "covPrice90d": 0.07079488746486814,
+          "iqrPrice90d": 7.93,
+          "trendSlope90d": 0.162893763116228,
+          "priceChangesCount90d": 176,
+          "priceRelativeTo90dRange": 0.8442776735459663,
+          "minPrice1y": 61.29,
+          "maxPrice1y": 100.25,
+          "minPriceAllTime": 61.29,
+          "minPriceAllTimeDate": "2026-03-19T16:00:12.403Z",
+          "maxPriceAllTime": 100.25,
+          "maxPriceAllTimeDate": "2026-02-01T20:38:28.484Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-scrafty-ex-285-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "b64b14c7-b9b1-5231-b53c-b0b81fb0edbc",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126034",
+          "price": 69,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 69,
+              "t": 1781568000
+            },
+            {
+              "p": 69,
+              "t": 1781654400
+            },
+            {
+              "p": 69,
+              "t": 1781740800
+            },
+            {
+              "p": 69,
+              "t": 1781827200
+            },
+            {
+              "p": 69,
+              "t": 1781913600
+            },
+            {
+              "p": 69,
+              "t": 1782000000
+            },
+            {
+              "p": 69,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 69,
+          "minPrice7d": 69,
+          "maxPrice7d": 69,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 69,
+          "minPrice30d": 69,
+          "maxPrice30d": 69,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 69,
+          "minPrice90d": 69,
+          "maxPrice90d": 69,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 69,
+          "maxPrice1y": 69,
+          "minPriceAllTime": 69,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.251Z",
+          "maxPriceAllTime": 69,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.251Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-scrafty-ex-285-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "9f0e8f13-ff0e-5330-b77c-f11366fdcb1a",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126033",
+          "price": 65.92,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 65.68,
+              "t": 1781568000
+            },
+            {
+              "p": 65.68,
+              "t": 1781654400
+            },
+            {
+              "p": 65.68,
+              "t": 1781740800
+            },
+            {
+              "p": 65.68,
+              "t": 1781827200
+            },
+            {
+              "p": 65.68,
+              "t": 1781913600
+            },
+            {
+              "p": 65.92,
+              "t": 1782000000
+            },
+            {
+              "p": 65.92,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0.37,
+          "avgPrice": 65.73,
+          "minPrice7d": 65.68,
+          "maxPrice7d": 65.92,
+          "stddevPopPrice7d": 0.1,
+          "covPrice7d": 0.0014981907276027198,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0.0344746334479942,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 0.67,
+          "avgPrice30d": 65.61,
+          "minPrice30d": 65.45,
+          "maxPrice30d": 65.92,
+          "stddevPopPrice30d": 0.12,
+          "covPrice30d": 0.0018890957305072833,
+          "iqrPrice30d": 0.2,
+          "trendSlope30d": 0.012160870816579,
+          "priceChangesCount30d": 3,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 16.34,
+          "avgPrice90d": 62.92,
+          "minPrice90d": 56.24,
+          "maxPrice90d": 65.92,
+          "stddevPopPrice90d": 3.81,
+          "covPrice90d": 0.06055354342117206,
+          "iqrPrice90d": 5.68,
+          "trendSlope90d": 0.124072045560052,
+          "priceChangesCount90d": 12,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 55,
+          "maxPrice1y": 65.92,
+          "minPriceAllTime": 55,
+          "minPriceAllTimeDate": "2026-03-19T22:55:45.425Z",
+          "maxPriceAllTime": 65.92,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.251Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-mega-diancie-ex-282-217-special-illustration-rare",
+      "uuid": "062bb6f9-d4e4-5071-a854-91f5d9b7d915",
+      "name": "Mega Diancie ex - 282/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "282/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676094",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-mega-diancie-ex-282-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "3685ab1a-26f7-583f-9f42-007c4ff744f5",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126017",
+          "price": 74.3,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 75.79,
+              "t": 1781568000
+            },
+            {
+              "p": 75.73,
+              "t": 1781654400
+            },
+            {
+              "p": 75.56,
+              "t": 1781740800
+            },
+            {
+              "p": 75.56,
+              "t": 1781827200
+            },
+            {
+              "p": 74.29,
+              "t": 1781913600
+            },
+            {
+              "p": 74.3,
+              "t": 1782000000
+            },
+            {
+              "p": 74.3,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -2.03,
+          "avgPrice": 75.07,
+          "minPrice7d": 74.29,
+          "maxPrice7d": 75.92,
+          "stddevPopPrice7d": 0.69,
+          "covPrice7d": 0.009149226216702703,
+          "iqrPrice7d": 1.43,
+          "trendSlope7d": -0.30463488031866404,
+          "priceChangesCount7d": 11,
+          "priceChange30d": 0.57,
+          "avgPrice30d": 73.55,
+          "minPrice30d": 72.08,
+          "maxPrice30d": 75.92,
+          "stddevPopPrice30d": 1.33,
+          "covPrice30d": 0.01807632791394779,
+          "iqrPrice30d": 2.49,
+          "trendSlope30d": 0.104010135997286,
+          "priceChangesCount30d": 45,
+          "priceRelativeTo30dRange": 0.578125,
+          "priceChange90d": 26.08,
+          "avgPrice90d": 70.1,
+          "minPrice90d": 58.93,
+          "maxPrice90d": 75.92,
+          "stddevPopPrice90d": 4.53,
+          "covPrice90d": 0.0645830770378702,
+          "iqrPrice90d": 8.56,
+          "trendSlope90d": 0.155691398206666,
+          "priceChangesCount90d": 159,
+          "priceRelativeTo90dRange": 0.9046497939964685,
+          "minPrice1y": 54.68,
+          "maxPrice1y": 295.99,
+          "minPriceAllTime": 54.68,
+          "minPriceAllTimeDate": "2026-03-11T23:51:33.834Z",
+          "maxPriceAllTime": 295.99,
+          "maxPriceAllTimeDate": "2026-02-02T16:37:13.030Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-diancie-ex-282-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "31f69a3f-c04a-58cf-8242-3d8c320d561a",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126019",
+          "price": 66.31,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 59.46,
+              "t": 1781568000
+            },
+            {
+              "p": 59.46,
+              "t": 1781654400
+            },
+            {
+              "p": 66.31,
+              "t": 1781740800
+            },
+            {
+              "p": 66.31,
+              "t": 1781827200
+            },
+            {
+              "p": 66.31,
+              "t": 1781913600
+            },
+            {
+              "p": 66.31,
+              "t": 1782000000
+            },
+            {
+              "p": 66.31,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 11.52,
+          "avgPrice": 64.11,
+          "minPrice7d": 59.46,
+          "maxPrice7d": 66.31,
+          "stddevPopPrice7d": 3.2,
+          "covPrice7d": 0.049901880909935185,
+          "iqrPrice7d": 6.85,
+          "trendSlope7d": 1.27451201009715,
+          "priceChangesCount7d": 1,
+          "priceChange30d": 11.52,
+          "avgPrice30d": 60.58,
+          "minPrice30d": 59.46,
+          "maxPrice30d": 66.31,
+          "stddevPopPrice30d": 2.54,
+          "covPrice30d": 0.04184578957429023,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.18762143221678598,
+          "priceChangesCount30d": 1,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 11.52,
+          "avgPrice90d": 60.48,
+          "minPrice90d": 59.46,
+          "maxPrice90d": 66.31,
+          "stddevPopPrice90d": 2.44,
+          "covPrice90d": 0.04039515298169873,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0.157785614374787,
+          "priceChangesCount90d": 2,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 59.46,
+          "maxPrice1y": 66.31,
+          "minPriceAllTime": 59.46,
+          "minPriceAllTimeDate": "2026-06-18T00:33:52.235Z",
+          "maxPriceAllTime": 66.31,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.237Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-mega-diancie-ex-282-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "c29110db-574d-598c-94a7-a6411e489963",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126018",
+          "price": 64.67,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 64.67,
+              "t": 1781568000
+            },
+            {
+              "p": 64.67,
+              "t": 1781654400
+            },
+            {
+              "p": 64.67,
+              "t": 1781740800
+            },
+            {
+              "p": 64.67,
+              "t": 1781827200
+            },
+            {
+              "p": 64.67,
+              "t": 1781913600
+            },
+            {
+              "p": 64.67,
+              "t": 1782000000
+            },
+            {
+              "p": 64.67,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 64.67,
+          "minPrice7d": 64.67,
+          "maxPrice7d": 64.67,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 5.12,
+          "avgPrice30d": 63.89,
+          "minPrice30d": 61.52,
+          "maxPrice30d": 64.67,
+          "stddevPopPrice30d": 1.17,
+          "covPrice30d": 0.018304135368389426,
+          "iqrPrice30d": 1.76,
+          "trendSlope30d": 0.114573177271958,
+          "priceChangesCount30d": 7,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 21.13,
+          "avgPrice90d": 60.13,
+          "minPrice90d": 53.39,
+          "maxPrice90d": 64.67,
+          "stddevPopPrice90d": 3.52,
+          "covPrice90d": 0.05853533418643654,
+          "iqrPrice90d": 6.39,
+          "trendSlope90d": 0.13247475180451102,
+          "priceChangesCount90d": 22,
+          "priceRelativeTo90dRange": 1,
+          "minPrice1y": 51.34,
+          "maxPrice1y": 160.97,
+          "minPriceAllTime": 51.34,
+          "minPriceAllTimeDate": "2026-03-11T23:51:33.834Z",
+          "maxPriceAllTime": 160.97,
+          "maxPriceAllTimeDate": "2026-02-08T23:04:41.391Z"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-me-ascended-heroes-iono-s-bellibolt-ex-279-217-special-illustration-rare",
+      "uuid": "90becd9e-3a85-512a-9ef4-422203b9e217",
+      "name": "Iono's Bellibolt ex - 279/217",
+      "game": "Pokemon",
+      "set": "me-ascended-heroes-pokemon",
+      "set_name": "ME: Ascended Heroes",
+      "number": "279/217",
+      "rarity": "Special Illustration Rare",
+      "tcgplayerId": "676091",
+      "mtgjsonId": null,
+      "scryfallId": null,
+      "details": null,
+      "variants": [
+        {
+          "id": "pokemon-me-ascended-heroes-iono-s-bellibolt-ex-279-217-special-illustration-rare_lightly-played_holofoil",
+          "uuid": "aaab9599-8e07-5f79-8621-c4c4e93e9633",
+          "condition": "Lightly Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126003",
+          "price": 73.94,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 73.94,
+              "t": 1781568000
+            },
+            {
+              "p": 73.94,
+              "t": 1781654400
+            },
+            {
+              "p": 73.94,
+              "t": 1781740800
+            },
+            {
+              "p": 73.94,
+              "t": 1781827200
+            },
+            {
+              "p": 73.94,
+              "t": 1781913600
+            },
+            {
+              "p": 73.94,
+              "t": 1782000000
+            },
+            {
+              "p": 73.94,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 73.94,
+          "minPrice7d": 73.94,
+          "maxPrice7d": 73.94,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0.98,
+          "avgPrice30d": 73.81,
+          "minPrice30d": 73.22,
+          "maxPrice30d": 73.94,
+          "stddevPopPrice30d": 0.27,
+          "covPrice30d": 0.0036616000799264523,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0.0213366914844642,
+          "priceChangesCount30d": 3,
+          "priceRelativeTo30dRange": 1,
+          "priceChange90d": 2.54,
+          "avgPrice90d": 72.47,
+          "minPrice90d": 69.97,
+          "maxPrice90d": 74.97,
+          "stddevPopPrice90d": 1.33,
+          "covPrice90d": 0.018369102487274556,
+          "iqrPrice90d": 2.26,
+          "trendSlope90d": 0.031889702232883003,
+          "priceChangesCount90d": 16,
+          "priceRelativeTo90dRange": 0.794,
+          "minPrice1y": 69.5,
+          "maxPrice1y": 75,
+          "minPriceAllTime": 69.5,
+          "minPriceAllTimeDate": "2026-03-19T09:48:08.496Z",
+          "maxPriceAllTime": 75,
+          "maxPriceAllTimeDate": "2026-03-09T12:35:15.811Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-iono-s-bellibolt-ex-279-217-special-illustration-rare_near-mint_holofoil",
+          "uuid": "9dafe89d-c9e7-50da-bdfd-1b9444621efa",
+          "condition": "Near Mint",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126002",
+          "price": 73.62,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": -0.11,
+          "priceHistory": [
+            {
+              "p": 73.93,
+              "t": 1781568000
+            },
+            {
+              "p": 73.84,
+              "t": 1781654400
+            },
+            {
+              "p": 74.59,
+              "t": 1781740800
+            },
+            {
+              "p": 74.39,
+              "t": 1781827200
+            },
+            {
+              "p": 74.2,
+              "t": 1781913600
+            },
+            {
+              "p": 73.7,
+              "t": 1782000000
+            },
+            {
+              "p": 73.62,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": -0.3,
+          "avgPrice": 74.06,
+          "minPrice7d": 73.62,
+          "maxPrice7d": 74.59,
+          "stddevPopPrice7d": 0.32,
+          "covPrice7d": 0.004334391416494186,
+          "iqrPrice7d": 0.58,
+          "trendSlope7d": -0.0261961251743043,
+          "priceChangesCount7d": 14,
+          "priceChange30d": -3.49,
+          "avgPrice30d": 75.85,
+          "minPrice30d": 73.45,
+          "maxPrice30d": 78.59,
+          "stddevPopPrice30d": 1.72,
+          "covPrice30d": 0.02266464866740016,
+          "iqrPrice30d": 3.27,
+          "trendSlope30d": -0.161811008355994,
+          "priceChangesCount30d": 53,
+          "priceRelativeTo30dRange": 0.033073929961089495,
+          "priceChange90d": -10.86,
+          "avgPrice90d": 75.97,
+          "minPrice90d": 69.56,
+          "maxPrice90d": 83.12,
+          "stddevPopPrice90d": 3.26,
+          "covPrice90d": 0.04285609476878918,
+          "iqrPrice90d": 3.87,
+          "trendSlope90d": -0.0383957667653645,
+          "priceChangesCount90d": 182,
+          "priceRelativeTo90dRange": 0.2994100294985251,
+          "minPrice1y": 69.56,
+          "maxPrice1y": 189.99,
+          "minPriceAllTime": 69.56,
+          "minPriceAllTimeDate": "2026-04-23T23:27:04.653Z",
+          "maxPriceAllTime": 189.99,
+          "maxPriceAllTimeDate": "2026-01-31T16:41:25.125Z"
+        },
+        {
+          "id": "pokemon-me-ascended-heroes-iono-s-bellibolt-ex-279-217-special-illustration-rare_moderately-played_holofoil",
+          "uuid": "46d1e987-37ae-5972-b111-f6ff91819cb2",
+          "condition": "Moderately Played",
+          "printing": "Holofoil",
+          "language": "English",
+          "tcgplayerSkuId": "9126004",
+          "price": 60,
+          "lastUpdated": 1782155717,
+          "priceChange24hr": 0,
+          "priceHistory": [
+            {
+              "p": 60,
+              "t": 1781568000
+            },
+            {
+              "p": 60,
+              "t": 1781654400
+            },
+            {
+              "p": 60,
+              "t": 1781740800
+            },
+            {
+              "p": 60,
+              "t": 1781827200
+            },
+            {
+              "p": 60,
+              "t": 1781913600
+            },
+            {
+              "p": 60,
+              "t": 1782000000
+            },
+            {
+              "p": 60,
+              "t": 1782086400
+            }
+          ],
+          "priceChange7d": 0,
+          "avgPrice": 60,
+          "minPrice7d": 60,
+          "maxPrice7d": 60,
+          "stddevPopPrice7d": 0,
+          "covPrice7d": 0,
+          "iqrPrice7d": 0,
+          "trendSlope7d": 0,
+          "priceChangesCount7d": 0,
+          "priceChange30d": 0,
+          "avgPrice30d": 60,
+          "minPrice30d": 60,
+          "maxPrice30d": 60,
+          "stddevPopPrice30d": 0,
+          "covPrice30d": 0,
+          "iqrPrice30d": 0,
+          "trendSlope30d": 0,
+          "priceChangesCount30d": 0,
+          "priceRelativeTo30dRange": null,
+          "priceChange90d": 0,
+          "avgPrice90d": 60,
+          "minPrice90d": 60,
+          "maxPrice90d": 60,
+          "stddevPopPrice90d": 0,
+          "covPrice90d": 0,
+          "iqrPrice90d": 0,
+          "trendSlope90d": 0,
+          "priceChangesCount90d": 1,
+          "priceRelativeTo90dRange": null,
+          "minPrice1y": 60,
+          "maxPrice1y": 60,
+          "minPriceAllTime": 60,
+          "minPriceAllTimeDate": "2026-06-22T19:15:17.207Z",
+          "maxPriceAllTime": 60,
+          "maxPriceAllTimeDate": "2026-06-22T19:15:17.207Z"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": 142,
+    "limit": 20,
+    "offset": 0,
+    "hasMore": true
+  },
+  "_metadata": {
+    "apiRequestLimit": 1000,
+    "apiDailyLimit": 100,
+    "apiRateLimit": 10,
+    "apiRequestsUsed": 11,
+    "apiDailyRequestsUsed": 11,
+    "apiRequestsRemaining": 989,
+    "apiDailyRequestsRemaining": 89,
+    "apiPlan": "Free Tier"
+  }
+}

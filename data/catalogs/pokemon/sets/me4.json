@@ -1,0 +1,985 @@
+{
+  "setId": "me4",
+  "setName": "Chaos Rising",
+  "printedTotal": 86,
+  "totalCards": 122,
+  "builtAt": "2026-06-23T00:47:31.542Z",
+  "cards": [
+    {
+      "id": "me4-1",
+      "name": "Weedle",
+      "cardNumber": "1",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-1/large"
+    },
+    {
+      "id": "me4-2",
+      "name": "Kakuna",
+      "cardNumber": "2",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-2/large"
+    },
+    {
+      "id": "me4-3",
+      "name": "Beedrill ex",
+      "cardNumber": "3",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-3/large"
+    },
+    {
+      "id": "me4-4",
+      "name": "Carnivine",
+      "cardNumber": "4",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-4/large"
+    },
+    {
+      "id": "me4-5",
+      "name": "Chespin",
+      "cardNumber": "5",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-5/large"
+    },
+    {
+      "id": "me4-6",
+      "name": "Quilladin",
+      "cardNumber": "6",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-6/large"
+    },
+    {
+      "id": "me4-7",
+      "name": "Chesnaught",
+      "cardNumber": "7",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-7/large"
+    },
+    {
+      "id": "me4-8",
+      "name": "Vulpix",
+      "cardNumber": "8",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-8/large"
+    },
+    {
+      "id": "me4-9",
+      "name": "Ninetales",
+      "cardNumber": "9",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-9/large"
+    },
+    {
+      "id": "me4-10",
+      "name": "Ho-Oh",
+      "cardNumber": "10",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-10/large"
+    },
+    {
+      "id": "me4-11",
+      "name": "Fennekin",
+      "cardNumber": "11",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-11/large"
+    },
+    {
+      "id": "me4-12",
+      "name": "Braixen",
+      "cardNumber": "12",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-12/large"
+    },
+    {
+      "id": "me4-13",
+      "name": "Delphox",
+      "cardNumber": "13",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-13/large"
+    },
+    {
+      "id": "me4-14",
+      "name": "Litleo",
+      "cardNumber": "14",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-14/large"
+    },
+    {
+      "id": "me4-15",
+      "name": "Mega Pyroar ex",
+      "cardNumber": "15",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-15/large"
+    },
+    {
+      "id": "me4-16",
+      "name": "Remoraid",
+      "cardNumber": "16",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-16/large"
+    },
+    {
+      "id": "me4-17",
+      "name": "Octillery",
+      "cardNumber": "17",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-17/large"
+    },
+    {
+      "id": "me4-18",
+      "name": "Delibird",
+      "cardNumber": "18",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-18/large"
+    },
+    {
+      "id": "me4-19",
+      "name": "Keldeo",
+      "cardNumber": "19",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-19/large"
+    },
+    {
+      "id": "me4-20",
+      "name": "Froakie",
+      "cardNumber": "20",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-20/large"
+    },
+    {
+      "id": "me4-21",
+      "name": "Frogadier",
+      "cardNumber": "21",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-21/large"
+    },
+    {
+      "id": "me4-22",
+      "name": "Mega Greninja ex",
+      "cardNumber": "22",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-22/large"
+    },
+    {
+      "id": "me4-23",
+      "name": "Bergmite",
+      "cardNumber": "23",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-23/large"
+    },
+    {
+      "id": "me4-24",
+      "name": "Avalugg",
+      "cardNumber": "24",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-24/large"
+    },
+    {
+      "id": "me4-25",
+      "name": "Wimpod",
+      "cardNumber": "25",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-25/large"
+    },
+    {
+      "id": "me4-26",
+      "name": "Golisopod",
+      "cardNumber": "26",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-26/large"
+    },
+    {
+      "id": "me4-27",
+      "name": "Mareep",
+      "cardNumber": "27",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-27/large"
+    },
+    {
+      "id": "me4-28",
+      "name": "Flaaffy",
+      "cardNumber": "28",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-28/large"
+    },
+    {
+      "id": "me4-29",
+      "name": "Ampharos",
+      "cardNumber": "29",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-29/large"
+    },
+    {
+      "id": "me4-30",
+      "name": "Emolga",
+      "cardNumber": "30",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-30/large"
+    },
+    {
+      "id": "me4-31",
+      "name": "Deoxys",
+      "cardNumber": "31",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-31/large"
+    },
+    {
+      "id": "me4-32",
+      "name": "Deoxys",
+      "cardNumber": "32",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-32/large"
+    },
+    {
+      "id": "me4-33",
+      "name": "Deoxys",
+      "cardNumber": "33",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-33/large"
+    },
+    {
+      "id": "me4-34",
+      "name": "Deoxys",
+      "cardNumber": "34",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-34/large"
+    },
+    {
+      "id": "me4-35",
+      "name": "Mega Floette ex",
+      "cardNumber": "35",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-35/large"
+    },
+    {
+      "id": "me4-36",
+      "name": "Espurr",
+      "cardNumber": "36",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-36/large"
+    },
+    {
+      "id": "me4-37",
+      "name": "Meowstic",
+      "cardNumber": "37",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-37/large"
+    },
+    {
+      "id": "me4-38",
+      "name": "Phantump",
+      "cardNumber": "38",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-38/large"
+    },
+    {
+      "id": "me4-39",
+      "name": "Trevenant",
+      "cardNumber": "39",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-39/large"
+    },
+    {
+      "id": "me4-40",
+      "name": "Pumpkaboo",
+      "cardNumber": "40",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-40/large"
+    },
+    {
+      "id": "me4-41",
+      "name": "Gourgeist ex",
+      "cardNumber": "41",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-41/large"
+    },
+    {
+      "id": "me4-42",
+      "name": "Xerneas",
+      "cardNumber": "42",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-42/large"
+    },
+    {
+      "id": "me4-43",
+      "name": "Sudowoodo",
+      "cardNumber": "43",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-43/large"
+    },
+    {
+      "id": "me4-44",
+      "name": "Phanpy",
+      "cardNumber": "44",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-44/large"
+    },
+    {
+      "id": "me4-45",
+      "name": "Donphan",
+      "cardNumber": "45",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-45/large"
+    },
+    {
+      "id": "me4-46",
+      "name": "Baltoy",
+      "cardNumber": "46",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-46/large"
+    },
+    {
+      "id": "me4-47",
+      "name": "Claydol",
+      "cardNumber": "47",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-47/large"
+    },
+    {
+      "id": "me4-48",
+      "name": "Mega Gallade ex",
+      "cardNumber": "48",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-48/large"
+    },
+    {
+      "id": "me4-49",
+      "name": "Zubat",
+      "cardNumber": "49",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-49/large"
+    },
+    {
+      "id": "me4-50",
+      "name": "Golbat",
+      "cardNumber": "50",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-50/large"
+    },
+    {
+      "id": "me4-51",
+      "name": "Crobat",
+      "cardNumber": "51",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-51/large"
+    },
+    {
+      "id": "me4-52",
+      "name": "Qwilfish",
+      "cardNumber": "52",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-52/large"
+    },
+    {
+      "id": "me4-53",
+      "name": "Stunky",
+      "cardNumber": "53",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-53/large"
+    },
+    {
+      "id": "me4-54",
+      "name": "Skuntank",
+      "cardNumber": "54",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-54/large"
+    },
+    {
+      "id": "me4-55",
+      "name": "Krookodile ex",
+      "cardNumber": "55",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-55/large"
+    },
+    {
+      "id": "me4-56",
+      "name": "Trubbish",
+      "cardNumber": "56",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-56/large"
+    },
+    {
+      "id": "me4-57",
+      "name": "Garbodor",
+      "cardNumber": "57",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-57/large"
+    },
+    {
+      "id": "me4-58",
+      "name": "Skrelp",
+      "cardNumber": "58",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-58/large"
+    },
+    {
+      "id": "me4-59",
+      "name": "Beldum",
+      "cardNumber": "59",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-59/large"
+    },
+    {
+      "id": "me4-60",
+      "name": "Metang",
+      "cardNumber": "60",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-60/large"
+    },
+    {
+      "id": "me4-61",
+      "name": "Metagross",
+      "cardNumber": "61",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-61/large"
+    },
+    {
+      "id": "me4-62",
+      "name": "Ferroseed",
+      "cardNumber": "62",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-62/large"
+    },
+    {
+      "id": "me4-63",
+      "name": "Ferrothorn",
+      "cardNumber": "63",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-63/large"
+    },
+    {
+      "id": "me4-64",
+      "name": "Cobalion ex",
+      "cardNumber": "64",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-64/large"
+    },
+    {
+      "id": "me4-65",
+      "name": "Mega Dragalge ex",
+      "cardNumber": "65",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-65/large"
+    },
+    {
+      "id": "me4-66",
+      "name": "Goomy",
+      "cardNumber": "66",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-66/large"
+    },
+    {
+      "id": "me4-67",
+      "name": "Sliggoo",
+      "cardNumber": "67",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-67/large"
+    },
+    {
+      "id": "me4-68",
+      "name": "Goodra",
+      "cardNumber": "68",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-68/large"
+    },
+    {
+      "id": "me4-69",
+      "name": "Tauros",
+      "cardNumber": "69",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-69/large"
+    },
+    {
+      "id": "me4-70",
+      "name": "Patrat",
+      "cardNumber": "70",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-70/large"
+    },
+    {
+      "id": "me4-71",
+      "name": "Watchog",
+      "cardNumber": "71",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-71/large"
+    },
+    {
+      "id": "me4-72",
+      "name": "Minccino",
+      "cardNumber": "72",
+      "rarity": "Common",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-72/large"
+    },
+    {
+      "id": "me4-73",
+      "name": "Cinccino ex",
+      "cardNumber": "73",
+      "rarity": "Double Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-73/large"
+    },
+    {
+      "id": "me4-74",
+      "name": "Adversity Policy",
+      "cardNumber": "74",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-74/large"
+    },
+    {
+      "id": "me4-75",
+      "name": "Ange Floette",
+      "cardNumber": "75",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-75/large"
+    },
+    {
+      "id": "me4-76",
+      "name": "AZ's Tranquility",
+      "cardNumber": "76",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-76/large"
+    },
+    {
+      "id": "me4-77",
+      "name": "Emma",
+      "cardNumber": "77",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-77/large"
+    },
+    {
+      "id": "me4-78",
+      "name": "Great Haul Net",
+      "cardNumber": "78",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-78/large"
+    },
+    {
+      "id": "me4-79",
+      "name": "Philippe",
+      "cardNumber": "79",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-79/large"
+    },
+    {
+      "id": "me4-80",
+      "name": "Prism Tower",
+      "cardNumber": "80",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-80/large"
+    },
+    {
+      "id": "me4-81",
+      "name": "Roxie's Performance",
+      "cardNumber": "81",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-81/large"
+    },
+    {
+      "id": "me4-82",
+      "name": "Special Red Card",
+      "cardNumber": "82",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-82/large"
+    },
+    {
+      "id": "me4-83",
+      "name": "Transformation Tome",
+      "cardNumber": "83",
+      "rarity": "Uncommon",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-83/large"
+    },
+    {
+      "id": "me4-84",
+      "name": "Bubbly Water Energy",
+      "cardNumber": "84",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-84/large"
+    },
+    {
+      "id": "me4-85",
+      "name": "Magnetic Metal Energy",
+      "cardNumber": "85",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-85/large"
+    },
+    {
+      "id": "me4-86",
+      "name": "Nitro Fire Energy",
+      "cardNumber": "86",
+      "rarity": "Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-86/large"
+    },
+    {
+      "id": "me4-87",
+      "name": "Chespin",
+      "cardNumber": "87",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-87/large"
+    },
+    {
+      "id": "me4-88",
+      "name": "Froakie",
+      "cardNumber": "88",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-88/large"
+    },
+    {
+      "id": "me4-89",
+      "name": "Frogadier",
+      "cardNumber": "89",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-89/large"
+    },
+    {
+      "id": "me4-90",
+      "name": "Ampharos",
+      "cardNumber": "90",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-90/large"
+    },
+    {
+      "id": "me4-91",
+      "name": "Xerneas",
+      "cardNumber": "91",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-91/large"
+    },
+    {
+      "id": "me4-92",
+      "name": "Claydol",
+      "cardNumber": "92",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-92/large"
+    },
+    {
+      "id": "me4-93",
+      "name": "Crobat",
+      "cardNumber": "93",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-93/large"
+    },
+    {
+      "id": "me4-94",
+      "name": "Metang",
+      "cardNumber": "94",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-94/large"
+    },
+    {
+      "id": "me4-95",
+      "name": "Sliggoo",
+      "cardNumber": "95",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-95/large"
+    },
+    {
+      "id": "me4-96",
+      "name": "Tauros",
+      "cardNumber": "96",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-96/large"
+    },
+    {
+      "id": "me4-97",
+      "name": "Watchog",
+      "cardNumber": "97",
+      "rarity": "Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-97/large"
+    },
+    {
+      "id": "me4-98",
+      "name": "Beedrill ex",
+      "cardNumber": "98",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-98/large"
+    },
+    {
+      "id": "me4-99",
+      "name": "Mega Pyroar ex",
+      "cardNumber": "99",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-99/large"
+    },
+    {
+      "id": "me4-100",
+      "name": "Mega Greninja ex",
+      "cardNumber": "100",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-100/large"
+    },
+    {
+      "id": "me4-101",
+      "name": "Mega Floette ex",
+      "cardNumber": "101",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-101/large"
+    },
+    {
+      "id": "me4-102",
+      "name": "Gourgeist ex",
+      "cardNumber": "102",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-102/large"
+    },
+    {
+      "id": "me4-103",
+      "name": "Cobalion ex",
+      "cardNumber": "103",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-103/large"
+    },
+    {
+      "id": "me4-104",
+      "name": "Mega Dragalge ex",
+      "cardNumber": "104",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-104/large"
+    },
+    {
+      "id": "me4-105",
+      "name": "Cinccino ex",
+      "cardNumber": "105",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-105/large"
+    },
+    {
+      "id": "me4-106",
+      "name": "AZ's Tranquility",
+      "cardNumber": "106",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-106/large"
+    },
+    {
+      "id": "me4-107",
+      "name": "Emma",
+      "cardNumber": "107",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-107/large"
+    },
+    {
+      "id": "me4-108",
+      "name": "Energy Retrieval",
+      "cardNumber": "108",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-108/large"
+    },
+    {
+      "id": "me4-109",
+      "name": "Jumbo Ice Cream",
+      "cardNumber": "109",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-109/large"
+    },
+    {
+      "id": "me4-110",
+      "name": "Philippe",
+      "cardNumber": "110",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-110/large"
+    },
+    {
+      "id": "me4-111",
+      "name": "Prism Tower",
+      "cardNumber": "111",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-111/large"
+    },
+    {
+      "id": "me4-112",
+      "name": "Roxie's Performance",
+      "cardNumber": "112",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-112/large"
+    },
+    {
+      "id": "me4-113",
+      "name": "Special Red Card",
+      "cardNumber": "113",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-113/large"
+    },
+    {
+      "id": "me4-114",
+      "name": "Surfing Beach",
+      "cardNumber": "114",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-114/large"
+    },
+    {
+      "id": "me4-115",
+      "name": "Tool Scrapper",
+      "cardNumber": "115",
+      "rarity": "Ultra Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-115/large"
+    },
+    {
+      "id": "me4-116",
+      "name": "Mega Greninja ex",
+      "cardNumber": "116",
+      "rarity": "Special Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-116/large"
+    },
+    {
+      "id": "me4-117",
+      "name": "Mega Floette ex",
+      "cardNumber": "117",
+      "rarity": "Special Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-117/large"
+    },
+    {
+      "id": "me4-118",
+      "name": "Mega Dragalge ex",
+      "cardNumber": "118",
+      "rarity": "Special Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-118/large"
+    },
+    {
+      "id": "me4-119",
+      "name": "Cinccino ex",
+      "cardNumber": "119",
+      "rarity": "Special Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-119/large"
+    },
+    {
+      "id": "me4-120",
+      "name": "AZ's Tranquility",
+      "cardNumber": "120",
+      "rarity": "Special Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-120/large"
+    },
+    {
+      "id": "me4-121",
+      "name": "Roxie's Performance",
+      "cardNumber": "121",
+      "rarity": "Special Illustration Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-121/large"
+    },
+    {
+      "id": "me4-122",
+      "name": "Mega Greninja ex",
+      "cardNumber": "122",
+      "rarity": "Mega Hyper Rare",
+      "setName": "Chaos Rising",
+      "artUrl": "https://images.scrydex.com/pokemon/me4-122/large"
+    }
+  ]
+}

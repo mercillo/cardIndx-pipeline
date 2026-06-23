@@ -18,26 +18,12 @@ interface MosaicProps {
   cards: CardData[];
 }
 
-const ChangeBadge = ({ value }: { value: number | null | undefined }) => {
-  if (value === null || value === undefined) return null;
+const ChangeText = ({ value }: { value: number | null | undefined }) => {
+  if (value == null) return null;
   const isUp = value >= 0;
   return (
-    <div
-      style={{
-        backgroundColor: isUp ? theme.colors.up : theme.colors.down,
-        color: "#FFFFFF",
-        fontSize: 24,
-        fontFamily: theme.fonts.mono,
-        fontWeight: 700,
-        paddingTop: 6,
-        paddingBottom: 6,
-        paddingLeft: 12,
-        paddingRight: 12,
-        borderRadius: 6,
-        lineHeight: 1,
-      }}
-    >
-      {isUp ? "▲" : "▼"} {Math.abs(value).toFixed(1)}%
+    <div style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 19, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
+      {isUp ? "+" : ""}{value.toFixed(1)}% 7d
     </div>
   );
 };
@@ -165,21 +151,23 @@ export const Mosaic = ({ cards }: MosaicProps) => {
               <div
                 style={{
                   flex: 1,
-                  padding: "12px 14px",
+                  padding: "10px 12px",
                   display: "flex",
                   flexDirection: "column",
                   justifyContent: "space-between",
+                  minHeight: 0,
+                  overflow: "hidden",
                 }}
               >
                 {/* Rank + name */}
-                <div>
+                <div style={{ minHeight: 0 }}>
                   <div
                     style={{
                       color: theme.colors.accent,
-                      fontSize: 20,
+                      fontSize: 18,
                       fontFamily: theme.fonts.mono,
                       fontWeight: 700,
-                      marginBottom: 4,
+                      marginBottom: 2,
                     }}
                   >
                     #{i + 1}
@@ -187,43 +175,47 @@ export const Mosaic = ({ cards }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.text,
-                      fontSize: 26,
+                      fontSize: 22,
                       fontFamily: theme.fonts.main,
                       fontWeight: 700,
-                      lineHeight: 1.2,
+                      lineHeight: 1.15,
+                      display: "-webkit-box",
+                      WebkitLineClamp: 2,
+                      WebkitBoxOrient: "vertical",
+                      overflow: "hidden",
                     }}
                   >
                     {card.name}
                   </div>
                 </div>
 
-                {/* Price + badge */}
-                <div>
+                {/* Price + 7d badge — always pinned to bottom */}
+                <div style={{ flexShrink: 0 }}>
                   <div
                     style={{
                       color: theme.colors.muted,
-                      fontSize: 18,
+                      fontSize: 13,
                       fontFamily: theme.fonts.mono,
-                      marginBottom: 8,
+                      marginBottom: 2,
+                      letterSpacing: 1,
                     }}
                   >
-                    RAW:{" "}
-                    <span
-                      style={{
-                        color: theme.colors.text,
-                        fontWeight: 700,
-                      }}
-                    >
-                      {card.prices.rawCurrent != null
-                        ? `$${card.prices.rawCurrent.toFixed(2)}`
-                        : "N/A"}
-                    </span>
+                    MARKET
                   </div>
-                  <ChangeBadge
-                    value={
-                      card.prices.psa10Change7d ?? card.prices.psa10Change30d
-                    }
-                  />
+                  <div
+                    style={{
+                      color: theme.colors.text,
+                      fontSize: 20,
+                      fontFamily: theme.fonts.mono,
+                      fontWeight: 700,
+                      marginBottom: 6,
+                    }}
+                  >
+                    {card.prices.rawCurrent != null
+                      ? `$${card.prices.rawCurrent.toFixed(2)}`
+                      : "N/A"}
+                  </div>
+                  <ChangeText value={card.prices.psa10Change7d ?? card.prices.psa10Change30d} />
                 </div>
               </div>
             </div>

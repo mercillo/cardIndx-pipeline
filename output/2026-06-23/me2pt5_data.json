@@ -1,0 +1,106 @@
+[
+  {
+    "id": "me2pt5-284",
+    "name": "Mega Gengar ex",
+    "cardNumber": "284/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-284/large",
+    "prices": {
+      "rawCurrent": 1372.59,
+      "psa10Current": null,
+      "psa10Change7d": 2.05,
+      "psa10Change30d": -1.98
+    }
+  },
+  {
+    "id": "me2pt5-276",
+    "name": "Pikachu ex",
+    "cardNumber": "276/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-276/large",
+    "prices": {
+      "rawCurrent": 1368.11,
+      "psa10Current": null,
+      "psa10Change7d": 3.86,
+      "psa10Change30d": -2.6
+    }
+  },
+  {
+    "id": "me2pt5-290",
+    "name": "Mega Dragonite ex",
+    "cardNumber": "290/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-290/large",
+    "prices": {
+      "rawCurrent": 872.76,
+      "psa10Current": null,
+      "psa10Change7d": -0.69,
+      "psa10Change30d": 4.8
+    }
+  },
+  {
+    "id": "me2pt5-294",
+    "name": "Mega Charizard Y ex",
+    "cardNumber": "294/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-294/large",
+    "prices": {
+      "rawCurrent": 624.75,
+      "psa10Current": null,
+      "psa10Change7d": -0.74,
+      "psa10Change30d": -7.48
+    }
+  },
+  {
+    "id": "me2pt5-277",
+    "name": "Pikachu ex",
+    "cardNumber": "277/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-277/large",
+    "prices": {
+      "rawCurrent": 464.09,
+      "psa10Current": null,
+      "psa10Change7d": -0.7,
+      "psa10Change30d": -0.63
+    }
+  },
+  {
+    "id": "me2pt5-281",
+    "name": "Team Rocket's Mewtwo ex",
+    "cardNumber": "281/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-281/large",
+    "prices": {
+      "rawCurrent": 431.58,
+      "psa10Current": null,
+      "psa10Change7d": -4.58,
+      "psa10Change30d": -4.76
+    }
+  },
+  {
+    "id": "me2pt5-295",
+    "name": "Mega Dragonite ex",
+    "cardNumber": "295/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-295/large",
+    "prices": {
+      "rawCurrent": 325.74,
+      "psa10Current": null,
+      "psa10Change7d": -1.61,
+      "psa10Change30d": -3.55
+    }
+  },
+  {
+    "id": "me2pt5-280",
+    "name": "Lillie's Clefairy ex",
+    "cardNumber": "280/217",
+    "setName": "Ascended Heroes",
+    "artUrl": "https://images.scrydex.com/pokemon/me2pt5-280/large",
+    "prices": {
+      "rawCurrent": 208.78,
+      "psa10Current": null,
+      "psa10Change7d": 1.75,
+      "psa10Change30d": 1.96
+    }
+  }
+]

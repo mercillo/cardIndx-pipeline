@@ -14,6 +14,7 @@ interface CatalogCard {
   cardNumber: string;
   rarity: string;
   setName: string;
+  subtypes?: string[];
   artUrl: string;
 }
 
@@ -58,14 +59,14 @@ async function buildCatalog(setId: string): Promise<Catalog> {
   let page = 1;
   while (true) {
     const resp = await fetchWithDelay<{
-      data: Array<{ id: string; name: string; number: string; rarity: string; images: { large: string }; set: { name: string } }>;
+      data: Array<{ id: string; name: string; number: string; rarity: string; subtypes?: string[]; images: { large: string }; set: { name: string } }>;
       totalCount: number;
     }>(
-      `https://api.pokemontcg.io/v2/cards?q=set.id:${setId}&select=id,name,number,rarity,images,set&pageSize=250&page=${page}`,
+      `https://api.pokemontcg.io/v2/cards?q=set.id:${setId}&select=id,name,number,rarity,subtypes,images,set&pageSize=250&page=${page}`,
       { "X-Api-Key": TCG_KEY }
     );
     for (const c of resp.data) {
-      allCards.push({ id: c.id, name: c.name, cardNumber: c.number, rarity: c.rarity ?? "", setName: c.set.name, artUrl: c.images.large });
+      allCards.push({ id: c.id, name: c.name, cardNumber: c.number, rarity: c.rarity ?? "", subtypes: c.subtypes, setName: c.set.name, artUrl: c.images.large });
     }
     console.log(`   Page ${page}: +${resp.data.length} cards → ${allCards.length}/${resp.totalCount}`);
     if (allCards.length >= resp.totalCount || resp.data.length === 0) break;
@@ -192,7 +193,10 @@ export async function fetchLivePrices(setId: string, topN = 8): Promise<CardMark
         id: catalogCard.id,
         name: catalogCard.name,
         cardNumber: jt.number ?? catalogCard.cardNumber,
+        setId,
         setName: catalogCard.setName,
+        subtypes: catalogCard.subtypes,
+        rarity: catalogCard.rarity || undefined,
         artUrl: catalogCard.artUrl,
         prices: {
           rawCurrent: price,

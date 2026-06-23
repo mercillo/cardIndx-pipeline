@@ -14,6 +14,7 @@ export interface CatalogCard {
   cardNumber: string;
   rarity: string;
   setName: string;
+  subtypes?: string[];
   artUrl: string;
 }
 
@@ -55,13 +56,13 @@ async function buildCatalog(setId: string): Promise<void> {
     const url =
       `https://api.pokemontcg.io/v2/cards` +
       `?q=set.id:${setId}` +
-      `&select=id,name,number,rarity,images,set` +
+      `&select=id,name,number,rarity,subtypes,images,set` +
       `&pageSize=250&page=${page}`;
 
     const resp = await fetchJson<{
       data: Array<{
         id: string; name: string; number: string; rarity: string;
-        images: { large: string }; set: { name: string };
+        subtypes?: string[]; images: { large: string }; set: { name: string };
       }>;
       totalCount: number;
     }>(url, { "X-Api-Key": TCG_KEY });
@@ -72,6 +73,7 @@ async function buildCatalog(setId: string): Promise<void> {
         name: c.name,
         cardNumber: c.number,
         rarity: c.rarity ?? "",
+        subtypes: c.subtypes,
         setName: c.set.name,
         artUrl: c.images.large,
       });

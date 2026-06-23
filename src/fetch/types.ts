@@ -2,8 +2,10 @@ export interface CardMarketData {
   id: string;
   name: string;
   cardNumber: string;
-  rarity?: string;
+  setId?: string;
   setName: string;
+  subtypes?: string[];
+  rarity?: string;
   artUrl: string;
   prices: {
     rawCurrent: number | null;

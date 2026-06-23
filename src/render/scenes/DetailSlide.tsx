@@ -1,5 +1,5 @@
 import { AbsoluteFill, useCurrentFrame, interpolate, Img } from "remotion";
-import { theme, safeZone } from "../styles/theme";
+import { theme } from "../styles/theme";
 import { getPriceTier, getMovementLabel, getTrendSignal, getPriceMath } from "../utils/insights";
 
 interface CardData {
@@ -103,7 +103,7 @@ export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          paddingTop: safeZone.top,
+          paddingTop: 80,
           paddingBottom: 36,
           paddingLeft: 36,
           paddingRight: 36,
@@ -214,7 +214,7 @@ export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number
         </div>
 
         {/* Footer */}
-        <div style={{ display: "flex", alignItems: "center", gap: 24, marginTop: 20 }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 24, marginTop: 120 }}>
           <div style={{ color: theme.colors.accent, fontSize: 28, fontFamily: theme.fonts.main, fontWeight: 700, letterSpacing: 4 }}>
             @pkmnIndx
           </div>

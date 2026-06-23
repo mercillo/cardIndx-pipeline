@@ -1,106 +1,106 @@
 [
   {
-    "id": "me4-92",
-    "name": "Claydol",
-    "cardNumber": "92",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-92/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
-    "id": "me4-96",
-    "name": "Tauros",
-    "cardNumber": "96",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-96/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
-    "id": "me4-88",
-    "name": "Froakie",
-    "cardNumber": "88",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-88/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
-    "id": "me4-90",
-    "name": "Ampharos",
-    "cardNumber": "90",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-90/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
-    "id": "me4-87",
-    "name": "Chespin",
-    "cardNumber": "87",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-87/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
-    "id": "me4-89",
-    "name": "Frogadier",
-    "cardNumber": "89",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-89/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
-    "id": "me4-93",
-    "name": "Crobat",
-    "cardNumber": "93",
-    "setName": "Chaos Rising",
-    "artUrl": "https://images.scrydex.com/pokemon/me4-93/large",
-    "prices": {
-      "rawCurrent": null,
-      "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
-    }
-  },
-  {
     "id": "me4-116",
     "name": "Mega Greninja ex",
-    "cardNumber": "116",
+    "cardNumber": "116/086",
     "setName": "Chaos Rising",
     "artUrl": "https://images.scrydex.com/pokemon/me4-116/large",
     "prices": {
-      "rawCurrent": null,
+      "rawCurrent": 353.7,
       "psa10Current": null,
-      "psa10Change7d": null,
-      "psa10Change30d": null
+      "psa10Change7d": -4.51,
+      "psa10Change30d": -9.31
+    }
+  },
+  {
+    "id": "me4-122",
+    "name": "Mega Greninja ex",
+    "cardNumber": "122/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-122/large",
+    "prices": {
+      "rawCurrent": 278.23,
+      "psa10Current": null,
+      "psa10Change7d": -2.95,
+      "psa10Change30d": -23.77
+    }
+  },
+  {
+    "id": "me4-119",
+    "name": "Cinccino ex",
+    "cardNumber": "119/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-119/large",
+    "prices": {
+      "rawCurrent": 87.5,
+      "psa10Current": null,
+      "psa10Change7d": -0.32,
+      "psa10Change30d": -0.48
+    }
+  },
+  {
+    "id": "me4-118",
+    "name": "Mega Dragalge ex",
+    "cardNumber": "118/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-118/large",
+    "prices": {
+      "rawCurrent": 59.77,
+      "psa10Current": null,
+      "psa10Change7d": -6.78,
+      "psa10Change30d": -41.97
+    }
+  },
+  {
+    "id": "me4-117",
+    "name": "Mega Floette ex",
+    "cardNumber": "117/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-117/large",
+    "prices": {
+      "rawCurrent": 52.99,
+      "psa10Current": null,
+      "psa10Change7d": 0,
+      "psa10Change30d": 0
+    }
+  },
+  {
+    "id": "me4-120",
+    "name": "AZ's Tranquility",
+    "cardNumber": "120/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-120/large",
+    "prices": {
+      "rawCurrent": 41.55,
+      "psa10Current": null,
+      "psa10Change7d": -2.3,
+      "psa10Change30d": -13.44
+    }
+  },
+  {
+    "id": "me4-121",
+    "name": "Roxie's Performance",
+    "cardNumber": "121/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-121/large",
+    "prices": {
+      "rawCurrent": 34.36,
+      "psa10Current": null,
+      "psa10Change7d": -1.24,
+      "psa10Change30d": 0.79
+    }
+  },
+  {
+    "id": "me4-100",
+    "name": "Mega Greninja ex",
+    "cardNumber": "100/086",
+    "setName": "Chaos Rising",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-100/large",
+    "prices": {
+      "rawCurrent": 21.68,
+      "psa10Current": null,
+      "psa10Change7d": -10.67,
+      "psa10Change30d": -16.62
     }
   }
 ]

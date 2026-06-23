@@ -16,6 +16,7 @@ interface CardData {
 
 interface MosaicProps {
   cards: CardData[];
+  date?: string;
 }
 
 const ChangeText = ({ value }: { value: number | null | undefined }) => {
@@ -28,7 +29,7 @@ const ChangeText = ({ value }: { value: number | null | undefined }) => {
   );
 };
 
-export const Mosaic = ({ cards }: MosaicProps) => {
+export const Mosaic = ({ cards, date }: MosaicProps) => {
   const frame = useCurrentFrame();
 
   return (
@@ -41,16 +42,8 @@ export const Mosaic = ({ cards }: MosaicProps) => {
       }}
     >
       {/* Header */}
-      <div
-        style={{
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-          marginBottom: 24,
-          flexShrink: 0,
-        }}
-      >
-        <div>
+      <div style={{ marginBottom: 24, flexShrink: 0 }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: 6 }}>
           <div
             style={{
               color: theme.colors.accent,
@@ -59,21 +52,25 @@ export const Mosaic = ({ cards }: MosaicProps) => {
               fontWeight: 700,
               letterSpacing: 4,
               textTransform: "uppercase",
-              marginBottom: 6,
             }}
           >
             @pkmnIndx
           </div>
-          <div
-            style={{
-              color: theme.colors.text,
-              fontSize: 52,
-              fontFamily: theme.fonts.main,
-              fontWeight: 700,
-            }}
-          >
-            {cards[0]?.setName ?? "Pokémon"} · Daily Price Guide
-          </div>
+          {date && (
+            <div style={{ color: theme.colors.muted, fontSize: 20, fontFamily: theme.fonts.mono }}>
+              {date}
+            </div>
+          )}
+        </div>
+        <div
+          style={{
+            color: theme.colors.text,
+            fontSize: 52,
+            fontFamily: theme.fonts.main,
+            fontWeight: 700,
+          }}
+        >
+          {cards[0]?.setName ?? "Pokémon"} · Daily Price Guide
         </div>
       </div>
 

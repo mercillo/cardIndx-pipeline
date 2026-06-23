@@ -71,7 +71,8 @@ async function main() {
   }
 
   const rawConfig = JSON.parse(fs.readFileSync(configPath, "utf-8"));
-  const today = new Date().toISOString().split("T")[0];
+  const d = new Date();
+  const today = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
   const outputDir = path.resolve(path.join("output", today));
 
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -126,7 +127,7 @@ async function main() {
 
   // 3. PHASE 2: SYNTHESIS
   console.log("\n--- Phase 2: Media Synthesis ---");
-  const videoPath = await renderVideo(enriched, outputDir, targetSet.id);
+  const videoPath = await renderVideo(enriched, outputDir, targetSet.id, today);
   console.log("✅ Video ready:", videoPath);
 
   // 4. PHASE 3: DISTRIBUTION

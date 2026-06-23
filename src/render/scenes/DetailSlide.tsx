@@ -20,7 +20,7 @@ const ChangeText = ({ value, label }: { value: number | null | undefined; label:
   if (value == null) return null;
   const isUp = value >= 0;
   return (
-    <div style={{ display: "inline-flex", alignItems: "center", gap: 12, marginBottom: 10 }}>
+    <div style={{ display: "inline-flex", alignItems: "center", gap: 12 }}>
       <span style={{ color: theme.colors.muted, fontSize: 22, fontFamily: theme.fonts.mono }}>{label}</span>
       <span style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 30, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
         {isUp ? "+" : ""}{value.toFixed(1)}%
@@ -33,7 +33,7 @@ const ChangeText = ({ value, label }: { value: number | null | undefined; label:
 const CARD_BG = "#16181F";   // dark navy — card sits on this
 const INFO_BG = "#0C0C0E";   // near-black — data panel
 
-export const DetailSlide = ({ card, rank }: { card: CardData; rank: number }) => {
+export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number; date?: string }) => {
   const frame = useCurrentFrame();
 
   const opacity = interpolate(frame, [0, 10], [0, 1], { extrapolateRight: "clamp" });
@@ -148,8 +148,11 @@ export const DetailSlide = ({ card, rank }: { card: CardData; rank: number }) =>
           )}
         </div>
 
-        {/* 7d change — always visible above market price */}
-        <ChangeText label="7d" value={card.prices.psa10Change7d ?? card.prices.psa10Change30d} />
+        {/* 7d + 30d change — above market price */}
+        <div style={{ display: "flex", gap: 28, marginBottom: 2 }}>
+          <ChangeText label="7d" value={card.prices.psa10Change7d} />
+          <ChangeText label="30d" value={card.prices.psa10Change30d} />
+        </div>
 
         {/* Market price */}
         <div style={{ marginBottom: 20 }}>
@@ -161,18 +164,16 @@ export const DetailSlide = ({ card, rank }: { card: CardData; rank: number }) =>
           </div>
         </div>
 
-        {/* Footer handle */}
-        <div
-          style={{
-            color: theme.colors.accent,
-            fontSize: 22,
-            fontFamily: theme.fonts.main,
-            fontWeight: 700,
-            letterSpacing: 3,
-            marginTop: 18,
-          }}
-        >
-          @pkmnIndx
+        {/* Footer */}
+        <div style={{ display: "flex", alignItems: "center", gap: 20, marginTop: 18 }}>
+          <div style={{ color: theme.colors.accent, fontSize: 22, fontFamily: theme.fonts.main, fontWeight: 700, letterSpacing: 3 }}>
+            @pkmnIndx
+          </div>
+          {date && (
+            <div style={{ color: theme.colors.muted, fontSize: 20, fontFamily: theme.fonts.mono }}>
+              {date}
+            </div>
+          )}
         </div>
       </div>
     </AbsoluteFill>

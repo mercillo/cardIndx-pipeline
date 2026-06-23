@@ -17,8 +17,8 @@ export const theme = {
 // TikTok / Reels / Shorts safe zone — keeps content clear of
 // Dynamic Island (top), action buttons (right), and bottom UI
 export const safeZone = {
-  top: 150,
-  bottom: 300,
+  top: 250,
+  bottom: 480,
   left: 80,
   right: 160,
 };

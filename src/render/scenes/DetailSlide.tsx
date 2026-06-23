@@ -1,6 +1,11 @@
 import { AbsoluteFill, useCurrentFrame, interpolate, Img } from "remotion";
-import { theme } from "../styles/theme";
-import { getPriceTier, getMovementLabel, getTrendSignal, getPriceMath } from "../utils/insights";
+import { theme, safeZone } from "../styles/theme";
+import {
+  getPriceTier,
+  getMovementLabel,
+  getTrendSignal,
+  getPriceMath,
+} from "../utils/insights";
 
 interface CardData {
   id: string;
@@ -58,32 +63,79 @@ const PriceMathRow = ({
 
   return (
     <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
-      <span style={{ color: theme.colors.muted, fontSize: 34, fontFamily: theme.fonts.mono, letterSpacing: 1, minWidth: 70 }}>
+      <span
+        style={{
+          color: theme.colors.muted,
+          fontSize: 34,
+          fontFamily: theme.fonts.mono,
+          letterSpacing: 1,
+          minWidth: 70,
+        }}
+      >
         {label}
       </span>
-      <span style={{ color: theme.colors.text, fontSize: 38, fontFamily: theme.fonts.mono }}>
+      <span
+        style={{
+          color: theme.colors.text,
+          fontSize: 38,
+          fontFamily: theme.fonts.mono,
+        }}
+      >
         ${pastPrice.toFixed(2)}
       </span>
       <span style={{ color: theme.colors.muted, fontSize: 30 }}>→</span>
-      <span style={{ color: changeColor, fontSize: 38, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
-        {isUp ? "+" : ""}{pct.toFixed(1)}%
+      <span
+        style={{
+          color: changeColor,
+          fontSize: 38,
+          fontFamily: theme.fonts.mono,
+          fontWeight: 700,
+        }}
+      >
+        {isUp ? "+" : ""}
+        {pct.toFixed(1)}%
       </span>
       <span style={{ color: theme.colors.muted, fontSize: 30 }}>→</span>
-      <span style={{ color: theme.colors.text, fontSize: 38, fontFamily: theme.fonts.mono }}>
+      <span
+        style={{
+          color: theme.colors.text,
+          fontSize: 38,
+          fontFamily: theme.fonts.mono,
+        }}
+      >
         ${current!.toFixed(2)}
       </span>
-      <span style={{ color: changeColor, fontSize: 32, fontFamily: theme.fonts.mono, marginLeft: 8 }}>
+      <span
+        style={{
+          color: changeColor,
+          fontSize: 32,
+          fontFamily: theme.fonts.mono,
+          marginLeft: 8,
+        }}
+      >
         ({arrow} ${Math.abs(dollarChange).toFixed(2)})
       </span>
     </div>
   );
 };
 
-export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number; date?: string }) => {
+export const DetailSlide = ({
+  card,
+  rank,
+  date,
+}: {
+  card: CardData;
+  rank: number;
+  date?: string;
+}) => {
   const frame = useCurrentFrame();
 
-  const opacity = interpolate(frame, [0, 10], [0, 1], { extrapolateRight: "clamp" });
-  const infoOpacity = interpolate(frame, [6, 20], [0, 1], { extrapolateRight: "clamp" });
+  const opacity = interpolate(frame, [0, 10], [0, 1], {
+    extrapolateRight: "clamp",
+  });
+  const infoOpacity = interpolate(frame, [6, 20], [0, 1], {
+    extrapolateRight: "clamp",
+  });
 
   const current = card.prices.rawCurrent;
   const change7d = card.prices.psa10Change7d;
@@ -96,17 +148,25 @@ export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number
   return (
     <AbsoluteFill style={{ opacity, display: "flex", flexDirection: "column" }}>
       {/* Card image — reduced to give info panel more room */}
+      {/* Black padding — Dynamic Island clearance only */}
       <div
         style={{
-          flex: "0 0 44%",
+          height: safeZone.top,
+          backgroundColor: CARD_BG,
+          flexShrink: 0,
+        }}
+      />
+
+      {/* Card art container — fixed height, independent of safe zone */}
+      <div
+        style={{
+          height: 900,
           backgroundColor: CARD_BG,
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          paddingTop: 80,
-          paddingBottom: 36,
-          paddingLeft: 36,
-          paddingRight: 36,
+          padding: 24,
+          paddingBottom: 30,
         }}
       >
         <Img
@@ -121,109 +181,192 @@ export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number
       </div>
 
       {/* Accent line */}
-      <div style={{ height: 4, backgroundColor: theme.colors.accent, flexShrink: 0 }} />
+      <div
+        style={{
+          height: 4,
+          backgroundColor: theme.colors.accent,
+          flexShrink: 0,
+        }}
+      />
 
       {/* Info panel */}
+      {/* Info panel container */}
       <div
         style={{
           flex: 1,
           backgroundColor: INFO_BG,
-          paddingTop: 28,
-          paddingBottom: 28,
-          paddingLeft: 50,
-          paddingRight: 50,
           display: "flex",
           flexDirection: "column",
           opacity: infoOpacity,
         }}
       >
-        {/* Rank + set row */}
-        <div style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: 10 }}>
+        {/* Content container */}
+        <div
+          style={{
+            flex: 1,
+            paddingTop: 28,
+            paddingLeft: 50,
+            paddingRight: 50,
+            display: "flex",
+            flexDirection: "column",
+          }}
+        >
+          {/* Rank + set row */}
           <div
             style={{
-              backgroundColor: theme.colors.accent,
-              color: "#fff",
-              fontSize: 34,
-              fontFamily: theme.fonts.mono,
-              fontWeight: 700,
-              paddingTop: 5,
-              paddingBottom: 5,
-              paddingLeft: 16,
-              paddingRight: 16,
-              borderRadius: 6,
+              display: "flex",
+              alignItems: "center",
+              gap: 20,
+              marginBottom: 10,
             }}
           >
-            #{rank}
-          </div>
-          <div style={{ color: theme.colors.muted, fontSize: 30, fontFamily: theme.fonts.mono }}>
-            {card.setName}{card.rarity ? ` · ${card.rarity}` : ""}
-          </div>
-        </div>
-
-        {/* Card name */}
-        <div
-          style={{
-            color: theme.colors.text,
-            fontSize: 64,
-            fontFamily: theme.fonts.main,
-            fontWeight: 700,
-            lineHeight: 1.05,
-            marginBottom: 14,
-          }}
-        >
-          {card.name}
-        </div>
-
-        {/* MARKET PRICE label */}
-        <div style={{ color: theme.colors.muted, fontSize: 26, fontFamily: theme.fonts.mono, letterSpacing: 3, marginBottom: 6 }}>
-          MARKET PRICE
-        </div>
-
-        {/* Price hero */}
-        <div
-          style={{
-            color: theme.colors.text,
-            fontSize: 120,
-            fontFamily: theme.fonts.mono,
-            fontWeight: 700,
-            lineHeight: 1,
-            marginBottom: 20,
-          }}
-        >
-          {current != null ? `$${current.toFixed(2)}` : "N/A"}
-        </div>
-
-        {/* Insight chips row */}
-        <div style={{ display: "flex", gap: 14, marginBottom: 20, flexWrap: "wrap", alignItems: "center" }}>
-          {priceTier && <Chip label={priceTier.label} color={priceTier.color} />}
-          {movement && <Chip label={movement.label} color={movement.color} />}
-          {trend && (
-            <>
-              <Chip label={trend.label} color={trend.color} />
-              <span style={{ color: theme.colors.muted, fontSize: 24, fontFamily: theme.fonts.mono }}>
-                · {trend.detail}
-              </span>
-            </>
-          )}
-        </div>
-
-        {/* Price math rows */}
-        <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
-          <PriceMathRow label="7D" current={current} pctChange={change7d} />
-          <PriceMathRow label="30D" current={current} pctChange={change30d} />
-        </div>
-
-        {/* Footer */}
-        <div style={{ display: "flex", alignItems: "center", gap: 24, marginTop: 120 }}>
-          <div style={{ color: theme.colors.accent, fontSize: 28, fontFamily: theme.fonts.main, fontWeight: 700, letterSpacing: 4 }}>
-            @pkmnIndx
-          </div>
-          {date && (
-            <div style={{ color: theme.colors.muted, fontSize: 26, fontFamily: theme.fonts.mono }}>
-              {date}
+            <div
+              style={{
+                backgroundColor: theme.colors.accent,
+                color: "#fff",
+                fontSize: 34,
+                fontFamily: theme.fonts.mono,
+                fontWeight: 700,
+                paddingTop: 5,
+                paddingBottom: 5,
+                paddingLeft: 16,
+                paddingRight: 16,
+                borderRadius: 6,
+              }}
+            >
+              #{rank}
             </div>
-          )}
+            <div
+              style={{
+                color: theme.colors.muted,
+                fontSize: 30,
+                fontFamily: theme.fonts.mono,
+              }}
+            >
+              {card.setName}
+              {card.rarity ? ` · ${card.rarity}` : ""}
+            </div>
+          </div>
+
+          {/* Card name */}
+          <div
+            style={{
+              color: theme.colors.text,
+              fontSize: 60,
+              fontFamily: theme.fonts.main,
+              fontWeight: 700,
+              lineHeight: 1.05,
+              marginBottom: 14,
+            }}
+          >
+            {card.name}
+          </div>
+
+          {/* MARKET PRICE label */}
+          <div
+            style={{
+              color: theme.colors.muted,
+              fontSize: 26,
+              fontFamily: theme.fonts.mono,
+              letterSpacing: 3,
+              marginBottom: 6,
+            }}
+          >
+            MARKET PRICE
+          </div>
+
+          {/* Price hero */}
+          <div
+            style={{
+              color: theme.colors.text,
+              fontSize: 100,
+              fontFamily: theme.fonts.mono,
+              fontWeight: 700,
+              lineHeight: 1,
+              marginBottom: 20,
+            }}
+          >
+            {current != null ? `$${current.toFixed(2)}` : "N/A"}
+          </div>
+
+          {/* Insight chips row */}
+          <div
+            style={{
+              display: "flex",
+              gap: 14,
+              marginBottom: 20,
+              flexWrap: "wrap",
+              alignItems: "center",
+            }}
+          >
+            {priceTier && (
+              <Chip label={priceTier.label} color={priceTier.color} />
+            )}
+            {movement && <Chip label={movement.label} color={movement.color} />}
+            {trend && (
+              <>
+                <Chip label={trend.label} color={trend.color} />
+                <span
+                  style={{
+                    color: theme.colors.muted,
+                    fontSize: 24,
+                    fontFamily: theme.fonts.mono,
+                  }}
+                >
+                  · {trend.detail}
+                </span>
+              </>
+            )}
+          </div>
+
+          {/* Price math rows */}
+          <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+            <PriceMathRow label="7D" current={current} pctChange={change7d} />
+            <PriceMathRow label="30D" current={current} pctChange={change30d} />
+          </div>
+
+          {/* Footer */}
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 24,
+              paddingTop: 10,
+              marginTop: "auto",
+            }}
+          >
+            <div
+              style={{
+                color: theme.colors.accent,
+                fontSize: 28,
+                fontFamily: theme.fonts.main,
+                fontWeight: 700,
+                letterSpacing: 4,
+              }}
+            >
+              @pkmnIndx
+            </div>
+            {date && (
+              <div
+                style={{
+                  color: theme.colors.muted,
+                  fontSize: 26,
+                  fontFamily: theme.fonts.mono,
+                }}
+              >
+                {date}
+              </div>
+            )}
+          </div>
         </div>
+        {/* Black section — TikTok bottom safe zone */}
+        <div
+          style={{
+            height: safeZone.bottom,
+            backgroundColor: INFO_BG,
+            flexShrink: 0,
+          }}
+        />
       </div>
     </AbsoluteFill>
   );

@@ -26,7 +26,7 @@ const ChangeText = ({ value }: { value: number | null | undefined }) => {
   const movement = getMovementLabel(value);
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
-      <div style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 28, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
+      <div style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 22, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
         {isUp ? "+" : ""}{value.toFixed(1)}% 7d
       </div>
       {movement && (
@@ -152,7 +152,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
               {/* Card art */}
               <div
                 style={{
-                  width: "60%",
+                  width: "48%",
                   flexShrink: 0,
                   backgroundColor: "#11131A",
                   display: "flex",
@@ -189,7 +189,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.accent,
-                      fontSize: 28,
+                      fontSize: 22,
                       fontFamily: theme.fonts.mono,
                       fontWeight: 700,
                       marginBottom: 4,
@@ -200,7 +200,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.text,
-                      fontSize: 22,
+                      fontSize: 18,
                       fontFamily: theme.fonts.main,
                       fontWeight: 700,
                       lineHeight: 1.15,
@@ -219,7 +219,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.muted,
-                      fontSize: 18,
+                      fontSize: 16,
                       fontFamily: theme.fonts.mono,
                       marginBottom: 4,
                       letterSpacing: 1,
@@ -230,7 +230,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.text,
-                      fontSize: 32,
+                      fontSize: 26,
                       fontFamily: theme.fonts.mono,
                       fontWeight: 700,
                       marginBottom: 8,

@@ -26,8 +26,16 @@ const ChangeText = ({ value }: { value: number | null | undefined }) => {
   const movement = getMovementLabel(value);
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
-      <div style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 22, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
-        {isUp ? "+" : ""}{value.toFixed(1)}% 7d
+      <div
+        style={{
+          color: isUp ? "#22C55E" : "#EF4444",
+          fontSize: 22,
+          fontFamily: theme.fonts.mono,
+          fontWeight: 700,
+        }}
+      >
+        {isUp ? "+" : ""}
+        {value.toFixed(1)}% 7d
       </div>
       {movement && (
         <div
@@ -56,12 +64,18 @@ const ChangeText = ({ value }: { value: number | null | undefined }) => {
 export const Mosaic = ({ cards, date }: MosaicProps) => {
   const frame = useCurrentFrame();
 
+  // Accent line grows after last 2 cards finish (card 7 & 8 done at frame 54)
+  const lineWidth = interpolate(frame, [54, 70], [0, 100], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+
   return (
     <AbsoluteFill
       style={{
         backgroundColor: theme.colors.bg,
         paddingTop: safeZone.top,
-        paddingBottom: safeZone.bottom,
+        paddingBottom: 0,
         paddingLeft: 40,
         paddingRight: 40,
         display: "flex",
@@ -70,7 +84,14 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
     >
       {/* Header */}
       <div style={{ marginBottom: 24, flexShrink: 0 }}>
-        <div style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: 6 }}>
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            gap: 20,
+            marginBottom: 6,
+          }}
+        >
           <div
             style={{
               color: theme.colors.accent,
@@ -84,7 +105,13 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
             @pkmnIndx
           </div>
           {date && (
-            <div style={{ color: theme.colors.muted, fontSize: 20, fontFamily: theme.fonts.mono }}>
+            <div
+              style={{
+                color: theme.colors.muted,
+                fontSize: 20,
+                fontFamily: theme.fonts.mono,
+              }}
+            >
               {date}
             </div>
           )}
@@ -122,6 +149,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
           gap: 16,
           minHeight: 0,
           paddingRight: safeZone.right,
+          marginBottom: 28,
         }}
       >
         {cards.slice(0, 8).map((card, i) => {
@@ -240,13 +268,32 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                       ? `$${card.prices.rawCurrent.toFixed(2)}`
                       : "N/A"}
                   </div>
-                  <ChangeText value={card.prices.psa10Change7d ?? card.prices.psa10Change30d} />
+                  <ChangeText
+                    value={
+                      card.prices.psa10Change7d ?? card.prices.psa10Change30d
+                    }
+                  />
                 </div>
               </div>
             </div>
           );
         })}
       </div>
+
+      {/* Bottom accent line — grows left to right after last 2 cards appear */}
+      <div
+        style={{
+          height: 4,
+          backgroundColor: theme.colors.accent,
+          flexShrink: 0,
+          width: `${lineWidth}%`,
+        }}
+      />
+
+      {/* Black section — TikTok bottom safe zone */}
+      <div
+        style={{ height: 350, backgroundColor: theme.colors.bg, flexShrink: 0 }}
+      />
     </AbsoluteFill>
   );
 };

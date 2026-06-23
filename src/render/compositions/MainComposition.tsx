@@ -23,22 +23,27 @@ interface MainCompositionProps {
 }
 
 // Segment durations in frames (30fps)
-const MOSAIC_DURATION = 90;  // 3s
+const MOSAIC_DURATION = 150; // 5s
 const SLIDE_DURATION = 75;   // 2.5s per card
 const OUTRO_DURATION = 120;  // 4s
 
 export const MainComposition = ({ data, date }: MainCompositionProps) => {
-  const { fps } = useVideoConfig();
+  const { fps, durationInFrames } = useVideoConfig();
   const slidesStart = MOSAIC_DURATION;
   const outroStart = slidesStart + data.length * SLIDE_DURATION;
+  const fadeFrames = 2 * fps; // 2s fade out
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#0F0F0F" }}>
-      {/* Background music — starts 17s into the file, plays to end of video */}
+      {/* Background music — starts 17s into the file, fades out over last 2s */}
       <Audio
         src={staticFile("pokemon_music.mp3")}
         trimBefore={17 * fps}
-        volume={0.3}
+        volume={(f) => {
+          const fadeStart = durationInFrames - fadeFrames;
+          if (f < fadeStart) return 0.3;
+          return 0.3 * (1 - (f - fadeStart) / fadeFrames);
+        }}
       />
 
       {/* 1. Mosaic grid — opens the video */}

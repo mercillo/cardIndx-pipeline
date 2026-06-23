@@ -1,4 +1,4 @@
-import { AbsoluteFill, useCurrentFrame, interpolate } from "remotion";
+import { AbsoluteFill, useCurrentFrame, interpolate, Img, staticFile } from "remotion";
 import { theme } from "../styles/theme";
 
 export const Outro = () => {
@@ -30,6 +30,18 @@ export const Outro = () => {
         opacity,
       }}
     >
+      {/* Logo */}
+      <Img
+        src={staticFile("pkmnindx.png")}
+        style={{
+          width: 440,
+          height: 440,
+          objectFit: "contain",
+          marginBottom: 40,
+          transform: `translateY(${translateY}px)`,
+        }}
+      />
+
       {/* Red accent bar */}
       <div
         style={{

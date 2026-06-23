@@ -1,5 +1,5 @@
 import { AbsoluteFill, useCurrentFrame, interpolate, Img, staticFile } from "remotion";
-import { theme } from "../styles/theme";
+import { theme, safeZone } from "../styles/theme";
 
 export const Outro = () => {
   const frame = useCurrentFrame();
@@ -28,6 +28,10 @@ export const Outro = () => {
         justifyContent: "center",
         alignItems: "center",
         opacity,
+        paddingTop: safeZone.top,
+        paddingBottom: safeZone.bottom,
+        paddingLeft: safeZone.left,
+        paddingRight: safeZone.right,
       }}
     >
       {/* Logo */}

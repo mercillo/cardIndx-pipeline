@@ -13,3 +13,12 @@ export const theme = {
     mono: "JetBrains Mono, Menlo, Courier New, monospace",
   },
 };
+
+// TikTok / Reels / Shorts safe zone — keeps content clear of
+// Dynamic Island (top), action buttons (right), and bottom UI
+export const safeZone = {
+  top: 150,
+  bottom: 300,
+  left: 80,
+  right: 160,
+};

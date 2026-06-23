@@ -1,5 +1,5 @@
 import { AbsoluteFill, useCurrentFrame, interpolate, Img } from "remotion";
-import { theme } from "../styles/theme";
+import { theme, safeZone } from "../styles/theme";
 import { getMovementLabel } from "../utils/insights";
 
 interface CardData {
@@ -60,7 +60,10 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
     <AbsoluteFill
       style={{
         backgroundColor: theme.colors.bg,
-        padding: 40,
+        paddingTop: safeZone.top,
+        paddingBottom: safeZone.bottom,
+        paddingLeft: 40,
+        paddingRight: 40,
         display: "flex",
         flexDirection: "column",
       }}
@@ -118,6 +121,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
           gridTemplateRows: "repeat(4, 1fr)",
           gap: 16,
           minHeight: 0,
+          paddingRight: safeZone.right,
         }}
       >
         {cards.slice(0, 8).map((card, i) => {

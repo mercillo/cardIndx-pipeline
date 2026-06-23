@@ -41,14 +41,52 @@ interface JustTcgCard {
 
 // ── Catalog helpers ───────────────────────────────────────────────────────────
 
-function loadCatalog(setId: string): Catalog {
-  const filePath = path.join(CATALOG_DIR, `${setId}.json`);
-  if (!fs.existsSync(filePath)) {
-    throw new Error(
-      `No catalog found for "${setId}". Run: npm run catalog -- --set-id ${setId}`
+const TCG_KEY = process.env.POKEMON_TCG_API_KEY ?? "";
+
+async function buildCatalog(setId: string): Promise<Catalog> {
+  if (!TCG_KEY) throw new Error("POKEMON_TCG_API_KEY not set in .env — needed to build catalog for new sets");
+
+  console.log(`   🔨 No catalog found for "${setId}" — building from pokemontcg.io...`);
+
+  const setMeta = await fetchWithDelay<{ data: { name: string; printedTotal: number; total: number } }>(
+    `https://api.pokemontcg.io/v2/sets/${setId}`,
+    { "X-Api-Key": TCG_KEY }
+  );
+  const { name: setName, printedTotal, total } = setMeta.data;
+
+  const allCards: CatalogCard[] = [];
+  let page = 1;
+  while (true) {
+    const resp = await fetchWithDelay<{
+      data: Array<{ id: string; name: string; number: string; rarity: string; images: { large: string }; set: { name: string } }>;
+      totalCount: number;
+    }>(
+      `https://api.pokemontcg.io/v2/cards?q=set.id:${setId}&select=id,name,number,rarity,images,set&pageSize=250&page=${page}`,
+      { "X-Api-Key": TCG_KEY }
     );
+    for (const c of resp.data) {
+      allCards.push({ id: c.id, name: c.name, cardNumber: c.number, rarity: c.rarity ?? "", setName: c.set.name, artUrl: c.images.large });
+    }
+    console.log(`   Page ${page}: +${resp.data.length} cards → ${allCards.length}/${resp.totalCount}`);
+    if (allCards.length >= resp.totalCount || resp.data.length === 0) break;
+    page++;
   }
-  return JSON.parse(fs.readFileSync(filePath, "utf-8")) as Catalog;
+
+  allCards.sort((a, b) => (parseInt(a.cardNumber) || 0) - (parseInt(b.cardNumber) || 0));
+
+  const catalog: Catalog = { setId, setName, printedTotal, totalCards: total, builtAt: new Date().toISOString(), cards: allCards };
+  fs.mkdirSync(CATALOG_DIR, { recursive: true });
+  fs.writeFileSync(path.join(CATALOG_DIR, `${setId}.json`), JSON.stringify(catalog, null, 2));
+  console.log(`   💾 Catalog saved (${allCards.length} cards)\n`);
+  return catalog;
+}
+
+async function ensureCatalog(setId: string): Promise<Catalog> {
+  const filePath = path.join(CATALOG_DIR, `${setId}.json`);
+  if (fs.existsSync(filePath)) {
+    return JSON.parse(fs.readFileSync(filePath, "utf-8")) as Catalog;
+  }
+  return buildCatalog(setId);
 }
 
 function saveCatalog(catalog: Catalog): void {
@@ -108,8 +146,8 @@ function cardNum(number: string): string {
 export async function fetchLivePrices(setId: string, topN = 8): Promise<CardMarketData[]> {
   if (!JUSTTCG_KEY) throw new Error("JUSTTCG_API_KEY not set in .env");
 
-  // 1. Load catalog — build lookup maps by number (primary) and name (fallback)
-  const catalog = loadCatalog(setId);
+  // 1. Load catalog (auto-builds from pokemontcg.io if missing)
+  const catalog = await ensureCatalog(setId);
   const numberMap = new Map<string, CatalogCard>(
     catalog.cards.map((c) => [cardNum(c.cardNumber), c])
   );

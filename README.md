@@ -1,15 +1,28 @@
 # cardIndx-pipeline
 
-Automated Pokémon card market data pipeline. Fetches daily prices for the top chase cards (Illustration Rare, Special Illustration Rare, Hyper Rare) across configured sets and renders a 30-second portrait video (1080×1920) for TikTok / Instagram Reels / YouTube Shorts.
+Automated Pokémon TCG market data pipeline. Fetches daily prices for the top 8 most valuable cards in a set and renders a 30-second portrait video (1080×1920) for TikTok / Instagram Reels / YouTube Shorts.
+
+[![Daily Pipeline](../../actions/workflows/daily-pipeline.yml/badge.svg)](../../actions/workflows/daily-pipeline.yml)
 
 ---
 
 ## How it works
 
-1. **Ingestion** — Pulls card roster + TCGPlayer market prices from pokemontcg.io
-2. **History enrichment** — Diffs against stored snapshots to compute 7d / 30d % changes
-3. **Render** — Remotion generates an MP4 with a mosaic overview + individual card slides
-4. **Output** — Files saved to `output/{date}/{setId}_data.json` and `output/{date}/{setId}_video.mp4`
+```
+pokemontcg.io  ──(one-time)──▶  data/catalogs/pokemon/sets/{id}.json
+                                          │
+JustTCG API  ──(daily, 1 call)──▶  join by card number  ──▶  top 8 by price
+                                          │
+                                   Remotion render
+                                          │
+                              output/{date}/{id}_video.mp4
+```
+
+1. **Catalog** *(one-time per set)* — `buildCatalog` fetches the full card roster from pokemontcg.io and saves it locally. Never called again unless the set is updated.
+2. **Live prices** *(daily)* — Pipeline makes a single JustTCG API call for the top 15 cards by price. Results are joined with the catalog (by card number, name as fallback) to get artwork and metadata.
+3. **History enrichment** — Diffs against local daily snapshots to compute 7d / 30d % changes. Falls back to JustTCG's built-in 7d change until local history builds up.
+4. **Render** — Remotion generates an MP4: mosaic overview → 8 individual card slides → outro.
+5. **Output** — Data snapshot committed to repo for history. Video uploaded as GitHub Actions artifact.
 
 ---
 
@@ -17,91 +30,96 @@ Automated Pokémon card market data pipeline. Fetches daily prices for the top c
 
 ```bash
 npm install
-cp .env.example .env   # add your API key
+cp .env.example .env
 ```
 
 `.env`:
 ```
 POKEMON_TCG_API_KEY=your_key_here
+JUSTTCG_API_KEY=your_key_here
 ```
 
 ---
 
 ## Running the pipeline
 
-### Auto-rotate by day (default)
-Picks a set automatically based on day of year, cycling through all configured sets.
-```bash
-npx tsx src/pipeline.ts -g pokemon -c config/pokemon.json
-```
+The `npm run pipeline` shorthand expands to `tsx src/pipeline.ts -g pokemon -c config/pokemon.json`.
 
-### Run a specific set by ID
 ```bash
-npx tsx src/pipeline.ts -g pokemon -c config/pokemon.json --set-id me4
-npx tsx src/pipeline.ts -g pokemon -c config/pokemon.json --set-id sv3pt5
-```
+# Full run — fetch prices, enrich history, render video
+npm run pipeline -- --set-id me2pt5
 
-### Run a specific set by index
-```bash
-npx tsx src/pipeline.ts -g pokemon -c config/pokemon.json --set-index 7
-```
+# Auto-rotate by day of year across all configured sets (no --set-id)
+npm run pipeline
 
-### Preview in Remotion Studio
-```bash
+# Skip the API call, re-render from today's existing data file
+npm run pipeline -- --set-id me2pt5 --render-only
+
+# Fetch and print prices to console without saving or rendering
+npm run pipeline -- --set-id me2pt5 --fetch-only
+
+# Live preview in Remotion Studio (uses mock data, no API calls)
 npx remotion studio src/render/index.tsx
 ```
 
----
+### Pipeline flags
 
-## Configured sets
-
-Sets are defined in `config/pokemon.json`. The pipeline runs `targetSets[0]` by default, or whichever set is selected via flag. To add or remove sets, edit the array — the `id` field maps directly to the pokemontcg.io set ID.
-
-| Series | Example sets |
+| Flag | Description |
 |---|---|
-| Mega Evolution | `me1` – `me4` (Chaos Rising, Perfect Order, …) |
-| Scarlet & Violet | `sv1` – `sv10`, `sv8pt5` (Prismatic Evolutions, 151, …) |
-| Sword & Shield | `swsh12`, `swsh12pt5`, gallery subsets |
+| `--set-id <id>` | Run a specific set (e.g. `me2pt5`, `me4`) |
+| `--set-index <n>` | Run the nth set in config instead of auto-rotating |
+| `--render-only` | Skip API call, render from today's saved data file |
+| `--fetch-only` | Print fetched prices to console, skip save and render |
 
-Full set IDs: https://api.pokemontcg.io/v2/sets
+### Catalogs
 
----
+Card metadata (names, art URLs, card numbers) is cached in `data/catalogs/pokemon/sets/{id}.json`. The pipeline builds this automatically the first time a new set is run — no manual step needed. On subsequent runs it reads from the local file.
 
-## Output files
+To force-rebuild a catalog (e.g. a set got new cards added):
 
+```bash
+npm run catalog -- --set-id me2pt5
 ```
-output/
-  2026-06-22/
-    me4_data.json     ← raw card + price data (committed to repo for history)
-    me4_video.mp4     ← rendered video (uploaded as Actions artifact)
-```
-
-`data.json` files are committed daily so the pipeline can compute 7d / 30d price changes. Videos are not committed (too large) — download them from the GitHub Actions artifacts tab.
 
 ---
 
 ## GitHub Actions
 
-The pipeline runs automatically at **9am ET daily** via `.github/workflows/daily-pipeline.yml`.
+Runs automatically at **9am ET daily**. Videos are uploaded as artifacts (14-day retention) and data snapshots are committed back to the repo to build price history.
 
-### Required secret
-Add to **Settings → Secrets and variables → Actions → New repository secret**:
+### Required secrets
+**Settings → Secrets and variables → Actions → New repository secret**
 
-| Name | Value |
+| Secret | Description |
 |---|---|
-| `POKEMON_TCG_API_KEY` | your pokemontcg.io API key |
+| `POKEMON_TCG_API_KEY` | pokemontcg.io API key (free) |
+| `JUSTTCG_API_KEY` | JustTCG API key (1,000 free calls/month) |
 
 ### Manual trigger
-Go to **Actions → Daily Card Pipeline → Run workflow** and optionally pass a set index to override the day's rotation.
+**Actions → Daily Card Pipeline → Run workflow** — optionally pass a `set_id` to override the day's rotation.
 
 ---
 
-## Chase card rarities
+## Configured sets
 
-The pipeline filters to these rarities across all sets:
+Defined in `config/pokemon.json`. The `id` field maps to the pokemontcg.io set ID. Only sets with a built catalog will run successfully.
 
-- `Illustration Rare` — SV era IRs
-- `Special Illustration Rare` — SV era SIRs
-- `Hyper Rare` — SV era gold cards
-- `Full Art` — XY era equivalent
-- `Secret Rare` — XY era equivalent
+| Series | Sets |
+|---|---|
+| Mega Evolution | `me1` `me2` `me2pt5` `me3` `me4` |
+| Scarlet & Violet | `sv1` – `sv10`, `sv8pt5`, `sv6pt5`, `sv4pt5` |
+| Sword & Shield | `swsh12`, `swsh12pt5`, gallery subsets |
+
+---
+
+## Output
+
+```
+data/catalogs/pokemon/sets/
+  me2pt5.json        ← full card roster (committed, built once)
+
+output/
+  2026-06-22/
+    me2pt5_data.json ← top 8 cards + prices (committed daily for history)
+    me2pt5_video.mp4 ← rendered video (Actions artifact, not committed)
+```

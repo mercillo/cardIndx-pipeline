@@ -1,0 +1,1529 @@
+{
+  "setId": "sv9",
+  "setName": "Journey Together",
+  "printedTotal": 159,
+  "totalCards": 190,
+  "builtAt": "2026-06-23T05:56:40.968Z",
+  "cards": [
+    {
+      "id": "sv9-1",
+      "name": "Caterpie",
+      "cardNumber": "1",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/1_hires.png"
+    },
+    {
+      "id": "sv9-2",
+      "name": "Metapod",
+      "cardNumber": "2",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/2_hires.png"
+    },
+    {
+      "id": "sv9-3",
+      "name": "Butterfree",
+      "cardNumber": "3",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/3_hires.png"
+    },
+    {
+      "id": "sv9-4",
+      "name": "Paras",
+      "cardNumber": "4",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/4_hires.png"
+    },
+    {
+      "id": "sv9-5",
+      "name": "Parasect",
+      "cardNumber": "5",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/5_hires.png"
+    },
+    {
+      "id": "sv9-6",
+      "name": "Petilil",
+      "cardNumber": "6",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/6_hires.png"
+    },
+    {
+      "id": "sv9-7",
+      "name": "Lilligant",
+      "cardNumber": "7",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/7_hires.png"
+    },
+    {
+      "id": "sv9-8",
+      "name": "Maractus",
+      "cardNumber": "8",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/8_hires.png"
+    },
+    {
+      "id": "sv9-9",
+      "name": "Karrablast",
+      "cardNumber": "9",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/9_hires.png"
+    },
+    {
+      "id": "sv9-10",
+      "name": "Foongus",
+      "cardNumber": "10",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/10_hires.png"
+    },
+    {
+      "id": "sv9-11",
+      "name": "Amoonguss ex",
+      "cardNumber": "11",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/11_hires.png"
+    },
+    {
+      "id": "sv9-12",
+      "name": "Shelmet",
+      "cardNumber": "12",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/12_hires.png"
+    },
+    {
+      "id": "sv9-13",
+      "name": "Accelgor",
+      "cardNumber": "13",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/13_hires.png"
+    },
+    {
+      "id": "sv9-14",
+      "name": "Durant",
+      "cardNumber": "14",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/14_hires.png"
+    },
+    {
+      "id": "sv9-15",
+      "name": "Virizion",
+      "cardNumber": "15",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/15_hires.png"
+    },
+    {
+      "id": "sv9-16",
+      "name": "Sprigatito",
+      "cardNumber": "16",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/16_hires.png"
+    },
+    {
+      "id": "sv9-17",
+      "name": "Floragato",
+      "cardNumber": "17",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/17_hires.png"
+    },
+    {
+      "id": "sv9-18",
+      "name": "Meowscarada",
+      "cardNumber": "18",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/18_hires.png"
+    },
+    {
+      "id": "sv9-19",
+      "name": "Nymble",
+      "cardNumber": "19",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/19_hires.png"
+    },
+    {
+      "id": "sv9-20",
+      "name": "Magmar",
+      "cardNumber": "20",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/20_hires.png"
+    },
+    {
+      "id": "sv9-21",
+      "name": "Magmortar",
+      "cardNumber": "21",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/21_hires.png"
+    },
+    {
+      "id": "sv9-22",
+      "name": "Torchic",
+      "cardNumber": "22",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/22_hires.png"
+    },
+    {
+      "id": "sv9-23",
+      "name": "Combusken",
+      "cardNumber": "23",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/23_hires.png"
+    },
+    {
+      "id": "sv9-24",
+      "name": "Blaziken ex",
+      "cardNumber": "24",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/24_hires.png"
+    },
+    {
+      "id": "sv9-25",
+      "name": "Torkoal",
+      "cardNumber": "25",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/25_hires.png"
+    },
+    {
+      "id": "sv9-26",
+      "name": "N's Darumaka",
+      "cardNumber": "26",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/26_hires.png"
+    },
+    {
+      "id": "sv9-27",
+      "name": "N's Darmanitan",
+      "cardNumber": "27",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/27_hires.png"
+    },
+    {
+      "id": "sv9-28",
+      "name": "Larvesta",
+      "cardNumber": "28",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/28_hires.png"
+    },
+    {
+      "id": "sv9-29",
+      "name": "Volcarona",
+      "cardNumber": "29",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/29_hires.png"
+    },
+    {
+      "id": "sv9-30",
+      "name": "Reshiram ex",
+      "cardNumber": "30",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/30_hires.png"
+    },
+    {
+      "id": "sv9-31",
+      "name": "Volcanion ex",
+      "cardNumber": "31",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/31_hires.png"
+    },
+    {
+      "id": "sv9-32",
+      "name": "Articuno",
+      "cardNumber": "32",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/32_hires.png"
+    },
+    {
+      "id": "sv9-33",
+      "name": "Remoraid",
+      "cardNumber": "33",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/33_hires.png"
+    },
+    {
+      "id": "sv9-34",
+      "name": "Octillery",
+      "cardNumber": "34",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/34_hires.png"
+    },
+    {
+      "id": "sv9-35",
+      "name": "Lotad",
+      "cardNumber": "35",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/35_hires.png"
+    },
+    {
+      "id": "sv9-36",
+      "name": "Lombre",
+      "cardNumber": "36",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/36_hires.png"
+    },
+    {
+      "id": "sv9-37",
+      "name": "Ludicolo",
+      "cardNumber": "37",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/37_hires.png"
+    },
+    {
+      "id": "sv9-38",
+      "name": "Wingull",
+      "cardNumber": "38",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/38_hires.png"
+    },
+    {
+      "id": "sv9-39",
+      "name": "Pelipper",
+      "cardNumber": "39",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/39_hires.png"
+    },
+    {
+      "id": "sv9-40",
+      "name": "Wailmer",
+      "cardNumber": "40",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/40_hires.png"
+    },
+    {
+      "id": "sv9-41",
+      "name": "Wailord",
+      "cardNumber": "41",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/41_hires.png"
+    },
+    {
+      "id": "sv9-42",
+      "name": "Regice",
+      "cardNumber": "42",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/42_hires.png"
+    },
+    {
+      "id": "sv9-43",
+      "name": "Veluza ex",
+      "cardNumber": "43",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/43_hires.png"
+    },
+    {
+      "id": "sv9-44",
+      "name": "Alolan Geodude",
+      "cardNumber": "44",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/44_hires.png"
+    },
+    {
+      "id": "sv9-45",
+      "name": "Alolan Graveler",
+      "cardNumber": "45",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/45_hires.png"
+    },
+    {
+      "id": "sv9-46",
+      "name": "Alolan Golem",
+      "cardNumber": "46",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/46_hires.png"
+    },
+    {
+      "id": "sv9-47",
+      "name": "Iono's Voltorb",
+      "cardNumber": "47",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/47_hires.png"
+    },
+    {
+      "id": "sv9-48",
+      "name": "Iono's Electrode",
+      "cardNumber": "48",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/48_hires.png"
+    },
+    {
+      "id": "sv9-49",
+      "name": "N's Joltik",
+      "cardNumber": "49",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/49_hires.png"
+    },
+    {
+      "id": "sv9-50",
+      "name": "Togedemaru",
+      "cardNumber": "50",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/50_hires.png"
+    },
+    {
+      "id": "sv9-51",
+      "name": "Tapu Koko ex",
+      "cardNumber": "51",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/51_hires.png"
+    },
+    {
+      "id": "sv9-52",
+      "name": "Iono's Tadbulb",
+      "cardNumber": "52",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/52_hires.png"
+    },
+    {
+      "id": "sv9-53",
+      "name": "Iono's Bellibolt ex",
+      "cardNumber": "53",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/53_hires.png"
+    },
+    {
+      "id": "sv9-54",
+      "name": "Iono's Wattrel",
+      "cardNumber": "54",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/54_hires.png"
+    },
+    {
+      "id": "sv9-55",
+      "name": "Iono's Kilowattrel",
+      "cardNumber": "55",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/55_hires.png"
+    },
+    {
+      "id": "sv9-56",
+      "name": "Lillie's Clefairy ex",
+      "cardNumber": "56",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/56_hires.png"
+    },
+    {
+      "id": "sv9-57",
+      "name": "Alolan Marowak",
+      "cardNumber": "57",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/57_hires.png"
+    },
+    {
+      "id": "sv9-58",
+      "name": "Mr. Mime",
+      "cardNumber": "58",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/58_hires.png"
+    },
+    {
+      "id": "sv9-59",
+      "name": "Shuppet",
+      "cardNumber": "59",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/59_hires.png"
+    },
+    {
+      "id": "sv9-60",
+      "name": "Banette",
+      "cardNumber": "60",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/60_hires.png"
+    },
+    {
+      "id": "sv9-61",
+      "name": "Beldum",
+      "cardNumber": "61",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/61_hires.png"
+    },
+    {
+      "id": "sv9-62",
+      "name": "Metang",
+      "cardNumber": "62",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/62_hires.png"
+    },
+    {
+      "id": "sv9-63",
+      "name": "Metagross",
+      "cardNumber": "63",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/63_hires.png"
+    },
+    {
+      "id": "sv9-64",
+      "name": "N's Sigilyph",
+      "cardNumber": "64",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/64_hires.png"
+    },
+    {
+      "id": "sv9-65",
+      "name": "Oricorio",
+      "cardNumber": "65",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/65_hires.png"
+    },
+    {
+      "id": "sv9-66",
+      "name": "Lillie's Cutiefly",
+      "cardNumber": "66",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/66_hires.png"
+    },
+    {
+      "id": "sv9-67",
+      "name": "Lillie's Ribombee",
+      "cardNumber": "67",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/67_hires.png"
+    },
+    {
+      "id": "sv9-68",
+      "name": "Lillie's Comfey",
+      "cardNumber": "68",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/68_hires.png"
+    },
+    {
+      "id": "sv9-69",
+      "name": "Mimikyu ex",
+      "cardNumber": "69",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/69_hires.png"
+    },
+    {
+      "id": "sv9-70",
+      "name": "Dhelmise",
+      "cardNumber": "70",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/70_hires.png"
+    },
+    {
+      "id": "sv9-71",
+      "name": "Impidimp",
+      "cardNumber": "71",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/71_hires.png"
+    },
+    {
+      "id": "sv9-72",
+      "name": "Morgrem",
+      "cardNumber": "72",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/72_hires.png"
+    },
+    {
+      "id": "sv9-73",
+      "name": "Grimmsnarl",
+      "cardNumber": "73",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/73_hires.png"
+    },
+    {
+      "id": "sv9-74",
+      "name": "Milcery",
+      "cardNumber": "74",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/74_hires.png"
+    },
+    {
+      "id": "sv9-75",
+      "name": "Alcremie ex",
+      "cardNumber": "75",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/75_hires.png"
+    },
+    {
+      "id": "sv9-76",
+      "name": "Cubone",
+      "cardNumber": "76",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/76_hires.png"
+    },
+    {
+      "id": "sv9-77",
+      "name": "Swinub",
+      "cardNumber": "77",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/77_hires.png"
+    },
+    {
+      "id": "sv9-78",
+      "name": "Piloswine",
+      "cardNumber": "78",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/78_hires.png"
+    },
+    {
+      "id": "sv9-79",
+      "name": "Mamoswine ex",
+      "cardNumber": "79",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/79_hires.png"
+    },
+    {
+      "id": "sv9-80",
+      "name": "Larvitar",
+      "cardNumber": "80",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/80_hires.png"
+    },
+    {
+      "id": "sv9-81",
+      "name": "Pupitar",
+      "cardNumber": "81",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/81_hires.png"
+    },
+    {
+      "id": "sv9-82",
+      "name": "Regirock",
+      "cardNumber": "82",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/82_hires.png"
+    },
+    {
+      "id": "sv9-83",
+      "name": "Pancham",
+      "cardNumber": "83",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/83_hires.png"
+    },
+    {
+      "id": "sv9-84",
+      "name": "Rockruff",
+      "cardNumber": "84",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/84_hires.png"
+    },
+    {
+      "id": "sv9-85",
+      "name": "Lycanroc",
+      "cardNumber": "85",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/85_hires.png"
+    },
+    {
+      "id": "sv9-86",
+      "name": "Hop's Silicobra",
+      "cardNumber": "86",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/86_hires.png"
+    },
+    {
+      "id": "sv9-87",
+      "name": "Hop's Sandaconda",
+      "cardNumber": "87",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/87_hires.png"
+    },
+    {
+      "id": "sv9-88",
+      "name": "Toedscool",
+      "cardNumber": "88",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/88_hires.png"
+    },
+    {
+      "id": "sv9-89",
+      "name": "Toedscruel",
+      "cardNumber": "89",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/89_hires.png"
+    },
+    {
+      "id": "sv9-90",
+      "name": "Klawf",
+      "cardNumber": "90",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/90_hires.png"
+    },
+    {
+      "id": "sv9-91",
+      "name": "Koffing",
+      "cardNumber": "91",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/91_hires.png"
+    },
+    {
+      "id": "sv9-92",
+      "name": "Weezing",
+      "cardNumber": "92",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/92_hires.png"
+    },
+    {
+      "id": "sv9-93",
+      "name": "Paldean Wooper",
+      "cardNumber": "93",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/93_hires.png"
+    },
+    {
+      "id": "sv9-94",
+      "name": "Paldean Clodsire ex",
+      "cardNumber": "94",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/94_hires.png"
+    },
+    {
+      "id": "sv9-95",
+      "name": "Tyranitar",
+      "cardNumber": "95",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/95_hires.png"
+    },
+    {
+      "id": "sv9-96",
+      "name": "N's Purrloin",
+      "cardNumber": "96",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/96_hires.png"
+    },
+    {
+      "id": "sv9-97",
+      "name": "N's Zorua",
+      "cardNumber": "97",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/97_hires.png"
+    },
+    {
+      "id": "sv9-98",
+      "name": "N's Zoroark ex",
+      "cardNumber": "98",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/98_hires.png"
+    },
+    {
+      "id": "sv9-99",
+      "name": "Pangoro",
+      "cardNumber": "99",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/99_hires.png"
+    },
+    {
+      "id": "sv9-100",
+      "name": "Lokix",
+      "cardNumber": "100",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/100_hires.png"
+    },
+    {
+      "id": "sv9-101",
+      "name": "Bombirdier",
+      "cardNumber": "101",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/101_hires.png"
+    },
+    {
+      "id": "sv9-102",
+      "name": "Escavalier",
+      "cardNumber": "102",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/102_hires.png"
+    },
+    {
+      "id": "sv9-103",
+      "name": "N's Klink",
+      "cardNumber": "103",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/103_hires.png"
+    },
+    {
+      "id": "sv9-104",
+      "name": "N's Klang",
+      "cardNumber": "104",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/104_hires.png"
+    },
+    {
+      "id": "sv9-105",
+      "name": "N's Klinklang",
+      "cardNumber": "105",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/105_hires.png"
+    },
+    {
+      "id": "sv9-106",
+      "name": "Galarian Stunfisk",
+      "cardNumber": "106",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/106_hires.png"
+    },
+    {
+      "id": "sv9-107",
+      "name": "Magearna",
+      "cardNumber": "107",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/107_hires.png"
+    },
+    {
+      "id": "sv9-108",
+      "name": "Hop's Corviknight",
+      "cardNumber": "108",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/108_hires.png"
+    },
+    {
+      "id": "sv9-109",
+      "name": "Cufant",
+      "cardNumber": "109",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/109_hires.png"
+    },
+    {
+      "id": "sv9-110",
+      "name": "Copperajah",
+      "cardNumber": "110",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/110_hires.png"
+    },
+    {
+      "id": "sv9-111",
+      "name": "Hop's Zacian ex",
+      "cardNumber": "111",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/111_hires.png"
+    },
+    {
+      "id": "sv9-112",
+      "name": "Bagon",
+      "cardNumber": "112",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/112_hires.png"
+    },
+    {
+      "id": "sv9-113",
+      "name": "Shelgon",
+      "cardNumber": "113",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/113_hires.png"
+    },
+    {
+      "id": "sv9-114",
+      "name": "Salamence ex",
+      "cardNumber": "114",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/114_hires.png"
+    },
+    {
+      "id": "sv9-115",
+      "name": "Druddigon",
+      "cardNumber": "115",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/115_hires.png"
+    },
+    {
+      "id": "sv9-116",
+      "name": "N's Reshiram",
+      "cardNumber": "116",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/116_hires.png"
+    },
+    {
+      "id": "sv9-117",
+      "name": "Hop's Snorlax",
+      "cardNumber": "117",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/117_hires.png"
+    },
+    {
+      "id": "sv9-118",
+      "name": "Sentret",
+      "cardNumber": "118",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/118_hires.png"
+    },
+    {
+      "id": "sv9-119",
+      "name": "Furret",
+      "cardNumber": "119",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/119_hires.png"
+    },
+    {
+      "id": "sv9-120",
+      "name": "Dunsparce",
+      "cardNumber": "120",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/120_hires.png"
+    },
+    {
+      "id": "sv9-121",
+      "name": "Dudunsparce ex",
+      "cardNumber": "121",
+      "rarity": "Double Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/121_hires.png"
+    },
+    {
+      "id": "sv9-122",
+      "name": "Kecleon",
+      "cardNumber": "122",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/122_hires.png"
+    },
+    {
+      "id": "sv9-123",
+      "name": "Tropius",
+      "cardNumber": "123",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/123_hires.png"
+    },
+    {
+      "id": "sv9-124",
+      "name": "Audino",
+      "cardNumber": "124",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/124_hires.png"
+    },
+    {
+      "id": "sv9-125",
+      "name": "Minccino",
+      "cardNumber": "125",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/125_hires.png"
+    },
+    {
+      "id": "sv9-126",
+      "name": "Cinccino",
+      "cardNumber": "126",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/126_hires.png"
+    },
+    {
+      "id": "sv9-127",
+      "name": "Noibat",
+      "cardNumber": "127",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/127_hires.png"
+    },
+    {
+      "id": "sv9-128",
+      "name": "Noivern",
+      "cardNumber": "128",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/128_hires.png"
+    },
+    {
+      "id": "sv9-129",
+      "name": "Komala",
+      "cardNumber": "129",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/129_hires.png"
+    },
+    {
+      "id": "sv9-130",
+      "name": "Drampa",
+      "cardNumber": "130",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/130_hires.png"
+    },
+    {
+      "id": "sv9-131",
+      "name": "Skwovet",
+      "cardNumber": "131",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/131_hires.png"
+    },
+    {
+      "id": "sv9-132",
+      "name": "Greedent",
+      "cardNumber": "132",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/132_hires.png"
+    },
+    {
+      "id": "sv9-133",
+      "name": "Hop's Rookidee",
+      "cardNumber": "133",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/133_hires.png"
+    },
+    {
+      "id": "sv9-134",
+      "name": "Hop's Corvisquire",
+      "cardNumber": "134",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/134_hires.png"
+    },
+    {
+      "id": "sv9-135",
+      "name": "Hop's Wooloo",
+      "cardNumber": "135",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/135_hires.png"
+    },
+    {
+      "id": "sv9-136",
+      "name": "Hop's Dubwool",
+      "cardNumber": "136",
+      "rarity": "Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/136_hires.png"
+    },
+    {
+      "id": "sv9-137",
+      "name": "Cramorant",
+      "cardNumber": "137",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/137_hires.png"
+    },
+    {
+      "id": "sv9-138",
+      "name": "Hop's Cramorant",
+      "cardNumber": "138",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/138_hires.png"
+    },
+    {
+      "id": "sv9-139",
+      "name": "Lechonk",
+      "cardNumber": "139",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/139_hires.png"
+    },
+    {
+      "id": "sv9-140",
+      "name": "Oinkologne",
+      "cardNumber": "140",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/140_hires.png"
+    },
+    {
+      "id": "sv9-141",
+      "name": "Squawkabilly",
+      "cardNumber": "141",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/141_hires.png"
+    },
+    {
+      "id": "sv9-142",
+      "name": "Billy & O'Nare",
+      "cardNumber": "142",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/142_hires.png"
+    },
+    {
+      "id": "sv9-143",
+      "name": "Black Belt's Training",
+      "cardNumber": "143",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/143_hires.png"
+    },
+    {
+      "id": "sv9-144",
+      "name": "Black Belt's Training",
+      "cardNumber": "144",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/144_hires.png"
+    },
+    {
+      "id": "sv9-145",
+      "name": "Black Belt's Training",
+      "cardNumber": "145",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/145_hires.png"
+    },
+    {
+      "id": "sv9-146",
+      "name": "Brock's Scouting",
+      "cardNumber": "146",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/146_hires.png"
+    },
+    {
+      "id": "sv9-147",
+      "name": "Hop's Bag",
+      "cardNumber": "147",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/147_hires.png"
+    },
+    {
+      "id": "sv9-148",
+      "name": "Hop's Choice Band",
+      "cardNumber": "148",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/148_hires.png"
+    },
+    {
+      "id": "sv9-149",
+      "name": "Iris's Fighting Spirit",
+      "cardNumber": "149",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/149_hires.png"
+    },
+    {
+      "id": "sv9-150",
+      "name": "Levincia",
+      "cardNumber": "150",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/150_hires.png"
+    },
+    {
+      "id": "sv9-151",
+      "name": "Lillie's Pearl",
+      "cardNumber": "151",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/151_hires.png"
+    },
+    {
+      "id": "sv9-152",
+      "name": "N's Castle",
+      "cardNumber": "152",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/152_hires.png"
+    },
+    {
+      "id": "sv9-153",
+      "name": "N's PP Up",
+      "cardNumber": "153",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/153_hires.png"
+    },
+    {
+      "id": "sv9-154",
+      "name": "Postwick",
+      "cardNumber": "154",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/154_hires.png"
+    },
+    {
+      "id": "sv9-155",
+      "name": "Professor's Research",
+      "cardNumber": "155",
+      "rarity": "Common",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/155_hires.png"
+    },
+    {
+      "id": "sv9-156",
+      "name": "Redeemable Ticket",
+      "cardNumber": "156",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/156_hires.png"
+    },
+    {
+      "id": "sv9-157",
+      "name": "Ruffian",
+      "cardNumber": "157",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/157_hires.png"
+    },
+    {
+      "id": "sv9-158",
+      "name": "Super Potion",
+      "cardNumber": "158",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/158_hires.png"
+    },
+    {
+      "id": "sv9-159",
+      "name": "Spiky Energy",
+      "cardNumber": "159",
+      "rarity": "Uncommon",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/159_hires.png"
+    },
+    {
+      "id": "sv9-160",
+      "name": "Maractus",
+      "cardNumber": "160",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/160_hires.png"
+    },
+    {
+      "id": "sv9-161",
+      "name": "Articuno",
+      "cardNumber": "161",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/161_hires.png"
+    },
+    {
+      "id": "sv9-162",
+      "name": "Wailord",
+      "cardNumber": "162",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/162_hires.png"
+    },
+    {
+      "id": "sv9-163",
+      "name": "Iono's Kilowattrel",
+      "cardNumber": "163",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/163_hires.png"
+    },
+    {
+      "id": "sv9-164",
+      "name": "Lillie's Ribombee",
+      "cardNumber": "164",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/164_hires.png"
+    },
+    {
+      "id": "sv9-165",
+      "name": "Swinub",
+      "cardNumber": "165",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/165_hires.png"
+    },
+    {
+      "id": "sv9-166",
+      "name": "Lycanroc",
+      "cardNumber": "166",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/166_hires.png"
+    },
+    {
+      "id": "sv9-167",
+      "name": "N's Reshiram",
+      "cardNumber": "167",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/167_hires.png"
+    },
+    {
+      "id": "sv9-168",
+      "name": "Furret",
+      "cardNumber": "168",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/168_hires.png"
+    },
+    {
+      "id": "sv9-169",
+      "name": "Noibat",
+      "cardNumber": "169",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/169_hires.png"
+    },
+    {
+      "id": "sv9-170",
+      "name": "Hop's Wooloo",
+      "cardNumber": "170",
+      "rarity": "Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/170_hires.png"
+    },
+    {
+      "id": "sv9-171",
+      "name": "Volcanion ex",
+      "cardNumber": "171",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/171_hires.png"
+    },
+    {
+      "id": "sv9-172",
+      "name": "Iono's Bellibolt ex",
+      "cardNumber": "172",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/172_hires.png"
+    },
+    {
+      "id": "sv9-173",
+      "name": "Lillie's Clefairy ex",
+      "cardNumber": "173",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/173_hires.png"
+    },
+    {
+      "id": "sv9-174",
+      "name": "Mamoswine ex",
+      "cardNumber": "174",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/174_hires.png"
+    },
+    {
+      "id": "sv9-175",
+      "name": "N's Zoroark ex",
+      "cardNumber": "175",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/175_hires.png"
+    },
+    {
+      "id": "sv9-176",
+      "name": "Hop's Zacian ex",
+      "cardNumber": "176",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/176_hires.png"
+    },
+    {
+      "id": "sv9-177",
+      "name": "Salamence ex",
+      "cardNumber": "177",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/177_hires.png"
+    },
+    {
+      "id": "sv9-178",
+      "name": "Dudunsparce ex",
+      "cardNumber": "178",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/178_hires.png"
+    },
+    {
+      "id": "sv9-179",
+      "name": "Brock's Scouting",
+      "cardNumber": "179",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/179_hires.png"
+    },
+    {
+      "id": "sv9-180",
+      "name": "Iris's Fighting Spirit",
+      "cardNumber": "180",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/180_hires.png"
+    },
+    {
+      "id": "sv9-181",
+      "name": "Ruffian",
+      "cardNumber": "181",
+      "rarity": "Ultra Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/181_hires.png"
+    },
+    {
+      "id": "sv9-182",
+      "name": "Volcanion ex",
+      "cardNumber": "182",
+      "rarity": "Special Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/182_hires.png"
+    },
+    {
+      "id": "sv9-183",
+      "name": "Iono's Bellibolt ex",
+      "cardNumber": "183",
+      "rarity": "Special Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/183_hires.png"
+    },
+    {
+      "id": "sv9-184",
+      "name": "Lillie's Clefairy ex",
+      "cardNumber": "184",
+      "rarity": "Special Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/184_hires.png"
+    },
+    {
+      "id": "sv9-185",
+      "name": "N's Zoroark ex",
+      "cardNumber": "185",
+      "rarity": "Special Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/185_hires.png"
+    },
+    {
+      "id": "sv9-186",
+      "name": "Hop's Zacian ex",
+      "cardNumber": "186",
+      "rarity": "Special Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/186_hires.png"
+    },
+    {
+      "id": "sv9-187",
+      "name": "Salamence ex",
+      "cardNumber": "187",
+      "rarity": "Special Illustration Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/187_hires.png"
+    },
+    {
+      "id": "sv9-188",
+      "name": "Iono's Bellibolt ex",
+      "cardNumber": "188",
+      "rarity": "Hyper Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/188_hires.png"
+    },
+    {
+      "id": "sv9-189",
+      "name": "N's Zoroark ex",
+      "cardNumber": "189",
+      "rarity": "Hyper Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/189_hires.png"
+    },
+    {
+      "id": "sv9-190",
+      "name": "Spiky Energy",
+      "cardNumber": "190",
+      "rarity": "Hyper Rare",
+      "setName": "Journey Together",
+      "artUrl": "https://images.pokemontcg.io/sv9/190_hires.png"
+    }
+  ]
+}

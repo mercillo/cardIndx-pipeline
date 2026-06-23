@@ -1,5 +1,6 @@
 import { AbsoluteFill, useCurrentFrame, interpolate, Img } from "remotion";
 import { theme } from "../styles/theme";
+import { getMovementLabel } from "../utils/insights";
 
 interface CardData {
   id: string;
@@ -22,9 +23,32 @@ interface MosaicProps {
 const ChangeText = ({ value }: { value: number | null | undefined }) => {
   if (value == null) return null;
   const isUp = value >= 0;
+  const movement = getMovementLabel(value);
   return (
-    <div style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 19, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
-      {isUp ? "+" : ""}{value.toFixed(1)}% 7d
+    <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
+      <div style={{ color: isUp ? "#22C55E" : "#EF4444", fontSize: 28, fontFamily: theme.fonts.mono, fontWeight: 700 }}>
+        {isUp ? "+" : ""}{value.toFixed(1)}% 7d
+      </div>
+      {movement && (
+        <div
+          style={{
+            border: `1px solid ${movement.color}`,
+            color: movement.color,
+            fontSize: 16,
+            fontFamily: theme.fonts.mono,
+            fontWeight: 700,
+            paddingTop: 3,
+            paddingBottom: 3,
+            paddingLeft: 10,
+            paddingRight: 10,
+            borderRadius: 4,
+            letterSpacing: 1.5,
+            alignSelf: "flex-start",
+          }}
+        >
+          {movement.label}
+        </div>
+      )}
     </div>
   );
 };
@@ -124,13 +148,13 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
               {/* Card art */}
               <div
                 style={{
-                  width: "62%",
+                  width: "60%",
                   flexShrink: 0,
                   backgroundColor: "#11131A",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
-                  padding: 8,
+                  padding: 10,
                 }}
               >
                 <Img
@@ -148,7 +172,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
               <div
                 style={{
                   flex: 1,
-                  padding: "10px 12px",
+                  padding: "14px 16px",
                   display: "flex",
                   flexDirection: "column",
                   justifyContent: "space-between",
@@ -161,10 +185,10 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.accent,
-                      fontSize: 18,
+                      fontSize: 28,
                       fontFamily: theme.fonts.mono,
                       fontWeight: 700,
-                      marginBottom: 2,
+                      marginBottom: 4,
                     }}
                   >
                     #{i + 1}
@@ -186,14 +210,14 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   </div>
                 </div>
 
-                {/* Price + 7d badge — always pinned to bottom */}
+                {/* Price + 7d — pinned to bottom */}
                 <div style={{ flexShrink: 0 }}>
                   <div
                     style={{
                       color: theme.colors.muted,
-                      fontSize: 13,
+                      fontSize: 18,
                       fontFamily: theme.fonts.mono,
-                      marginBottom: 2,
+                      marginBottom: 4,
                       letterSpacing: 1,
                     }}
                   >
@@ -202,10 +226,10 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
                   <div
                     style={{
                       color: theme.colors.text,
-                      fontSize: 20,
+                      fontSize: 32,
                       fontFamily: theme.fonts.mono,
                       fontWeight: 700,
-                      marginBottom: 6,
+                      marginBottom: 8,
                     }}
                   >
                     {card.prices.rawCurrent != null

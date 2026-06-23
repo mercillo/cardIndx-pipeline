@@ -12,7 +12,8 @@ program
   .requiredOption("-c, --config <path>", "Config path")
   .option("-s, --set-id <id>", "Set ID to run (e.g. sv3pt5, me4)")
   .option("-i, --set-index <number>", "Index into targetSets array — auto-rotates by day if neither flag is passed")
-  .option("--fetch-only", "Fetch and print card data without saving or rendering");
+  .option("--fetch-only", "Fetch and print card data without saving or rendering")
+  .option("--render-only", "Skip API call, render video from today's existing data file");
 
 program.parse(process.argv);
 const options = program.opts();
@@ -107,23 +108,37 @@ async function main() {
   console.log(`🚀 Booting pipeline for: [${options.game.toUpperCase()}] — set: ${targetSet.name}`);
 
   // 2. PHASE 1: INGESTION
-  console.log("\n--- Phase 1: Data Ingestion ---");
-  const marketData = await fetchLivePrices(targetSet.id);
+  let enriched: CardMarketData[];
 
-  if (options.fetchOnly) {
-    console.log("\n📋 Top cards:");
-    marketData.forEach((c, i) => {
-      const price = c.prices.rawCurrent != null ? `$${c.prices.rawCurrent.toFixed(2)}` : "N/A";
-      console.log(`  ${i + 1}. ${c.name} #${c.cardNumber} — ${price}`);
-    });
-    return;
+  if (options.renderOnly) {
+    const dataFile = path.join(outputDir, `${targetSet.id}_data.json`);
+    if (!fs.existsSync(dataFile)) {
+      console.error(`❌ No data file found at ${dataFile}. Run without --render-only first.`);
+      process.exit(1);
+    }
+    enriched = JSON.parse(fs.readFileSync(dataFile, "utf-8")) as CardMarketData[];
+    console.log(`\n⏭️  Skipping fetch — loaded ${enriched.length} cards from ${dataFile}`);
+  } else {
+    console.log("\n--- Phase 1: Data Ingestion ---");
+    const marketData = await fetchLivePrices(targetSet.id);
+
+    if (options.fetchOnly) {
+      console.log("\n📋 Top cards:");
+      marketData.forEach((c, i) => {
+        const price = c.prices.rawCurrent != null ? `$${c.prices.rawCurrent.toFixed(2)}` : "N/A";
+        console.log(`  ${i + 1}. ${c.name} #${c.cardNumber} — ${price}`);
+      });
+      return;
+    }
+
+    enriched = enrichWithPriceHistory(marketData, targetSet.id);
   }
 
-  const enriched = enrichWithPriceHistory(marketData, targetSet.id);
-
-  const dataFile = path.join(outputDir, `${targetSet.id}_data.json`);
-  fs.writeFileSync(dataFile, JSON.stringify(enriched, null, 2));
-  console.log("✅ Data cached to:", dataFile);
+  if (!options.renderOnly) {
+    const dataFile = path.join(outputDir, `${targetSet.id}_data.json`);
+    fs.writeFileSync(dataFile, JSON.stringify(enriched, null, 2));
+    console.log("✅ Data cached to:", dataFile);
+  }
 
   // 3. PHASE 2: SYNTHESIS
   console.log("\n--- Phase 2: Media Synthesis ---");

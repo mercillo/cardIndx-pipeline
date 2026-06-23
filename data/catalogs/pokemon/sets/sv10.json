@@ -1,0 +1,1961 @@
+{
+  "setId": "sv10",
+  "setName": "Destined Rivals",
+  "printedTotal": 182,
+  "totalCards": 244,
+  "builtAt": "2026-06-23T05:56:04.907Z",
+  "cards": [
+    {
+      "id": "sv10-1",
+      "name": "Ethan's Pinsir",
+      "cardNumber": "1",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/1_hires.png"
+    },
+    {
+      "id": "sv10-2",
+      "name": "Yanma",
+      "cardNumber": "2",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/2_hires.png"
+    },
+    {
+      "id": "sv10-3",
+      "name": "Yanmega ex",
+      "cardNumber": "3",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/3_hires.png"
+    },
+    {
+      "id": "sv10-4",
+      "name": "Pineco",
+      "cardNumber": "4",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/4_hires.png"
+    },
+    {
+      "id": "sv10-5",
+      "name": "Shroomish",
+      "cardNumber": "5",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/5_hires.png"
+    },
+    {
+      "id": "sv10-6",
+      "name": "Breloom",
+      "cardNumber": "6",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/6_hires.png"
+    },
+    {
+      "id": "sv10-7",
+      "name": "Cynthia's Roselia",
+      "cardNumber": "7",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/7_hires.png"
+    },
+    {
+      "id": "sv10-8",
+      "name": "Cynthia's Roserade",
+      "cardNumber": "8",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/8_hires.png"
+    },
+    {
+      "id": "sv10-9",
+      "name": "Mow Rotom",
+      "cardNumber": "9",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/9_hires.png"
+    },
+    {
+      "id": "sv10-10",
+      "name": "Shaymin",
+      "cardNumber": "10",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/10_hires.png"
+    },
+    {
+      "id": "sv10-11",
+      "name": "Dwebble",
+      "cardNumber": "11",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/11_hires.png"
+    },
+    {
+      "id": "sv10-12",
+      "name": "Crustle",
+      "cardNumber": "12",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/12_hires.png"
+    },
+    {
+      "id": "sv10-13",
+      "name": "Fomantis",
+      "cardNumber": "13",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/13_hires.png"
+    },
+    {
+      "id": "sv10-14",
+      "name": "Lurantis",
+      "cardNumber": "14",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/14_hires.png"
+    },
+    {
+      "id": "sv10-15",
+      "name": "Team Rocket's Blipbug",
+      "cardNumber": "15",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/15_hires.png"
+    },
+    {
+      "id": "sv10-16",
+      "name": "Applin",
+      "cardNumber": "16",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/16_hires.png"
+    },
+    {
+      "id": "sv10-17",
+      "name": "Dipplin",
+      "cardNumber": "17",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/17_hires.png"
+    },
+    {
+      "id": "sv10-18",
+      "name": "Hydrapple",
+      "cardNumber": "18",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/18_hires.png"
+    },
+    {
+      "id": "sv10-19",
+      "name": "Team Rocket's Tarountula",
+      "cardNumber": "19",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/19_hires.png"
+    },
+    {
+      "id": "sv10-20",
+      "name": "Team Rocket's Spidops",
+      "cardNumber": "20",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/20_hires.png"
+    },
+    {
+      "id": "sv10-21",
+      "name": "Smoliv",
+      "cardNumber": "21",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/21_hires.png"
+    },
+    {
+      "id": "sv10-22",
+      "name": "Dolliv",
+      "cardNumber": "22",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/22_hires.png"
+    },
+    {
+      "id": "sv10-23",
+      "name": "Arboliva ex",
+      "cardNumber": "23",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/23_hires.png"
+    },
+    {
+      "id": "sv10-24",
+      "name": "Rellor",
+      "cardNumber": "24",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/24_hires.png"
+    },
+    {
+      "id": "sv10-25",
+      "name": "Rabsca ex",
+      "cardNumber": "25",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/25_hires.png"
+    },
+    {
+      "id": "sv10-26",
+      "name": "Teal Mask Ogerpon",
+      "cardNumber": "26",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/26_hires.png"
+    },
+    {
+      "id": "sv10-27",
+      "name": "Growlithe",
+      "cardNumber": "27",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/27_hires.png"
+    },
+    {
+      "id": "sv10-28",
+      "name": "Arcanine",
+      "cardNumber": "28",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/28_hires.png"
+    },
+    {
+      "id": "sv10-29",
+      "name": "Ponyta",
+      "cardNumber": "29",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/29_hires.png"
+    },
+    {
+      "id": "sv10-30",
+      "name": "Rapidash",
+      "cardNumber": "30",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/30_hires.png"
+    },
+    {
+      "id": "sv10-31",
+      "name": "Team Rocket's Moltres ex",
+      "cardNumber": "31",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/31_hires.png"
+    },
+    {
+      "id": "sv10-32",
+      "name": "Ethan's Cyndaquil",
+      "cardNumber": "32",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/32_hires.png"
+    },
+    {
+      "id": "sv10-33",
+      "name": "Ethan's Quilava",
+      "cardNumber": "33",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/33_hires.png"
+    },
+    {
+      "id": "sv10-34",
+      "name": "Ethan's Typhlosion",
+      "cardNumber": "34",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/34_hires.png"
+    },
+    {
+      "id": "sv10-35",
+      "name": "Ethan's Slugma",
+      "cardNumber": "35",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/35_hires.png"
+    },
+    {
+      "id": "sv10-36",
+      "name": "Ethan's Magcargo",
+      "cardNumber": "36",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/36_hires.png"
+    },
+    {
+      "id": "sv10-37",
+      "name": "Team Rocket's Houndour",
+      "cardNumber": "37",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/37_hires.png"
+    },
+    {
+      "id": "sv10-38",
+      "name": "Team Rocket's Houndoom",
+      "cardNumber": "38",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/38_hires.png"
+    },
+    {
+      "id": "sv10-39",
+      "name": "Ethan's Ho-Oh ex",
+      "cardNumber": "39",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/39_hires.png"
+    },
+    {
+      "id": "sv10-40",
+      "name": "Torchic",
+      "cardNumber": "40",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/40_hires.png"
+    },
+    {
+      "id": "sv10-41",
+      "name": "Combusken",
+      "cardNumber": "41",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/41_hires.png"
+    },
+    {
+      "id": "sv10-42",
+      "name": "Blaziken",
+      "cardNumber": "42",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/42_hires.png"
+    },
+    {
+      "id": "sv10-43",
+      "name": "Heat Rotom",
+      "cardNumber": "43",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/43_hires.png"
+    },
+    {
+      "id": "sv10-44",
+      "name": "Hearthflame Mask Ogerpon",
+      "cardNumber": "44",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/44_hires.png"
+    },
+    {
+      "id": "sv10-45",
+      "name": "Misty's Psyduck",
+      "cardNumber": "45",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/45_hires.png"
+    },
+    {
+      "id": "sv10-46",
+      "name": "Misty's Staryu",
+      "cardNumber": "46",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/46_hires.png"
+    },
+    {
+      "id": "sv10-47",
+      "name": "Misty's Starmie",
+      "cardNumber": "47",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/47_hires.png"
+    },
+    {
+      "id": "sv10-48",
+      "name": "Misty's Magikarp",
+      "cardNumber": "48",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/48_hires.png"
+    },
+    {
+      "id": "sv10-49",
+      "name": "Misty's Gyarados",
+      "cardNumber": "49",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/49_hires.png"
+    },
+    {
+      "id": "sv10-50",
+      "name": "Misty's Lapras",
+      "cardNumber": "50",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/50_hires.png"
+    },
+    {
+      "id": "sv10-51",
+      "name": "Team Rocket's Articuno",
+      "cardNumber": "51",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/51_hires.png"
+    },
+    {
+      "id": "sv10-52",
+      "name": "Cynthia's Feebas",
+      "cardNumber": "52",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/52_hires.png"
+    },
+    {
+      "id": "sv10-53",
+      "name": "Cynthia's Milotic",
+      "cardNumber": "53",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/53_hires.png"
+    },
+    {
+      "id": "sv10-54",
+      "name": "Clamperl",
+      "cardNumber": "54",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/54_hires.png"
+    },
+    {
+      "id": "sv10-55",
+      "name": "Huntail",
+      "cardNumber": "55",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/55_hires.png"
+    },
+    {
+      "id": "sv10-56",
+      "name": "Gorebyss",
+      "cardNumber": "56",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/56_hires.png"
+    },
+    {
+      "id": "sv10-57",
+      "name": "Buizel",
+      "cardNumber": "57",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/57_hires.png"
+    },
+    {
+      "id": "sv10-58",
+      "name": "Floatzel",
+      "cardNumber": "58",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/58_hires.png"
+    },
+    {
+      "id": "sv10-59",
+      "name": "Snover",
+      "cardNumber": "59",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/59_hires.png"
+    },
+    {
+      "id": "sv10-60",
+      "name": "Abomasnow",
+      "cardNumber": "60",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/60_hires.png"
+    },
+    {
+      "id": "sv10-61",
+      "name": "Wash Rotom",
+      "cardNumber": "61",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/61_hires.png"
+    },
+    {
+      "id": "sv10-62",
+      "name": "Arrokuda",
+      "cardNumber": "62",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/62_hires.png"
+    },
+    {
+      "id": "sv10-63",
+      "name": "Barraskewda",
+      "cardNumber": "63",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/63_hires.png"
+    },
+    {
+      "id": "sv10-64",
+      "name": "Cetoddle",
+      "cardNumber": "64",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/64_hires.png"
+    },
+    {
+      "id": "sv10-65",
+      "name": "Cetitan ex",
+      "cardNumber": "65",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/65_hires.png"
+    },
+    {
+      "id": "sv10-66",
+      "name": "Dondozo ex",
+      "cardNumber": "66",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/66_hires.png"
+    },
+    {
+      "id": "sv10-67",
+      "name": "Wellspring Mask Ogerpon",
+      "cardNumber": "67",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/67_hires.png"
+    },
+    {
+      "id": "sv10-68",
+      "name": "Electabuzz",
+      "cardNumber": "68",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/68_hires.png"
+    },
+    {
+      "id": "sv10-69",
+      "name": "Electivire ex",
+      "cardNumber": "69",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/69_hires.png"
+    },
+    {
+      "id": "sv10-70",
+      "name": "Team Rocket's Zapdos",
+      "cardNumber": "70",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/70_hires.png"
+    },
+    {
+      "id": "sv10-71",
+      "name": "Ethan's Pichu",
+      "cardNumber": "71",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/71_hires.png"
+    },
+    {
+      "id": "sv10-72",
+      "name": "Team Rocket's Mareep",
+      "cardNumber": "72",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/72_hires.png"
+    },
+    {
+      "id": "sv10-73",
+      "name": "Team Rocket's Flaaffy",
+      "cardNumber": "73",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/73_hires.png"
+    },
+    {
+      "id": "sv10-74",
+      "name": "Team Rocket's Ampharos",
+      "cardNumber": "74",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/74_hires.png"
+    },
+    {
+      "id": "sv10-75",
+      "name": "Electrike",
+      "cardNumber": "75",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/75_hires.png"
+    },
+    {
+      "id": "sv10-76",
+      "name": "Manectric",
+      "cardNumber": "76",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/76_hires.png"
+    },
+    {
+      "id": "sv10-77",
+      "name": "Rotom",
+      "cardNumber": "77",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/77_hires.png"
+    },
+    {
+      "id": "sv10-78",
+      "name": "Zeraora",
+      "cardNumber": "78",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/78_hires.png"
+    },
+    {
+      "id": "sv10-79",
+      "name": "Team Rocket's Drowzee",
+      "cardNumber": "79",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/79_hires.png"
+    },
+    {
+      "id": "sv10-80",
+      "name": "Team Rocket's Hypno",
+      "cardNumber": "80",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/80_hires.png"
+    },
+    {
+      "id": "sv10-81",
+      "name": "Team Rocket's Mewtwo ex",
+      "cardNumber": "81",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/81_hires.png"
+    },
+    {
+      "id": "sv10-82",
+      "name": "Team Rocket's Wobbuffet",
+      "cardNumber": "82",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/82_hires.png"
+    },
+    {
+      "id": "sv10-83",
+      "name": "Steven's Baltoy",
+      "cardNumber": "83",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/83_hires.png"
+    },
+    {
+      "id": "sv10-84",
+      "name": "Steven's Claydol",
+      "cardNumber": "84",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/84_hires.png"
+    },
+    {
+      "id": "sv10-85",
+      "name": "Team Rocket's Chingling",
+      "cardNumber": "85",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/85_hires.png"
+    },
+    {
+      "id": "sv10-86",
+      "name": "Steven's Carbink",
+      "cardNumber": "86",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/86_hires.png"
+    },
+    {
+      "id": "sv10-87",
+      "name": "Team Rocket's Mimikyu",
+      "cardNumber": "87",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/87_hires.png"
+    },
+    {
+      "id": "sv10-88",
+      "name": "Team Rocket's Dottler",
+      "cardNumber": "88",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/88_hires.png"
+    },
+    {
+      "id": "sv10-89",
+      "name": "Team Rocket's Orbeetle",
+      "cardNumber": "89",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/89_hires.png"
+    },
+    {
+      "id": "sv10-90",
+      "name": "Mankey",
+      "cardNumber": "90",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/90_hires.png"
+    },
+    {
+      "id": "sv10-91",
+      "name": "Primeape",
+      "cardNumber": "91",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/91_hires.png"
+    },
+    {
+      "id": "sv10-92",
+      "name": "Annihilape",
+      "cardNumber": "92",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/92_hires.png"
+    },
+    {
+      "id": "sv10-93",
+      "name": "Ethan's Sudowoodo",
+      "cardNumber": "93",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/93_hires.png"
+    },
+    {
+      "id": "sv10-94",
+      "name": "Team Rocket's Larvitar",
+      "cardNumber": "94",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/94_hires.png"
+    },
+    {
+      "id": "sv10-95",
+      "name": "Team Rocket's Pupitar",
+      "cardNumber": "95",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/95_hires.png"
+    },
+    {
+      "id": "sv10-96",
+      "name": "Team Rocket's Tyranitar",
+      "cardNumber": "96",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/96_hires.png"
+    },
+    {
+      "id": "sv10-97",
+      "name": "Nosepass",
+      "cardNumber": "97",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/97_hires.png"
+    },
+    {
+      "id": "sv10-98",
+      "name": "Probopass",
+      "cardNumber": "98",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/98_hires.png"
+    },
+    {
+      "id": "sv10-99",
+      "name": "Meditite",
+      "cardNumber": "99",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/99_hires.png"
+    },
+    {
+      "id": "sv10-100",
+      "name": "Medicham",
+      "cardNumber": "100",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/100_hires.png"
+    },
+    {
+      "id": "sv10-101",
+      "name": "Regirock ex",
+      "cardNumber": "101",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/101_hires.png"
+    },
+    {
+      "id": "sv10-102",
+      "name": "Cynthia's Gible",
+      "cardNumber": "102",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/102_hires.png"
+    },
+    {
+      "id": "sv10-103",
+      "name": "Cynthia's Gabite",
+      "cardNumber": "103",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/103_hires.png"
+    },
+    {
+      "id": "sv10-104",
+      "name": "Cynthia's Garchomp ex",
+      "cardNumber": "104",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/104_hires.png"
+    },
+    {
+      "id": "sv10-105",
+      "name": "Hippopotas",
+      "cardNumber": "105",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/105_hires.png"
+    },
+    {
+      "id": "sv10-106",
+      "name": "Hippowdon",
+      "cardNumber": "106",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/106_hires.png"
+    },
+    {
+      "id": "sv10-107",
+      "name": "Mudbray",
+      "cardNumber": "107",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/107_hires.png"
+    },
+    {
+      "id": "sv10-108",
+      "name": "Mudsdale",
+      "cardNumber": "108",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/108_hires.png"
+    },
+    {
+      "id": "sv10-109",
+      "name": "Arven's Toedscool",
+      "cardNumber": "109",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/109_hires.png"
+    },
+    {
+      "id": "sv10-110",
+      "name": "Arven's Toedscruel",
+      "cardNumber": "110",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/110_hires.png"
+    },
+    {
+      "id": "sv10-111",
+      "name": "Cornerstone Mask Ogerpon",
+      "cardNumber": "111",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/111_hires.png"
+    },
+    {
+      "id": "sv10-112",
+      "name": "Team Rocket's Ekans",
+      "cardNumber": "112",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/112_hires.png"
+    },
+    {
+      "id": "sv10-113",
+      "name": "Team Rocket's Arbok",
+      "cardNumber": "113",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/113_hires.png"
+    },
+    {
+      "id": "sv10-114",
+      "name": "Team Rocket's Nidoran♀",
+      "cardNumber": "114",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/114_hires.png"
+    },
+    {
+      "id": "sv10-115",
+      "name": "Team Rocket's Nidorina",
+      "cardNumber": "115",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/115_hires.png"
+    },
+    {
+      "id": "sv10-116",
+      "name": "Team Rocket's Nidoqueen",
+      "cardNumber": "116",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/116_hires.png"
+    },
+    {
+      "id": "sv10-117",
+      "name": "Team Rocket's Nidoran♂",
+      "cardNumber": "117",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/117_hires.png"
+    },
+    {
+      "id": "sv10-118",
+      "name": "Team Rocket's Nidorino",
+      "cardNumber": "118",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/118_hires.png"
+    },
+    {
+      "id": "sv10-119",
+      "name": "Team Rocket's Nidoking ex",
+      "cardNumber": "119",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/119_hires.png"
+    },
+    {
+      "id": "sv10-120",
+      "name": "Team Rocket's Zubat",
+      "cardNumber": "120",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/120_hires.png"
+    },
+    {
+      "id": "sv10-121",
+      "name": "Team Rocket's Golbat",
+      "cardNumber": "121",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/121_hires.png"
+    },
+    {
+      "id": "sv10-122",
+      "name": "Team Rocket's Crobat ex",
+      "cardNumber": "122",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/122_hires.png"
+    },
+    {
+      "id": "sv10-123",
+      "name": "Team Rocket's Grimer",
+      "cardNumber": "123",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/123_hires.png"
+    },
+    {
+      "id": "sv10-124",
+      "name": "Team Rocket's Muk",
+      "cardNumber": "124",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/124_hires.png"
+    },
+    {
+      "id": "sv10-125",
+      "name": "Team Rocket's Koffing",
+      "cardNumber": "125",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/125_hires.png"
+    },
+    {
+      "id": "sv10-126",
+      "name": "Team Rocket's Weezing",
+      "cardNumber": "126",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/126_hires.png"
+    },
+    {
+      "id": "sv10-127",
+      "name": "Team Rocket's Murkrow",
+      "cardNumber": "127",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/127_hires.png"
+    },
+    {
+      "id": "sv10-128",
+      "name": "Team Rocket's Sneasel",
+      "cardNumber": "128",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/128_hires.png"
+    },
+    {
+      "id": "sv10-129",
+      "name": "Cynthia's Spiritomb",
+      "cardNumber": "129",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/129_hires.png"
+    },
+    {
+      "id": "sv10-130",
+      "name": "Marnie's Purrloin",
+      "cardNumber": "130",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/130_hires.png"
+    },
+    {
+      "id": "sv10-131",
+      "name": "Marnie's Liepard",
+      "cardNumber": "131",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/131_hires.png"
+    },
+    {
+      "id": "sv10-132",
+      "name": "Marnie's Scraggy",
+      "cardNumber": "132",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/132_hires.png"
+    },
+    {
+      "id": "sv10-133",
+      "name": "Marnie's Scrafty",
+      "cardNumber": "133",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/133_hires.png"
+    },
+    {
+      "id": "sv10-134",
+      "name": "Marnie's Impidimp",
+      "cardNumber": "134",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/134_hires.png"
+    },
+    {
+      "id": "sv10-135",
+      "name": "Marnie's Morgrem",
+      "cardNumber": "135",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/135_hires.png"
+    },
+    {
+      "id": "sv10-136",
+      "name": "Marnie's Grimmsnarl ex",
+      "cardNumber": "136",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/136_hires.png"
+    },
+    {
+      "id": "sv10-137",
+      "name": "Marnie's Morpeko",
+      "cardNumber": "137",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/137_hires.png"
+    },
+    {
+      "id": "sv10-138",
+      "name": "Arven's Maschiff",
+      "cardNumber": "138",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/138_hires.png"
+    },
+    {
+      "id": "sv10-139",
+      "name": "Arven's Mabosstiff ex",
+      "cardNumber": "139",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/139_hires.png"
+    },
+    {
+      "id": "sv10-140",
+      "name": "Forretress",
+      "cardNumber": "140",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/140_hires.png"
+    },
+    {
+      "id": "sv10-141",
+      "name": "Skarmory",
+      "cardNumber": "141",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/141_hires.png"
+    },
+    {
+      "id": "sv10-142",
+      "name": "Steven's Skarmory",
+      "cardNumber": "142",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/142_hires.png"
+    },
+    {
+      "id": "sv10-143",
+      "name": "Steven's Beldum",
+      "cardNumber": "143",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/143_hires.png"
+    },
+    {
+      "id": "sv10-144",
+      "name": "Steven's Metang",
+      "cardNumber": "144",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/144_hires.png"
+    },
+    {
+      "id": "sv10-145",
+      "name": "Steven's Metagross ex",
+      "cardNumber": "145",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/145_hires.png"
+    },
+    {
+      "id": "sv10-146",
+      "name": "Zamazenta",
+      "cardNumber": "146",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/146_hires.png"
+    },
+    {
+      "id": "sv10-147",
+      "name": "Team Rocket's Rattata",
+      "cardNumber": "147",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/147_hires.png"
+    },
+    {
+      "id": "sv10-148",
+      "name": "Team Rocket's Raticate",
+      "cardNumber": "148",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/148_hires.png"
+    },
+    {
+      "id": "sv10-149",
+      "name": "Team Rocket's Meowth",
+      "cardNumber": "149",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/149_hires.png"
+    },
+    {
+      "id": "sv10-150",
+      "name": "Team Rocket's Persian ex",
+      "cardNumber": "150",
+      "rarity": "Double Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/150_hires.png"
+    },
+    {
+      "id": "sv10-151",
+      "name": "Kangaskhan",
+      "cardNumber": "151",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/151_hires.png"
+    },
+    {
+      "id": "sv10-152",
+      "name": "Tauros",
+      "cardNumber": "152",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/152_hires.png"
+    },
+    {
+      "id": "sv10-153",
+      "name": "Team Rocket's Porygon",
+      "cardNumber": "153",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/153_hires.png"
+    },
+    {
+      "id": "sv10-154",
+      "name": "Team Rocket's Porygon2",
+      "cardNumber": "154",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/154_hires.png"
+    },
+    {
+      "id": "sv10-155",
+      "name": "Team Rocket's Porygon-Z",
+      "cardNumber": "155",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/155_hires.png"
+    },
+    {
+      "id": "sv10-156",
+      "name": "Taillow",
+      "cardNumber": "156",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/156_hires.png"
+    },
+    {
+      "id": "sv10-157",
+      "name": "Swellow",
+      "cardNumber": "157",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/157_hires.png"
+    },
+    {
+      "id": "sv10-158",
+      "name": "Arven's Skwovet",
+      "cardNumber": "158",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/158_hires.png"
+    },
+    {
+      "id": "sv10-159",
+      "name": "Arven's Greedent",
+      "cardNumber": "159",
+      "rarity": "Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/159_hires.png"
+    },
+    {
+      "id": "sv10-160",
+      "name": "Squawkabilly",
+      "cardNumber": "160",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/160_hires.png"
+    },
+    {
+      "id": "sv10-161",
+      "name": "Arven's Sandwich",
+      "cardNumber": "161",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/161_hires.png"
+    },
+    {
+      "id": "sv10-162",
+      "name": "Cynthia's Power Weight",
+      "cardNumber": "162",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/162_hires.png"
+    },
+    {
+      "id": "sv10-163",
+      "name": "Emcee's Hype",
+      "cardNumber": "163",
+      "rarity": "Common",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/163_hires.png"
+    },
+    {
+      "id": "sv10-164",
+      "name": "Energy Recycler",
+      "cardNumber": "164",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/164_hires.png"
+    },
+    {
+      "id": "sv10-165",
+      "name": "Ethan's Adventure",
+      "cardNumber": "165",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/165_hires.png"
+    },
+    {
+      "id": "sv10-166",
+      "name": "Granite Cave",
+      "cardNumber": "166",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/166_hires.png"
+    },
+    {
+      "id": "sv10-167",
+      "name": "Judge",
+      "cardNumber": "167",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/167_hires.png"
+    },
+    {
+      "id": "sv10-168",
+      "name": "Sacred Ash",
+      "cardNumber": "168",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/168_hires.png"
+    },
+    {
+      "id": "sv10-169",
+      "name": "Spikemuth Gym",
+      "cardNumber": "169",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/169_hires.png"
+    },
+    {
+      "id": "sv10-170",
+      "name": "Team Rocket's Archer",
+      "cardNumber": "170",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/170_hires.png"
+    },
+    {
+      "id": "sv10-171",
+      "name": "Team Rocket's Ariana",
+      "cardNumber": "171",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/171_hires.png"
+    },
+    {
+      "id": "sv10-172",
+      "name": "Team Rocket's Bother-Bot",
+      "cardNumber": "172",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/172_hires.png"
+    },
+    {
+      "id": "sv10-173",
+      "name": "Team Rocket's Factory",
+      "cardNumber": "173",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/173_hires.png"
+    },
+    {
+      "id": "sv10-174",
+      "name": "Team Rocket's Giovanni",
+      "cardNumber": "174",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/174_hires.png"
+    },
+    {
+      "id": "sv10-175",
+      "name": "Team Rocket's Great Ball",
+      "cardNumber": "175",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/175_hires.png"
+    },
+    {
+      "id": "sv10-176",
+      "name": "Team Rocket's Petrel",
+      "cardNumber": "176",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/176_hires.png"
+    },
+    {
+      "id": "sv10-177",
+      "name": "Team Rocket's Proton",
+      "cardNumber": "177",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/177_hires.png"
+    },
+    {
+      "id": "sv10-178",
+      "name": "Team Rocket's Transceiver",
+      "cardNumber": "178",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/178_hires.png"
+    },
+    {
+      "id": "sv10-179",
+      "name": "Team Rocket's Venture Bomb",
+      "cardNumber": "179",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/179_hires.png"
+    },
+    {
+      "id": "sv10-180",
+      "name": "Team Rocket's Watchtower",
+      "cardNumber": "180",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/180_hires.png"
+    },
+    {
+      "id": "sv10-181",
+      "name": "TM Machine",
+      "cardNumber": "181",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/181_hires.png"
+    },
+    {
+      "id": "sv10-182",
+      "name": "Team Rocket's Energy",
+      "cardNumber": "182",
+      "rarity": "Uncommon",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/182_hires.png"
+    },
+    {
+      "id": "sv10-183",
+      "name": "Yanma",
+      "cardNumber": "183",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/183_hires.png"
+    },
+    {
+      "id": "sv10-184",
+      "name": "Cynthia's Roserade",
+      "cardNumber": "184",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/184_hires.png"
+    },
+    {
+      "id": "sv10-185",
+      "name": "Shaymin",
+      "cardNumber": "185",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/185_hires.png"
+    },
+    {
+      "id": "sv10-186",
+      "name": "Crustle",
+      "cardNumber": "186",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/186_hires.png"
+    },
+    {
+      "id": "sv10-187",
+      "name": "Team Rocket's Spidops",
+      "cardNumber": "187",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/187_hires.png"
+    },
+    {
+      "id": "sv10-188",
+      "name": "Hydrapple",
+      "cardNumber": "188",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/188_hires.png"
+    },
+    {
+      "id": "sv10-189",
+      "name": "Rapidash",
+      "cardNumber": "189",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/189_hires.png"
+    },
+    {
+      "id": "sv10-190",
+      "name": "Ethan's Typhlosion",
+      "cardNumber": "190",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/190_hires.png"
+    },
+    {
+      "id": "sv10-191",
+      "name": "Team Rocket's Houndoom",
+      "cardNumber": "191",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/191_hires.png"
+    },
+    {
+      "id": "sv10-192",
+      "name": "Blaziken",
+      "cardNumber": "192",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/192_hires.png"
+    },
+    {
+      "id": "sv10-193",
+      "name": "Misty's Psyduck",
+      "cardNumber": "193",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/193_hires.png"
+    },
+    {
+      "id": "sv10-194",
+      "name": "Misty's Lapras",
+      "cardNumber": "194",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/194_hires.png"
+    },
+    {
+      "id": "sv10-195",
+      "name": "Clamperl",
+      "cardNumber": "195",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/195_hires.png"
+    },
+    {
+      "id": "sv10-196",
+      "name": "Electrike",
+      "cardNumber": "196",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/196_hires.png"
+    },
+    {
+      "id": "sv10-197",
+      "name": "Rotom",
+      "cardNumber": "197",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/197_hires.png"
+    },
+    {
+      "id": "sv10-198",
+      "name": "Team Rocket's Orbeetle",
+      "cardNumber": "198",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/198_hires.png"
+    },
+    {
+      "id": "sv10-199",
+      "name": "Team Rocket's Weezing",
+      "cardNumber": "199",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/199_hires.png"
+    },
+    {
+      "id": "sv10-200",
+      "name": "Team Rocket's Murkrow",
+      "cardNumber": "200",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/200_hires.png"
+    },
+    {
+      "id": "sv10-201",
+      "name": "Zamazenta",
+      "cardNumber": "201",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/201_hires.png"
+    },
+    {
+      "id": "sv10-202",
+      "name": "Team Rocket's Raticate",
+      "cardNumber": "202",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/202_hires.png"
+    },
+    {
+      "id": "sv10-203",
+      "name": "Team Rocket's Meowth",
+      "cardNumber": "203",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/203_hires.png"
+    },
+    {
+      "id": "sv10-204",
+      "name": "Kangaskhan",
+      "cardNumber": "204",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/204_hires.png"
+    },
+    {
+      "id": "sv10-205",
+      "name": "Arven's Greedent",
+      "cardNumber": "205",
+      "rarity": "Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/205_hires.png"
+    },
+    {
+      "id": "sv10-206",
+      "name": "Yanmega ex",
+      "cardNumber": "206",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/206_hires.png"
+    },
+    {
+      "id": "sv10-207",
+      "name": "Arboliva ex",
+      "cardNumber": "207",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/207_hires.png"
+    },
+    {
+      "id": "sv10-208",
+      "name": "Team Rocket's Moltres ex",
+      "cardNumber": "208",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/208_hires.png"
+    },
+    {
+      "id": "sv10-209",
+      "name": "Ethan's Ho-Oh ex",
+      "cardNumber": "209",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/209_hires.png"
+    },
+    {
+      "id": "sv10-210",
+      "name": "Cetitan ex",
+      "cardNumber": "210",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/210_hires.png"
+    },
+    {
+      "id": "sv10-211",
+      "name": "Dondozo ex",
+      "cardNumber": "211",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/211_hires.png"
+    },
+    {
+      "id": "sv10-212",
+      "name": "Electivire ex",
+      "cardNumber": "212",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/212_hires.png"
+    },
+    {
+      "id": "sv10-213",
+      "name": "Team Rocket's Mewtwo ex",
+      "cardNumber": "213",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/213_hires.png"
+    },
+    {
+      "id": "sv10-214",
+      "name": "Regirock ex",
+      "cardNumber": "214",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/214_hires.png"
+    },
+    {
+      "id": "sv10-215",
+      "name": "Cynthia's Garchomp ex",
+      "cardNumber": "215",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/215_hires.png"
+    },
+    {
+      "id": "sv10-216",
+      "name": "Team Rocket's Nidoking ex",
+      "cardNumber": "216",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/216_hires.png"
+    },
+    {
+      "id": "sv10-217",
+      "name": "Team Rocket's Crobat ex",
+      "cardNumber": "217",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/217_hires.png"
+    },
+    {
+      "id": "sv10-218",
+      "name": "Arven's Mabosstiff ex",
+      "cardNumber": "218",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/218_hires.png"
+    },
+    {
+      "id": "sv10-219",
+      "name": "Team Rocket's Persian ex",
+      "cardNumber": "219",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/219_hires.png"
+    },
+    {
+      "id": "sv10-220",
+      "name": "Emcee's Hype",
+      "cardNumber": "220",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/220_hires.png"
+    },
+    {
+      "id": "sv10-221",
+      "name": "Ethan's Adventure",
+      "cardNumber": "221",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/221_hires.png"
+    },
+    {
+      "id": "sv10-222",
+      "name": "Judge",
+      "cardNumber": "222",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/222_hires.png"
+    },
+    {
+      "id": "sv10-223",
+      "name": "Team Rocket's Archer",
+      "cardNumber": "223",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/223_hires.png"
+    },
+    {
+      "id": "sv10-224",
+      "name": "Team Rocket's Ariana",
+      "cardNumber": "224",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/224_hires.png"
+    },
+    {
+      "id": "sv10-225",
+      "name": "Team Rocket's Giovanni",
+      "cardNumber": "225",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/225_hires.png"
+    },
+    {
+      "id": "sv10-226",
+      "name": "Team Rocket's Petrel",
+      "cardNumber": "226",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/226_hires.png"
+    },
+    {
+      "id": "sv10-227",
+      "name": "Team Rocket's Proton",
+      "cardNumber": "227",
+      "rarity": "Ultra Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/227_hires.png"
+    },
+    {
+      "id": "sv10-228",
+      "name": "Yanmega ex",
+      "cardNumber": "228",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/228_hires.png"
+    },
+    {
+      "id": "sv10-229",
+      "name": "Team Rocket's Moltres ex",
+      "cardNumber": "229",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/229_hires.png"
+    },
+    {
+      "id": "sv10-230",
+      "name": "Ethan's Ho-Oh ex",
+      "cardNumber": "230",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/230_hires.png"
+    },
+    {
+      "id": "sv10-231",
+      "name": "Team Rocket's Mewtwo ex",
+      "cardNumber": "231",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/231_hires.png"
+    },
+    {
+      "id": "sv10-232",
+      "name": "Cynthia's Garchomp ex",
+      "cardNumber": "232",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/232_hires.png"
+    },
+    {
+      "id": "sv10-233",
+      "name": "Team Rocket's Nidoking ex",
+      "cardNumber": "233",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/233_hires.png"
+    },
+    {
+      "id": "sv10-234",
+      "name": "Team Rocket's Crobat ex",
+      "cardNumber": "234",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/234_hires.png"
+    },
+    {
+      "id": "sv10-235",
+      "name": "Arven's Mabosstiff ex",
+      "cardNumber": "235",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/235_hires.png"
+    },
+    {
+      "id": "sv10-236",
+      "name": "Ethan's Adventure",
+      "cardNumber": "236",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/236_hires.png"
+    },
+    {
+      "id": "sv10-237",
+      "name": "Team Rocket's Ariana",
+      "cardNumber": "237",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/237_hires.png"
+    },
+    {
+      "id": "sv10-238",
+      "name": "Team Rocket's Giovanni",
+      "cardNumber": "238",
+      "rarity": "Special Illustration Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/238_hires.png"
+    },
+    {
+      "id": "sv10-239",
+      "name": "Ethan's Ho-Oh ex",
+      "cardNumber": "239",
+      "rarity": "Hyper Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/239_hires.png"
+    },
+    {
+      "id": "sv10-240",
+      "name": "Team Rocket's Mewtwo ex",
+      "cardNumber": "240",
+      "rarity": "Hyper Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/240_hires.png"
+    },
+    {
+      "id": "sv10-241",
+      "name": "Cynthia's Garchomp ex",
+      "cardNumber": "241",
+      "rarity": "Hyper Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/241_hires.png"
+    },
+    {
+      "id": "sv10-242",
+      "name": "Team Rocket's Crobat ex",
+      "cardNumber": "242",
+      "rarity": "Hyper Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/242_hires.png"
+    },
+    {
+      "id": "sv10-243",
+      "name": "Jamming Tower",
+      "cardNumber": "243",
+      "rarity": "Hyper Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/243_hires.png"
+    },
+    {
+      "id": "sv10-244",
+      "name": "Levincia",
+      "cardNumber": "244",
+      "rarity": "Hyper Rare",
+      "setName": "Destined Rivals",
+      "artUrl": "https://images.pokemontcg.io/sv10/244_hires.png"
+    }
+  ]
+}

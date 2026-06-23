@@ -1,0 +1,2025 @@
+{
+  "setId": "sv8",
+  "setName": "Surging Sparks",
+  "printedTotal": 191,
+  "totalCards": 252,
+  "builtAt": "2026-06-23T05:58:05.381Z",
+  "cards": [
+    {
+      "id": "sv8-1",
+      "name": "Exeggcute",
+      "cardNumber": "1",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/1_hires.png"
+    },
+    {
+      "id": "sv8-2",
+      "name": "Exeggcute",
+      "cardNumber": "2",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/2_hires.png"
+    },
+    {
+      "id": "sv8-3",
+      "name": "Exeggutor",
+      "cardNumber": "3",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/3_hires.png"
+    },
+    {
+      "id": "sv8-4",
+      "name": "Durant ex",
+      "cardNumber": "4",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/4_hires.png"
+    },
+    {
+      "id": "sv8-5",
+      "name": "Scatterbug",
+      "cardNumber": "5",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/5_hires.png"
+    },
+    {
+      "id": "sv8-6",
+      "name": "Spewpa",
+      "cardNumber": "6",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/6_hires.png"
+    },
+    {
+      "id": "sv8-7",
+      "name": "Vivillon",
+      "cardNumber": "7",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/7_hires.png"
+    },
+    {
+      "id": "sv8-8",
+      "name": "Morelull",
+      "cardNumber": "8",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/8_hires.png"
+    },
+    {
+      "id": "sv8-9",
+      "name": "Shiinotic",
+      "cardNumber": "9",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/9_hires.png"
+    },
+    {
+      "id": "sv8-10",
+      "name": "Dhelmise",
+      "cardNumber": "10",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/10_hires.png"
+    },
+    {
+      "id": "sv8-11",
+      "name": "Zarude",
+      "cardNumber": "11",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/11_hires.png"
+    },
+    {
+      "id": "sv8-12",
+      "name": "Capsakid",
+      "cardNumber": "12",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/12_hires.png"
+    },
+    {
+      "id": "sv8-13",
+      "name": "Rellor",
+      "cardNumber": "13",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/13_hires.png"
+    },
+    {
+      "id": "sv8-14",
+      "name": "Rabsca",
+      "cardNumber": "14",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/14_hires.png"
+    },
+    {
+      "id": "sv8-15",
+      "name": "Wo-Chien",
+      "cardNumber": "15",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/15_hires.png"
+    },
+    {
+      "id": "sv8-16",
+      "name": "Vulpix",
+      "cardNumber": "16",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/16_hires.png"
+    },
+    {
+      "id": "sv8-17",
+      "name": "Ninetales",
+      "cardNumber": "17",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/17_hires.png"
+    },
+    {
+      "id": "sv8-18",
+      "name": "Paldean Tauros",
+      "cardNumber": "18",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/18_hires.png"
+    },
+    {
+      "id": "sv8-19",
+      "name": "Ho-Oh",
+      "cardNumber": "19",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/19_hires.png"
+    },
+    {
+      "id": "sv8-20",
+      "name": "Castform Sunny Form",
+      "cardNumber": "20",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/20_hires.png"
+    },
+    {
+      "id": "sv8-21",
+      "name": "Victini",
+      "cardNumber": "21",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/21_hires.png"
+    },
+    {
+      "id": "sv8-22",
+      "name": "Pansear",
+      "cardNumber": "22",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/22_hires.png"
+    },
+    {
+      "id": "sv8-23",
+      "name": "Simisear",
+      "cardNumber": "23",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/23_hires.png"
+    },
+    {
+      "id": "sv8-24",
+      "name": "Larvesta",
+      "cardNumber": "24",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/24_hires.png"
+    },
+    {
+      "id": "sv8-25",
+      "name": "Volcarona",
+      "cardNumber": "25",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/25_hires.png"
+    },
+    {
+      "id": "sv8-26",
+      "name": "Oricorio",
+      "cardNumber": "26",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/26_hires.png"
+    },
+    {
+      "id": "sv8-27",
+      "name": "Sizzlipede",
+      "cardNumber": "27",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/27_hires.png"
+    },
+    {
+      "id": "sv8-28",
+      "name": "Centiskorch",
+      "cardNumber": "28",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/28_hires.png"
+    },
+    {
+      "id": "sv8-29",
+      "name": "Fuecoco",
+      "cardNumber": "29",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/29_hires.png"
+    },
+    {
+      "id": "sv8-30",
+      "name": "Crocalor",
+      "cardNumber": "30",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/30_hires.png"
+    },
+    {
+      "id": "sv8-31",
+      "name": "Skeledirge",
+      "cardNumber": "31",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/31_hires.png"
+    },
+    {
+      "id": "sv8-32",
+      "name": "Charcadet",
+      "cardNumber": "32",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/32_hires.png"
+    },
+    {
+      "id": "sv8-33",
+      "name": "Charcadet",
+      "cardNumber": "33",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/33_hires.png"
+    },
+    {
+      "id": "sv8-34",
+      "name": "Armarouge",
+      "cardNumber": "34",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/34_hires.png"
+    },
+    {
+      "id": "sv8-35",
+      "name": "Ceruledge",
+      "cardNumber": "35",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/35_hires.png"
+    },
+    {
+      "id": "sv8-36",
+      "name": "Ceruledge ex",
+      "cardNumber": "36",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/36_hires.png"
+    },
+    {
+      "id": "sv8-37",
+      "name": "Scovillain ex",
+      "cardNumber": "37",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/37_hires.png"
+    },
+    {
+      "id": "sv8-38",
+      "name": "Gouging Fire",
+      "cardNumber": "38",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/38_hires.png"
+    },
+    {
+      "id": "sv8-39",
+      "name": "Paldean Tauros",
+      "cardNumber": "39",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/39_hires.png"
+    },
+    {
+      "id": "sv8-40",
+      "name": "Mantine",
+      "cardNumber": "40",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/40_hires.png"
+    },
+    {
+      "id": "sv8-41",
+      "name": "Feebas",
+      "cardNumber": "41",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/41_hires.png"
+    },
+    {
+      "id": "sv8-42",
+      "name": "Milotic ex",
+      "cardNumber": "42",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/42_hires.png"
+    },
+    {
+      "id": "sv8-43",
+      "name": "Spheal",
+      "cardNumber": "43",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/43_hires.png"
+    },
+    {
+      "id": "sv8-44",
+      "name": "Sealeo",
+      "cardNumber": "44",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/44_hires.png"
+    },
+    {
+      "id": "sv8-45",
+      "name": "Walrein",
+      "cardNumber": "45",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/45_hires.png"
+    },
+    {
+      "id": "sv8-46",
+      "name": "Shellos",
+      "cardNumber": "46",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/46_hires.png"
+    },
+    {
+      "id": "sv8-47",
+      "name": "Cryogonal",
+      "cardNumber": "47",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/47_hires.png"
+    },
+    {
+      "id": "sv8-48",
+      "name": "Black Kyurem ex",
+      "cardNumber": "48",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/48_hires.png"
+    },
+    {
+      "id": "sv8-49",
+      "name": "Bruxish",
+      "cardNumber": "49",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/49_hires.png"
+    },
+    {
+      "id": "sv8-50",
+      "name": "Quaxly",
+      "cardNumber": "50",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/50_hires.png"
+    },
+    {
+      "id": "sv8-51",
+      "name": "Quaxwell",
+      "cardNumber": "51",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/51_hires.png"
+    },
+    {
+      "id": "sv8-52",
+      "name": "Quaquaval",
+      "cardNumber": "52",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/52_hires.png"
+    },
+    {
+      "id": "sv8-53",
+      "name": "Cetoddle",
+      "cardNumber": "53",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/53_hires.png"
+    },
+    {
+      "id": "sv8-54",
+      "name": "Cetitan",
+      "cardNumber": "54",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/54_hires.png"
+    },
+    {
+      "id": "sv8-55",
+      "name": "Iron Bundle",
+      "cardNumber": "55",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/55_hires.png"
+    },
+    {
+      "id": "sv8-56",
+      "name": "Chien-Pao",
+      "cardNumber": "56",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/56_hires.png"
+    },
+    {
+      "id": "sv8-57",
+      "name": "Pikachu ex",
+      "cardNumber": "57",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/57_hires.png"
+    },
+    {
+      "id": "sv8-58",
+      "name": "Magnemite",
+      "cardNumber": "58",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/58_hires.png"
+    },
+    {
+      "id": "sv8-59",
+      "name": "Magneton",
+      "cardNumber": "59",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/59_hires.png"
+    },
+    {
+      "id": "sv8-60",
+      "name": "Magnezone",
+      "cardNumber": "60",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/60_hires.png"
+    },
+    {
+      "id": "sv8-61",
+      "name": "Rotom",
+      "cardNumber": "61",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/61_hires.png"
+    },
+    {
+      "id": "sv8-62",
+      "name": "Blitzle",
+      "cardNumber": "62",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/62_hires.png"
+    },
+    {
+      "id": "sv8-63",
+      "name": "Zebstrika",
+      "cardNumber": "63",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/63_hires.png"
+    },
+    {
+      "id": "sv8-64",
+      "name": "Stunfisk",
+      "cardNumber": "64",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/64_hires.png"
+    },
+    {
+      "id": "sv8-65",
+      "name": "Tapu Koko",
+      "cardNumber": "65",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/65_hires.png"
+    },
+    {
+      "id": "sv8-66",
+      "name": "Wattrel",
+      "cardNumber": "66",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/66_hires.png"
+    },
+    {
+      "id": "sv8-67",
+      "name": "Kilowattrel",
+      "cardNumber": "67",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/67_hires.png"
+    },
+    {
+      "id": "sv8-68",
+      "name": "Kilowattrel ex",
+      "cardNumber": "68",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/68_hires.png"
+    },
+    {
+      "id": "sv8-69",
+      "name": "Miraidon",
+      "cardNumber": "69",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/69_hires.png"
+    },
+    {
+      "id": "sv8-70",
+      "name": "Togepi",
+      "cardNumber": "70",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/70_hires.png"
+    },
+    {
+      "id": "sv8-71",
+      "name": "Togetic",
+      "cardNumber": "71",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/71_hires.png"
+    },
+    {
+      "id": "sv8-72",
+      "name": "Togekiss",
+      "cardNumber": "72",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/72_hires.png"
+    },
+    {
+      "id": "sv8-73",
+      "name": "Marill",
+      "cardNumber": "73",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/73_hires.png"
+    },
+    {
+      "id": "sv8-74",
+      "name": "Azumarill",
+      "cardNumber": "74",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/74_hires.png"
+    },
+    {
+      "id": "sv8-75",
+      "name": "Smoochum",
+      "cardNumber": "75",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/75_hires.png"
+    },
+    {
+      "id": "sv8-76",
+      "name": "Latias ex",
+      "cardNumber": "76",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/76_hires.png"
+    },
+    {
+      "id": "sv8-77",
+      "name": "Latios",
+      "cardNumber": "77",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/77_hires.png"
+    },
+    {
+      "id": "sv8-78",
+      "name": "Uxie",
+      "cardNumber": "78",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/78_hires.png"
+    },
+    {
+      "id": "sv8-79",
+      "name": "Mesprit",
+      "cardNumber": "79",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/79_hires.png"
+    },
+    {
+      "id": "sv8-80",
+      "name": "Azelf",
+      "cardNumber": "80",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/80_hires.png"
+    },
+    {
+      "id": "sv8-81",
+      "name": "Sigilyph",
+      "cardNumber": "81",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/81_hires.png"
+    },
+    {
+      "id": "sv8-82",
+      "name": "Yamask",
+      "cardNumber": "82",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/82_hires.png"
+    },
+    {
+      "id": "sv8-83",
+      "name": "Cofagrigus",
+      "cardNumber": "83",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/83_hires.png"
+    },
+    {
+      "id": "sv8-84",
+      "name": "Espurr",
+      "cardNumber": "84",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/84_hires.png"
+    },
+    {
+      "id": "sv8-85",
+      "name": "Meowstic",
+      "cardNumber": "85",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/85_hires.png"
+    },
+    {
+      "id": "sv8-86",
+      "name": "Sylveon ex",
+      "cardNumber": "86",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/86_hires.png"
+    },
+    {
+      "id": "sv8-87",
+      "name": "Dedenne",
+      "cardNumber": "87",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/87_hires.png"
+    },
+    {
+      "id": "sv8-88",
+      "name": "Xerneas",
+      "cardNumber": "88",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/88_hires.png"
+    },
+    {
+      "id": "sv8-89",
+      "name": "Oricorio",
+      "cardNumber": "89",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/89_hires.png"
+    },
+    {
+      "id": "sv8-90",
+      "name": "Sandygast",
+      "cardNumber": "90",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/90_hires.png"
+    },
+    {
+      "id": "sv8-91",
+      "name": "Palossand ex",
+      "cardNumber": "91",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/91_hires.png"
+    },
+    {
+      "id": "sv8-92",
+      "name": "Tapu Lele",
+      "cardNumber": "92",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/92_hires.png"
+    },
+    {
+      "id": "sv8-93",
+      "name": "Indeedee",
+      "cardNumber": "93",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/93_hires.png"
+    },
+    {
+      "id": "sv8-94",
+      "name": "Flittle",
+      "cardNumber": "94",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/94_hires.png"
+    },
+    {
+      "id": "sv8-95",
+      "name": "Espathra",
+      "cardNumber": "95",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/95_hires.png"
+    },
+    {
+      "id": "sv8-96",
+      "name": "Flutter Mane",
+      "cardNumber": "96",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/96_hires.png"
+    },
+    {
+      "id": "sv8-97",
+      "name": "Gimmighoul",
+      "cardNumber": "97",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/97_hires.png"
+    },
+    {
+      "id": "sv8-98",
+      "name": "Mankey",
+      "cardNumber": "98",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/98_hires.png"
+    },
+    {
+      "id": "sv8-99",
+      "name": "Primeape",
+      "cardNumber": "99",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/99_hires.png"
+    },
+    {
+      "id": "sv8-100",
+      "name": "Annihilape",
+      "cardNumber": "100",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/100_hires.png"
+    },
+    {
+      "id": "sv8-101",
+      "name": "Paldean Tauros",
+      "cardNumber": "101",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/101_hires.png"
+    },
+    {
+      "id": "sv8-102",
+      "name": "Phanpy",
+      "cardNumber": "102",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/102_hires.png"
+    },
+    {
+      "id": "sv8-103",
+      "name": "Donphan",
+      "cardNumber": "103",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/103_hires.png"
+    },
+    {
+      "id": "sv8-104",
+      "name": "Trapinch",
+      "cardNumber": "104",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/104_hires.png"
+    },
+    {
+      "id": "sv8-105",
+      "name": "Vibrava",
+      "cardNumber": "105",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/105_hires.png"
+    },
+    {
+      "id": "sv8-106",
+      "name": "Flygon ex",
+      "cardNumber": "106",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/106_hires.png"
+    },
+    {
+      "id": "sv8-107",
+      "name": "Gastrodon",
+      "cardNumber": "107",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/107_hires.png"
+    },
+    {
+      "id": "sv8-108",
+      "name": "Drilbur",
+      "cardNumber": "108",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/108_hires.png"
+    },
+    {
+      "id": "sv8-109",
+      "name": "Excadrill",
+      "cardNumber": "109",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/109_hires.png"
+    },
+    {
+      "id": "sv8-110",
+      "name": "Landorus",
+      "cardNumber": "110",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/110_hires.png"
+    },
+    {
+      "id": "sv8-111",
+      "name": "Passimian",
+      "cardNumber": "111",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/111_hires.png"
+    },
+    {
+      "id": "sv8-112",
+      "name": "Clobbopus",
+      "cardNumber": "112",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/112_hires.png"
+    },
+    {
+      "id": "sv8-113",
+      "name": "Grapploct",
+      "cardNumber": "113",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/113_hires.png"
+    },
+    {
+      "id": "sv8-114",
+      "name": "Glimmet",
+      "cardNumber": "114",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/114_hires.png"
+    },
+    {
+      "id": "sv8-115",
+      "name": "Glimmora",
+      "cardNumber": "115",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/115_hires.png"
+    },
+    {
+      "id": "sv8-116",
+      "name": "Koraidon",
+      "cardNumber": "116",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/116_hires.png"
+    },
+    {
+      "id": "sv8-117",
+      "name": "Deino",
+      "cardNumber": "117",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/117_hires.png"
+    },
+    {
+      "id": "sv8-118",
+      "name": "Zweilous",
+      "cardNumber": "118",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/118_hires.png"
+    },
+    {
+      "id": "sv8-119",
+      "name": "Hydreigon ex",
+      "cardNumber": "119",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/119_hires.png"
+    },
+    {
+      "id": "sv8-120",
+      "name": "Shroodle",
+      "cardNumber": "120",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/120_hires.png"
+    },
+    {
+      "id": "sv8-121",
+      "name": "Grafaiai",
+      "cardNumber": "121",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/121_hires.png"
+    },
+    {
+      "id": "sv8-122",
+      "name": "Alolan Diglett",
+      "cardNumber": "122",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/122_hires.png"
+    },
+    {
+      "id": "sv8-123",
+      "name": "Alolan Dugtrio",
+      "cardNumber": "123",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/123_hires.png"
+    },
+    {
+      "id": "sv8-124",
+      "name": "Skarmory",
+      "cardNumber": "124",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/124_hires.png"
+    },
+    {
+      "id": "sv8-125",
+      "name": "Registeel",
+      "cardNumber": "125",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/125_hires.png"
+    },
+    {
+      "id": "sv8-126",
+      "name": "Bronzor",
+      "cardNumber": "126",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/126_hires.png"
+    },
+    {
+      "id": "sv8-127",
+      "name": "Bronzong",
+      "cardNumber": "127",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/127_hires.png"
+    },
+    {
+      "id": "sv8-128",
+      "name": "Klefki",
+      "cardNumber": "128",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/128_hires.png"
+    },
+    {
+      "id": "sv8-129",
+      "name": "Duraludon",
+      "cardNumber": "129",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/129_hires.png"
+    },
+    {
+      "id": "sv8-130",
+      "name": "Archaludon ex",
+      "cardNumber": "130",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/130_hires.png"
+    },
+    {
+      "id": "sv8-131",
+      "name": "Gholdengo",
+      "cardNumber": "131",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/131_hires.png"
+    },
+    {
+      "id": "sv8-132",
+      "name": "Iron Crown",
+      "cardNumber": "132",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/132_hires.png"
+    },
+    {
+      "id": "sv8-133",
+      "name": "Alolan Exeggutor ex",
+      "cardNumber": "133",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/133_hires.png"
+    },
+    {
+      "id": "sv8-134",
+      "name": "Altaria",
+      "cardNumber": "134",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/134_hires.png"
+    },
+    {
+      "id": "sv8-135",
+      "name": "Dialga",
+      "cardNumber": "135",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/135_hires.png"
+    },
+    {
+      "id": "sv8-136",
+      "name": "Palkia",
+      "cardNumber": "136",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/136_hires.png"
+    },
+    {
+      "id": "sv8-137",
+      "name": "Turtonator",
+      "cardNumber": "137",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/137_hires.png"
+    },
+    {
+      "id": "sv8-138",
+      "name": "Applin",
+      "cardNumber": "138",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/138_hires.png"
+    },
+    {
+      "id": "sv8-139",
+      "name": "Flapple",
+      "cardNumber": "139",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/139_hires.png"
+    },
+    {
+      "id": "sv8-140",
+      "name": "Appletun",
+      "cardNumber": "140",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/140_hires.png"
+    },
+    {
+      "id": "sv8-141",
+      "name": "Eternatus",
+      "cardNumber": "141",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/141_hires.png"
+    },
+    {
+      "id": "sv8-142",
+      "name": "Tatsugiri ex",
+      "cardNumber": "142",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/142_hires.png"
+    },
+    {
+      "id": "sv8-143",
+      "name": "Eevee",
+      "cardNumber": "143",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/143_hires.png"
+    },
+    {
+      "id": "sv8-144",
+      "name": "Snorlax",
+      "cardNumber": "144",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/144_hires.png"
+    },
+    {
+      "id": "sv8-145",
+      "name": "Slakoth",
+      "cardNumber": "145",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/145_hires.png"
+    },
+    {
+      "id": "sv8-146",
+      "name": "Vigoroth",
+      "cardNumber": "146",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/146_hires.png"
+    },
+    {
+      "id": "sv8-147",
+      "name": "Slaking ex",
+      "cardNumber": "147",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/147_hires.png"
+    },
+    {
+      "id": "sv8-148",
+      "name": "Swablu",
+      "cardNumber": "148",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/148_hires.png"
+    },
+    {
+      "id": "sv8-149",
+      "name": "Zangoose",
+      "cardNumber": "149",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/149_hires.png"
+    },
+    {
+      "id": "sv8-150",
+      "name": "Kecleon",
+      "cardNumber": "150",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/150_hires.png"
+    },
+    {
+      "id": "sv8-151",
+      "name": "Bouffalant",
+      "cardNumber": "151",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/151_hires.png"
+    },
+    {
+      "id": "sv8-152",
+      "name": "Rufflet",
+      "cardNumber": "152",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/152_hires.png"
+    },
+    {
+      "id": "sv8-153",
+      "name": "Braviary",
+      "cardNumber": "153",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/153_hires.png"
+    },
+    {
+      "id": "sv8-154",
+      "name": "Helioptile",
+      "cardNumber": "154",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/154_hires.png"
+    },
+    {
+      "id": "sv8-155",
+      "name": "Heliolisk",
+      "cardNumber": "155",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/155_hires.png"
+    },
+    {
+      "id": "sv8-156",
+      "name": "Oranguru",
+      "cardNumber": "156",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/156_hires.png"
+    },
+    {
+      "id": "sv8-157",
+      "name": "Tandemaus",
+      "cardNumber": "157",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/157_hires.png"
+    },
+    {
+      "id": "sv8-158",
+      "name": "Maushold",
+      "cardNumber": "158",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/158_hires.png"
+    },
+    {
+      "id": "sv8-159",
+      "name": "Cyclizar ex",
+      "cardNumber": "159",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/159_hires.png"
+    },
+    {
+      "id": "sv8-160",
+      "name": "Flamigo ex",
+      "cardNumber": "160",
+      "rarity": "Double Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/160_hires.png"
+    },
+    {
+      "id": "sv8-161",
+      "name": "Terapagos",
+      "cardNumber": "161",
+      "rarity": "Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/161_hires.png"
+    },
+    {
+      "id": "sv8-162",
+      "name": "Amulet of Hope",
+      "cardNumber": "162",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/162_hires.png"
+    },
+    {
+      "id": "sv8-163",
+      "name": "Babiri Berry",
+      "cardNumber": "163",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/163_hires.png"
+    },
+    {
+      "id": "sv8-164",
+      "name": "Brilliant Blender",
+      "cardNumber": "164",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/164_hires.png"
+    },
+    {
+      "id": "sv8-165",
+      "name": "Call Bell",
+      "cardNumber": "165",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/165_hires.png"
+    },
+    {
+      "id": "sv8-166",
+      "name": "Chill Teaser Toy",
+      "cardNumber": "166",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/166_hires.png"
+    },
+    {
+      "id": "sv8-167",
+      "name": "Clemont's Quick Wit",
+      "cardNumber": "167",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/167_hires.png"
+    },
+    {
+      "id": "sv8-168",
+      "name": "Colbur Berry",
+      "cardNumber": "168",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/168_hires.png"
+    },
+    {
+      "id": "sv8-169",
+      "name": "Counter Gain",
+      "cardNumber": "169",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/169_hires.png"
+    },
+    {
+      "id": "sv8-170",
+      "name": "Cyrano",
+      "cardNumber": "170",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/170_hires.png"
+    },
+    {
+      "id": "sv8-171",
+      "name": "Deduction Kit",
+      "cardNumber": "171",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/171_hires.png"
+    },
+    {
+      "id": "sv8-172",
+      "name": "Dragon Elixir",
+      "cardNumber": "172",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/172_hires.png"
+    },
+    {
+      "id": "sv8-173",
+      "name": "Drasna",
+      "cardNumber": "173",
+      "rarity": "Common",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/173_hires.png"
+    },
+    {
+      "id": "sv8-174",
+      "name": "Drayton",
+      "cardNumber": "174",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/174_hires.png"
+    },
+    {
+      "id": "sv8-175",
+      "name": "Dusk Ball",
+      "cardNumber": "175",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/175_hires.png"
+    },
+    {
+      "id": "sv8-176",
+      "name": "Energy Search Pro",
+      "cardNumber": "176",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/176_hires.png"
+    },
+    {
+      "id": "sv8-177",
+      "name": "Gravity Mountain",
+      "cardNumber": "177",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/177_hires.png"
+    },
+    {
+      "id": "sv8-178",
+      "name": "Jasmine's Gaze",
+      "cardNumber": "178",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/178_hires.png"
+    },
+    {
+      "id": "sv8-179",
+      "name": "Lisia's Appeal",
+      "cardNumber": "179",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/179_hires.png"
+    },
+    {
+      "id": "sv8-180",
+      "name": "Lively Stadium",
+      "cardNumber": "180",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/180_hires.png"
+    },
+    {
+      "id": "sv8-181",
+      "name": "Meddling Memo",
+      "cardNumber": "181",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/181_hires.png"
+    },
+    {
+      "id": "sv8-182",
+      "name": "Megaton Blower",
+      "cardNumber": "182",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/182_hires.png"
+    },
+    {
+      "id": "sv8-183",
+      "name": "Miracle Headset",
+      "cardNumber": "183",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/183_hires.png"
+    },
+    {
+      "id": "sv8-184",
+      "name": "Passho Berry",
+      "cardNumber": "184",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/184_hires.png"
+    },
+    {
+      "id": "sv8-185",
+      "name": "Precious Trolley",
+      "cardNumber": "185",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/185_hires.png"
+    },
+    {
+      "id": "sv8-186",
+      "name": "Scramble Switch",
+      "cardNumber": "186",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/186_hires.png"
+    },
+    {
+      "id": "sv8-187",
+      "name": "Surfer",
+      "cardNumber": "187",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/187_hires.png"
+    },
+    {
+      "id": "sv8-188",
+      "name": "Technical Machine: Fluorite",
+      "cardNumber": "188",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/188_hires.png"
+    },
+    {
+      "id": "sv8-189",
+      "name": "Tera Orb",
+      "cardNumber": "189",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/189_hires.png"
+    },
+    {
+      "id": "sv8-190",
+      "name": "Tyme",
+      "cardNumber": "190",
+      "rarity": "Uncommon",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/190_hires.png"
+    },
+    {
+      "id": "sv8-191",
+      "name": "Enriching Energy",
+      "cardNumber": "191",
+      "rarity": "ACE SPEC Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/191_hires.png"
+    },
+    {
+      "id": "sv8-192",
+      "name": "Exeggcute",
+      "cardNumber": "192",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/192_hires.png"
+    },
+    {
+      "id": "sv8-193",
+      "name": "Vivillon",
+      "cardNumber": "193",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/193_hires.png"
+    },
+    {
+      "id": "sv8-194",
+      "name": "Shiinotic",
+      "cardNumber": "194",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/194_hires.png"
+    },
+    {
+      "id": "sv8-195",
+      "name": "Castform Sunny Form",
+      "cardNumber": "195",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/195_hires.png"
+    },
+    {
+      "id": "sv8-196",
+      "name": "Larvesta",
+      "cardNumber": "196",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/196_hires.png"
+    },
+    {
+      "id": "sv8-197",
+      "name": "Ceruledge",
+      "cardNumber": "197",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/197_hires.png"
+    },
+    {
+      "id": "sv8-198",
+      "name": "Feebas",
+      "cardNumber": "198",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/198_hires.png"
+    },
+    {
+      "id": "sv8-199",
+      "name": "Spheal",
+      "cardNumber": "199",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/199_hires.png"
+    },
+    {
+      "id": "sv8-200",
+      "name": "Bruxish",
+      "cardNumber": "200",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/200_hires.png"
+    },
+    {
+      "id": "sv8-201",
+      "name": "Cetitan",
+      "cardNumber": "201",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/201_hires.png"
+    },
+    {
+      "id": "sv8-202",
+      "name": "Stunfisk",
+      "cardNumber": "202",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/202_hires.png"
+    },
+    {
+      "id": "sv8-203",
+      "name": "Latios",
+      "cardNumber": "203",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/203_hires.png"
+    },
+    {
+      "id": "sv8-204",
+      "name": "Mesprit",
+      "cardNumber": "204",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/204_hires.png"
+    },
+    {
+      "id": "sv8-205",
+      "name": "Phanpy",
+      "cardNumber": "205",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/205_hires.png"
+    },
+    {
+      "id": "sv8-206",
+      "name": "Vibrava",
+      "cardNumber": "206",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/206_hires.png"
+    },
+    {
+      "id": "sv8-207",
+      "name": "Clobbopus",
+      "cardNumber": "207",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/207_hires.png"
+    },
+    {
+      "id": "sv8-208",
+      "name": "Alolan Dugtrio",
+      "cardNumber": "208",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/208_hires.png"
+    },
+    {
+      "id": "sv8-209",
+      "name": "Skarmory",
+      "cardNumber": "209",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/209_hires.png"
+    },
+    {
+      "id": "sv8-210",
+      "name": "Flapple",
+      "cardNumber": "210",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/210_hires.png"
+    },
+    {
+      "id": "sv8-211",
+      "name": "Appletun",
+      "cardNumber": "211",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/211_hires.png"
+    },
+    {
+      "id": "sv8-212",
+      "name": "Slakoth",
+      "cardNumber": "212",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/212_hires.png"
+    },
+    {
+      "id": "sv8-213",
+      "name": "Kecleon",
+      "cardNumber": "213",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/213_hires.png"
+    },
+    {
+      "id": "sv8-214",
+      "name": "Braviary",
+      "cardNumber": "214",
+      "rarity": "Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/214_hires.png"
+    },
+    {
+      "id": "sv8-215",
+      "name": "Durant ex",
+      "cardNumber": "215",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/215_hires.png"
+    },
+    {
+      "id": "sv8-216",
+      "name": "Scovillain ex",
+      "cardNumber": "216",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/216_hires.png"
+    },
+    {
+      "id": "sv8-217",
+      "name": "Milotic ex",
+      "cardNumber": "217",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/217_hires.png"
+    },
+    {
+      "id": "sv8-218",
+      "name": "Black Kyurem ex",
+      "cardNumber": "218",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/218_hires.png"
+    },
+    {
+      "id": "sv8-219",
+      "name": "Pikachu ex",
+      "cardNumber": "219",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/219_hires.png"
+    },
+    {
+      "id": "sv8-220",
+      "name": "Latias ex",
+      "cardNumber": "220",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/220_hires.png"
+    },
+    {
+      "id": "sv8-221",
+      "name": "Palossand ex",
+      "cardNumber": "221",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/221_hires.png"
+    },
+    {
+      "id": "sv8-222",
+      "name": "Flygon ex",
+      "cardNumber": "222",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/222_hires.png"
+    },
+    {
+      "id": "sv8-223",
+      "name": "Hydreigon ex",
+      "cardNumber": "223",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/223_hires.png"
+    },
+    {
+      "id": "sv8-224",
+      "name": "Archaludon ex",
+      "cardNumber": "224",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/224_hires.png"
+    },
+    {
+      "id": "sv8-225",
+      "name": "Alolan Exeggutor ex",
+      "cardNumber": "225",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/225_hires.png"
+    },
+    {
+      "id": "sv8-226",
+      "name": "Tatsugiri ex",
+      "cardNumber": "226",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/226_hires.png"
+    },
+    {
+      "id": "sv8-227",
+      "name": "Slaking ex",
+      "cardNumber": "227",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/227_hires.png"
+    },
+    {
+      "id": "sv8-228",
+      "name": "Cyclizar ex",
+      "cardNumber": "228",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/228_hires.png"
+    },
+    {
+      "id": "sv8-229",
+      "name": "Clemont's Quick Wit",
+      "cardNumber": "229",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/229_hires.png"
+    },
+    {
+      "id": "sv8-230",
+      "name": "Cyrano",
+      "cardNumber": "230",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/230_hires.png"
+    },
+    {
+      "id": "sv8-231",
+      "name": "Drasna",
+      "cardNumber": "231",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/231_hires.png"
+    },
+    {
+      "id": "sv8-232",
+      "name": "Drayton",
+      "cardNumber": "232",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/232_hires.png"
+    },
+    {
+      "id": "sv8-233",
+      "name": "Jasmine's Gaze",
+      "cardNumber": "233",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/233_hires.png"
+    },
+    {
+      "id": "sv8-234",
+      "name": "Lisia's Appeal",
+      "cardNumber": "234",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/234_hires.png"
+    },
+    {
+      "id": "sv8-235",
+      "name": "Surfer",
+      "cardNumber": "235",
+      "rarity": "Ultra Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/235_hires.png"
+    },
+    {
+      "id": "sv8-236",
+      "name": "Durant ex",
+      "cardNumber": "236",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/236_hires.png"
+    },
+    {
+      "id": "sv8-237",
+      "name": "Milotic ex",
+      "cardNumber": "237",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/237_hires.png"
+    },
+    {
+      "id": "sv8-238",
+      "name": "Pikachu ex",
+      "cardNumber": "238",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/238_hires.png"
+    },
+    {
+      "id": "sv8-239",
+      "name": "Latias ex",
+      "cardNumber": "239",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/239_hires.png"
+    },
+    {
+      "id": "sv8-240",
+      "name": "Hydreigon ex",
+      "cardNumber": "240",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/240_hires.png"
+    },
+    {
+      "id": "sv8-241",
+      "name": "Archaludon ex",
+      "cardNumber": "241",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/241_hires.png"
+    },
+    {
+      "id": "sv8-242",
+      "name": "Alolan Exeggutor ex",
+      "cardNumber": "242",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/242_hires.png"
+    },
+    {
+      "id": "sv8-243",
+      "name": "Clemont's Quick Wit",
+      "cardNumber": "243",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/243_hires.png"
+    },
+    {
+      "id": "sv8-244",
+      "name": "Drayton",
+      "cardNumber": "244",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/244_hires.png"
+    },
+    {
+      "id": "sv8-245",
+      "name": "Jasmine's Gaze",
+      "cardNumber": "245",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/245_hires.png"
+    },
+    {
+      "id": "sv8-246",
+      "name": "Lisia's Appeal",
+      "cardNumber": "246",
+      "rarity": "Special Illustration Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/246_hires.png"
+    },
+    {
+      "id": "sv8-247",
+      "name": "Pikachu ex",
+      "cardNumber": "247",
+      "rarity": "Hyper Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/247_hires.png"
+    },
+    {
+      "id": "sv8-248",
+      "name": "Alolan Exeggutor ex",
+      "cardNumber": "248",
+      "rarity": "Hyper Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/248_hires.png"
+    },
+    {
+      "id": "sv8-249",
+      "name": "Counter Gain",
+      "cardNumber": "249",
+      "rarity": "Hyper Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/249_hires.png"
+    },
+    {
+      "id": "sv8-250",
+      "name": "Gravity Mountain",
+      "cardNumber": "250",
+      "rarity": "Hyper Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/250_hires.png"
+    },
+    {
+      "id": "sv8-251",
+      "name": "Night Stretcher",
+      "cardNumber": "251",
+      "rarity": "Hyper Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/251_hires.png"
+    },
+    {
+      "id": "sv8-252",
+      "name": "Jet Energy",
+      "cardNumber": "252",
+      "rarity": "Hyper Rare",
+      "setName": "Surging Sparks",
+      "artUrl": "https://images.pokemontcg.io/sv8/252_hires.png"
+    }
+  ]
+}

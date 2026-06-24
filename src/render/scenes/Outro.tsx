@@ -28,10 +28,6 @@ export const Outro = () => {
         justifyContent: "center",
         alignItems: "center",
         opacity,
-        paddingTop: safeZone.top,
-        paddingBottom: safeZone.bottom,
-        paddingLeft: safeZone.left,
-        paddingRight: safeZone.right,
       }}
     >
       {/* Logo */}

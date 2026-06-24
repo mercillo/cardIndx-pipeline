@@ -1,0 +1,122 @@
+[
+  {
+    "id": "me4-116",
+    "name": "Mega Greninja ex",
+    "cardNumber": "116/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-116/large",
+    "prices": {
+      "rawCurrent": 347.73,
+      "psa10Current": null,
+      "psa10Change7d": -3.73,
+      "psa10Change30d": -11.59
+    }
+  },
+  {
+    "id": "me4-122",
+    "name": "Mega Greninja ex",
+    "cardNumber": "122/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Mega Hyper Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-122/large",
+    "prices": {
+      "rawCurrent": 273.89,
+      "psa10Current": null,
+      "psa10Change7d": -4.47,
+      "psa10Change30d": -24.96
+    }
+  },
+  {
+    "id": "me4-119",
+    "name": "Cinccino ex",
+    "cardNumber": "119/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-119/large",
+    "prices": {
+      "rawCurrent": 86.74,
+      "psa10Current": null,
+      "psa10Change7d": -1.18,
+      "psa10Change30d": 0.21
+    }
+  },
+  {
+    "id": "me4-118",
+    "name": "Mega Dragalge ex",
+    "cardNumber": "118/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-118/large",
+    "prices": {
+      "rawCurrent": 57.47,
+      "psa10Current": null,
+      "psa10Change7d": -9.67,
+      "psa10Change30d": -44.2
+    }
+  },
+  {
+    "id": "me4-117",
+    "name": "Mega Floette ex",
+    "cardNumber": "117/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-117/large",
+    "prices": {
+      "rawCurrent": 52.99,
+      "psa10Current": null,
+      "psa10Change7d": 0,
+      "psa10Change30d": 0
+    }
+  },
+  {
+    "id": "me4-120",
+    "name": "AZ's Tranquility",
+    "cardNumber": "120/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-120/large",
+    "prices": {
+      "rawCurrent": 41.46,
+      "psa10Current": null,
+      "psa10Change7d": -2.52,
+      "psa10Change30d": -13.62
+    }
+  },
+  {
+    "id": "me4-121",
+    "name": "Roxie's Performance",
+    "cardNumber": "121/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-121/large",
+    "prices": {
+      "rawCurrent": 34.43,
+      "psa10Current": null,
+      "psa10Change7d": -1.12,
+      "psa10Change30d": 1
+    }
+  },
+  {
+    "id": "me4-100",
+    "name": "Mega Greninja ex",
+    "cardNumber": "100/086",
+    "setId": "me4",
+    "setName": "Chaos Rising",
+    "rarity": "Ultra Rare",
+    "artUrl": "https://images.scrydex.com/pokemon/me4-100/large",
+    "prices": {
+      "rawCurrent": 21.68,
+      "psa10Current": null,
+      "psa10Change7d": -6.03,
+      "psa10Change30d": -14.98
+    }
+  }
+]

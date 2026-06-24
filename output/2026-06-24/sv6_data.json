@@ -1,0 +1,149 @@
+[
+  {
+    "id": "sv6-214",
+    "name": "Greninja ex",
+    "cardNumber": "214/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Stage 2",
+      "Tera",
+      "ex"
+    ],
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/214_hires.png",
+    "prices": {
+      "rawCurrent": 400.2,
+      "psa10Current": null,
+      "psa10Change7d": -0.07,
+      "psa10Change30d": 8.44
+    }
+  },
+  {
+    "id": "sv6-220",
+    "name": "Perrin",
+    "cardNumber": "220/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/220_hires.png",
+    "prices": {
+      "rawCurrent": 186.03,
+      "psa10Current": null,
+      "psa10Change7d": 0.3,
+      "psa10Change30d": 1.42
+    }
+  },
+  {
+    "id": "sv6-188",
+    "name": "Eevee",
+    "cardNumber": "188/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/188_hires.png",
+    "prices": {
+      "rawCurrent": 95.37,
+      "psa10Current": null,
+      "psa10Change7d": 3.96,
+      "psa10Change30d": 4.69
+    }
+  },
+  {
+    "id": "sv6-217",
+    "name": "Carmine",
+    "cardNumber": "217/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/217_hires.png",
+    "prices": {
+      "rawCurrent": 72.77,
+      "psa10Current": null,
+      "psa10Change7d": 0.61,
+      "psa10Change30d": -4.94
+    }
+  },
+  {
+    "id": "sv6-187",
+    "name": "Chansey",
+    "cardNumber": "187/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/187_hires.png",
+    "prices": {
+      "rawCurrent": 61.02,
+      "psa10Current": null,
+      "psa10Change7d": 3.76,
+      "psa10Change30d": 0.33
+    }
+  },
+  {
+    "id": "sv6-216",
+    "name": "Bloodmoon Ursaluna ex",
+    "cardNumber": "216/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/216_hires.png",
+    "prices": {
+      "rawCurrent": 47.86,
+      "psa10Current": null,
+      "psa10Change7d": 3.21,
+      "psa10Change30d": 5.79
+    }
+  },
+  {
+    "id": "sv6-219",
+    "name": "Lana's Aid",
+    "cardNumber": "219/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Special Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/219_hires.png",
+    "prices": {
+      "rawCurrent": 40.17,
+      "psa10Current": null,
+      "psa10Change7d": 1.83,
+      "psa10Change30d": 7.15
+    }
+  },
+  {
+    "id": "sv6-181",
+    "name": "Hisuian Growlithe",
+    "cardNumber": "181/167",
+    "setId": "sv6",
+    "setName": "Twilight Masquerade",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Illustration Rare",
+    "artUrl": "https://images.pokemontcg.io/sv6/181_hires.png",
+    "prices": {
+      "rawCurrent": 34.33,
+      "psa10Current": null,
+      "psa10Change7d": 3.68,
+      "psa10Change30d": 7.28
+    }
+  }
+]

@@ -76,7 +76,7 @@ export const Mosaic = ({ cards, date }: MosaicProps) => {
         backgroundColor: theme.colors.bg,
         paddingTop: safeZone.top,
         paddingBottom: 0,
-        paddingLeft: 40,
+        paddingLeft: 64,
         paddingRight: 40,
         display: "flex",
         flexDirection: "column",

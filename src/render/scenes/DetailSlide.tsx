@@ -62,14 +62,14 @@ const PriceMathRow = ({
   const arrow = isUp ? "↑" : "↓";
 
   return (
-    <div style={{ display: "flex", alignItems: "center", gap: 20 }}>
+    <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
       <span
         style={{
           color: theme.colors.muted,
-          fontSize: 34,
+          fontSize: 26,
           fontFamily: theme.fonts.mono,
           letterSpacing: 1,
-          minWidth: 70,
+          minWidth: 60,
         }}
       >
         {label}
@@ -77,17 +77,17 @@ const PriceMathRow = ({
       <span
         style={{
           color: theme.colors.text,
-          fontSize: 38,
+          fontSize: 30,
           fontFamily: theme.fonts.mono,
         }}
       >
         ${pastPrice.toFixed(2)}
       </span>
-      <span style={{ color: theme.colors.muted, fontSize: 30 }}>→</span>
+      <span style={{ color: theme.colors.muted, fontSize: 24 }}>→</span>
       <span
         style={{
           color: changeColor,
-          fontSize: 38,
+          fontSize: 30,
           fontFamily: theme.fonts.mono,
           fontWeight: 700,
         }}
@@ -95,11 +95,11 @@ const PriceMathRow = ({
         {isUp ? "+" : ""}
         {pct.toFixed(1)}%
       </span>
-      <span style={{ color: theme.colors.muted, fontSize: 30 }}>→</span>
+      <span style={{ color: theme.colors.muted, fontSize: 24 }}>→</span>
       <span
         style={{
           color: theme.colors.text,
-          fontSize: 38,
+          fontSize: 30,
           fontFamily: theme.fonts.mono,
         }}
       >
@@ -108,9 +108,9 @@ const PriceMathRow = ({
       <span
         style={{
           color: changeColor,
-          fontSize: 32,
+          fontSize: 26,
           fontFamily: theme.fonts.mono,
-          marginLeft: 8,
+          marginLeft: 6,
         }}
       >
         ({arrow} ${Math.abs(dollarChange).toFixed(2)})
@@ -205,8 +205,8 @@ export const DetailSlide = ({
           style={{
             flex: 1,
             paddingTop: 28,
-            paddingLeft: 50,
-            paddingRight: 50,
+            paddingLeft: 64,
+            paddingRight: 64,
             display: "flex",
             flexDirection: "column",
           }}
@@ -252,7 +252,7 @@ export const DetailSlide = ({
           <div
             style={{
               color: theme.colors.text,
-              fontSize: 60,
+              fontSize: 48,
               fontFamily: theme.fonts.main,
               fontWeight: 700,
               lineHeight: 1.05,

@@ -4,7 +4,7 @@ import { MainComposition } from "./compositions/MainComposition";
 import mockData from "./mock-data.json";
 
 const MOSAIC_DURATION = 150;
-const SLIDE_DURATION = 75;
+const SLIDE_DURATION = 90;
 const OUTRO_DURATION = 120;
 
 const RemotionRoot = () => {

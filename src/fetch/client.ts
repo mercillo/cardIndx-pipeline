@@ -1,23 +1,33 @@
-/**
- * API Client with Throttling
- * Prevents IP bans by forcing a delay between requests.
- */
+const SLEEP_MS = 300;
+const RETRY_DELAYS = [5000, 10000, 20000]; // backoff on 429
 
-const SLEEP_MS = 300; // 300ms delay between calls
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 export async function fetchWithDelay<T>(
   url: string,
   headers: HeadersInit = {},
 ): Promise<T> {
-  // 1. Wait for the delay
-  await new Promise((resolve) => setTimeout(resolve, SLEEP_MS));
+  await sleep(SLEEP_MS);
 
-  // 2. Perform the fetch
-  const response = await fetch(url, { headers });
+  for (let attempt = 0; attempt <= RETRY_DELAYS.length; attempt++) {
+    const response = await fetch(url, { headers });
 
-  if (!response.ok) {
-    throw new Error(`API Error: ${response.status} for ${url}`);
+    if (response.status === 429) {
+      if (attempt < RETRY_DELAYS.length) {
+        const wait = RETRY_DELAYS[attempt];
+        console.warn(`   ⏳ Rate limited — retrying in ${wait / 1000}s...`);
+        await sleep(wait);
+        continue;
+      }
+      throw new Error(`Rate limited after ${attempt} retries: ${url}`);
+    }
+
+    if (!response.ok) {
+      throw new Error(`API Error: ${response.status} for ${url}`);
+    }
+
+    return response.json() as Promise<T>;
   }
 
-  return response.json() as Promise<T>;
+  throw new Error(`Failed after retries: ${url}`);
 }

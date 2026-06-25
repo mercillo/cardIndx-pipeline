@@ -779,7 +779,30 @@
       "cardNumber": "97",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/97_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/97_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-98",
@@ -787,7 +810,30 @@
       "cardNumber": "98",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/98_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/98_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-99",
@@ -795,7 +841,30 @@
       "cardNumber": "99",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/99_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/99_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-yamper-099-094-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-yamper-099-094-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-yamper-099-094-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-yamper-099-094-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-yamper-099-094-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-yamper-099-094-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-100",
@@ -803,7 +872,30 @@
       "cardNumber": "100",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/100_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/100_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-zacian-100-094-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-zacian-100-094-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-zacian-100-094-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-zacian-100-094-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-zacian-100-094-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-zacian-100-094-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-101",
@@ -811,7 +903,30 @@
       "cardNumber": "101",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/101_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/101_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-102",
@@ -819,7 +934,30 @@
       "cardNumber": "102",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/102_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/102_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-103",
@@ -843,7 +981,30 @@
       "cardNumber": "105",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/105_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/105_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-106",
@@ -851,7 +1012,30 @@
       "cardNumber": "106",
       "rarity": "Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/106_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/106_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-107",
@@ -875,7 +1059,30 @@
       "cardNumber": "109",
       "rarity": "Ultra Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/109_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/109_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-110",
@@ -923,7 +1130,30 @@
       "cardNumber": "115",
       "rarity": "Ultra Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/115_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/115_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094-ultra-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094-ultra-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094-ultra-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094-ultra-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094-ultra-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094-ultra-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-116",
@@ -931,7 +1161,26 @@
       "cardNumber": "116",
       "rarity": "Ultra Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/116_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/116_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-battle-cage-116-094-ultra-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-battle-cage-116-094-ultra-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-battle-cage-116-094-ultra-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-battle-cage-116-094-ultra-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-battle-cage-116-094-ultra-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-117",
@@ -947,7 +1196,26 @@
       "cardNumber": "118",
       "rarity": "Ultra Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/118_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/118_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-dawn-118-094-ultra-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-118-094-ultra-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-118-094-ultra-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-118-094-ultra-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-118-094-ultra-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-119",
@@ -1003,7 +1271,30 @@
       "cardNumber": "125",
       "rarity": "Special Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/125_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/125_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-126",
@@ -1011,7 +1302,30 @@
       "cardNumber": "126",
       "rarity": "Special Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/126_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/126_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-127",
@@ -1019,7 +1333,30 @@
       "cardNumber": "127",
       "rarity": "Special Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/127_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/127_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-128",
@@ -1027,7 +1364,26 @@
       "cardNumber": "128",
       "rarity": "Special Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/128_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/128_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094-special-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094-special-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094-special-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094-special-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094-special-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-129",
@@ -1035,7 +1391,30 @@
       "cardNumber": "129",
       "rarity": "Special Illustration Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/129_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/129_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare_heavily-played_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     },
     {
       "id": "me2-130",
@@ -1043,7 +1422,28 @@
       "cardNumber": "130",
       "rarity": "Mega Hyper Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/130_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/130_hires.png",
+      "justTcgCardId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094-mega-hyper-rare",
+      "justTcgVariants": [
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094-mega-hyper-rare_near-mint_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094-mega-hyper-rare_lightly-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094-mega-hyper-rare_moderately-played_holofoil",
+          "printing": "Holofoil"
+        },
+        {
+          "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094-mega-hyper-rare_damaged_holofoil",
+          "printing": "Holofoil"
+        }
+      ]
     }
-  ]
+  ],
+  "justTcgId": "me02-phantasmal-flames-pokemon",
+  "justTcgEnrichedAt": "2026-06-24T23:36:38.298Z"
 }

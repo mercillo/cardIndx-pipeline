@@ -8,10 +8,17 @@
     "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-116/large",
     "prices": {
-      "rawCurrent": 347.73,
+      "rawCurrent": 290.6,
       "psa10Current": null,
-      "psa10Change7d": -3.73,
-      "psa10Change30d": -11.59
+      "psa10Change7d": -14.22,
+      "psa10Change30d": -30.02,
+      "change90d": -51.57,
+      "min7d": 290.6,
+      "max7d": 338.78,
+      "min30d": 290.6,
+      "max30d": 468.21,
+      "minAllTime": 290.6,
+      "maxAllTime": 600
     }
   },
   {
@@ -23,10 +30,17 @@
     "rarity": "Mega Hyper Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-122/large",
     "prices": {
-      "rawCurrent": 273.89,
+      "rawCurrent": 254.21,
       "psa10Current": null,
-      "psa10Change7d": -4.47,
-      "psa10Change30d": -24.96
+      "psa10Change7d": -4.59,
+      "psa10Change30d": -22.25,
+      "change90d": -47.04,
+      "min7d": 254.21,
+      "max7d": 266.43,
+      "min30d": 254.21,
+      "max30d": 331,
+      "minAllTime": 254.21,
+      "maxAllTime": 480
     }
   },
   {
@@ -38,10 +52,17 @@
     "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-119/large",
     "prices": {
-      "rawCurrent": 86.74,
+      "rawCurrent": 84.23,
       "psa10Current": null,
-      "psa10Change7d": -1.18,
-      "psa10Change30d": 0.21
+      "psa10Change7d": -1.32,
+      "psa10Change30d": -7.87,
+      "change90d": -35.19,
+      "min7d": 82.82,
+      "max7d": 85.85,
+      "min30d": 82.82,
+      "max30d": 100.71,
+      "minAllTime": 82.82,
+      "maxAllTime": 129.97
     }
   },
   {
@@ -53,10 +74,17 @@
     "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-118/large",
     "prices": {
-      "rawCurrent": 57.47,
+      "rawCurrent": 53.21,
       "psa10Current": null,
-      "psa10Change7d": -9.67,
-      "psa10Change30d": -44.2
+      "psa10Change7d": -6.85,
+      "psa10Change30d": -28.22,
+      "change90d": -51.62,
+      "min7d": 53.13,
+      "max7d": 57.12,
+      "min30d": 53.13,
+      "max30d": 74.13,
+      "minAllTime": 53.13,
+      "maxAllTime": 115
     }
   },
   {
@@ -68,10 +96,17 @@
     "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-117/large",
     "prices": {
-      "rawCurrent": 52.99,
+      "rawCurrent": 43.92,
       "psa10Current": null,
-      "psa10Change7d": 0,
-      "psa10Change30d": 0
+      "psa10Change7d": -9.76,
+      "psa10Change30d": -28.63,
+      "change90d": -51.19,
+      "min7d": 43.92,
+      "max7d": 50.68,
+      "min30d": 43.92,
+      "max30d": 62.51,
+      "minAllTime": 43.92,
+      "maxAllTime": 89.99
     }
   },
   {
@@ -83,10 +118,17 @@
     "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-120/large",
     "prices": {
-      "rawCurrent": 41.46,
+      "rawCurrent": 38.52,
       "psa10Current": null,
-      "psa10Change7d": -2.52,
-      "psa10Change30d": -13.62
+      "psa10Change7d": -5.31,
+      "psa10Change30d": -19.88,
+      "change90d": -69.18,
+      "min7d": 38.52,
+      "max7d": 40.74,
+      "min30d": 38.52,
+      "max30d": 48.08,
+      "minAllTime": 38.52,
+      "maxAllTime": 124.99
     }
   },
   {
@@ -98,10 +140,17 @@
     "rarity": "Special Illustration Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-121/large",
     "prices": {
-      "rawCurrent": 34.43,
+      "rawCurrent": 32.68,
       "psa10Current": null,
-      "psa10Change7d": -1.12,
-      "psa10Change30d": 1
+      "psa10Change7d": -6.66,
+      "psa10Change30d": -12.83,
+      "change90d": -49.68,
+      "min7d": 32.39,
+      "max7d": 35.01,
+      "min30d": 32.39,
+      "max30d": 38.32,
+      "minAllTime": 32.39,
+      "maxAllTime": 64.94
     }
   },
   {
@@ -113,10 +162,17 @@
     "rarity": "Ultra Rare",
     "artUrl": "https://images.scrydex.com/pokemon/me4-100/large",
     "prices": {
-      "rawCurrent": 21.68,
+      "rawCurrent": 19,
       "psa10Current": null,
-      "psa10Change7d": -6.03,
-      "psa10Change30d": -14.98
+      "psa10Change7d": -8.87,
+      "psa10Change30d": -28.36,
+      "change90d": -52.46,
+      "min7d": 18.67,
+      "max7d": 21.63,
+      "min30d": 18.67,
+      "max30d": 29.23,
+      "minAllTime": 18.67,
+      "maxAllTime": 59.02
     }
   }
 ]

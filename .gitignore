@@ -6,9 +6,8 @@ jspm_packages/
 dist/
 out/
 
-# Video renders are too large for git — download from Actions artifacts
-output/**/*_video.mp4
-output/**/video.mp4
+# Pipeline output — videos and daily data snapshots (source of truth is data/)
+output/
 
 # Credentials and environment secrets
 .env

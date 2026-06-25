@@ -2,7 +2,7 @@ import "dotenv/config";
 import { Command } from "commander";
 import fs from "fs";
 import path from "path";
-import { fetchLivePrices } from "./data/priceSync.js";
+import { fetchLivePrices, loadPriceSnapshot } from "./data/priceSync.js";
 import type { CardMarketData } from "./fetch/types.js";
 import { renderVideo } from "./render/renderVideo.js";
 
@@ -12,6 +12,7 @@ program
   .requiredOption("-c, --config <path>", "Config path")
   .option("-s, --set-id <id>", "Set ID to run (e.g. sv3pt5, me4)")
   .option("-i, --set-index <number>", "Index into targetSets array — auto-rotates by day if neither flag is passed")
+  .option("--cards <numbers>", "Comma-separated card numbers to render (overrides config cards list)")
   .option("--fetch-only", "Fetch and print card data without saving or rendering")
   .option("--render-only", "Skip API call, render video from today's existing data file");
 
@@ -19,22 +20,8 @@ program.parse(process.argv);
 const options = program.opts();
 
 function enrichWithPriceHistory(cards: CardMarketData[], setId: string): CardMarketData[] {
-  function loadSnapshot(daysAgo: number): Map<string, number | null> {
-    const d = new Date();
-    d.setDate(d.getDate() - daysAgo);
-    const dateStr = d.toISOString().split("T")[0];
-    const filePath = path.resolve(path.join("output", dateStr, `${setId}_data.json`));
-    if (!fs.existsSync(filePath)) return new Map();
-    try {
-      const data = JSON.parse(fs.readFileSync(filePath, "utf-8")) as CardMarketData[];
-      return new Map(data.map((c) => [c.id, c.prices.rawCurrent]));
-    } catch {
-      return new Map();
-    }
-  }
-
-  const snap7d = loadSnapshot(7);
-  const snap30d = loadSnapshot(30);
+  const snap7d = loadPriceSnapshot(setId, 7);
+  const snap30d = loadPriceSnapshot(setId, 30);
 
   const hasHistory7 = snap7d.size > 0;
   const hasHistory30 = snap30d.size > 0;
@@ -78,13 +65,13 @@ async function main() {
 
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
 
-  const sets: Array<{ id: string; name: string }> = rawConfig.targetSets ?? [];
+  const sets: Array<{ id: string; name: string; cards?: string[] }> = rawConfig.targetSets ?? [];
   if (sets.length === 0) {
     console.error("❌ No targetSets found in config");
     process.exit(1);
   }
 
-  let targetSet: { id: string; name: string } | undefined;
+  let targetSet: { id: string; name: string; cards?: string[] } | undefined;
 
   if (options.setId) {
     targetSet = sets.find((s) => s.id === options.setId);
@@ -107,6 +94,11 @@ async function main() {
 
   console.log(`🚀 Booting pipeline for: [${options.game.toUpperCase()}] — set: ${targetSet.name}`);
 
+  // Resolve card filter early — needed by both fetch and post-processing
+  const cardFilter: string[] | undefined = options.cards
+    ? options.cards.split(",").map((n: string) => n.trim())
+    : targetSet.cards;
+
   // 2. PHASE 1: INGESTION
   let enriched: CardMarketData[];
 
@@ -120,7 +112,7 @@ async function main() {
     console.log(`\n⏭️  Skipping fetch — loaded ${enriched.length} cards from ${dataFile}`);
   } else {
     console.log("\n--- Phase 1: Data Ingestion ---");
-    const marketData = await fetchLivePrices(targetSet.id);
+    const marketData = await fetchLivePrices(targetSet.id, rawConfig.videoConfig?.topCount ?? 8, cardFilter);
 
     if (options.fetchOnly) {
       console.log("\n📋 Top cards:");
@@ -132,6 +124,14 @@ async function main() {
     }
 
     enriched = enrichWithPriceHistory(marketData, targetSet.id);
+  }
+
+  // Apply card filter
+  if (cardFilter && cardFilter.length > 0) {
+    const before = enriched.length;
+    enriched = enriched.filter((c) => cardFilter.includes(c.cardNumber));
+    enriched.sort((a, b) => (b.prices.rawCurrent ?? 0) - (a.prices.rawCurrent ?? 0));
+    console.log(`🎯 Card filter: ${enriched.length}/${before} cards selected (${cardFilter.join(", ")})`);
   }
 
   if (!options.renderOnly) {

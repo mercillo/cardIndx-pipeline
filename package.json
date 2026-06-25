@@ -5,6 +5,7 @@
   "scripts": {
     "pipeline": "tsx src/pipeline.ts",
     "catalog": "tsx scripts/buildCatalog.ts",
+    "enrich-catalog": "tsx scripts/enrichCatalog.ts",
     "remotion": "remotion"
   },
   "dependencies": {

@@ -1,0 +1,2060 @@
+{
+  "setId": "sv4pt5",
+  "setName": "Paldean Fates",
+  "printedTotal": 91,
+  "totalCards": 245,
+  "builtAt": "2026-06-26T15:19:48.022Z",
+  "cards": [
+    {
+      "id": "sv4pt5-2",
+      "name": "Forretress ex",
+      "cardNumber": "2",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/2_hires.png"
+    },
+    {
+      "id": "sv4pt5-5",
+      "name": "Toedscruel ex",
+      "cardNumber": "5",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/5_hires.png"
+    },
+    {
+      "id": "sv4pt5-6",
+      "name": "Espathra ex",
+      "cardNumber": "6",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/6_hires.png"
+    },
+    {
+      "id": "sv4pt5-10",
+      "name": "Magmortar",
+      "cardNumber": "10",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/10_hires.png"
+    },
+    {
+      "id": "sv4pt5-13",
+      "name": "Heat Rotom",
+      "cardNumber": "13",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/13_hires.png"
+    },
+    {
+      "id": "sv4pt5-15",
+      "name": "Armarouge",
+      "cardNumber": "15",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/15_hires.png"
+    },
+    {
+      "id": "sv4pt5-19",
+      "name": "Raichu",
+      "cardNumber": "19",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/19_hires.png"
+    },
+    {
+      "id": "sv4pt5-24",
+      "name": "Exeggutor",
+      "cardNumber": "24",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/24_hires.png"
+    },
+    {
+      "id": "sv4pt5-26",
+      "name": "Xatu",
+      "cardNumber": "26",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/26_hires.png"
+    },
+    {
+      "id": "sv4pt5-29",
+      "name": "Gardevoir ex",
+      "cardNumber": "29",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/29_hires.png"
+    },
+    {
+      "id": "sv4pt5-37",
+      "name": "Mimikyu",
+      "cardNumber": "37",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/37_hires.png"
+    },
+    {
+      "id": "sv4pt5-40",
+      "name": "Ceruledge",
+      "cardNumber": "40",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/40_hires.png"
+    },
+    {
+      "id": "sv4pt5-43",
+      "name": "Houndstone",
+      "cardNumber": "43",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/43_hires.png"
+    },
+    {
+      "id": "sv4pt5-47",
+      "name": "Annihilape",
+      "cardNumber": "47",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/47_hires.png"
+    },
+    {
+      "id": "sv4pt5-53",
+      "name": "Great Tusk ex",
+      "cardNumber": "53",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/53_hires.png"
+    },
+    {
+      "id": "sv4pt5-54",
+      "name": "Charizard ex",
+      "cardNumber": "54",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/54_hires.png"
+    },
+    {
+      "id": "sv4pt5-59",
+      "name": "Paldean Clodsire ex",
+      "cardNumber": "59",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/59_hires.png"
+    },
+    {
+      "id": "sv4pt5-63",
+      "name": "Mabosstiff",
+      "cardNumber": "63",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/63_hires.png"
+    },
+    {
+      "id": "sv4pt5-65",
+      "name": "Revavroom",
+      "cardNumber": "65",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/65_hires.png"
+    },
+    {
+      "id": "sv4pt5-66",
+      "name": "Iron Treads ex",
+      "cardNumber": "66",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/66_hires.png"
+    },
+    {
+      "id": "sv4pt5-67",
+      "name": "Gholdengo",
+      "cardNumber": "67",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/67_hires.png"
+    },
+    {
+      "id": "sv4pt5-69",
+      "name": "Noivern ex",
+      "cardNumber": "69",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/69_hires.png"
+    },
+    {
+      "id": "sv4pt5-70",
+      "name": "Cyclizar",
+      "cardNumber": "70",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/70_hires.png"
+    },
+    {
+      "id": "sv4pt5-75",
+      "name": "Squawkabilly ex",
+      "cardNumber": "75",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/75_hires.png"
+    },
+    {
+      "id": "sv4pt5-87",
+      "name": "Professor's Research",
+      "cardNumber": "87",
+      "rarity": "Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/87_hires.png"
+    },
+    {
+      "id": "sv4pt5-88",
+      "name": "Professor's Research",
+      "cardNumber": "88",
+      "rarity": "Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/88_hires.png"
+    },
+    {
+      "id": "sv4pt5-92",
+      "name": "Oddish",
+      "cardNumber": "92",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/92_hires.png"
+    },
+    {
+      "id": "sv4pt5-93",
+      "name": "Gloom",
+      "cardNumber": "93",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/93_hires.png"
+    },
+    {
+      "id": "sv4pt5-94",
+      "name": "Vileplume",
+      "cardNumber": "94",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/94_hires.png"
+    },
+    {
+      "id": "sv4pt5-95",
+      "name": "Scyther",
+      "cardNumber": "95",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/95_hires.png"
+    },
+    {
+      "id": "sv4pt5-96",
+      "name": "Hoppip",
+      "cardNumber": "96",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/96_hires.png"
+    },
+    {
+      "id": "sv4pt5-97",
+      "name": "Skiploom",
+      "cardNumber": "97",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/97_hires.png"
+    },
+    {
+      "id": "sv4pt5-98",
+      "name": "Jumpluff",
+      "cardNumber": "98",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/98_hires.png"
+    },
+    {
+      "id": "sv4pt5-99",
+      "name": "Pineco",
+      "cardNumber": "99",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/99_hires.png"
+    },
+    {
+      "id": "sv4pt5-100",
+      "name": "Snover",
+      "cardNumber": "100",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/100_hires.png"
+    },
+    {
+      "id": "sv4pt5-101",
+      "name": "Abomasnow",
+      "cardNumber": "101",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/101_hires.png"
+    },
+    {
+      "id": "sv4pt5-102",
+      "name": "Smoliv",
+      "cardNumber": "102",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/102_hires.png"
+    },
+    {
+      "id": "sv4pt5-103",
+      "name": "Dolliv",
+      "cardNumber": "103",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/103_hires.png"
+    },
+    {
+      "id": "sv4pt5-104",
+      "name": "Arboliva",
+      "cardNumber": "104",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/104_hires.png"
+    },
+    {
+      "id": "sv4pt5-105",
+      "name": "Toedscool",
+      "cardNumber": "105",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/105_hires.png"
+    },
+    {
+      "id": "sv4pt5-106",
+      "name": "Capsakid",
+      "cardNumber": "106",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/106_hires.png"
+    },
+    {
+      "id": "sv4pt5-107",
+      "name": "Scovillain",
+      "cardNumber": "107",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/107_hires.png"
+    },
+    {
+      "id": "sv4pt5-108",
+      "name": "Rellor",
+      "cardNumber": "108",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/108_hires.png"
+    },
+    {
+      "id": "sv4pt5-109",
+      "name": "Charmander",
+      "cardNumber": "109",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/109_hires.png",
+      "justTcgCardId": "e80d9427-a89d-5f0d-bfbe-afdbfdac178b",
+      "justTcgNmHoloVariantId": "4b08e062-690e-5964-afc9-a482ad4f9c09"
+    },
+    {
+      "id": "sv4pt5-110",
+      "name": "Charmeleon",
+      "cardNumber": "110",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/110_hires.png"
+    },
+    {
+      "id": "sv4pt5-111",
+      "name": "Paldean Tauros",
+      "cardNumber": "111",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/111_hires.png"
+    },
+    {
+      "id": "sv4pt5-112",
+      "name": "Entei",
+      "cardNumber": "112",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/112_hires.png"
+    },
+    {
+      "id": "sv4pt5-113",
+      "name": "Oricorio",
+      "cardNumber": "113",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/113_hires.png"
+    },
+    {
+      "id": "sv4pt5-114",
+      "name": "Charcadet",
+      "cardNumber": "114",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/114_hires.png"
+    },
+    {
+      "id": "sv4pt5-115",
+      "name": "Armarouge",
+      "cardNumber": "115",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/115_hires.png"
+    },
+    {
+      "id": "sv4pt5-116",
+      "name": "Slowpoke",
+      "cardNumber": "116",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/116_hires.png"
+    },
+    {
+      "id": "sv4pt5-117",
+      "name": "Slowbro",
+      "cardNumber": "117",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/117_hires.png"
+    },
+    {
+      "id": "sv4pt5-118",
+      "name": "Staryu",
+      "cardNumber": "118",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/118_hires.png"
+    },
+    {
+      "id": "sv4pt5-119",
+      "name": "Starmie",
+      "cardNumber": "119",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/119_hires.png"
+    },
+    {
+      "id": "sv4pt5-120",
+      "name": "Paldean Tauros",
+      "cardNumber": "120",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/120_hires.png"
+    },
+    {
+      "id": "sv4pt5-121",
+      "name": "Wiglett",
+      "cardNumber": "121",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/121_hires.png"
+    },
+    {
+      "id": "sv4pt5-122",
+      "name": "Wugtrio",
+      "cardNumber": "122",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/122_hires.png"
+    },
+    {
+      "id": "sv4pt5-123",
+      "name": "Finizen",
+      "cardNumber": "123",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/123_hires.png"
+    },
+    {
+      "id": "sv4pt5-124",
+      "name": "Palafin",
+      "cardNumber": "124",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/124_hires.png"
+    },
+    {
+      "id": "sv4pt5-125",
+      "name": "Veluza",
+      "cardNumber": "125",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/125_hires.png"
+    },
+    {
+      "id": "sv4pt5-126",
+      "name": "Dondozo",
+      "cardNumber": "126",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/126_hires.png"
+    },
+    {
+      "id": "sv4pt5-127",
+      "name": "Tatsugiri",
+      "cardNumber": "127",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/127_hires.png"
+    },
+    {
+      "id": "sv4pt5-128",
+      "name": "Frigibax",
+      "cardNumber": "128",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/128_hires.png"
+    },
+    {
+      "id": "sv4pt5-129",
+      "name": "Arctibax",
+      "cardNumber": "129",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/129_hires.png"
+    },
+    {
+      "id": "sv4pt5-130",
+      "name": "Baxcalibur",
+      "cardNumber": "130",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/130_hires.png"
+    },
+    {
+      "id": "sv4pt5-131",
+      "name": "Pikachu",
+      "cardNumber": "131",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/131_hires.png",
+      "justTcgCardId": "edb5fc93-adc4-5670-9893-d893e1c1d89d",
+      "justTcgNmHoloVariantId": "bc00b76a-e456-516e-89bf-f0e8b721a75f"
+    },
+    {
+      "id": "sv4pt5-132",
+      "name": "Raichu",
+      "cardNumber": "132",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/132_hires.png"
+    },
+    {
+      "id": "sv4pt5-133",
+      "name": "Voltorb",
+      "cardNumber": "133",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/133_hires.png"
+    },
+    {
+      "id": "sv4pt5-134",
+      "name": "Electrode",
+      "cardNumber": "134",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/134_hires.png"
+    },
+    {
+      "id": "sv4pt5-135",
+      "name": "Shinx",
+      "cardNumber": "135",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/135_hires.png"
+    },
+    {
+      "id": "sv4pt5-136",
+      "name": "Luxio",
+      "cardNumber": "136",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/136_hires.png"
+    },
+    {
+      "id": "sv4pt5-137",
+      "name": "Luxray",
+      "cardNumber": "137",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/137_hires.png"
+    },
+    {
+      "id": "sv4pt5-138",
+      "name": "Pachirisu",
+      "cardNumber": "138",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/138_hires.png"
+    },
+    {
+      "id": "sv4pt5-139",
+      "name": "Thundurus",
+      "cardNumber": "139",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/139_hires.png"
+    },
+    {
+      "id": "sv4pt5-140",
+      "name": "Toxel",
+      "cardNumber": "140",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/140_hires.png"
+    },
+    {
+      "id": "sv4pt5-141",
+      "name": "Toxtricity",
+      "cardNumber": "141",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/141_hires.png"
+    },
+    {
+      "id": "sv4pt5-142",
+      "name": "Pawmi",
+      "cardNumber": "142",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/142_hires.png"
+    },
+    {
+      "id": "sv4pt5-143",
+      "name": "Pawmo",
+      "cardNumber": "143",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/143_hires.png"
+    },
+    {
+      "id": "sv4pt5-144",
+      "name": "Pawmot",
+      "cardNumber": "144",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/144_hires.png"
+    },
+    {
+      "id": "sv4pt5-145",
+      "name": "Wattrel",
+      "cardNumber": "145",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/145_hires.png"
+    },
+    {
+      "id": "sv4pt5-146",
+      "name": "Kilowattrel",
+      "cardNumber": "146",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/146_hires.png"
+    },
+    {
+      "id": "sv4pt5-147",
+      "name": "Wigglytuff",
+      "cardNumber": "147",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/147_hires.png"
+    },
+    {
+      "id": "sv4pt5-148",
+      "name": "Abra",
+      "cardNumber": "148",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/148_hires.png"
+    },
+    {
+      "id": "sv4pt5-149",
+      "name": "Kadabra",
+      "cardNumber": "149",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/149_hires.png"
+    },
+    {
+      "id": "sv4pt5-150",
+      "name": "Cleffa",
+      "cardNumber": "150",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/150_hires.png"
+    },
+    {
+      "id": "sv4pt5-151",
+      "name": "Natu",
+      "cardNumber": "151",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/151_hires.png"
+    },
+    {
+      "id": "sv4pt5-152",
+      "name": "Xatu",
+      "cardNumber": "152",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/152_hires.png"
+    },
+    {
+      "id": "sv4pt5-153",
+      "name": "Ralts",
+      "cardNumber": "153",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/153_hires.png"
+    },
+    {
+      "id": "sv4pt5-154",
+      "name": "Kirlia",
+      "cardNumber": "154",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/154_hires.png"
+    },
+    {
+      "id": "sv4pt5-155",
+      "name": "Drifloon",
+      "cardNumber": "155",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/155_hires.png"
+    },
+    {
+      "id": "sv4pt5-156",
+      "name": "Drifblim",
+      "cardNumber": "156",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/156_hires.png"
+    },
+    {
+      "id": "sv4pt5-157",
+      "name": "Mime Jr.",
+      "cardNumber": "157",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/157_hires.png"
+    },
+    {
+      "id": "sv4pt5-158",
+      "name": "Spiritomb",
+      "cardNumber": "158",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/158_hires.png"
+    },
+    {
+      "id": "sv4pt5-159",
+      "name": "Klefki",
+      "cardNumber": "159",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/159_hires.png"
+    },
+    {
+      "id": "sv4pt5-160",
+      "name": "Mimikyu",
+      "cardNumber": "160",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/160_hires.png",
+      "justTcgCardId": "5102f05d-478c-51e7-9d27-d5bb5f5bd3da",
+      "justTcgNmHoloVariantId": "c847704b-d996-54eb-a233-a34768cb28e3"
+    },
+    {
+      "id": "sv4pt5-161",
+      "name": "Dachsbun",
+      "cardNumber": "161",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/161_hires.png"
+    },
+    {
+      "id": "sv4pt5-162",
+      "name": "Ceruledge",
+      "cardNumber": "162",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/162_hires.png"
+    },
+    {
+      "id": "sv4pt5-163",
+      "name": "Rabsca",
+      "cardNumber": "163",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/163_hires.png"
+    },
+    {
+      "id": "sv4pt5-164",
+      "name": "Flittle",
+      "cardNumber": "164",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/164_hires.png"
+    },
+    {
+      "id": "sv4pt5-165",
+      "name": "Tinkatink",
+      "cardNumber": "165",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/165_hires.png"
+    },
+    {
+      "id": "sv4pt5-166",
+      "name": "Tinkatuff",
+      "cardNumber": "166",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/166_hires.png"
+    },
+    {
+      "id": "sv4pt5-167",
+      "name": "Tinkaton",
+      "cardNumber": "167",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/167_hires.png"
+    },
+    {
+      "id": "sv4pt5-168",
+      "name": "Houndstone",
+      "cardNumber": "168",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/168_hires.png"
+    },
+    {
+      "id": "sv4pt5-169",
+      "name": "Mankey",
+      "cardNumber": "169",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/169_hires.png"
+    },
+    {
+      "id": "sv4pt5-170",
+      "name": "Primeape",
+      "cardNumber": "170",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/170_hires.png"
+    },
+    {
+      "id": "sv4pt5-171",
+      "name": "Annihilape",
+      "cardNumber": "171",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/171_hires.png"
+    },
+    {
+      "id": "sv4pt5-172",
+      "name": "Paldean Tauros",
+      "cardNumber": "172",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/172_hires.png"
+    },
+    {
+      "id": "sv4pt5-173",
+      "name": "Riolu",
+      "cardNumber": "173",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/173_hires.png"
+    },
+    {
+      "id": "sv4pt5-174",
+      "name": "Lucario",
+      "cardNumber": "174",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/174_hires.png",
+      "justTcgCardId": "d002e98c-ef84-501f-9244-bf372ed838bb",
+      "justTcgNmHoloVariantId": "370736a3-04ca-57ff-88a6-a1fc772312c4"
+    },
+    {
+      "id": "sv4pt5-175",
+      "name": "Hawlucha",
+      "cardNumber": "175",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/175_hires.png"
+    },
+    {
+      "id": "sv4pt5-176",
+      "name": "Nacli",
+      "cardNumber": "176",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/176_hires.png"
+    },
+    {
+      "id": "sv4pt5-177",
+      "name": "Naclstack",
+      "cardNumber": "177",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/177_hires.png"
+    },
+    {
+      "id": "sv4pt5-178",
+      "name": "Garganacl",
+      "cardNumber": "178",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/178_hires.png"
+    },
+    {
+      "id": "sv4pt5-179",
+      "name": "Glimmet",
+      "cardNumber": "179",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/179_hires.png"
+    },
+    {
+      "id": "sv4pt5-180",
+      "name": "Paldean Wooper",
+      "cardNumber": "180",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/180_hires.png"
+    },
+    {
+      "id": "sv4pt5-181",
+      "name": "Murkrow",
+      "cardNumber": "181",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/181_hires.png"
+    },
+    {
+      "id": "sv4pt5-182",
+      "name": "Sneasel",
+      "cardNumber": "182",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/182_hires.png"
+    },
+    {
+      "id": "sv4pt5-183",
+      "name": "Weavile",
+      "cardNumber": "183",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/183_hires.png"
+    },
+    {
+      "id": "sv4pt5-184",
+      "name": "Sableye",
+      "cardNumber": "184",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/184_hires.png"
+    },
+    {
+      "id": "sv4pt5-185",
+      "name": "Pawniard",
+      "cardNumber": "185",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/185_hires.png"
+    },
+    {
+      "id": "sv4pt5-186",
+      "name": "Bisharp",
+      "cardNumber": "186",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/186_hires.png"
+    },
+    {
+      "id": "sv4pt5-187",
+      "name": "Kingambit",
+      "cardNumber": "187",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/187_hires.png"
+    },
+    {
+      "id": "sv4pt5-188",
+      "name": "Mabosstiff",
+      "cardNumber": "188",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/188_hires.png"
+    },
+    {
+      "id": "sv4pt5-189",
+      "name": "Shroodle",
+      "cardNumber": "189",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/189_hires.png"
+    },
+    {
+      "id": "sv4pt5-190",
+      "name": "Grafaiai",
+      "cardNumber": "190",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/190_hires.png"
+    },
+    {
+      "id": "sv4pt5-191",
+      "name": "Scizor",
+      "cardNumber": "191",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/191_hires.png"
+    },
+    {
+      "id": "sv4pt5-192",
+      "name": "Varoom",
+      "cardNumber": "192",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/192_hires.png"
+    },
+    {
+      "id": "sv4pt5-193",
+      "name": "Revavroom",
+      "cardNumber": "193",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/193_hires.png"
+    },
+    {
+      "id": "sv4pt5-194",
+      "name": "Noibat",
+      "cardNumber": "194",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/194_hires.png"
+    },
+    {
+      "id": "sv4pt5-195",
+      "name": "Cyclizar",
+      "cardNumber": "195",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/195_hires.png"
+    },
+    {
+      "id": "sv4pt5-196",
+      "name": "Pidgey",
+      "cardNumber": "196",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/196_hires.png"
+    },
+    {
+      "id": "sv4pt5-197",
+      "name": "Pidgeotto",
+      "cardNumber": "197",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/197_hires.png"
+    },
+    {
+      "id": "sv4pt5-198",
+      "name": "Jigglypuff",
+      "cardNumber": "198",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/198_hires.png",
+      "justTcgCardId": "f102474b-975d-5c5b-86f1-719f48724082",
+      "justTcgNmHoloVariantId": "ffde039c-a3ed-5af2-a90c-6419416edf37"
+    },
+    {
+      "id": "sv4pt5-199",
+      "name": "Doduo",
+      "cardNumber": "199",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/199_hires.png"
+    },
+    {
+      "id": "sv4pt5-200",
+      "name": "Dodrio",
+      "cardNumber": "200",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/200_hires.png"
+    },
+    {
+      "id": "sv4pt5-201",
+      "name": "Ditto",
+      "cardNumber": "201",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/201_hires.png",
+      "justTcgCardId": "f30f7255-1f67-5030-9a22-dbb20c441293",
+      "justTcgNmHoloVariantId": "62d0fb14-9626-5ee4-9171-14ce82c6f651"
+    },
+    {
+      "id": "sv4pt5-202",
+      "name": "Snorlax",
+      "cardNumber": "202",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/202_hires.png",
+      "justTcgCardId": "5cd15225-d696-5440-8cd5-af649e08ff5f",
+      "justTcgNmHoloVariantId": "777aa0d7-b3dc-51e3-80e2-e52e1d1be757"
+    },
+    {
+      "id": "sv4pt5-203",
+      "name": "Wingull",
+      "cardNumber": "203",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/203_hires.png"
+    },
+    {
+      "id": "sv4pt5-204",
+      "name": "Pelipper",
+      "cardNumber": "204",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/204_hires.png"
+    },
+    {
+      "id": "sv4pt5-205",
+      "name": "Skwovet",
+      "cardNumber": "205",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/205_hires.png"
+    },
+    {
+      "id": "sv4pt5-206",
+      "name": "Greedent",
+      "cardNumber": "206",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/206_hires.png"
+    },
+    {
+      "id": "sv4pt5-207",
+      "name": "Lechonk",
+      "cardNumber": "207",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/207_hires.png"
+    },
+    {
+      "id": "sv4pt5-208",
+      "name": "Oinkologne",
+      "cardNumber": "208",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/208_hires.png"
+    },
+    {
+      "id": "sv4pt5-209",
+      "name": "Tandemaus",
+      "cardNumber": "209",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/209_hires.png",
+      "justTcgCardId": "da0fca67-10bf-5588-93ce-48893e6d0c9d",
+      "justTcgNmHoloVariantId": "e5005179-118a-5aa9-aef0-50e15b3bc8b7"
+    },
+    {
+      "id": "sv4pt5-210",
+      "name": "Maushold",
+      "cardNumber": "210",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/210_hires.png",
+      "justTcgCardId": "d352ccae-d9b4-5329-be4c-3c43a27a6495",
+      "justTcgNmHoloVariantId": "84289c24-affb-5ea1-945c-147dcc000707"
+    },
+    {
+      "id": "sv4pt5-211",
+      "name": "Flamigo",
+      "cardNumber": "211",
+      "rarity": "Shiny Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/211_hires.png"
+    },
+    {
+      "id": "sv4pt5-212",
+      "name": "Forretress ex",
+      "cardNumber": "212",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/212_hires.png"
+    },
+    {
+      "id": "sv4pt5-213",
+      "name": "Toedscruel ex",
+      "cardNumber": "213",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/213_hires.png"
+    },
+    {
+      "id": "sv4pt5-214",
+      "name": "Espathra ex",
+      "cardNumber": "214",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/214_hires.png"
+    },
+    {
+      "id": "sv4pt5-215",
+      "name": "Alakazam ex",
+      "cardNumber": "215",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/215_hires.png"
+    },
+    {
+      "id": "sv4pt5-216",
+      "name": "Mew ex",
+      "cardNumber": "216",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/216_hires.png",
+      "justTcgCardId": "467b7464-a7fb-5675-8260-079b0ece9490",
+      "justTcgNmHoloVariantId": "727fcd78-a18f-59d8-af91-42f5d8f94d71"
+    },
+    {
+      "id": "sv4pt5-217",
+      "name": "Gardevoir ex",
+      "cardNumber": "217",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/217_hires.png"
+    },
+    {
+      "id": "sv4pt5-218",
+      "name": "Glimmora ex",
+      "cardNumber": "218",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/218_hires.png"
+    },
+    {
+      "id": "sv4pt5-219",
+      "name": "Paldean Clodsire ex",
+      "cardNumber": "219",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/219_hires.png"
+    },
+    {
+      "id": "sv4pt5-220",
+      "name": "Noivern ex",
+      "cardNumber": "220",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/220_hires.png"
+    },
+    {
+      "id": "sv4pt5-221",
+      "name": "Pidgeot ex",
+      "cardNumber": "221",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/221_hires.png"
+    },
+    {
+      "id": "sv4pt5-222",
+      "name": "Wigglytuff ex",
+      "cardNumber": "222",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/222_hires.png"
+    },
+    {
+      "id": "sv4pt5-223",
+      "name": "Squawkabilly ex",
+      "cardNumber": "223",
+      "rarity": "Shiny Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/223_hires.png"
+    },
+    {
+      "id": "sv4pt5-224",
+      "name": "Wugtrio",
+      "cardNumber": "224",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/224_hires.png"
+    },
+    {
+      "id": "sv4pt5-225",
+      "name": "Palafin",
+      "cardNumber": "225",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/225_hires.png"
+    },
+    {
+      "id": "sv4pt5-226",
+      "name": "Pawmi",
+      "cardNumber": "226",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/226_hires.png"
+    },
+    {
+      "id": "sv4pt5-227",
+      "name": "Clive",
+      "cardNumber": "227",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/227_hires.png"
+    },
+    {
+      "id": "sv4pt5-228",
+      "name": "Judge",
+      "cardNumber": "228",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/228_hires.png"
+    },
+    {
+      "id": "sv4pt5-229",
+      "name": "Nemona",
+      "cardNumber": "229",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/229_hires.png"
+    },
+    {
+      "id": "sv4pt5-230",
+      "name": "Paldean Student",
+      "cardNumber": "230",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/230_hires.png"
+    },
+    {
+      "id": "sv4pt5-231",
+      "name": "Paldean Student",
+      "cardNumber": "231",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/231_hires.png"
+    },
+    {
+      "id": "sv4pt5-232",
+      "name": "Mew ex",
+      "cardNumber": "232",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/232_hires.png",
+      "justTcgCardId": "975a139d-2de5-5387-9a82-7abf8b8fd701",
+      "justTcgNmHoloVariantId": "15a6e3eb-0667-5e21-8558-07fecee68ee7"
+    },
+    {
+      "id": "sv4pt5-233",
+      "name": "Gardevoir ex",
+      "cardNumber": "233",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/233_hires.png",
+      "justTcgCardId": "8adfc726-6da4-5388-8186-cdc3fc83c601",
+      "justTcgNmHoloVariantId": "fcf1b819-df5f-53d5-b937-c57450e40d89"
+    },
+    {
+      "id": "sv4pt5-234",
+      "name": "Charizard ex",
+      "cardNumber": "234",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/234_hires.png",
+      "justTcgCardId": "6d46e559-a907-536a-85a5-e21ce5e7643c",
+      "justTcgNmHoloVariantId": "669c0e21-a22d-5778-9d9e-435efb84a18b"
+    },
+    {
+      "id": "sv4pt5-235",
+      "name": "Arven",
+      "cardNumber": "235",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/235_hires.png"
+    },
+    {
+      "id": "sv4pt5-236",
+      "name": "Clive",
+      "cardNumber": "236",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/236_hires.png",
+      "justTcgCardId": "828a1a68-7c47-59b2-bbbf-bcd5816917dd",
+      "justTcgNmHoloVariantId": "da8a81e0-a705-5021-abce-77ba7e07c22e"
+    },
+    {
+      "id": "sv4pt5-237",
+      "name": "Iono",
+      "cardNumber": "237",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/237_hires.png",
+      "justTcgCardId": "d64ac482-cea4-502f-b8cd-5cf5c37dac43",
+      "justTcgNmHoloVariantId": "068b7528-e24a-578e-bea0-cee3050c5a61"
+    },
+    {
+      "id": "sv4pt5-238",
+      "name": "Nemona",
+      "cardNumber": "238",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/238_hires.png"
+    },
+    {
+      "id": "sv4pt5-239",
+      "name": "Penny",
+      "cardNumber": "239",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/239_hires.png"
+    },
+    {
+      "id": "sv4pt5-240",
+      "name": "Wo-Chien ex",
+      "cardNumber": "240",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/240_hires.png"
+    },
+    {
+      "id": "sv4pt5-241",
+      "name": "Chi-Yu ex",
+      "cardNumber": "241",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/241_hires.png"
+    },
+    {
+      "id": "sv4pt5-242",
+      "name": "Chien-Pao ex",
+      "cardNumber": "242",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/242_hires.png"
+    },
+    {
+      "id": "sv4pt5-243",
+      "name": "Miraidon ex",
+      "cardNumber": "243",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/243_hires.png"
+    },
+    {
+      "id": "sv4pt5-244",
+      "name": "Ting-Lu ex",
+      "cardNumber": "244",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/244_hires.png"
+    },
+    {
+      "id": "sv4pt5-245",
+      "name": "Koraidon ex",
+      "cardNumber": "245",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldean Fates",
+      "artUrl": "https://images.pokemontcg.io/sv4pt5/245_hires.png"
+    }
+  ],
+  "justTcgId": "sv-paldean-fates-pokemon",
+  "justTcgEnrichedAt": "2026-06-26T15:20:06.002Z"
+}

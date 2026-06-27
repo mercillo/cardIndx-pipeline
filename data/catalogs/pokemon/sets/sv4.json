@@ -1,0 +1,1571 @@
+{
+  "setId": "sv4",
+  "setName": "Paradox Rift",
+  "printedTotal": 182,
+  "totalCards": 266,
+  "builtAt": "2026-06-27T14:22:52.443Z",
+  "cards": [
+    {
+      "id": "sv4-3",
+      "name": "Froslass ex",
+      "cardNumber": "3",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/3_hires.png"
+    },
+    {
+      "id": "sv4-18",
+      "name": "Wo-Chien",
+      "cardNumber": "18",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/18_hires.png"
+    },
+    {
+      "id": "sv4-22",
+      "name": "Volcanion",
+      "cardNumber": "22",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/22_hires.png"
+    },
+    {
+      "id": "sv4-27",
+      "name": "Armarouge ex",
+      "cardNumber": "27",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/27_hires.png"
+    },
+    {
+      "id": "sv4-28",
+      "name": "Iron Moth",
+      "cardNumber": "28",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/28_hires.png"
+    },
+    {
+      "id": "sv4-29",
+      "name": "Chi-Yu",
+      "cardNumber": "29",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/29_hires.png"
+    },
+    {
+      "id": "sv4-32",
+      "name": "Kingdra",
+      "cardNumber": "32",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/32_hires.png"
+    },
+    {
+      "id": "sv4-36",
+      "name": "Milotic",
+      "cardNumber": "36",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/36_hires.png"
+    },
+    {
+      "id": "sv4-38",
+      "name": "Garchomp ex",
+      "cardNumber": "38",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/38_hires.png"
+    },
+    {
+      "id": "sv4-40",
+      "name": "Palkia",
+      "cardNumber": "40",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/40_hires.png"
+    },
+    {
+      "id": "sv4-46",
+      "name": "Tsareena ex",
+      "cardNumber": "46",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/46_hires.png"
+    },
+    {
+      "id": "sv4-49",
+      "name": "Golisopod",
+      "cardNumber": "49",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/49_hires.png"
+    },
+    {
+      "id": "sv4-50",
+      "name": "Golisopod ex",
+      "cardNumber": "50",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/50_hires.png"
+    },
+    {
+      "id": "sv4-57",
+      "name": "Chien-Pao",
+      "cardNumber": "57",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/57_hires.png"
+    },
+    {
+      "id": "sv4-58",
+      "name": "Mewtwo ex",
+      "cardNumber": "58",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/58_hires.png"
+    },
+    {
+      "id": "sv4-66",
+      "name": "Zekrom",
+      "cardNumber": "66",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/66_hires.png"
+    },
+    {
+      "id": "sv4-68",
+      "name": "Tapu Koko ex",
+      "cardNumber": "68",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/68_hires.png"
+    },
+    {
+      "id": "sv4-70",
+      "name": "Iron Hands ex",
+      "cardNumber": "70",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/70_hires.png"
+    },
+    {
+      "id": "sv4-72",
+      "name": "Xatu",
+      "cardNumber": "72",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/72_hires.png"
+    },
+    {
+      "id": "sv4-73",
+      "name": "Latios",
+      "cardNumber": "73",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/73_hires.png"
+    },
+    {
+      "id": "sv4-74",
+      "name": "Deoxys",
+      "cardNumber": "74",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/74_hires.png"
+    },
+    {
+      "id": "sv4-76",
+      "name": "Cofagrigus ex",
+      "cardNumber": "76",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/76_hires.png"
+    },
+    {
+      "id": "sv4-81",
+      "name": "Espathra",
+      "cardNumber": "81",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/81_hires.png"
+    },
+    {
+      "id": "sv4-89",
+      "name": "Iron Valiant ex",
+      "cardNumber": "89",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/89_hires.png"
+    },
+    {
+      "id": "sv4-93",
+      "name": "Groudon",
+      "cardNumber": "93",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/93_hires.png"
+    },
+    {
+      "id": "sv4-98",
+      "name": "Hoopa ex",
+      "cardNumber": "98",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/98_hires.png"
+    },
+    {
+      "id": "sv4-100",
+      "name": "Toxtricity ex",
+      "cardNumber": "100",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/100_hires.png"
+    },
+    {
+      "id": "sv4-104",
+      "name": "Garganacl",
+      "cardNumber": "104",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/104_hires.png"
+    },
+    {
+      "id": "sv4-108",
+      "name": "Sandy Shocks ex",
+      "cardNumber": "108",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/108_hires.png"
+    },
+    {
+      "id": "sv4-109",
+      "name": "Ting-Lu",
+      "cardNumber": "109",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/109_hires.png"
+    },
+    {
+      "id": "sv4-118",
+      "name": "Yveltal",
+      "cardNumber": "118",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/118_hires.png"
+    },
+    {
+      "id": "sv4-120",
+      "name": "Thievul",
+      "cardNumber": "120",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/120_hires.png"
+    },
+    {
+      "id": "sv4-121",
+      "name": "Morpeko",
+      "cardNumber": "121",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/121_hires.png"
+    },
+    {
+      "id": "sv4-122",
+      "name": "Lokix",
+      "cardNumber": "122",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/122_hires.png"
+    },
+    {
+      "id": "sv4-123",
+      "name": "Brute Bonnet",
+      "cardNumber": "123",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/123_hires.png"
+    },
+    {
+      "id": "sv4-124",
+      "name": "Roaring Moon ex",
+      "cardNumber": "124",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/124_hires.png"
+    },
+    {
+      "id": "sv4-125",
+      "name": "Steelix",
+      "cardNumber": "125",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/125_hires.png"
+    },
+    {
+      "id": "sv4-134",
+      "name": "Aegislash",
+      "cardNumber": "134",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/134_hires.png"
+    },
+    {
+      "id": "sv4-135",
+      "name": "Aegislash ex",
+      "cardNumber": "135",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/135_hires.png"
+    },
+    {
+      "id": "sv4-136",
+      "name": "Zacian",
+      "cardNumber": "136",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/136_hires.png"
+    },
+    {
+      "id": "sv4-137",
+      "name": "Skeledirge ex",
+      "cardNumber": "137",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/137_hires.png"
+    },
+    {
+      "id": "sv4-139",
+      "name": "Gholdengo ex",
+      "cardNumber": "139",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/139_hires.png"
+    },
+    {
+      "id": "sv4-140",
+      "name": "Altaria ex",
+      "cardNumber": "140",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/140_hires.png"
+    },
+    {
+      "id": "sv4-144",
+      "name": "Porygon-Z",
+      "cardNumber": "144",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/144_hires.png"
+    },
+    {
+      "id": "sv4-155",
+      "name": "Maushold ex",
+      "cardNumber": "155",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/155_hires.png"
+    },
+    {
+      "id": "sv4-156",
+      "name": "Bombirdier ex",
+      "cardNumber": "156",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/156_hires.png"
+    },
+    {
+      "id": "sv4-158",
+      "name": "Iron Jugulis",
+      "cardNumber": "158",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/158_hires.png"
+    },
+    {
+      "id": "sv4-183",
+      "name": "Crustle",
+      "cardNumber": "183",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/183_hires.png"
+    },
+    {
+      "id": "sv4-184",
+      "name": "Dottler",
+      "cardNumber": "184",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/184_hires.png"
+    },
+    {
+      "id": "sv4-185",
+      "name": "Toedscruel",
+      "cardNumber": "185",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/185_hires.png"
+    },
+    {
+      "id": "sv4-186",
+      "name": "Magby",
+      "cardNumber": "186",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/186_hires.png"
+    },
+    {
+      "id": "sv4-187",
+      "name": "Iron Moth",
+      "cardNumber": "187",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/187_hires.png"
+    },
+    {
+      "id": "sv4-188",
+      "name": "Snorunt",
+      "cardNumber": "188",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/188_hires.png"
+    },
+    {
+      "id": "sv4-189",
+      "name": "Mantyke",
+      "cardNumber": "189",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/189_hires.png",
+      "justTcgCardId": "83e1c6dc-7ea8-57bf-81b9-906617631eda",
+      "justTcgNmHoloVariantId": "dfe22c98-9050-5ccc-b363-85ae6713e13c"
+    },
+    {
+      "id": "sv4-190",
+      "name": "Vanillish",
+      "cardNumber": "190",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/190_hires.png"
+    },
+    {
+      "id": "sv4-191",
+      "name": "Wimpod",
+      "cardNumber": "191",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/191_hires.png"
+    },
+    {
+      "id": "sv4-192",
+      "name": "Veluza",
+      "cardNumber": "192",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/192_hires.png"
+    },
+    {
+      "id": "sv4-193",
+      "name": "Plusle",
+      "cardNumber": "193",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/193_hires.png",
+      "justTcgCardId": "1a85ed0a-5688-55af-9f62-a1943dc316cd",
+      "justTcgNmHoloVariantId": "88bdd73c-fbbc-5df3-b7e8-2c78b76a2fdc"
+    },
+    {
+      "id": "sv4-194",
+      "name": "Minun",
+      "cardNumber": "194",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/194_hires.png",
+      "justTcgCardId": "40b6e2aa-ff6d-5cfa-a0a2-4227104d3bb8",
+      "justTcgNmHoloVariantId": "496d53d2-7d74-5558-a9a4-4b8e46a76f6f"
+    },
+    {
+      "id": "sv4-195",
+      "name": "Blitzle",
+      "cardNumber": "195",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/195_hires.png"
+    },
+    {
+      "id": "sv4-196",
+      "name": "Joltik",
+      "cardNumber": "196",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/196_hires.png",
+      "justTcgCardId": "3077262c-9caa-5894-9871-31fc1da38f66",
+      "justTcgNmHoloVariantId": "c7ad6a49-5b60-5962-b94a-f586982d1dd1"
+    },
+    {
+      "id": "sv4-197",
+      "name": "Espathra",
+      "cardNumber": "197",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/197_hires.png"
+    },
+    {
+      "id": "sv4-198",
+      "name": "Gimmighoul",
+      "cardNumber": "198",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/198_hires.png"
+    },
+    {
+      "id": "sv4-199",
+      "name": "Groudon",
+      "cardNumber": "199",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/199_hires.png",
+      "justTcgCardId": "c3258c6c-81d5-51a7-aa5d-623be0d09ede",
+      "justTcgNmHoloVariantId": "5670f5cd-2bc1-5f59-b458-c51a1e0b71bd"
+    },
+    {
+      "id": "sv4-200",
+      "name": "Mienshao",
+      "cardNumber": "200",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/200_hires.png"
+    },
+    {
+      "id": "sv4-201",
+      "name": "Minior",
+      "cardNumber": "201",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/201_hires.png"
+    },
+    {
+      "id": "sv4-202",
+      "name": "Garganacl",
+      "cardNumber": "202",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/202_hires.png"
+    },
+    {
+      "id": "sv4-203",
+      "name": "Slither Wing",
+      "cardNumber": "203",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/203_hires.png"
+    },
+    {
+      "id": "sv4-204",
+      "name": "Garbodor",
+      "cardNumber": "204",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/204_hires.png"
+    },
+    {
+      "id": "sv4-205",
+      "name": "Yveltal",
+      "cardNumber": "205",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/205_hires.png",
+      "justTcgCardId": "1b094103-8c47-54f1-bcf4-7b2840095dd7",
+      "justTcgNmHoloVariantId": "ff280340-673b-5577-960a-e503019393bc"
+    },
+    {
+      "id": "sv4-206",
+      "name": "Morpeko",
+      "cardNumber": "206",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/206_hires.png",
+      "justTcgCardId": "121dce5f-fe5f-522f-a997-610716b5ae83",
+      "justTcgNmHoloVariantId": "f350e4a0-2a8b-5f6a-bef5-ed4a9fe836bf"
+    },
+    {
+      "id": "sv4-207",
+      "name": "Brute Bonnet",
+      "cardNumber": "207",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/207_hires.png"
+    },
+    {
+      "id": "sv4-208",
+      "name": "Steelix",
+      "cardNumber": "208",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/208_hires.png",
+      "justTcgCardId": "a402055a-7cba-57ce-9ca6-ae5a5b44003d",
+      "justTcgNmHoloVariantId": "19250903-7d49-57ca-a22d-87a2127fbba9"
+    },
+    {
+      "id": "sv4-209",
+      "name": "Ferrothorn",
+      "cardNumber": "209",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/209_hires.png"
+    },
+    {
+      "id": "sv4-210",
+      "name": "Aegislash",
+      "cardNumber": "210",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/210_hires.png"
+    },
+    {
+      "id": "sv4-211",
+      "name": "Aipom",
+      "cardNumber": "211",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/211_hires.png",
+      "justTcgCardId": "8605c7bc-85d7-577a-b68e-15060c11c9e2",
+      "justTcgNmHoloVariantId": "389d8cec-4b6e-5944-8dd0-42dca31c9f09"
+    },
+    {
+      "id": "sv4-212",
+      "name": "Loudred",
+      "cardNumber": "212",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/212_hires.png"
+    },
+    {
+      "id": "sv4-213",
+      "name": "Swablu",
+      "cardNumber": "213",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/213_hires.png",
+      "justTcgCardId": "0d7026c0-cde6-58c4-92a9-0fa07bc0e6f9",
+      "justTcgNmHoloVariantId": "3e8d6199-95f3-57a5-8018-4ee0ea50ee16"
+    },
+    {
+      "id": "sv4-214",
+      "name": "Porygon-Z",
+      "cardNumber": "214",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/214_hires.png"
+    },
+    {
+      "id": "sv4-215",
+      "name": "Cyclizar",
+      "cardNumber": "215",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/215_hires.png"
+    },
+    {
+      "id": "sv4-216",
+      "name": "Iron Jugulis",
+      "cardNumber": "216",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/216_hires.png"
+    },
+    {
+      "id": "sv4-217",
+      "name": "Froslass ex",
+      "cardNumber": "217",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/217_hires.png"
+    },
+    {
+      "id": "sv4-218",
+      "name": "Armarouge ex",
+      "cardNumber": "218",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/218_hires.png"
+    },
+    {
+      "id": "sv4-219",
+      "name": "Garchomp ex",
+      "cardNumber": "219",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/219_hires.png"
+    },
+    {
+      "id": "sv4-220",
+      "name": "Tsareena ex",
+      "cardNumber": "220",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/220_hires.png"
+    },
+    {
+      "id": "sv4-221",
+      "name": "Golisopod ex",
+      "cardNumber": "221",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/221_hires.png"
+    },
+    {
+      "id": "sv4-222",
+      "name": "Tapu Koko ex",
+      "cardNumber": "222",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/222_hires.png"
+    },
+    {
+      "id": "sv4-223",
+      "name": "Iron Hands ex",
+      "cardNumber": "223",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/223_hires.png"
+    },
+    {
+      "id": "sv4-224",
+      "name": "Cofagrigus ex",
+      "cardNumber": "224",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/224_hires.png"
+    },
+    {
+      "id": "sv4-225",
+      "name": "Iron Valiant ex",
+      "cardNumber": "225",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/225_hires.png"
+    },
+    {
+      "id": "sv4-226",
+      "name": "Hoopa ex",
+      "cardNumber": "226",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/226_hires.png"
+    },
+    {
+      "id": "sv4-227",
+      "name": "Toxtricity ex",
+      "cardNumber": "227",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/227_hires.png"
+    },
+    {
+      "id": "sv4-228",
+      "name": "Sandy Shocks ex",
+      "cardNumber": "228",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/228_hires.png"
+    },
+    {
+      "id": "sv4-229",
+      "name": "Roaring Moon ex",
+      "cardNumber": "229",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/229_hires.png"
+    },
+    {
+      "id": "sv4-230",
+      "name": "Aegislash ex",
+      "cardNumber": "230",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/230_hires.png"
+    },
+    {
+      "id": "sv4-231",
+      "name": "Gholdengo ex",
+      "cardNumber": "231",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/231_hires.png"
+    },
+    {
+      "id": "sv4-232",
+      "name": "Altaria ex",
+      "cardNumber": "232",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/232_hires.png"
+    },
+    {
+      "id": "sv4-233",
+      "name": "Maushold ex",
+      "cardNumber": "233",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/233_hires.png"
+    },
+    {
+      "id": "sv4-234",
+      "name": "Bombirdier ex",
+      "cardNumber": "234",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/234_hires.png"
+    },
+    {
+      "id": "sv4-235",
+      "name": "Larry",
+      "cardNumber": "235",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/235_hires.png"
+    },
+    {
+      "id": "sv4-236",
+      "name": "Mela",
+      "cardNumber": "236",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/236_hires.png"
+    },
+    {
+      "id": "sv4-237",
+      "name": "Norman",
+      "cardNumber": "237",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/237_hires.png"
+    },
+    {
+      "id": "sv4-238",
+      "name": "Parasol Lady",
+      "cardNumber": "238",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/238_hires.png"
+    },
+    {
+      "id": "sv4-239",
+      "name": "Professor Sada's Vitality",
+      "cardNumber": "239",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/239_hires.png"
+    },
+    {
+      "id": "sv4-240",
+      "name": "Professor Turo's Scenario",
+      "cardNumber": "240",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/240_hires.png"
+    },
+    {
+      "id": "sv4-241",
+      "name": "Rika",
+      "cardNumber": "241",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/241_hires.png"
+    },
+    {
+      "id": "sv4-242",
+      "name": "Roark",
+      "cardNumber": "242",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/242_hires.png"
+    },
+    {
+      "id": "sv4-243",
+      "name": "Shauntal",
+      "cardNumber": "243",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/243_hires.png"
+    },
+    {
+      "id": "sv4-244",
+      "name": "Tulip",
+      "cardNumber": "244",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/244_hires.png"
+    },
+    {
+      "id": "sv4-245",
+      "name": "Garchomp ex",
+      "cardNumber": "245",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/245_hires.png",
+      "justTcgCardId": "388c02c6-ca3d-555c-835d-34a77ec78106",
+      "justTcgNmHoloVariantId": "d34d9218-2595-5cf0-9f3a-0025904bd48a"
+    },
+    {
+      "id": "sv4-246",
+      "name": "Golisopod ex",
+      "cardNumber": "246",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/246_hires.png",
+      "justTcgCardId": "719fec5c-d487-50c7-a5c0-c2c99588dd77",
+      "justTcgNmHoloVariantId": "a589ac2c-8964-5c51-b763-72313c351823"
+    },
+    {
+      "id": "sv4-247",
+      "name": "Tapu Koko ex",
+      "cardNumber": "247",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/247_hires.png"
+    },
+    {
+      "id": "sv4-248",
+      "name": "Iron Hands ex",
+      "cardNumber": "248",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/248_hires.png"
+    },
+    {
+      "id": "sv4-249",
+      "name": "Iron Valiant ex",
+      "cardNumber": "249",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/249_hires.png"
+    },
+    {
+      "id": "sv4-250",
+      "name": "Sandy Shocks ex",
+      "cardNumber": "250",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/250_hires.png"
+    },
+    {
+      "id": "sv4-251",
+      "name": "Roaring Moon ex",
+      "cardNumber": "251",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/251_hires.png",
+      "justTcgCardId": "0720cac5-837b-5f07-ab48-3e1a8b8e70d6",
+      "justTcgNmHoloVariantId": "15159bcd-f82a-5ef9-8d06-07a819029ee8"
+    },
+    {
+      "id": "sv4-252",
+      "name": "Gholdengo ex",
+      "cardNumber": "252",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/252_hires.png",
+      "justTcgCardId": "455e69b1-6257-5ea4-93c6-9facd14074d3",
+      "justTcgNmHoloVariantId": "00d30b20-1f20-5b12-b36a-468327273636"
+    },
+    {
+      "id": "sv4-253",
+      "name": "Altaria ex",
+      "cardNumber": "253",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/253_hires.png",
+      "justTcgCardId": "f36c1d73-0423-511e-9b46-e40ff951535d",
+      "justTcgNmHoloVariantId": "41e94260-430c-5989-9de1-5782821d7a81"
+    },
+    {
+      "id": "sv4-254",
+      "name": "Mela",
+      "cardNumber": "254",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/254_hires.png"
+    },
+    {
+      "id": "sv4-255",
+      "name": "Parasol Lady",
+      "cardNumber": "255",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/255_hires.png"
+    },
+    {
+      "id": "sv4-256",
+      "name": "Professor Sada's Vitality",
+      "cardNumber": "256",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/256_hires.png"
+    },
+    {
+      "id": "sv4-257",
+      "name": "Professor Turo's Scenario",
+      "cardNumber": "257",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/257_hires.png"
+    },
+    {
+      "id": "sv4-258",
+      "name": "Rika",
+      "cardNumber": "258",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/258_hires.png"
+    },
+    {
+      "id": "sv4-259",
+      "name": "Tulip",
+      "cardNumber": "259",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/259_hires.png"
+    },
+    {
+      "id": "sv4-260",
+      "name": "Garchomp ex",
+      "cardNumber": "260",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/260_hires.png"
+    },
+    {
+      "id": "sv4-261",
+      "name": "Iron Valiant ex",
+      "cardNumber": "261",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/261_hires.png"
+    },
+    {
+      "id": "sv4-262",
+      "name": "Roaring Moon ex",
+      "cardNumber": "262",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/262_hires.png"
+    },
+    {
+      "id": "sv4-263",
+      "name": "Beach Court",
+      "cardNumber": "263",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stadium"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/263_hires.png"
+    },
+    {
+      "id": "sv4-264",
+      "name": "Counter Catcher",
+      "cardNumber": "264",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/264_hires.png"
+    },
+    {
+      "id": "sv4-265",
+      "name": "Luxurious Cape",
+      "cardNumber": "265",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/265_hires.png"
+    },
+    {
+      "id": "sv4-266",
+      "name": "Reversal Energy",
+      "cardNumber": "266",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Special"
+      ],
+      "setName": "Paradox Rift",
+      "artUrl": "https://images.pokemontcg.io/sv4/266_hires.png"
+    }
+  ],
+  "justTcgId": "sv04-paradox-rift-pokemon",
+  "justTcgEnrichedAt": "2026-06-27T14:23:04.693Z"
+}

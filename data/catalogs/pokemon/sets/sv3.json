@@ -1,0 +1,792 @@
+{
+  "setId": "sv3",
+  "setName": "Obsidian Flames",
+  "printedTotal": 197,
+  "totalCards": 230,
+  "builtAt": "2026-06-29T16:32:37.645Z",
+  "cards": [
+    {
+      "id": "sv3-15",
+      "name": "Decidueye ex",
+      "cardNumber": "15",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/15_hires.png"
+    },
+    {
+      "id": "sv3-22",
+      "name": "Toedscruel ex",
+      "cardNumber": "22",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/22_hires.png"
+    },
+    {
+      "id": "sv3-25",
+      "name": "Scovillain",
+      "cardNumber": "25",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/25_hires.png"
+    },
+    {
+      "id": "sv3-30",
+      "name": "Entei",
+      "cardNumber": "30",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/30_hires.png"
+    },
+    {
+      "id": "sv3-33",
+      "name": "Victini ex",
+      "cardNumber": "33",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/33_hires.png"
+    },
+    {
+      "id": "sv3-42",
+      "name": "Eiscue ex",
+      "cardNumber": "42",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/42_hires.png"
+    },
+    {
+      "id": "sv3-62",
+      "name": "Palafin",
+      "cardNumber": "62",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/62_hires.png"
+    },
+    {
+      "id": "sv3-66",
+      "name": "Tyranitar ex",
+      "cardNumber": "66",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/66_hires.png"
+    },
+    {
+      "id": "sv3-70",
+      "name": "Thundurus",
+      "cardNumber": "70",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/70_hires.png"
+    },
+    {
+      "id": "sv3-72",
+      "name": "Toxtricity",
+      "cardNumber": "72",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/72_hires.png"
+    },
+    {
+      "id": "sv3-73",
+      "name": "Pawmot ex",
+      "cardNumber": "73",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/73_hires.png"
+    },
+    {
+      "id": "sv3-79",
+      "name": "Miraidon ex",
+      "cardNumber": "79",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/79_hires.png"
+    },
+    {
+      "id": "sv3-82",
+      "name": "Clefable ex",
+      "cardNumber": "82",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/82_hires.png"
+    },
+    {
+      "id": "sv3-85",
+      "name": "Togekiss",
+      "cardNumber": "85",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/85_hires.png"
+    },
+    {
+      "id": "sv3-95",
+      "name": "Claydol",
+      "cardNumber": "95",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/95_hires.png"
+    },
+    {
+      "id": "sv3-96",
+      "name": "Vespiquen ex",
+      "cardNumber": "96",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/96_hires.png"
+    },
+    {
+      "id": "sv3-102",
+      "name": "Houndstone ex",
+      "cardNumber": "102",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/102_hires.png"
+    },
+    {
+      "id": "sv3-120",
+      "name": "Klawf ex",
+      "cardNumber": "120",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/120_hires.png"
+    },
+    {
+      "id": "sv3-123",
+      "name": "Glimmora ex",
+      "cardNumber": "123",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/123_hires.png"
+    },
+    {
+      "id": "sv3-124",
+      "name": "Koraidon ex",
+      "cardNumber": "124",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/124_hires.png"
+    },
+    {
+      "id": "sv3-125",
+      "name": "Charizard ex",
+      "cardNumber": "125",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/125_hires.png"
+    },
+    {
+      "id": "sv3-134",
+      "name": "Houndoom ex",
+      "cardNumber": "134",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/134_hires.png"
+    },
+    {
+      "id": "sv3-135",
+      "name": "Absol ex",
+      "cardNumber": "135",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/135_hires.png"
+    },
+    {
+      "id": "sv3-136",
+      "name": "Darkrai",
+      "cardNumber": "136",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/136_hires.png"
+    },
+    {
+      "id": "sv3-141",
+      "name": "Scizor",
+      "cardNumber": "141",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/141_hires.png"
+    },
+    {
+      "id": "sv3-153",
+      "name": "Melmetal ex",
+      "cardNumber": "153",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/153_hires.png"
+    },
+    {
+      "id": "sv3-156",
+      "name": "Revavroom ex",
+      "cardNumber": "156",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/156_hires.png"
+    },
+    {
+      "id": "sv3-159",
+      "name": "Dragonite ex",
+      "cardNumber": "159",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/159_hires.png"
+    },
+    {
+      "id": "sv3-164",
+      "name": "Pidgeot ex",
+      "cardNumber": "164",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/164_hires.png"
+    },
+    {
+      "id": "sv3-179",
+      "name": "Greedent ex",
+      "cardNumber": "179",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/179_hires.png"
+    },
+    {
+      "id": "sv3-188",
+      "name": "Geeta",
+      "cardNumber": "188",
+      "rarity": "Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/188_hires.png"
+    },
+    {
+      "id": "sv3-198",
+      "name": "Gloom",
+      "cardNumber": "198",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/198_hires.png",
+      "justTcgCardId": "eb90b129-09c1-515b-b712-88079f00d394",
+      "justTcgNmHoloVariantId": "e0917ddf-09e7-521e-aefe-c1832a051e1b"
+    },
+    {
+      "id": "sv3-199",
+      "name": "Ninetales",
+      "cardNumber": "199",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/199_hires.png",
+      "justTcgCardId": "01305bf8-75b9-54ae-8e3d-73488cbc56aa",
+      "justTcgNmHoloVariantId": "ac71bc3f-30cb-5f49-9579-4c9bf3d0bf5d"
+    },
+    {
+      "id": "sv3-200",
+      "name": "Palafin",
+      "cardNumber": "200",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/200_hires.png"
+    },
+    {
+      "id": "sv3-201",
+      "name": "Bellibolt",
+      "cardNumber": "201",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/201_hires.png"
+    },
+    {
+      "id": "sv3-202",
+      "name": "Cleffa",
+      "cardNumber": "202",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/202_hires.png",
+      "justTcgCardId": "3759390b-4a23-5a06-b4f1-4742e155d5e0",
+      "justTcgNmHoloVariantId": "dc2ee51d-f6a6-5ed1-ab24-f049fcdbeb2f"
+    },
+    {
+      "id": "sv3-203",
+      "name": "Larvitar",
+      "cardNumber": "203",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/203_hires.png",
+      "justTcgCardId": "5755ca6c-9a99-5866-b2b9-3d8834231511",
+      "justTcgNmHoloVariantId": "ca60c893-87eb-5972-8c36-630a2abc6ec3"
+    },
+    {
+      "id": "sv3-204",
+      "name": "Houndour",
+      "cardNumber": "204",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/204_hires.png",
+      "justTcgCardId": "6a8f4e0d-9e7a-5834-9d57-f60dd4d01741",
+      "justTcgNmHoloVariantId": "2d49c64d-2f1c-5963-b5a8-2860e3c16e0c"
+    },
+    {
+      "id": "sv3-205",
+      "name": "Scizor",
+      "cardNumber": "205",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/205_hires.png",
+      "justTcgCardId": "74a04f0e-7b54-5e1b-af9f-6df3ad6135ff",
+      "justTcgNmHoloVariantId": "f745d547-47ee-56a5-aa5a-8f6a8d63974d"
+    },
+    {
+      "id": "sv3-206",
+      "name": "Varoom",
+      "cardNumber": "206",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/206_hires.png"
+    },
+    {
+      "id": "sv3-207",
+      "name": "Pidgey",
+      "cardNumber": "207",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/207_hires.png",
+      "justTcgCardId": "6def3ab5-5534-56de-923f-7c24c814c8b1",
+      "justTcgNmHoloVariantId": "b8c2168f-676e-5ccf-ae5b-a1284ad4179a"
+    },
+    {
+      "id": "sv3-208",
+      "name": "Pidgeotto",
+      "cardNumber": "208",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/208_hires.png",
+      "justTcgCardId": "8e7cb911-13be-53dd-8f3d-cebf6fd6d9a4",
+      "justTcgNmHoloVariantId": "dde5e826-f496-5566-8452-2d06b38d970a"
+    },
+    {
+      "id": "sv3-209",
+      "name": "Lechonk",
+      "cardNumber": "209",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/209_hires.png",
+      "justTcgCardId": "6360918c-8780-553e-9f3a-1fbf64e4402a",
+      "justTcgNmHoloVariantId": "d41e69fc-5d16-526a-a8a7-081508f9ea22"
+    },
+    {
+      "id": "sv3-210",
+      "name": "Eiscue ex",
+      "cardNumber": "210",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/210_hires.png"
+    },
+    {
+      "id": "sv3-211",
+      "name": "Tyranitar ex",
+      "cardNumber": "211",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/211_hires.png"
+    },
+    {
+      "id": "sv3-212",
+      "name": "Vespiquen ex",
+      "cardNumber": "212",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/212_hires.png"
+    },
+    {
+      "id": "sv3-213",
+      "name": "Glimmora ex",
+      "cardNumber": "213",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/213_hires.png"
+    },
+    {
+      "id": "sv3-214",
+      "name": "Absol ex",
+      "cardNumber": "214",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/214_hires.png"
+    },
+    {
+      "id": "sv3-215",
+      "name": "Charizard ex",
+      "cardNumber": "215",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/215_hires.png",
+      "justTcgCardId": "19d572c9-62e0-5cfb-bc7a-2d0391cc72a1",
+      "justTcgNmHoloVariantId": "04da90ac-1af0-56b4-8663-bb84bf7d8a4e"
+    },
+    {
+      "id": "sv3-216",
+      "name": "Revavroom ex",
+      "cardNumber": "216",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/216_hires.png"
+    },
+    {
+      "id": "sv3-217",
+      "name": "Pidgeot ex",
+      "cardNumber": "217",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/217_hires.png"
+    },
+    {
+      "id": "sv3-218",
+      "name": "Geeta",
+      "cardNumber": "218",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/218_hires.png"
+    },
+    {
+      "id": "sv3-219",
+      "name": "Ortega",
+      "cardNumber": "219",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/219_hires.png"
+    },
+    {
+      "id": "sv3-220",
+      "name": "Poppy",
+      "cardNumber": "220",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/220_hires.png"
+    },
+    {
+      "id": "sv3-221",
+      "name": "Ryme",
+      "cardNumber": "221",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/221_hires.png"
+    },
+    {
+      "id": "sv3-222",
+      "name": "Eiscue ex",
+      "cardNumber": "222",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/222_hires.png",
+      "justTcgCardId": "0e26cb54-05d2-57c4-9272-4ade7aa00f48",
+      "justTcgNmHoloVariantId": "b0a97d00-d9f7-59ad-a749-aac37214e05f"
+    },
+    {
+      "id": "sv3-223",
+      "name": "Charizard ex",
+      "cardNumber": "223",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/223_hires.png",
+      "justTcgCardId": "1575a887-0df3-55b4-a099-672009472bb7",
+      "justTcgNmHoloVariantId": "f7f9d1ba-1308-57ec-bf63-3ca12484eec2"
+    },
+    {
+      "id": "sv3-224",
+      "name": "Revavroom ex",
+      "cardNumber": "224",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/224_hires.png",
+      "justTcgCardId": "71b2273e-220b-5f20-958c-060c73bc6988",
+      "justTcgNmHoloVariantId": "21a99402-6490-5fa1-ab0a-c340ed92d437"
+    },
+    {
+      "id": "sv3-225",
+      "name": "Pidgeot ex",
+      "cardNumber": "225",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/225_hires.png",
+      "justTcgCardId": "8f167640-3752-520f-8a87-77c76433c85c",
+      "justTcgNmHoloVariantId": "e89616cd-a5b7-5016-b035-cc002029e0eb"
+    },
+    {
+      "id": "sv3-226",
+      "name": "Geeta",
+      "cardNumber": "226",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/226_hires.png"
+    },
+    {
+      "id": "sv3-227",
+      "name": "Poppy",
+      "cardNumber": "227",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/227_hires.png"
+    },
+    {
+      "id": "sv3-228",
+      "name": "Charizard ex",
+      "cardNumber": "228",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex",
+        "Tera"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/228_hires.png",
+      "justTcgCardId": "5dbc8f3a-6ab8-5d05-a009-7c846e6ad3c2",
+      "justTcgNmHoloVariantId": "cddbd769-032c-52c9-a3b6-5acdd0b45af6"
+    },
+    {
+      "id": "sv3-229",
+      "name": "Artazon",
+      "cardNumber": "229",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stadium"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/229_hires.png"
+    },
+    {
+      "id": "sv3-230",
+      "name": "Basic Fire Energy",
+      "cardNumber": "230",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Obsidian Flames",
+      "artUrl": "https://images.pokemontcg.io/sv3/230_hires.png"
+    }
+  ],
+  "justTcgId": "sv03-obsidian-flames-pokemon",
+  "justTcgEnrichedAt": "2026-06-29T16:33:05.813Z"
+}

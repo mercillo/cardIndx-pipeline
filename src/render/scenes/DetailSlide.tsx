@@ -1,11 +1,6 @@
 import { AbsoluteFill, useCurrentFrame, interpolate, Img } from "remotion";
-import { theme, safeZone } from "../styles/theme";
-import {
-  getPriceTier,
-  getMovementLabel,
-  getTrendSignal,
-  getPriceMath,
-} from "../utils/insights";
+import { getPriceTier, getMovementLabel, getTrendSignal, getPriceMath } from "../utils/insights";
+import { detailStyles, chipStyle, priceMathChangeStyle, priceMathDeltaStyle } from "../styles/detailSlide";
 
 interface CardData {
   id: string;
@@ -22,27 +17,8 @@ interface CardData {
   };
 }
 
-const CARD_BG = "#16181F";
-const INFO_BG = "#0C0C0E";
-
 const Chip = ({ label, color }: { label: string; color: string }) => (
-  <div
-    style={{
-      border: `2px solid ${color}`,
-      color,
-      fontSize: 22,
-      fontFamily: theme.fonts.mono,
-      fontWeight: 700,
-      paddingTop: 6,
-      paddingBottom: 6,
-      paddingLeft: 18,
-      paddingRight: 18,
-      borderRadius: 6,
-      letterSpacing: 2,
-    }}
-  >
-    {label}
-  </div>
+  <div style={chipStyle(color)}>{label}</div>
 );
 
 const PriceMathRow = ({
@@ -59,314 +35,87 @@ const PriceMathRow = ({
   const { pastPrice, dollarChange, pctChange: pct } = math;
   const isUp = pct >= 0;
   const changeColor = isUp ? "#22C55E" : "#EF4444";
-  const arrow = isUp ? "↑" : "↓";
 
   return (
-    <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
-      <span
-        style={{
-          color: theme.colors.muted,
-          fontSize: 26,
-          fontFamily: theme.fonts.mono,
-          letterSpacing: 1,
-          minWidth: 60,
-        }}
-      >
-        {label}
+    <div style={detailStyles.priceMathRow}>
+      <span style={detailStyles.priceMathLabel}>{label}</span>
+      <span style={detailStyles.priceMathValue}>${pastPrice.toFixed(2)}</span>
+      <span style={detailStyles.priceMathArrow}>→</span>
+      <span style={priceMathChangeStyle(changeColor)}>
+        {isUp ? "+" : ""}{pct.toFixed(1)}%
       </span>
-      <span
-        style={{
-          color: theme.colors.text,
-          fontSize: 30,
-          fontFamily: theme.fonts.mono,
-        }}
-      >
-        ${pastPrice.toFixed(2)}
-      </span>
-      <span style={{ color: theme.colors.muted, fontSize: 24 }}>→</span>
-      <span
-        style={{
-          color: changeColor,
-          fontSize: 30,
-          fontFamily: theme.fonts.mono,
-          fontWeight: 700,
-        }}
-      >
-        {isUp ? "+" : ""}
-        {pct.toFixed(1)}%
-      </span>
-      <span style={{ color: theme.colors.muted, fontSize: 24 }}>→</span>
-      <span
-        style={{
-          color: theme.colors.text,
-          fontSize: 30,
-          fontFamily: theme.fonts.mono,
-        }}
-      >
-        ${current!.toFixed(2)}
-      </span>
-      <span
-        style={{
-          color: changeColor,
-          fontSize: 26,
-          fontFamily: theme.fonts.mono,
-          marginLeft: 6,
-        }}
-      >
-        ({arrow} ${Math.abs(dollarChange).toFixed(2)})
+      <span style={detailStyles.priceMathArrow}>→</span>
+      <span style={detailStyles.priceMathValue}>${current!.toFixed(2)}</span>
+      <span style={priceMathDeltaStyle(changeColor)}>
+        ({isUp ? "↑" : "↓"} ${Math.abs(dollarChange).toFixed(2)})
       </span>
     </div>
   );
 };
 
-export const DetailSlide = ({
-  card,
-  rank,
-  date,
-}: {
-  card: CardData;
-  rank: number;
-  date?: string;
-}) => {
+export const DetailSlide = ({ card, rank, date }: { card: CardData; rank: number; date?: string }) => {
   const frame = useCurrentFrame();
 
-  const opacity = interpolate(frame, [0, 10], [0, 1], {
-    extrapolateRight: "clamp",
-  });
-  const infoOpacity = interpolate(frame, [6, 20], [0, 1], {
-    extrapolateRight: "clamp",
-  });
+  const opacity     = interpolate(frame, [0, 10], [0, 1], { extrapolateRight: "clamp" });
+  const infoOpacity = interpolate(frame, [6, 20], [0, 1], { extrapolateRight: "clamp" });
 
-  const current = card.prices.rawCurrent;
+  const current  = card.prices.rawCurrent;
   const change7d = card.prices.psa10Change7d;
   const change30d = card.prices.psa10Change30d;
 
   const priceTier = getPriceTier(current);
-  const movement = getMovementLabel(change7d);
-  const trend = getTrendSignal(change7d, change30d);
+  const movement  = getMovementLabel(change7d);
+  const trend     = getTrendSignal(change7d, change30d);
 
   return (
     <AbsoluteFill style={{ opacity, display: "flex", flexDirection: "column" }}>
-      {/* Card image — reduced to give info panel more room */}
-      {/* Black padding — Dynamic Island clearance only */}
-      <div
-        style={{
-          height: safeZone.top,
-          backgroundColor: CARD_BG,
-          flexShrink: 0,
-        }}
-      />
+      <div style={detailStyles.safeZoneTop} />
 
-      {/* Card art container — fixed height, independent of safe zone */}
-      <div
-        style={{
-          height: 900,
-          backgroundColor: CARD_BG,
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
-          padding: 24,
-          paddingBottom: 30,
-        }}
-      >
-        <Img
-          src={card.artUrl}
-          style={{
-            maxHeight: "100%",
-            maxWidth: "100%",
-            objectFit: "contain",
-            filter: "drop-shadow(0 10px 32px rgba(0,0,0,0.75))",
-          }}
-        />
+      <div style={detailStyles.cardArtContainer}>
+        <Img src={card.artUrl} style={detailStyles.cardArt} />
       </div>
 
-      {/* Accent line */}
-      <div
-        style={{
-          height: 4,
-          backgroundColor: theme.colors.accent,
-          flexShrink: 0,
-        }}
-      />
+      <div style={detailStyles.accentLine} />
 
-      {/* Info panel */}
-      {/* Info panel container */}
-      <div
-        style={{
-          flex: 1,
-          backgroundColor: INFO_BG,
-          display: "flex",
-          flexDirection: "column",
-          opacity: infoOpacity,
-        }}
-      >
-        {/* Content container */}
-        <div
-          style={{
-            flex: 1,
-            paddingTop: 28,
-            paddingLeft: 64,
-            paddingRight: 64,
-            display: "flex",
-            flexDirection: "column",
-          }}
-        >
-          {/* Rank + set row */}
-          <div
-            style={{
-              display: "flex",
-              alignItems: "center",
-              gap: 20,
-              marginBottom: 10,
-            }}
-          >
-            <div
-              style={{
-                backgroundColor: theme.colors.accent,
-                color: "#fff",
-                fontSize: 34,
-                fontFamily: theme.fonts.mono,
-                fontWeight: 700,
-                paddingTop: 5,
-                paddingBottom: 5,
-                paddingLeft: 16,
-                paddingRight: 16,
-                borderRadius: 6,
-              }}
-            >
-              #{rank}
-            </div>
-            <div
-              style={{
-                color: theme.colors.muted,
-                fontSize: 30,
-                fontFamily: theme.fonts.mono,
-              }}
-            >
-              {card.setName}
-              {card.rarity ? ` · ${card.rarity}` : ""}
+      <div style={{ ...detailStyles.infoPanel, opacity: infoOpacity }}>
+        <div style={detailStyles.infoPanelContent}>
+
+          <div style={detailStyles.rankRow}>
+            <div style={detailStyles.rankBadge}>#{rank}</div>
+            <div style={detailStyles.setName}>
+              {card.setName}{card.rarity ? ` · ${card.rarity}` : ""}
             </div>
           </div>
 
-          {/* Card name */}
-          <div
-            style={{
-              color: theme.colors.text,
-              fontSize: 48,
-              fontFamily: theme.fonts.main,
-              fontWeight: 700,
-              lineHeight: 1.05,
-              marginBottom: 14,
-            }}
-          >
-            {card.name}
-          </div>
-
-          {/* MARKET PRICE label */}
-          <div
-            style={{
-              color: theme.colors.muted,
-              fontSize: 26,
-              fontFamily: theme.fonts.mono,
-              letterSpacing: 3,
-              marginBottom: 6,
-            }}
-          >
-            MARKET PRICE
-          </div>
-
-          {/* Price hero */}
-          <div
-            style={{
-              color: theme.colors.text,
-              fontSize: 100,
-              fontFamily: theme.fonts.mono,
-              fontWeight: 700,
-              lineHeight: 1,
-              marginBottom: 20,
-            }}
-          >
+          <div style={detailStyles.cardName}>{card.name}</div>
+          <div style={detailStyles.marketPriceLabel}>MARKET PRICE</div>
+          <div style={detailStyles.priceHero}>
             {current != null ? `$${current.toFixed(2)}` : "N/A"}
           </div>
 
-          {/* Insight chips row */}
-          <div
-            style={{
-              display: "flex",
-              gap: 14,
-              marginBottom: 20,
-              flexWrap: "wrap",
-              alignItems: "center",
-            }}
-          >
-            {priceTier && (
-              <Chip label={priceTier.label} color={priceTier.color} />
-            )}
+          <div style={detailStyles.chipRow}>
+            {priceTier && <Chip label={priceTier.label} color={priceTier.color} />}
             {movement && <Chip label={movement.label} color={movement.color} />}
             {trend && (
               <>
                 <Chip label={trend.label} color={trend.color} />
-                <span
-                  style={{
-                    color: theme.colors.muted,
-                    fontSize: 24,
-                    fontFamily: theme.fonts.mono,
-                  }}
-                >
-                  · {trend.detail}
-                </span>
+                <span style={detailStyles.trendDetail}>· {trend.detail}</span>
               </>
             )}
           </div>
 
-          {/* Price math rows */}
-          <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
-            <PriceMathRow label="7D" current={current} pctChange={change7d} />
+          <div style={detailStyles.priceMathRows}>
+            <PriceMathRow label="7D"  current={current} pctChange={change7d} />
             <PriceMathRow label="30D" current={current} pctChange={change30d} />
           </div>
 
-          {/* Footer */}
-          <div
-            style={{
-              display: "flex",
-              alignItems: "center",
-              gap: 24,
-              paddingTop: 10,
-              marginTop: "auto",
-            }}
-          >
-            <div
-              style={{
-                color: theme.colors.accent,
-                fontSize: 28,
-                fontFamily: theme.fonts.main,
-                fontWeight: 700,
-                letterSpacing: 4,
-              }}
-            >
-              @pkmnIndx
-            </div>
-            {date && (
-              <div
-                style={{
-                  color: theme.colors.muted,
-                  fontSize: 26,
-                  fontFamily: theme.fonts.mono,
-                }}
-              >
-                {date}
-              </div>
-            )}
+          <div style={detailStyles.footer}>
+            <div style={detailStyles.footerHandle}>@pkmnIndx</div>
+            {date && <div style={detailStyles.footerDate}>{date}</div>}
           </div>
+
         </div>
-        {/* Black section — TikTok bottom safe zone */}
-        <div
-          style={{
-            height: safeZone.bottom,
-            backgroundColor: INFO_BG,
-            flexShrink: 0,
-          }}
-        />
+        <div style={detailStyles.bottomSafeZone} />
       </div>
     </AbsoluteFill>
   );

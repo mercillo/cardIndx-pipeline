@@ -20,6 +20,7 @@ interface CardData {
 interface MainCompositionProps {
   data: CardData[];
   date?: string;
+  title?: string;
 }
 
 // Segment durations in frames (30fps)
@@ -27,7 +28,7 @@ const MOSAIC_DURATION = 150; // 5s
 const SLIDE_DURATION = 90;   // 3s per card
 const OUTRO_DURATION = 120;  // 4s
 
-export const MainComposition = ({ data, date }: MainCompositionProps) => {
+export const MainComposition = ({ data, date, title }: MainCompositionProps) => {
   const { fps, durationInFrames } = useVideoConfig();
   const slidesStart = MOSAIC_DURATION;
   const outroStart = slidesStart + data.length * SLIDE_DURATION;
@@ -48,7 +49,7 @@ export const MainComposition = ({ data, date }: MainCompositionProps) => {
 
       {/* 1. Mosaic grid — opens the video */}
       <Sequence from={0} durationInFrames={MOSAIC_DURATION}>
-        <Mosaic cards={data} date={date} />
+        <Mosaic cards={data} date={date} title={title} />
       </Sequence>
 
       {/* 2. Individual card slides */}

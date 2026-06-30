@@ -2,8 +2,9 @@ import "dotenv/config";
 import { Command } from "commander";
 import fs from "fs";
 import path from "path";
-import { fetchLivePrices, loadPriceSnapshot } from "./data/priceSync.js";
-import type { CardMarketData } from "./fetch/types.js";
+import { fetchLivePrices } from "./services/index.js";
+import { enrichWithPriceHistory } from "./services/priceHistory.js";
+import type { CardMarketData } from "./api/types.js";
 import { renderVideo } from "./render/renderVideo.js";
 
 const program = new Command();
@@ -13,42 +14,13 @@ program
   .option("-s, --set-id <id>", "Set ID to run (e.g. sv3pt5, me4)")
   .option("-i, --set-index <number>", "Index into targetSets array — auto-rotates by day if neither flag is passed")
   .option("--cards <numbers>", "Comma-separated card numbers to render (overrides config cards list)")
+  .option("--date <date>", "Override video date label and output folder (YYYY-MM-DD, defaults to today)")
+  .option("--title <title>", "Override video title shown in Mosaic (defaults to set name)")
   .option("--fetch-only", "Fetch and print card data without saving or rendering")
   .option("--render-only", "Skip API call, render video from today's existing data file");
 
 program.parse(process.argv);
 const options = program.opts();
-
-function enrichWithPriceHistory(cards: CardMarketData[], setId: string): CardMarketData[] {
-  const snap7d = loadPriceSnapshot(setId, 7);
-  const snap30d = loadPriceSnapshot(setId, 30);
-
-  const hasHistory7 = snap7d.size > 0;
-  const hasHistory30 = snap30d.size > 0;
-  console.log(
-    `\n📅 Price history: 7d snapshot ${hasHistory7 ? "✅" : "❌ (not enough data yet)"} | 30d snapshot ${hasHistory30 ? "✅" : "❌ (not enough data yet)"}`
-  );
-
-  return cards.map((card) => {
-    const curr = card.prices.rawCurrent;
-    const past7 = snap7d.get(card.id);
-    const past30 = snap30d.get(card.id);
-
-    const pctChange = (current: number | null, past: number | null | undefined): number | null => {
-      if (current == null || past == null || past === 0) return null;
-      return ((current - past) / past) * 100;
-    };
-
-    return {
-      ...card,
-      prices: {
-        ...card.prices,
-        psa10Change7d: pctChange(curr, past7) ?? card.prices.psa10Change7d,
-        psa10Change30d: pctChange(curr, past30) ?? card.prices.psa10Change30d,
-      },
-    };
-  });
-}
 
 async function main() {
   // 1. SETUP & CONFIGURATION
@@ -60,8 +32,9 @@ async function main() {
 
   const rawConfig = JSON.parse(fs.readFileSync(configPath, "utf-8"));
   const d = new Date();
-  const today = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-  const outputDir = path.resolve(path.join("output", today));
+  const todayFallback = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  const videoDate = options.date ?? todayFallback;
+  const outputDir = path.resolve(path.join("output", videoDate));
 
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
 
@@ -94,7 +67,6 @@ async function main() {
 
   console.log(`🚀 Booting pipeline for: [${options.game.toUpperCase()}] — set: ${targetSet.name}`);
 
-  // Resolve card filter early — needed by both fetch and post-processing
   const cardFilter: string[] | undefined = options.cards
     ? options.cards.split(",").map((n: string) => n.trim())
     : targetSet.cards;
@@ -126,7 +98,6 @@ async function main() {
     enriched = enrichWithPriceHistory(marketData, targetSet.id);
   }
 
-  // Apply card filter
   if (cardFilter && cardFilter.length > 0) {
     const before = enriched.length;
     enriched = enriched.filter((c) => cardFilter.includes(c.cardNumber));
@@ -142,12 +113,12 @@ async function main() {
 
   // 3. PHASE 2: SYNTHESIS
   console.log("\n--- Phase 2: Media Synthesis ---");
-  const videoPath = await renderVideo(enriched, outputDir, targetSet.id, today);
+  const videoTitle = options.title ?? targetSet.name;
+  const videoPath = await renderVideo(enriched, outputDir, targetSet.id, videoDate, videoTitle);
   console.log("✅ Video ready:", videoPath);
 
   // 4. PHASE 3: DISTRIBUTION
   console.log("\n--- Phase 3: Distribution Gateway ---");
-  // await dispatchToBuffer(outputDir);
   console.log("🚀 Social distribution successful.");
 }
 

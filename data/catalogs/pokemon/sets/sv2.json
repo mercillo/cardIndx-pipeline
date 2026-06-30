@@ -1,0 +1,1504 @@
+{
+  "setId": "sv2",
+  "setName": "Paldea Evolved",
+  "printedTotal": 193,
+  "totalCards": 279,
+  "builtAt": "2026-06-30T15:22:39.667Z",
+  "cards": [
+    {
+      "id": "sv2-3",
+      "name": "Jumpluff",
+      "cardNumber": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/3_hires.png"
+    },
+    {
+      "id": "sv2-5",
+      "name": "Forretress ex",
+      "cardNumber": "5",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/5_hires.png"
+    },
+    {
+      "id": "sv2-11",
+      "name": "Abomasnow",
+      "cardNumber": "11",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/11_hires.png"
+    },
+    {
+      "id": "sv2-15",
+      "name": "Meowscarada ex",
+      "cardNumber": "15",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/15_hires.png"
+    },
+    {
+      "id": "sv2-21",
+      "name": "Lokix",
+      "cardNumber": "21",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/21_hires.png"
+    },
+    {
+      "id": "sv2-27",
+      "name": "Wo-Chien ex",
+      "cardNumber": "27",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/27_hires.png"
+    },
+    {
+      "id": "sv2-33",
+      "name": "Oricorio",
+      "cardNumber": "33",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/33_hires.png"
+    },
+    {
+      "id": "sv2-37",
+      "name": "Skeledirge ex",
+      "cardNumber": "37",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/37_hires.png"
+    },
+    {
+      "id": "sv2-40",
+      "name": "Chi-Yu ex",
+      "cardNumber": "40",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/40_hires.png"
+    },
+    {
+      "id": "sv2-43",
+      "name": "Gyarados",
+      "cardNumber": "43",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/43_hires.png"
+    },
+    {
+      "id": "sv2-52",
+      "name": "Quaquaval ex",
+      "cardNumber": "52",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/52_hires.png"
+    },
+    {
+      "id": "sv2-56",
+      "name": "Veluza",
+      "cardNumber": "56",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/56_hires.png"
+    },
+    {
+      "id": "sv2-60",
+      "name": "Baxcalibur",
+      "cardNumber": "60",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/60_hires.png"
+    },
+    {
+      "id": "sv2-61",
+      "name": "Chien-Pao ex",
+      "cardNumber": "61",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/61_hires.png"
+    },
+    {
+      "id": "sv2-63",
+      "name": "Pikachu ex",
+      "cardNumber": "63",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/63_hires.png"
+    },
+    {
+      "id": "sv2-71",
+      "name": "Luxray",
+      "cardNumber": "71",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/71_hires.png"
+    },
+    {
+      "id": "sv2-76",
+      "name": "Pawmot",
+      "cardNumber": "76",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/76_hires.png"
+    },
+    {
+      "id": "sv2-79",
+      "name": "Bellibolt ex",
+      "cardNumber": "79",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/79_hires.png"
+    },
+    {
+      "id": "sv2-84",
+      "name": "Wigglytuff",
+      "cardNumber": "84",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/84_hires.png"
+    },
+    {
+      "id": "sv2-86",
+      "name": "Slowking ex",
+      "cardNumber": "86",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/86_hires.png"
+    },
+    {
+      "id": "sv2-89",
+      "name": "Spiritomb",
+      "cardNumber": "89",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/89_hires.png"
+    },
+    {
+      "id": "sv2-93",
+      "name": "Dedenne ex",
+      "cardNumber": "93",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/93_hires.png"
+    },
+    {
+      "id": "sv2-97",
+      "name": "Mimikyu",
+      "cardNumber": "97",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/97_hires.png"
+    },
+    {
+      "id": "sv2-98",
+      "name": "Ceruledge",
+      "cardNumber": "98",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/98_hires.png"
+    },
+    {
+      "id": "sv2-99",
+      "name": "Rabsca",
+      "cardNumber": "99",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/99_hires.png"
+    },
+    {
+      "id": "sv2-105",
+      "name": "Tinkaton",
+      "cardNumber": "105",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/105_hires.png"
+    },
+    {
+      "id": "sv2-113",
+      "name": "Hariyama",
+      "cardNumber": "113",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/113_hires.png"
+    },
+    {
+      "id": "sv2-117",
+      "name": "Lycanroc ex",
+      "cardNumber": "117",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/117_hires.png"
+    },
+    {
+      "id": "sv2-123",
+      "name": "Garganacl",
+      "cardNumber": "123",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/123_hires.png"
+    },
+    {
+      "id": "sv2-126",
+      "name": "Glimmora",
+      "cardNumber": "126",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/126_hires.png"
+    },
+    {
+      "id": "sv2-127",
+      "name": "Ting-Lu ex",
+      "cardNumber": "127",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/127_hires.png"
+    },
+    {
+      "id": "sv2-130",
+      "name": "Paldean Clodsire ex",
+      "cardNumber": "130",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/130_hires.png"
+    },
+    {
+      "id": "sv2-134",
+      "name": "Weavile",
+      "cardNumber": "134",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/134_hires.png"
+    },
+    {
+      "id": "sv2-135",
+      "name": "Tyranitar",
+      "cardNumber": "135",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/135_hires.png"
+    },
+    {
+      "id": "sv2-136",
+      "name": "Sableye",
+      "cardNumber": "136",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/136_hires.png"
+    },
+    {
+      "id": "sv2-140",
+      "name": "Hydreigon",
+      "cardNumber": "140",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/140_hires.png"
+    },
+    {
+      "id": "sv2-150",
+      "name": "Copperajah ex",
+      "cardNumber": "150",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/150_hires.png"
+    },
+    {
+      "id": "sv2-151",
+      "name": "Orthworm",
+      "cardNumber": "151",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/151_hires.png"
+    },
+    {
+      "id": "sv2-153",
+      "name": "Noivern ex",
+      "cardNumber": "153",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/153_hires.png"
+    },
+    {
+      "id": "sv2-162",
+      "name": "Slaking",
+      "cardNumber": "162",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/162_hires.png"
+    },
+    {
+      "id": "sv2-169",
+      "name": "Squawkabilly ex",
+      "cardNumber": "169",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/169_hires.png"
+    },
+    {
+      "id": "sv2-172",
+      "name": "Boss's Orders (Ghetsis)",
+      "cardNumber": "172",
+      "rarity": "Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/172_hires.png"
+    },
+    {
+      "id": "sv2-194",
+      "name": "Heracross",
+      "cardNumber": "194",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/194_hires.png"
+    },
+    {
+      "id": "sv2-195",
+      "name": "Tropius",
+      "cardNumber": "195",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/195_hires.png"
+    },
+    {
+      "id": "sv2-196",
+      "name": "Sprigatito",
+      "cardNumber": "196",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/196_hires.png",
+      "justTcgCardId": "03344bd2-84ed-5c12-8c37-1696a8a5abf6",
+      "justTcgNmHoloVariantId": "4b55c50f-4ce0-5671-941b-0fec313b27aa"
+    },
+    {
+      "id": "sv2-197",
+      "name": "Floragato",
+      "cardNumber": "197",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/197_hires.png"
+    },
+    {
+      "id": "sv2-198",
+      "name": "Bramblin",
+      "cardNumber": "198",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/198_hires.png"
+    },
+    {
+      "id": "sv2-199",
+      "name": "Fletchinder",
+      "cardNumber": "199",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/199_hires.png"
+    },
+    {
+      "id": "sv2-200",
+      "name": "Pyroar",
+      "cardNumber": "200",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/200_hires.png"
+    },
+    {
+      "id": "sv2-201",
+      "name": "Fuecoco",
+      "cardNumber": "201",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/201_hires.png",
+      "justTcgCardId": "1a6fbe66-922c-570d-8030-68fb809acf34",
+      "justTcgNmHoloVariantId": "5cf0c3e4-5f6d-5d77-8d04-44253b73954f"
+    },
+    {
+      "id": "sv2-202",
+      "name": "Crocalor",
+      "cardNumber": "202",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/202_hires.png"
+    },
+    {
+      "id": "sv2-203",
+      "name": "Magikarp",
+      "cardNumber": "203",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/203_hires.png",
+      "justTcgCardId": "2ba35718-ff28-5e2a-b06b-2a3ad0aad0df",
+      "justTcgNmHoloVariantId": "4d107ca4-7730-5c60-9c72-f1c313f86469"
+    },
+    {
+      "id": "sv2-204",
+      "name": "Marill",
+      "cardNumber": "204",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/204_hires.png",
+      "justTcgCardId": "897b1507-8348-5fae-9dc4-4626f3552e2b",
+      "justTcgNmHoloVariantId": "72229467-23f3-54d8-aa57-dfa2e20487b2"
+    },
+    {
+      "id": "sv2-205",
+      "name": "Eiscue",
+      "cardNumber": "205",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/205_hires.png"
+    },
+    {
+      "id": "sv2-206",
+      "name": "Quaxly",
+      "cardNumber": "206",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/206_hires.png"
+    },
+    {
+      "id": "sv2-207",
+      "name": "Quaxwell",
+      "cardNumber": "207",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/207_hires.png"
+    },
+    {
+      "id": "sv2-208",
+      "name": "Frigibax",
+      "cardNumber": "208",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/208_hires.png"
+    },
+    {
+      "id": "sv2-209",
+      "name": "Arctibax",
+      "cardNumber": "209",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/209_hires.png"
+    },
+    {
+      "id": "sv2-210",
+      "name": "Baxcalibur",
+      "cardNumber": "210",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/210_hires.png",
+      "justTcgCardId": "4c77c00d-6050-5f94-9e5d-ea7d8153e1d2",
+      "justTcgNmHoloVariantId": "27cf2a60-ad88-5b2f-9732-ab1b4390579e"
+    },
+    {
+      "id": "sv2-211",
+      "name": "Raichu",
+      "cardNumber": "211",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/211_hires.png",
+      "justTcgCardId": "0d800966-ed2c-5ddd-a2b0-bdafa01f9319",
+      "justTcgNmHoloVariantId": "4f272e3c-bcbb-57ee-a01a-e2e2d6d32f11"
+    },
+    {
+      "id": "sv2-212",
+      "name": "Mismagius",
+      "cardNumber": "212",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/212_hires.png",
+      "justTcgCardId": "ddc5e057-78c7-5e07-8b3b-09807786dbf4",
+      "justTcgNmHoloVariantId": "11261653-5722-51a1-9532-2eac93ac06f9"
+    },
+    {
+      "id": "sv2-213",
+      "name": "Gothorita",
+      "cardNumber": "213",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/213_hires.png"
+    },
+    {
+      "id": "sv2-214",
+      "name": "Sandygast",
+      "cardNumber": "214",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/214_hires.png"
+    },
+    {
+      "id": "sv2-215",
+      "name": "Rabsca",
+      "cardNumber": "215",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/215_hires.png"
+    },
+    {
+      "id": "sv2-216",
+      "name": "Tinkatink",
+      "cardNumber": "216",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/216_hires.png"
+    },
+    {
+      "id": "sv2-217",
+      "name": "Tinkatuff",
+      "cardNumber": "217",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/217_hires.png",
+      "justTcgCardId": "87415a1f-be05-5ea1-9079-db42cdb8459b",
+      "justTcgNmHoloVariantId": "39d3e7b0-093b-50da-ae8f-0fcd6493b875"
+    },
+    {
+      "id": "sv2-218",
+      "name": "Paldean Tauros",
+      "cardNumber": "218",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/218_hires.png"
+    },
+    {
+      "id": "sv2-219",
+      "name": "Sudowoodo",
+      "cardNumber": "219",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/219_hires.png"
+    },
+    {
+      "id": "sv2-220",
+      "name": "Nacli",
+      "cardNumber": "220",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/220_hires.png"
+    },
+    {
+      "id": "sv2-221",
+      "name": "Paldean Wooper",
+      "cardNumber": "221",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/221_hires.png"
+    },
+    {
+      "id": "sv2-222",
+      "name": "Tyranitar",
+      "cardNumber": "222",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/222_hires.png",
+      "justTcgCardId": "3f5e3d3d-f47e-5712-8cf4-47a9da774a7a",
+      "justTcgNmHoloVariantId": "aadd8a31-2f51-560f-b29d-3bc9134f6a67"
+    },
+    {
+      "id": "sv2-223",
+      "name": "Grafaiai",
+      "cardNumber": "223",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/223_hires.png"
+    },
+    {
+      "id": "sv2-224",
+      "name": "Orthworm",
+      "cardNumber": "224",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/224_hires.png"
+    },
+    {
+      "id": "sv2-225",
+      "name": "Rookidee",
+      "cardNumber": "225",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/225_hires.png"
+    },
+    {
+      "id": "sv2-226",
+      "name": "Maushold",
+      "cardNumber": "226",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/226_hires.png",
+      "justTcgCardId": "a8ee0d3d-9f0c-5758-920f-cfc7fa82e54e",
+      "justTcgNmHoloVariantId": "960a5737-0af7-5c88-bb93-ee8790a84b4b"
+    },
+    {
+      "id": "sv2-227",
+      "name": "Flamigo",
+      "cardNumber": "227",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/227_hires.png"
+    },
+    {
+      "id": "sv2-228",
+      "name": "Farigiraf",
+      "cardNumber": "228",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/228_hires.png"
+    },
+    {
+      "id": "sv2-229",
+      "name": "Dudunsparce",
+      "cardNumber": "229",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/229_hires.png"
+    },
+    {
+      "id": "sv2-230",
+      "name": "Forretress ex",
+      "cardNumber": "230",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/230_hires.png"
+    },
+    {
+      "id": "sv2-231",
+      "name": "Meowscarada ex",
+      "cardNumber": "231",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/231_hires.png"
+    },
+    {
+      "id": "sv2-232",
+      "name": "Wo-Chien ex",
+      "cardNumber": "232",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/232_hires.png"
+    },
+    {
+      "id": "sv2-233",
+      "name": "Skeledirge ex",
+      "cardNumber": "233",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/233_hires.png"
+    },
+    {
+      "id": "sv2-234",
+      "name": "Chi-Yu ex",
+      "cardNumber": "234",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/234_hires.png"
+    },
+    {
+      "id": "sv2-235",
+      "name": "Quaquaval ex",
+      "cardNumber": "235",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/235_hires.png"
+    },
+    {
+      "id": "sv2-236",
+      "name": "Chien-Pao ex",
+      "cardNumber": "236",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/236_hires.png"
+    },
+    {
+      "id": "sv2-237",
+      "name": "Bellibolt ex",
+      "cardNumber": "237",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/237_hires.png"
+    },
+    {
+      "id": "sv2-238",
+      "name": "Slowking ex",
+      "cardNumber": "238",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/238_hires.png"
+    },
+    {
+      "id": "sv2-239",
+      "name": "Dedenne ex",
+      "cardNumber": "239",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/239_hires.png"
+    },
+    {
+      "id": "sv2-240",
+      "name": "Tinkaton ex",
+      "cardNumber": "240",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/240_hires.png"
+    },
+    {
+      "id": "sv2-241",
+      "name": "Lycanroc ex",
+      "cardNumber": "241",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/241_hires.png"
+    },
+    {
+      "id": "sv2-242",
+      "name": "Annihilape ex",
+      "cardNumber": "242",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/242_hires.png"
+    },
+    {
+      "id": "sv2-243",
+      "name": "Ting-Lu ex",
+      "cardNumber": "243",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/243_hires.png"
+    },
+    {
+      "id": "sv2-244",
+      "name": "Paldean Clodsire ex",
+      "cardNumber": "244",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/244_hires.png"
+    },
+    {
+      "id": "sv2-245",
+      "name": "Copperajah ex",
+      "cardNumber": "245",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/245_hires.png"
+    },
+    {
+      "id": "sv2-246",
+      "name": "Noivern ex",
+      "cardNumber": "246",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/246_hires.png"
+    },
+    {
+      "id": "sv2-247",
+      "name": "Squawkabilly ex",
+      "cardNumber": "247",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/247_hires.png"
+    },
+    {
+      "id": "sv2-248",
+      "name": "Boss's Orders (Ghetsis)",
+      "cardNumber": "248",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/248_hires.png"
+    },
+    {
+      "id": "sv2-249",
+      "name": "Clavell",
+      "cardNumber": "249",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/249_hires.png"
+    },
+    {
+      "id": "sv2-250",
+      "name": "Dendra",
+      "cardNumber": "250",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/250_hires.png"
+    },
+    {
+      "id": "sv2-251",
+      "name": "Falkner",
+      "cardNumber": "251",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/251_hires.png"
+    },
+    {
+      "id": "sv2-252",
+      "name": "Giacomo",
+      "cardNumber": "252",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/252_hires.png"
+    },
+    {
+      "id": "sv2-253",
+      "name": "Grusha",
+      "cardNumber": "253",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/253_hires.png"
+    },
+    {
+      "id": "sv2-254",
+      "name": "Iono",
+      "cardNumber": "254",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/254_hires.png"
+    },
+    {
+      "id": "sv2-255",
+      "name": "Saguaro",
+      "cardNumber": "255",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/255_hires.png"
+    },
+    {
+      "id": "sv2-256",
+      "name": "Meowscarada ex",
+      "cardNumber": "256",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/256_hires.png",
+      "justTcgCardId": "e2e112d7-0c64-5180-8a9d-f4c633867e06",
+      "justTcgNmHoloVariantId": "762fc0f6-c105-5f4c-9b71-aa76fcb7b636"
+    },
+    {
+      "id": "sv2-257",
+      "name": "Wo-Chien ex",
+      "cardNumber": "257",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/257_hires.png"
+    },
+    {
+      "id": "sv2-258",
+      "name": "Skeledirge ex",
+      "cardNumber": "258",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/258_hires.png",
+      "justTcgCardId": "a9273f1f-207f-551b-85e6-b35ae18083a2",
+      "justTcgNmHoloVariantId": "4ee5ab66-de0b-5bcf-871f-af0d4bb1a5d3"
+    },
+    {
+      "id": "sv2-259",
+      "name": "Chi-Yu ex",
+      "cardNumber": "259",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/259_hires.png",
+      "justTcgCardId": "fc7fc366-dc62-566e-9441-57e9eabdf2ce",
+      "justTcgNmHoloVariantId": "17bcb71c-1a7d-50f5-bf6c-2de3552fcd82"
+    },
+    {
+      "id": "sv2-260",
+      "name": "Quaquaval ex",
+      "cardNumber": "260",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/260_hires.png"
+    },
+    {
+      "id": "sv2-261",
+      "name": "Chien-Pao ex",
+      "cardNumber": "261",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/261_hires.png"
+    },
+    {
+      "id": "sv2-262",
+      "name": "Tinkaton ex",
+      "cardNumber": "262",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/262_hires.png",
+      "justTcgCardId": "001d34da-96c1-54cf-8430-352184072e3a",
+      "justTcgNmHoloVariantId": "b0f155ee-5176-5474-b9ba-08196de1a180"
+    },
+    {
+      "id": "sv2-263",
+      "name": "Ting-Lu ex",
+      "cardNumber": "263",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/263_hires.png"
+    },
+    {
+      "id": "sv2-264",
+      "name": "Squawkabilly ex",
+      "cardNumber": "264",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/264_hires.png"
+    },
+    {
+      "id": "sv2-265",
+      "name": "Boss's Orders (Ghetsis)",
+      "cardNumber": "265",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/265_hires.png"
+    },
+    {
+      "id": "sv2-266",
+      "name": "Dendra",
+      "cardNumber": "266",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/266_hires.png"
+    },
+    {
+      "id": "sv2-267",
+      "name": "Giacomo",
+      "cardNumber": "267",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/267_hires.png"
+    },
+    {
+      "id": "sv2-268",
+      "name": "Grusha",
+      "cardNumber": "268",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/268_hires.png"
+    },
+    {
+      "id": "sv2-269",
+      "name": "Iono",
+      "cardNumber": "269",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/269_hires.png",
+      "justTcgCardId": "bb9662f8-981e-5e8d-921f-ddef6a8dc570",
+      "justTcgNmHoloVariantId": "ec676ff2-ade1-5739-8195-1759e2e2584f"
+    },
+    {
+      "id": "sv2-270",
+      "name": "Saguaro",
+      "cardNumber": "270",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/270_hires.png"
+    },
+    {
+      "id": "sv2-271",
+      "name": "Meowscarada ex",
+      "cardNumber": "271",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/271_hires.png"
+    },
+    {
+      "id": "sv2-272",
+      "name": "Skeledirge ex",
+      "cardNumber": "272",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/272_hires.png"
+    },
+    {
+      "id": "sv2-273",
+      "name": "Quaquaval ex",
+      "cardNumber": "273",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/273_hires.png"
+    },
+    {
+      "id": "sv2-274",
+      "name": "Chien-Pao ex",
+      "cardNumber": "274",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/274_hires.png"
+    },
+    {
+      "id": "sv2-275",
+      "name": "Ting-Lu ex",
+      "cardNumber": "275",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/275_hires.png"
+    },
+    {
+      "id": "sv2-276",
+      "name": "Super Rod",
+      "cardNumber": "276",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/276_hires.png"
+    },
+    {
+      "id": "sv2-277",
+      "name": "Superior Energy Retrieval",
+      "cardNumber": "277",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/277_hires.png"
+    },
+    {
+      "id": "sv2-278",
+      "name": "Basic Grass Energy",
+      "cardNumber": "278",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/278_hires.png"
+    },
+    {
+      "id": "sv2-279",
+      "name": "Basic Water Energy",
+      "cardNumber": "279",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Paldea Evolved",
+      "artUrl": "https://images.pokemontcg.io/sv2/279_hires.png"
+    }
+  ],
+  "justTcgId": "sv02-paldea-evolved-pokemon",
+  "justTcgEnrichedAt": "2026-06-30T15:23:10.550Z"
+}

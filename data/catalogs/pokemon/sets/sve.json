@@ -1,0 +1,115 @@
+{
+  "setId": "sve",
+  "setName": "Scarlet & Violet Energies",
+  "printedTotal": 8,
+  "totalCards": 8,
+  "builtAt": "2026-07-01T15:34:53.237Z",
+  "cards": [
+    {
+      "id": "sve-9",
+      "name": "Basic Grass Energy",
+      "cardNumber": "9",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/9_hires.png",
+      "justTcgCardId": "2b0fe33c-7b9d-59b3-bca1-5a5e5087d4bc",
+      "justTcgNmHoloVariantId": "4e2573e8-9b76-55b5-8df8-0824d6a2b88f"
+    },
+    {
+      "id": "sve-10",
+      "name": "Basic Fire Energy",
+      "cardNumber": "10",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/10_hires.png",
+      "justTcgCardId": "0329b7d0-8ff1-527a-b0ca-c33f7d3366d3",
+      "justTcgNmHoloVariantId": "17581c09-a65b-50fb-941d-14bfac46e6a8"
+    },
+    {
+      "id": "sve-11",
+      "name": "Basic Water Energy",
+      "cardNumber": "11",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/11_hires.png",
+      "justTcgCardId": "14f47efd-5c6a-5d19-b14d-db9cd8f8ccc2",
+      "justTcgNmHoloVariantId": "ef1658ac-31b0-5218-875e-0dd90458cbd2"
+    },
+    {
+      "id": "sve-12",
+      "name": "Basic Lightning Energy",
+      "cardNumber": "12",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/12_hires.png",
+      "justTcgCardId": "3080f021-05c4-5fe6-93d5-7838ccc3ceca",
+      "justTcgNmHoloVariantId": "bc56b18e-3fd5-5301-a877-6e12db6e7a7f"
+    },
+    {
+      "id": "sve-13",
+      "name": "Basic Psychic Energy",
+      "cardNumber": "13",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/13_hires.png",
+      "justTcgCardId": "fd1b55a1-bc08-5fa1-b533-21180c416d9d",
+      "justTcgNmHoloVariantId": "d5354b90-7972-56b8-bdee-1553b0131933"
+    },
+    {
+      "id": "sve-14",
+      "name": "Basic Fighting Energy",
+      "cardNumber": "14",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/14_hires.png",
+      "justTcgCardId": "80e06438-91b3-5caf-9420-ffbf94ad1431",
+      "justTcgNmHoloVariantId": "0fe137a8-b795-58b7-a8a5-f1ad4869ebc1"
+    },
+    {
+      "id": "sve-15",
+      "name": "Basic Darkness Energy",
+      "cardNumber": "15",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/15_hires.png",
+      "justTcgCardId": "4e88d2d7-49a4-5f91-8750-4f0119aedeef",
+      "justTcgNmHoloVariantId": "7d53ace9-c9c0-5c88-a740-77a91c53ae4c"
+    },
+    {
+      "id": "sve-16",
+      "name": "Basic Metal Energy",
+      "cardNumber": "16",
+      "rarity": "",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet Energies",
+      "artUrl": "https://images.pokemontcg.io/sve/16_hires.png",
+      "justTcgCardId": "adeaecac-6ba9-5dd3-80e9-0ea44eeed4fc",
+      "justTcgNmHoloVariantId": "a983c32b-7524-58a7-86e3-a245257dcb0d"
+    }
+  ],
+  "justTcgId": "sve-scarlet-violet-energies-pokemon",
+  "justTcgEnrichedAt": "2026-07-01T15:34:55.713Z"
+}

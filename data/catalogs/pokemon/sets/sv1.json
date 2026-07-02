@@ -1,0 +1,1069 @@
+{
+  "setId": "sv1",
+  "setName": "Scarlet & Violet",
+  "printedTotal": 198,
+  "totalCards": 258,
+  "builtAt": "2026-07-02T15:03:59.337Z",
+  "cards": [
+    {
+      "id": "sv1-15",
+      "name": "Meowscarada",
+      "cardNumber": "15",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/15_hires.png"
+    },
+    {
+      "id": "sv1-19",
+      "name": "Spidops ex",
+      "cardNumber": "19",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/19_hires.png"
+    },
+    {
+      "id": "sv1-23",
+      "name": "Arboliva",
+      "cardNumber": "23",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/23_hires.png"
+    },
+    {
+      "id": "sv1-32",
+      "name": "Arcanine ex",
+      "cardNumber": "32",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/32_hires.png"
+    },
+    {
+      "id": "sv1-38",
+      "name": "Skeledirge",
+      "cardNumber": "38",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/38_hires.png"
+    },
+    {
+      "id": "sv1-41",
+      "name": "Armarouge",
+      "cardNumber": "41",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/41_hires.png"
+    },
+    {
+      "id": "sv1-43",
+      "name": "Slowbro",
+      "cardNumber": "43",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/43_hires.png"
+    },
+    {
+      "id": "sv1-45",
+      "name": "Gyarados ex",
+      "cardNumber": "45",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/45_hires.png"
+    },
+    {
+      "id": "sv1-54",
+      "name": "Quaquaval",
+      "cardNumber": "54",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/54_hires.png"
+    },
+    {
+      "id": "sv1-61",
+      "name": "Dondozo",
+      "cardNumber": "61",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/61_hires.png"
+    },
+    {
+      "id": "sv1-65",
+      "name": "Magnezone ex",
+      "cardNumber": "65",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/65_hires.png"
+    },
+    {
+      "id": "sv1-76",
+      "name": "Pawmot",
+      "cardNumber": "76",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/76_hires.png"
+    },
+    {
+      "id": "sv1-80",
+      "name": "Miraidon",
+      "cardNumber": "80",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/80_hires.png"
+    },
+    {
+      "id": "sv1-81",
+      "name": "Miraidon ex",
+      "cardNumber": "81",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/81_hires.png"
+    },
+    {
+      "id": "sv1-86",
+      "name": "Gardevoir ex",
+      "cardNumber": "86",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/86_hires.png"
+    },
+    {
+      "id": "sv1-88",
+      "name": "Banette ex",
+      "cardNumber": "88",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/88_hires.png"
+    },
+    {
+      "id": "sv1-96",
+      "name": "Klefki",
+      "cardNumber": "96",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/96_hires.png"
+    },
+    {
+      "id": "sv1-106",
+      "name": "Houndstone",
+      "cardNumber": "106",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/106_hires.png"
+    },
+    {
+      "id": "sv1-109",
+      "name": "Annihilape",
+      "cardNumber": "109",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/109_hires.png"
+    },
+    {
+      "id": "sv1-118",
+      "name": "Hawlucha",
+      "cardNumber": "118",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/118_hires.png"
+    },
+    {
+      "id": "sv1-122",
+      "name": "Klawf",
+      "cardNumber": "122",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/122_hires.png"
+    },
+    {
+      "id": "sv1-123",
+      "name": "Great Tusk ex",
+      "cardNumber": "123",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/123_hires.png"
+    },
+    {
+      "id": "sv1-124",
+      "name": "Koraidon",
+      "cardNumber": "124",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/124_hires.png"
+    },
+    {
+      "id": "sv1-125",
+      "name": "Koraidon ex",
+      "cardNumber": "125",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/125_hires.png"
+    },
+    {
+      "id": "sv1-131",
+      "name": "Toxicroak ex",
+      "cardNumber": "131",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/131_hires.png"
+    },
+    {
+      "id": "sv1-134",
+      "name": "Kingambit",
+      "cardNumber": "134",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/134_hires.png"
+    },
+    {
+      "id": "sv1-142",
+      "name": "Revavroom",
+      "cardNumber": "142",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/142_hires.png"
+    },
+    {
+      "id": "sv1-143",
+      "name": "Iron Treads ex",
+      "cardNumber": "143",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/143_hires.png"
+    },
+    {
+      "id": "sv1-153",
+      "name": "Indeedee",
+      "cardNumber": "153",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/153_hires.png"
+    },
+    {
+      "id": "sv1-158",
+      "name": "Oinkologne ex",
+      "cardNumber": "158",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/158_hires.png"
+    },
+    {
+      "id": "sv1-164",
+      "name": "Cyclizar",
+      "cardNumber": "164",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/164_hires.png"
+    },
+    {
+      "id": "sv1-189",
+      "name": "Professor's Research (Professor Sada)",
+      "cardNumber": "189",
+      "rarity": "Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/189_hires.png"
+    },
+    {
+      "id": "sv1-190",
+      "name": "Professor's Research (Professor Turo)",
+      "cardNumber": "190",
+      "rarity": "Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/190_hires.png"
+    },
+    {
+      "id": "sv1-199",
+      "name": "Tarountula",
+      "cardNumber": "199",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/199_hires.png"
+    },
+    {
+      "id": "sv1-200",
+      "name": "Dolliv",
+      "cardNumber": "200",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/200_hires.png"
+    },
+    {
+      "id": "sv1-201",
+      "name": "Toedscool",
+      "cardNumber": "201",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/201_hires.png"
+    },
+    {
+      "id": "sv1-202",
+      "name": "Scovillain",
+      "cardNumber": "202",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/202_hires.png"
+    },
+    {
+      "id": "sv1-203",
+      "name": "Armarouge",
+      "cardNumber": "203",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/203_hires.png"
+    },
+    {
+      "id": "sv1-204",
+      "name": "Slowpoke",
+      "cardNumber": "204",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/204_hires.png"
+    },
+    {
+      "id": "sv1-205",
+      "name": "Clauncher",
+      "cardNumber": "205",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/205_hires.png"
+    },
+    {
+      "id": "sv1-206",
+      "name": "Wiglett",
+      "cardNumber": "206",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/206_hires.png"
+    },
+    {
+      "id": "sv1-207",
+      "name": "Dondozo",
+      "cardNumber": "207",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/207_hires.png"
+    },
+    {
+      "id": "sv1-208",
+      "name": "Pachirisu",
+      "cardNumber": "208",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/208_hires.png"
+    },
+    {
+      "id": "sv1-209",
+      "name": "Pawmot",
+      "cardNumber": "209",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/209_hires.png"
+    },
+    {
+      "id": "sv1-210",
+      "name": "Drowzee",
+      "cardNumber": "210",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/210_hires.png"
+    },
+    {
+      "id": "sv1-211",
+      "name": "Ralts",
+      "cardNumber": "211",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/211_hires.png"
+    },
+    {
+      "id": "sv1-212",
+      "name": "Kirlia",
+      "cardNumber": "212",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/212_hires.png"
+    },
+    {
+      "id": "sv1-213",
+      "name": "Fidough",
+      "cardNumber": "213",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/213_hires.png"
+    },
+    {
+      "id": "sv1-214",
+      "name": "Greavard",
+      "cardNumber": "214",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/214_hires.png"
+    },
+    {
+      "id": "sv1-215",
+      "name": "Riolu",
+      "cardNumber": "215",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/215_hires.png"
+    },
+    {
+      "id": "sv1-216",
+      "name": "Sandile",
+      "cardNumber": "216",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/216_hires.png"
+    },
+    {
+      "id": "sv1-217",
+      "name": "Klawf",
+      "cardNumber": "217",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/217_hires.png"
+    },
+    {
+      "id": "sv1-218",
+      "name": "Mabosstiff",
+      "cardNumber": "218",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/218_hires.png"
+    },
+    {
+      "id": "sv1-219",
+      "name": "Bombirdier",
+      "cardNumber": "219",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/219_hires.png"
+    },
+    {
+      "id": "sv1-220",
+      "name": "Kingambit",
+      "cardNumber": "220",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/220_hires.png"
+    },
+    {
+      "id": "sv1-221",
+      "name": "Starly",
+      "cardNumber": "221",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/221_hires.png"
+    },
+    {
+      "id": "sv1-222",
+      "name": "Skwovet",
+      "cardNumber": "222",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/222_hires.png"
+    },
+    {
+      "id": "sv1-223",
+      "name": "Spidops ex",
+      "cardNumber": "223",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/223_hires.png"
+    },
+    {
+      "id": "sv1-224",
+      "name": "Arcanine ex",
+      "cardNumber": "224",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/224_hires.png"
+    },
+    {
+      "id": "sv1-225",
+      "name": "Gyarados ex",
+      "cardNumber": "225",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/225_hires.png"
+    },
+    {
+      "id": "sv1-226",
+      "name": "Magnezone ex",
+      "cardNumber": "226",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/226_hires.png"
+    },
+    {
+      "id": "sv1-227",
+      "name": "Miraidon ex",
+      "cardNumber": "227",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/227_hires.png"
+    },
+    {
+      "id": "sv1-228",
+      "name": "Gardevoir ex",
+      "cardNumber": "228",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/228_hires.png"
+    },
+    {
+      "id": "sv1-229",
+      "name": "Banette ex",
+      "cardNumber": "229",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/229_hires.png"
+    },
+    {
+      "id": "sv1-230",
+      "name": "Great Tusk ex",
+      "cardNumber": "230",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/230_hires.png"
+    },
+    {
+      "id": "sv1-231",
+      "name": "Koraidon ex",
+      "cardNumber": "231",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/231_hires.png"
+    },
+    {
+      "id": "sv1-232",
+      "name": "Toxicroak ex",
+      "cardNumber": "232",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/232_hires.png"
+    },
+    {
+      "id": "sv1-233",
+      "name": "Iron Treads ex",
+      "cardNumber": "233",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/233_hires.png"
+    },
+    {
+      "id": "sv1-234",
+      "name": "Oinkologne ex",
+      "cardNumber": "234",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/234_hires.png"
+    },
+    {
+      "id": "sv1-235",
+      "name": "Arven",
+      "cardNumber": "235",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/235_hires.png"
+    },
+    {
+      "id": "sv1-236",
+      "name": "Jacq",
+      "cardNumber": "236",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/236_hires.png"
+    },
+    {
+      "id": "sv1-237",
+      "name": "Katy",
+      "cardNumber": "237",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/237_hires.png"
+    },
+    {
+      "id": "sv1-238",
+      "name": "Miriam",
+      "cardNumber": "238",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/238_hires.png"
+    },
+    {
+      "id": "sv1-239",
+      "name": "Penny",
+      "cardNumber": "239",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/239_hires.png"
+    },
+    {
+      "id": "sv1-240",
+      "name": "Professor's Research (Professor Sada)",
+      "cardNumber": "240",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/240_hires.png"
+    },
+    {
+      "id": "sv1-241",
+      "name": "Professor's Research (Professor Turo)",
+      "cardNumber": "241",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/241_hires.png"
+    },
+    {
+      "id": "sv1-242",
+      "name": "Team Star Grunt",
+      "cardNumber": "242",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/242_hires.png"
+    },
+    {
+      "id": "sv1-243",
+      "name": "Spidops ex",
+      "cardNumber": "243",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/243_hires.png"
+    },
+    {
+      "id": "sv1-244",
+      "name": "Miraidon ex",
+      "cardNumber": "244",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/244_hires.png"
+    },
+    {
+      "id": "sv1-245",
+      "name": "Gardevoir ex",
+      "cardNumber": "245",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/245_hires.png"
+    },
+    {
+      "id": "sv1-246",
+      "name": "Great Tusk ex",
+      "cardNumber": "246",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/246_hires.png"
+    },
+    {
+      "id": "sv1-247",
+      "name": "Koraidon ex",
+      "cardNumber": "247",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/247_hires.png"
+    },
+    {
+      "id": "sv1-248",
+      "name": "Iron Treads ex",
+      "cardNumber": "248",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/248_hires.png"
+    },
+    {
+      "id": "sv1-249",
+      "name": "Arven",
+      "cardNumber": "249",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/249_hires.png"
+    },
+    {
+      "id": "sv1-250",
+      "name": "Jacq",
+      "cardNumber": "250",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/250_hires.png"
+    },
+    {
+      "id": "sv1-251",
+      "name": "Miriam",
+      "cardNumber": "251",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/251_hires.png"
+    },
+    {
+      "id": "sv1-252",
+      "name": "Penny",
+      "cardNumber": "252",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/252_hires.png"
+    },
+    {
+      "id": "sv1-253",
+      "name": "Miraidon ex",
+      "cardNumber": "253",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/253_hires.png"
+    },
+    {
+      "id": "sv1-254",
+      "name": "Koraidon ex",
+      "cardNumber": "254",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/254_hires.png"
+    },
+    {
+      "id": "sv1-255",
+      "name": "Nest Ball",
+      "cardNumber": "255",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/255_hires.png"
+    },
+    {
+      "id": "sv1-256",
+      "name": "Rare Candy",
+      "cardNumber": "256",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/256_hires.png"
+    },
+    {
+      "id": "sv1-257",
+      "name": "Basic Lightning Energy",
+      "cardNumber": "257",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/257_hires.png"
+    },
+    {
+      "id": "sv1-258",
+      "name": "Basic Fighting Energy",
+      "cardNumber": "258",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Scarlet & Violet",
+      "artUrl": "https://images.pokemontcg.io/sv1/258_hires.png"
+    }
+  ],
+  "justTcgId": "sv01-scarlet-violet-base-set-pokemon"
+}

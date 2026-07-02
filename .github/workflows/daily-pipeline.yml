@@ -9,6 +9,14 @@ on:
         description: 'Set ID to run (e.g. me2pt5) — leave blank to auto-rotate by day'
         required: false
         type: string
+      date:
+        description: 'Video date label (YYYY-MM-DD) — leave blank for today'
+        required: false
+        type: string
+      title:
+        description: 'Video title shown in Mosaic — leave blank for set name'
+        required: false
+        type: string
 
 jobs:
   generate:
@@ -40,6 +48,12 @@ jobs:
           ARGS="-g pokemon -c config/pokemon.json"
           if [ -n "${{ inputs.set_id }}" ]; then
             ARGS="$ARGS --set-id ${{ inputs.set_id }}"
+          fi
+          if [ -n "${{ inputs.date }}" ]; then
+            ARGS="$ARGS --date ${{ inputs.date }}"
+          fi
+          if [ -n "${{ inputs.title }}" ]; then
+            ARGS="$ARGS --title \"${{ inputs.title }}\""
           fi
           npx tsx src/pipeline.ts $ARGS
         env:

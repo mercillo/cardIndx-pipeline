@@ -1367,7 +1367,9 @@
       "cardNumber": "169",
       "rarity": "Illustration Rare",
       "setName": "Journey Together",
-      "artUrl": "https://images.pokemontcg.io/sv9/169_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv9/169_hires.png",
+      "justTcgCardId": "87fa59cc-aa7a-5454-9137-487ad7e97021",
+      "justTcgNmHoloVariantId": "bc0a9cc8-5139-545b-9c25-7133c5dfb91f"
     },
     {
       "id": "sv9-170",

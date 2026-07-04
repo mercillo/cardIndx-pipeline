@@ -1,0 +1,1049 @@
+{
+  "setId": "swsh12pt5",
+  "setName": "Crown Zenith",
+  "printedTotal": 159,
+  "totalCards": 160,
+  "builtAt": "2026-07-04T14:22:32.819Z",
+  "cards": [
+    {
+      "id": "swsh12pt5-3",
+      "name": "Bellossom",
+      "cardNumber": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/3_hires.png"
+    },
+    {
+      "id": "swsh12pt5-5",
+      "name": "Tangrowth",
+      "cardNumber": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/5_hires.png"
+    },
+    {
+      "id": "swsh12pt5-9",
+      "name": "Yanmega",
+      "cardNumber": "9",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/9_hires.png"
+    },
+    {
+      "id": "swsh12pt5-13",
+      "name": "Leafeon V",
+      "cardNumber": "13",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/13_hires.png"
+    },
+    {
+      "id": "swsh12pt5-14",
+      "name": "Leafeon VSTAR",
+      "cardNumber": "14",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/14_hires.png"
+    },
+    {
+      "id": "swsh12pt5-16",
+      "name": "Zarude",
+      "cardNumber": "16",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/16_hires.png"
+    },
+    {
+      "id": "swsh12pt5-17",
+      "name": "Calyrex",
+      "cardNumber": "17",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/17_hires.png"
+    },
+    {
+      "id": "swsh12pt5-18",
+      "name": "Charizard V",
+      "cardNumber": "18",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/18_hires.png",
+      "justTcgCardId": "7f4499a7-ee31-5d4b-a85c-7f75565aef10",
+      "justTcgNmHoloVariantId": "da9f8acd-0c60-5b32-87be-75a6cd819706"
+    },
+    {
+      "id": "swsh12pt5-19",
+      "name": "Charizard VSTAR",
+      "cardNumber": "19",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/19_hires.png",
+      "justTcgCardId": "f4856b28-9e52-5a71-bba1-ac61c84b59ba",
+      "justTcgNmHoloVariantId": "dcf0e2c1-cb72-559b-abae-21d7b12485bf"
+    },
+    {
+      "id": "swsh12pt5-20",
+      "name": "Radiant Charizard",
+      "cardNumber": "20",
+      "rarity": "Radiant Rare",
+      "subtypes": [
+        "Basic",
+        "Radiant"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/20_hires.png",
+      "justTcgCardId": "58d6f854-e0e8-57e3-bf21-26d4443217ea",
+      "justTcgNmHoloVariantId": "ee3b0c41-df21-5135-b92e-0c3bfcf90fa8"
+    },
+    {
+      "id": "swsh12pt5-21",
+      "name": "Entei",
+      "cardNumber": "21",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/21_hires.png"
+    },
+    {
+      "id": "swsh12pt5-22",
+      "name": "Simisear V",
+      "cardNumber": "22",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/22_hires.png"
+    },
+    {
+      "id": "swsh12pt5-23",
+      "name": "Simisear VSTAR",
+      "cardNumber": "23",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/23_hires.png"
+    },
+    {
+      "id": "swsh12pt5-25",
+      "name": "Volcarona",
+      "cardNumber": "25",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/25_hires.png"
+    },
+    {
+      "id": "swsh12pt5-26",
+      "name": "Volcanion",
+      "cardNumber": "26",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/26_hires.png"
+    },
+    {
+      "id": "swsh12pt5-32",
+      "name": "Wailord",
+      "cardNumber": "32",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/32_hires.png"
+    },
+    {
+      "id": "swsh12pt5-36",
+      "name": "Kyogre",
+      "cardNumber": "36",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/36_hires.png"
+    },
+    {
+      "id": "swsh12pt5-37",
+      "name": "Kyogre V",
+      "cardNumber": "37",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/37_hires.png"
+    },
+    {
+      "id": "swsh12pt5-38",
+      "name": "Glaceon V",
+      "cardNumber": "38",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/38_hires.png"
+    },
+    {
+      "id": "swsh12pt5-43",
+      "name": "Luxray",
+      "cardNumber": "43",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2",
+        "Rapid Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/43_hires.png"
+    },
+    {
+      "id": "swsh12pt5-44",
+      "name": "Luxray",
+      "cardNumber": "44",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/44_hires.png"
+    },
+    {
+      "id": "swsh12pt5-45",
+      "name": "Rotom V",
+      "cardNumber": "45",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/45_hires.png"
+    },
+    {
+      "id": "swsh12pt5-46",
+      "name": "Rotom VSTAR",
+      "cardNumber": "46",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/46_hires.png"
+    },
+    {
+      "id": "swsh12pt5-50",
+      "name": "Heliolisk",
+      "cardNumber": "50",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/50_hires.png"
+    },
+    {
+      "id": "swsh12pt5-51",
+      "name": "Radiant Charjabug",
+      "cardNumber": "51",
+      "rarity": "Radiant Rare",
+      "subtypes": [
+        "Basic",
+        "Radiant"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/51_hires.png"
+    },
+    {
+      "id": "swsh12pt5-52",
+      "name": "Zeraora",
+      "cardNumber": "52",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/52_hires.png"
+    },
+    {
+      "id": "swsh12pt5-53",
+      "name": "Zeraora V",
+      "cardNumber": "53",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/53_hires.png"
+    },
+    {
+      "id": "swsh12pt5-54",
+      "name": "Zeraora VMAX",
+      "cardNumber": "54",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/54_hires.png"
+    },
+    {
+      "id": "swsh12pt5-55",
+      "name": "Zeraora VSTAR",
+      "cardNumber": "55",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/55_hires.png"
+    },
+    {
+      "id": "swsh12pt5-58",
+      "name": "Exeggutor",
+      "cardNumber": "58",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/58_hires.png"
+    },
+    {
+      "id": "swsh12pt5-59",
+      "name": "Mewtwo",
+      "cardNumber": "59",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/59_hires.png"
+    },
+    {
+      "id": "swsh12pt5-60",
+      "name": "Mew V",
+      "cardNumber": "60",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Fusion Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/60_hires.png",
+      "justTcgCardId": "ca221810-28a4-5d58-8fc5-9254bd2a7d9f",
+      "justTcgNmHoloVariantId": "f40ee07a-8317-5476-81e4-3858e83c70e4"
+    },
+    {
+      "id": "swsh12pt5-64",
+      "name": "Tapu Lele",
+      "cardNumber": "64",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/64_hires.png"
+    },
+    {
+      "id": "swsh12pt5-65",
+      "name": "Hatterene V",
+      "cardNumber": "65",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/65_hires.png"
+    },
+    {
+      "id": "swsh12pt5-66",
+      "name": "Hatterene VMAX",
+      "cardNumber": "66",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/66_hires.png"
+    },
+    {
+      "id": "swsh12pt5-67",
+      "name": "Enamorus",
+      "cardNumber": "67",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/67_hires.png"
+    },
+    {
+      "id": "swsh12pt5-74",
+      "name": "Lycanroc",
+      "cardNumber": "74",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/74_hires.png"
+    },
+    {
+      "id": "swsh12pt5-76",
+      "name": "Absol",
+      "cardNumber": "76",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/76_hires.png"
+    },
+    {
+      "id": "swsh12pt5-78",
+      "name": "Liepard",
+      "cardNumber": "78",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/78_hires.png"
+    },
+    {
+      "id": "swsh12pt5-80",
+      "name": "Pangoro",
+      "cardNumber": "80",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/80_hires.png"
+    },
+    {
+      "id": "swsh12pt5-82",
+      "name": "Dragalge",
+      "cardNumber": "82",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/82_hires.png"
+    },
+    {
+      "id": "swsh12pt5-83",
+      "name": "Hoopa",
+      "cardNumber": "83",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/83_hires.png"
+    },
+    {
+      "id": "swsh12pt5-85",
+      "name": "Galarian Perrserker",
+      "cardNumber": "85",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/85_hires.png"
+    },
+    {
+      "id": "swsh12pt5-86",
+      "name": "Scizor",
+      "cardNumber": "86",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/86_hires.png"
+    },
+    {
+      "id": "swsh12pt5-89",
+      "name": "Aggron",
+      "cardNumber": "89",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/89_hires.png"
+    },
+    {
+      "id": "swsh12pt5-94",
+      "name": "Zacian",
+      "cardNumber": "94",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/94_hires.png"
+    },
+    {
+      "id": "swsh12pt5-95",
+      "name": "Zacian V",
+      "cardNumber": "95",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/95_hires.png"
+    },
+    {
+      "id": "swsh12pt5-96",
+      "name": "Zacian VSTAR",
+      "cardNumber": "96",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/96_hires.png"
+    },
+    {
+      "id": "swsh12pt5-97",
+      "name": "Zamazenta",
+      "cardNumber": "97",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/97_hires.png"
+    },
+    {
+      "id": "swsh12pt5-98",
+      "name": "Zamazenta V",
+      "cardNumber": "98",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/98_hires.png"
+    },
+    {
+      "id": "swsh12pt5-99",
+      "name": "Zamazenta VSTAR",
+      "cardNumber": "99",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/99_hires.png"
+    },
+    {
+      "id": "swsh12pt5-100",
+      "name": "Rayquaza V",
+      "cardNumber": "100",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Rapid Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/100_hires.png"
+    },
+    {
+      "id": "swsh12pt5-101",
+      "name": "Rayquaza VMAX",
+      "cardNumber": "101",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/101_hires.png",
+      "justTcgCardId": "4aa729af-b510-5106-9692-d3905e5f9edf",
+      "justTcgNmHoloVariantId": "30c6331f-40e4-5a17-9a81-687deb7b0fc8"
+    },
+    {
+      "id": "swsh12pt5-102",
+      "name": "Rayquaza VMAX",
+      "cardNumber": "102",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/102_hires.png",
+      "justTcgCardId": "748d8260-f3c8-56de-9f58-44b0fa52d84d",
+      "justTcgNmHoloVariantId": "2c5057ea-0723-5901-a017-8e77054514d1"
+    },
+    {
+      "id": "swsh12pt5-103",
+      "name": "Duraludon V",
+      "cardNumber": "103",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Single Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/103_hires.png"
+    },
+    {
+      "id": "swsh12pt5-104",
+      "name": "Duraludon VMAX",
+      "cardNumber": "104",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX",
+        "Single Strike"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/104_hires.png"
+    },
+    {
+      "id": "swsh12pt5-105",
+      "name": "Radiant Eternatus",
+      "cardNumber": "105",
+      "rarity": "Radiant Rare",
+      "subtypes": [
+        "Basic",
+        "Radiant"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/105_hires.png"
+    },
+    {
+      "id": "swsh12pt5-106",
+      "name": "Tauros",
+      "cardNumber": "106",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/106_hires.png"
+    },
+    {
+      "id": "swsh12pt5-107",
+      "name": "Ditto",
+      "cardNumber": "107",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/107_hires.png"
+    },
+    {
+      "id": "swsh12pt5-108",
+      "name": "Eevee V",
+      "cardNumber": "108",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/108_hires.png",
+      "justTcgCardId": "6654ec52-21db-58b1-a103-4dbf6c461c99",
+      "justTcgNmHoloVariantId": "f890a288-9f50-5558-ab92-8fbe61119b75"
+    },
+    {
+      "id": "swsh12pt5-109",
+      "name": "Snorlax",
+      "cardNumber": "109",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/109_hires.png"
+    },
+    {
+      "id": "swsh12pt5-113",
+      "name": "Regigigas V",
+      "cardNumber": "113",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/113_hires.png"
+    },
+    {
+      "id": "swsh12pt5-114",
+      "name": "Regigigas VSTAR",
+      "cardNumber": "114",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/114_hires.png"
+    },
+    {
+      "id": "swsh12pt5-116",
+      "name": "Stoutland V",
+      "cardNumber": "116",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/116_hires.png"
+    },
+    {
+      "id": "swsh12pt5-118",
+      "name": "Gumshoos",
+      "cardNumber": "118",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/118_hires.png"
+    },
+    {
+      "id": "swsh12pt5-119",
+      "name": "Oranguru",
+      "cardNumber": "119",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/119_hires.png"
+    },
+    {
+      "id": "swsh12pt5-120",
+      "name": "Greedent V",
+      "cardNumber": "120",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/120_hires.png"
+    },
+    {
+      "id": "swsh12pt5-122",
+      "name": "Dubwool",
+      "cardNumber": "122",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/122_hires.png"
+    },
+    {
+      "id": "swsh12pt5-123",
+      "name": "Bea",
+      "cardNumber": "123",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/123_hires.png"
+    },
+    {
+      "id": "swsh12pt5-124",
+      "name": "Bede",
+      "cardNumber": "124",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/124_hires.png"
+    },
+    {
+      "id": "swsh12pt5-133",
+      "name": "Hop",
+      "cardNumber": "133",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/133_hires.png"
+    },
+    {
+      "id": "swsh12pt5-134",
+      "name": "Leon",
+      "cardNumber": "134",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/134_hires.png"
+    },
+    {
+      "id": "swsh12pt5-136",
+      "name": "Nessa",
+      "cardNumber": "136",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/136_hires.png"
+    },
+    {
+      "id": "swsh12pt5-140",
+      "name": "Raihan",
+      "cardNumber": "140",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/140_hires.png"
+    },
+    {
+      "id": "swsh12pt5-143",
+      "name": "Sky Seal Stone",
+      "cardNumber": "143",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Item",
+        "Pokémon Tool"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/143_hires.png"
+    },
+    {
+      "id": "swsh12pt5-147",
+      "name": "Elesa's Sparkle",
+      "cardNumber": "147",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Fusion Strike",
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/147_hires.png",
+      "justTcgCardId": "fe2bf162-b1ed-531f-9e6d-c0877ddc4db9",
+      "justTcgNmHoloVariantId": "3dbf9bd4-15b2-5bb6-bed6-a7bac55bbf14"
+    },
+    {
+      "id": "swsh12pt5-148",
+      "name": "Friends in Hisui",
+      "cardNumber": "148",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/148_hires.png",
+      "justTcgCardId": "767bb69d-6427-5305-a357-ae92abcfd457",
+      "justTcgNmHoloVariantId": "3eb428e7-864d-57ce-8623-6f1690908583"
+    },
+    {
+      "id": "swsh12pt5-149",
+      "name": "Friends in Sinnoh",
+      "cardNumber": "149",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/149_hires.png",
+      "justTcgCardId": "1d3a73c3-90b1-502c-8425-6688cfba2836",
+      "justTcgNmHoloVariantId": "efa4fb2e-7451-5fa0-a912-372e92a14bb8"
+    },
+    {
+      "id": "swsh12pt5-150",
+      "name": "Professor's Research",
+      "cardNumber": "150",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/150_hires.png"
+    },
+    {
+      "id": "swsh12pt5-151",
+      "name": "Volo",
+      "cardNumber": "151",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/151_hires.png"
+    },
+    {
+      "id": "swsh12pt5-152",
+      "name": "Grass Energy",
+      "cardNumber": "152",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/152_hires.png",
+      "justTcgCardId": "2a5697e5-5180-597a-ad94-d138383dd479",
+      "justTcgNmHoloVariantId": "7edd5d14-6b14-5f60-879d-952a587213ef"
+    },
+    {
+      "id": "swsh12pt5-153",
+      "name": "Fire Energy",
+      "cardNumber": "153",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/153_hires.png"
+    },
+    {
+      "id": "swsh12pt5-154",
+      "name": "Water Energy",
+      "cardNumber": "154",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/154_hires.png"
+    },
+    {
+      "id": "swsh12pt5-155",
+      "name": "Lightning Energy",
+      "cardNumber": "155",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/155_hires.png"
+    },
+    {
+      "id": "swsh12pt5-156",
+      "name": "Psychic Energy",
+      "cardNumber": "156",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/156_hires.png",
+      "justTcgCardId": "4b4f4531-69f4-5032-9c8b-f6f0994f10ad",
+      "justTcgNmHoloVariantId": "bff1812c-eded-5d5b-af52-a715b1b9bb2b"
+    },
+    {
+      "id": "swsh12pt5-157",
+      "name": "Fighting Energy",
+      "cardNumber": "157",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/157_hires.png",
+      "justTcgCardId": "ab90e50b-5fa8-5776-aee3-f0028594211a",
+      "justTcgNmHoloVariantId": "4a5dcba7-2afc-56da-a8fa-107c376b9a80"
+    },
+    {
+      "id": "swsh12pt5-158",
+      "name": "Darkness Energy",
+      "cardNumber": "158",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/158_hires.png",
+      "justTcgCardId": "dccd83c4-9302-501f-9efd-8bd171fe2896",
+      "justTcgNmHoloVariantId": "5f5ba7f3-e08f-5dc0-ace0-b93491b5dd05"
+    },
+    {
+      "id": "swsh12pt5-159",
+      "name": "Metal Energy",
+      "cardNumber": "159",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/159_hires.png"
+    },
+    {
+      "id": "swsh12pt5-160",
+      "name": "Pikachu",
+      "cardNumber": "160",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Crown Zenith",
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/160_hires.png",
+      "justTcgCardId": "6f3d2ecd-c284-5492-a3d7-11a060b84a91",
+      "justTcgNmHoloVariantId": "f02f4817-30c9-5cc7-a55e-0cd04629320c"
+    }
+  ],
+  "justTcgId": "swsh-crown-zenith-pokemon",
+  "justTcgEnrichedAt": "2026-07-04T14:22:40.350Z"
+}

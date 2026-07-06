@@ -1,0 +1,398 @@
+{
+  "setId": "swsh12tg",
+  "setName": "Silver Tempest Trainer Gallery",
+  "printedTotal": 30,
+  "totalCards": 30,
+  "builtAt": "2026-07-06T01:06:09.296Z",
+  "cards": [
+    {
+      "id": "swsh12tg-TG01",
+      "name": "Braixen",
+      "cardNumber": "TG01",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG01_hires.png",
+      "justTcgCardId": "0e2e2ebc-9c6f-59dc-98f5-62fbcce97cee",
+      "justTcgNmHoloVariantId": "cff0af7f-fad6-5721-8313-740d5bf683bd"
+    },
+    {
+      "id": "swsh12tg-TG02",
+      "name": "Milotic",
+      "cardNumber": "TG02",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG02_hires.png",
+      "justTcgCardId": "8705a9da-7533-566b-9880-80df442a5731",
+      "justTcgNmHoloVariantId": "e1303cc2-2bd8-5a0a-ad1d-bb00e38e9dad"
+    },
+    {
+      "id": "swsh12tg-TG03",
+      "name": "Flaaffy",
+      "cardNumber": "TG03",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG03_hires.png",
+      "justTcgCardId": "8dca72ee-e8ca-5d00-854b-aabc113cd247",
+      "justTcgNmHoloVariantId": "e2817a26-6c37-5649-92fb-8107ce6e2cda"
+    },
+    {
+      "id": "swsh12tg-TG04",
+      "name": "Jynx",
+      "cardNumber": "TG04",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG04_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG05",
+      "name": "Gardevoir",
+      "cardNumber": "TG05",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG05_hires.png",
+      "justTcgCardId": "eb8541fc-5c55-5c74-b7ce-d4d7a533079e",
+      "justTcgNmHoloVariantId": "92e3ed7e-77b5-5ecd-b7c5-3848c4f42ca0"
+    },
+    {
+      "id": "swsh12tg-TG06",
+      "name": "Malamar",
+      "cardNumber": "TG06",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Stage 1",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG06_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG07",
+      "name": "Rockruff",
+      "cardNumber": "TG07",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Basic",
+        "Single Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG07_hires.png",
+      "justTcgCardId": "6733cd28-bf3e-5a9e-912d-69cc53cf5130",
+      "justTcgNmHoloVariantId": "51b5af79-39fc-5a41-a232-c2de334cbb1e"
+    },
+    {
+      "id": "swsh12tg-TG08",
+      "name": "Passimian",
+      "cardNumber": "TG08",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Basic",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG08_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG09",
+      "name": "Druddigon",
+      "cardNumber": "TG09",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG09_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG10",
+      "name": "Smeargle",
+      "cardNumber": "TG10",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG10_hires.png",
+      "justTcgCardId": "f792a0c5-5356-5a74-8518-5d142afdc8b6",
+      "justTcgNmHoloVariantId": "67f767e1-ec53-5d7e-9ee8-da1d0bcf5919"
+    },
+    {
+      "id": "swsh12tg-TG11",
+      "name": "Altaria",
+      "cardNumber": "TG11",
+      "rarity": "Trainer Gallery Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG11_hires.png",
+      "justTcgCardId": "0140edaa-65ae-5bc9-a9a2-66db95a63d3f",
+      "justTcgNmHoloVariantId": "6804562e-b6ae-54f1-9c5b-a027581a60a0"
+    },
+    {
+      "id": "swsh12tg-TG12",
+      "name": "Kricketune V",
+      "cardNumber": "TG12",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG12_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG13",
+      "name": "Serperior V",
+      "cardNumber": "TG13",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG13_hires.png",
+      "justTcgCardId": "a72d23d6-88b6-5bc3-9dd6-2d77b3b4cb51",
+      "justTcgNmHoloVariantId": "3989e491-3d7e-5ab0-a0eb-a114b663d85a"
+    },
+    {
+      "id": "swsh12tg-TG14",
+      "name": "Blaziken V",
+      "cardNumber": "TG14",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG14_hires.png",
+      "justTcgCardId": "509c3693-8c17-5857-b19b-893fe789c006",
+      "justTcgNmHoloVariantId": "1b3daac3-5e6c-590a-b6c6-4f5b78eba944"
+    },
+    {
+      "id": "swsh12tg-TG15",
+      "name": "Blaziken VMAX",
+      "cardNumber": "TG15",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG15_hires.png",
+      "justTcgCardId": "36b794a0-0b22-523b-9607-81c327d07646",
+      "justTcgNmHoloVariantId": "fcc12fda-0901-523b-839f-c41f46215dae"
+    },
+    {
+      "id": "swsh12tg-TG16",
+      "name": "Zeraora V",
+      "cardNumber": "TG16",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG16_hires.png",
+      "justTcgCardId": "963fc2c2-014a-5f41-8767-f4cf1fb1c9d8",
+      "justTcgNmHoloVariantId": "8d3b4d92-2af9-5489-891e-8994ed4a3cbd"
+    },
+    {
+      "id": "swsh12tg-TG17",
+      "name": "Mawile V",
+      "cardNumber": "TG17",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG17_hires.png",
+      "justTcgCardId": "5b85c93f-a12b-54d2-9ecd-77c0221b2c98",
+      "justTcgNmHoloVariantId": "7dda4459-c4d0-5849-8e97-3866e6711f8c"
+    },
+    {
+      "id": "swsh12tg-TG18",
+      "name": "Corviknight V",
+      "cardNumber": "TG18",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG18_hires.png",
+      "justTcgCardId": "7a0700e0-8da6-5d9f-8ad5-808e2d92b19d",
+      "justTcgNmHoloVariantId": "e032c619-93dc-52ab-9086-529e5951e1eb"
+    },
+    {
+      "id": "swsh12tg-TG19",
+      "name": "Corviknight VMAX",
+      "cardNumber": "TG19",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG19_hires.png",
+      "justTcgCardId": "c800f39e-3412-5e1b-bac7-1da05fafdfd5",
+      "justTcgNmHoloVariantId": "1c09a6b9-2a74-5f40-bb37-68c2e033f11a"
+    },
+    {
+      "id": "swsh12tg-TG20",
+      "name": "Rayquaza VMAX",
+      "cardNumber": "TG20",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG20_hires.png",
+      "justTcgCardId": "1a6456b1-e162-51fd-861e-48dd06e0053e",
+      "justTcgNmHoloVariantId": "31cf56d0-e6e8-5076-b422-fe5accb71adc"
+    },
+    {
+      "id": "swsh12tg-TG21",
+      "name": "Duraludon VMAX",
+      "cardNumber": "TG21",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX",
+        "Single Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG21_hires.png",
+      "justTcgCardId": "633cd433-30ad-5e9d-b16e-575dfe1f4118",
+      "justTcgNmHoloVariantId": "00627ea0-bac4-5dd3-a4e5-5d269be9fd59"
+    },
+    {
+      "id": "swsh12tg-TG22",
+      "name": "Blissey V",
+      "cardNumber": "TG22",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG22_hires.png",
+      "justTcgCardId": "0eae32fe-d1b2-5c5b-8999-35065c092a4d",
+      "justTcgNmHoloVariantId": "8ba19387-fb3f-588e-8afc-689e36409b4a"
+    },
+    {
+      "id": "swsh12tg-TG23",
+      "name": "Friends in Galar",
+      "cardNumber": "TG23",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG23_hires.png",
+      "justTcgCardId": "01976aaa-ef52-50be-ae9b-5450f0028820",
+      "justTcgNmHoloVariantId": "03c86d8f-7f41-51b3-8162-f0b5a12af2bf"
+    },
+    {
+      "id": "swsh12tg-TG24",
+      "name": "Gordie",
+      "cardNumber": "TG24",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG24_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG25",
+      "name": "Judge",
+      "cardNumber": "TG25",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG25_hires.png",
+      "justTcgCardId": "d181f7e4-28bf-5ce5-a105-658b7c245139",
+      "justTcgNmHoloVariantId": "79f253c0-6dac-541a-8b19-27d11b210d5e"
+    },
+    {
+      "id": "swsh12tg-TG26",
+      "name": "Professor Burnet",
+      "cardNumber": "TG26",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG26_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG27",
+      "name": "Raihan",
+      "cardNumber": "TG27",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG27_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG28",
+      "name": "Sordward & Shielbert",
+      "cardNumber": "TG28",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG28_hires.png"
+    },
+    {
+      "id": "swsh12tg-TG29",
+      "name": "Rayquaza VMAX",
+      "cardNumber": "TG29",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG29_hires.png",
+      "justTcgCardId": "525c1836-fbfc-5d49-9482-533ee2c12009",
+      "justTcgNmHoloVariantId": "ec9d138c-e13e-5c7d-a631-91013ae30b5b"
+    },
+    {
+      "id": "swsh12tg-TG30",
+      "name": "Duraludon VMAX",
+      "cardNumber": "TG30",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "VMAX",
+        "Single Strike"
+      ],
+      "setName": "Silver Tempest Trainer Gallery",
+      "artUrl": "https://images.pokemontcg.io/swsh12tg/TG30_hires.png"
+    }
+  ],
+  "justTcgId": "swsh12-silver-tempest-trainer-gallery-pokemon",
+  "justTcgEnrichedAt": "2026-07-06T01:06:12.078Z"
+}

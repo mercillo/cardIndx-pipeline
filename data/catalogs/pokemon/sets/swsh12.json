@@ -1,0 +1,1215 @@
+{
+  "setId": "swsh12",
+  "setName": "Silver Tempest",
+  "printedTotal": 195,
+  "totalCards": 215,
+  "builtAt": "2026-07-07T15:39:05.292Z",
+  "cards": [
+    {
+      "id": "swsh12-4",
+      "name": "Ariados",
+      "cardNumber": "4",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/4_hires.png"
+    },
+    {
+      "id": "swsh12-7",
+      "name": "Serperior V",
+      "cardNumber": "7",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/7_hires.png"
+    },
+    {
+      "id": "swsh12-8",
+      "name": "Serperior VSTAR",
+      "cardNumber": "8",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/8_hires.png"
+    },
+    {
+      "id": "swsh12-10",
+      "name": "Hisuian Lilligant",
+      "cardNumber": "10",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/10_hires.png"
+    },
+    {
+      "id": "swsh12-12",
+      "name": "Amoonguss",
+      "cardNumber": "12",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/12_hires.png"
+    },
+    {
+      "id": "swsh12-14",
+      "name": "Virizion",
+      "cardNumber": "14",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/14_hires.png"
+    },
+    {
+      "id": "swsh12-15",
+      "name": "Chesnaught V",
+      "cardNumber": "15",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/15_hires.png"
+    },
+    {
+      "id": "swsh12-16",
+      "name": "Radiant Tsareena",
+      "cardNumber": "16",
+      "rarity": "Radiant Rare",
+      "subtypes": [
+        "Basic",
+        "Radiant"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/16_hires.png"
+    },
+    {
+      "id": "swsh12-20",
+      "name": "Arcanine",
+      "cardNumber": "20",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/20_hires.png"
+    },
+    {
+      "id": "swsh12-22",
+      "name": "Rapidash",
+      "cardNumber": "22",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/22_hires.png"
+    },
+    {
+      "id": "swsh12-23",
+      "name": "Victini",
+      "cardNumber": "23",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/23_hires.png"
+    },
+    {
+      "id": "swsh12-24",
+      "name": "Reshiram V",
+      "cardNumber": "24",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/24_hires.png"
+    },
+    {
+      "id": "swsh12-27",
+      "name": "Delphox",
+      "cardNumber": "27",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/27_hires.png"
+    },
+    {
+      "id": "swsh12-29",
+      "name": "Talonflame",
+      "cardNumber": "29",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/29_hires.png"
+    },
+    {
+      "id": "swsh12-32",
+      "name": "Incineroar",
+      "cardNumber": "32",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/32_hires.png"
+    },
+    {
+      "id": "swsh12-33",
+      "name": "Alolan Vulpix V",
+      "cardNumber": "33",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/33_hires.png"
+    },
+    {
+      "id": "swsh12-34",
+      "name": "Alolan Vulpix VSTAR",
+      "cardNumber": "34",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/34_hires.png"
+    },
+    {
+      "id": "swsh12-35",
+      "name": "Omastar V",
+      "cardNumber": "35",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/35_hires.png"
+    },
+    {
+      "id": "swsh12-36",
+      "name": "Articuno",
+      "cardNumber": "36",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/36_hires.png"
+    },
+    {
+      "id": "swsh12-40",
+      "name": "Milotic",
+      "cardNumber": "40",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/40_hires.png"
+    },
+    {
+      "id": "swsh12-43",
+      "name": "Froslass",
+      "cardNumber": "43",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/43_hires.png"
+    },
+    {
+      "id": "swsh12-45",
+      "name": "Phione",
+      "cardNumber": "45",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/45_hires.png"
+    },
+    {
+      "id": "swsh12-46",
+      "name": "Keldeo",
+      "cardNumber": "46",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/46_hires.png"
+    },
+    {
+      "id": "swsh12-56",
+      "name": "Zeraora",
+      "cardNumber": "56",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/56_hires.png"
+    },
+    {
+      "id": "swsh12-57",
+      "name": "Regieleki V",
+      "cardNumber": "57",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/57_hires.png"
+    },
+    {
+      "id": "swsh12-58",
+      "name": "Regieleki VMAX",
+      "cardNumber": "58",
+      "rarity": "Rare Holo VMAX",
+      "subtypes": [
+        "VMAX"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/58_hires.png"
+    },
+    {
+      "id": "swsh12-59",
+      "name": "Radiant Alakazam",
+      "cardNumber": "59",
+      "rarity": "Radiant Rare",
+      "subtypes": [
+        "Basic",
+        "Radiant"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/59_hires.png"
+    },
+    {
+      "id": "swsh12-64",
+      "name": "Mismagius",
+      "cardNumber": "64",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/64_hires.png"
+    },
+    {
+      "id": "swsh12-65",
+      "name": "Unown V",
+      "cardNumber": "65",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/65_hires.png"
+    },
+    {
+      "id": "swsh12-66",
+      "name": "Unown VSTAR",
+      "cardNumber": "66",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/66_hires.png"
+    },
+    {
+      "id": "swsh12-69",
+      "name": "Gardevoir",
+      "cardNumber": "69",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/69_hires.png"
+    },
+    {
+      "id": "swsh12-70",
+      "name": "Mawile V",
+      "cardNumber": "70",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/70_hires.png"
+    },
+    {
+      "id": "swsh12-71",
+      "name": "Mawile VSTAR",
+      "cardNumber": "71",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/71_hires.png"
+    },
+    {
+      "id": "swsh12-73",
+      "name": "Medicham",
+      "cardNumber": "73",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/73_hires.png"
+    },
+    {
+      "id": "swsh12-78",
+      "name": "Reuniclus",
+      "cardNumber": "78",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/78_hires.png"
+    },
+    {
+      "id": "swsh12-89",
+      "name": "Dragapult",
+      "cardNumber": "89",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/89_hires.png"
+    },
+    {
+      "id": "swsh12-90",
+      "name": "Hisuian Arcanine V",
+      "cardNumber": "90",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/90_hires.png"
+    },
+    {
+      "id": "swsh12-96",
+      "name": "Armaldo",
+      "cardNumber": "96",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/96_hires.png"
+    },
+    {
+      "id": "swsh12-97",
+      "name": "Terrakion",
+      "cardNumber": "97",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/97_hires.png"
+    },
+    {
+      "id": "swsh12-102",
+      "name": "Ursaluna V",
+      "cardNumber": "102",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/102_hires.png"
+    },
+    {
+      "id": "swsh12-105",
+      "name": "Crobat",
+      "cardNumber": "105",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/105_hires.png"
+    },
+    {
+      "id": "swsh12-108",
+      "name": "Skuntank V",
+      "cardNumber": "108",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/108_hires.png"
+    },
+    {
+      "id": "swsh12-113",
+      "name": "Krookodile",
+      "cardNumber": "113",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/113_hires.png"
+    },
+    {
+      "id": "swsh12-119",
+      "name": "Metagross",
+      "cardNumber": "119",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/119_hires.png"
+    },
+    {
+      "id": "swsh12-120",
+      "name": "Radiant Jirachi",
+      "cardNumber": "120",
+      "rarity": "Radiant Rare",
+      "subtypes": [
+        "Basic",
+        "Radiant"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/120_hires.png"
+    },
+    {
+      "id": "swsh12-125",
+      "name": "Klinklang",
+      "cardNumber": "125",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/125_hires.png"
+    },
+    {
+      "id": "swsh12-126",
+      "name": "Cobalion",
+      "cardNumber": "126",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/126_hires.png"
+    },
+    {
+      "id": "swsh12-128",
+      "name": "Magearna V",
+      "cardNumber": "128",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/128_hires.png"
+    },
+    {
+      "id": "swsh12-131",
+      "name": "Dragonite",
+      "cardNumber": "131",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/131_hires.png"
+    },
+    {
+      "id": "swsh12-133",
+      "name": "Noivern",
+      "cardNumber": "133",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/133_hires.png"
+    },
+    {
+      "id": "swsh12-134",
+      "name": "Zygarde",
+      "cardNumber": "134",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/134_hires.png"
+    },
+    {
+      "id": "swsh12-135",
+      "name": "Regidrago V",
+      "cardNumber": "135",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/135_hires.png"
+    },
+    {
+      "id": "swsh12-136",
+      "name": "Regidrago VSTAR",
+      "cardNumber": "136",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/136_hires.png"
+    },
+    {
+      "id": "swsh12-138",
+      "name": "Lugia V",
+      "cardNumber": "138",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/138_hires.png"
+    },
+    {
+      "id": "swsh12-139",
+      "name": "Lugia VSTAR",
+      "cardNumber": "139",
+      "rarity": "Rare Holo VSTAR",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/139_hires.png"
+    },
+    {
+      "id": "swsh12-140",
+      "name": "Ho-Oh V",
+      "cardNumber": "140",
+      "rarity": "Rare Holo V",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/140_hires.png"
+    },
+    {
+      "id": "swsh12-147",
+      "name": "Archeops",
+      "cardNumber": "147",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/147_hires.png"
+    },
+    {
+      "id": "swsh12-149",
+      "name": "Hisuian Braviary",
+      "cardNumber": "149",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/149_hires.png"
+    },
+    {
+      "id": "swsh12-154",
+      "name": "Earthen Seal Stone",
+      "cardNumber": "154",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Item",
+        "Pokémon Tool"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/154_hires.png"
+    },
+    {
+      "id": "swsh12-156",
+      "name": "Forest Seal Stone",
+      "cardNumber": "156",
+      "rarity": "Rare Holo",
+      "subtypes": [
+        "Item",
+        "Pokémon Tool"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/156_hires.png"
+    },
+    {
+      "id": "swsh12-170",
+      "name": "Serperior V",
+      "cardNumber": "170",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/170_hires.png"
+    },
+    {
+      "id": "swsh12-171",
+      "name": "Chesnaught V",
+      "cardNumber": "171",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/171_hires.png"
+    },
+    {
+      "id": "swsh12-172",
+      "name": "Reshiram V",
+      "cardNumber": "172",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/172_hires.png"
+    },
+    {
+      "id": "swsh12-173",
+      "name": "Alolan Vulpix V",
+      "cardNumber": "173",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/173_hires.png"
+    },
+    {
+      "id": "swsh12-174",
+      "name": "Omastar V",
+      "cardNumber": "174",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/174_hires.png"
+    },
+    {
+      "id": "swsh12-175",
+      "name": "Regieleki V",
+      "cardNumber": "175",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/175_hires.png"
+    },
+    {
+      "id": "swsh12-176",
+      "name": "Unown V",
+      "cardNumber": "176",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/176_hires.png"
+    },
+    {
+      "id": "swsh12-177",
+      "name": "Unown V",
+      "cardNumber": "177",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/177_hires.png"
+    },
+    {
+      "id": "swsh12-178",
+      "name": "Mawile V",
+      "cardNumber": "178",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/178_hires.png"
+    },
+    {
+      "id": "swsh12-179",
+      "name": "Hisuian Arcanine V",
+      "cardNumber": "179",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/179_hires.png"
+    },
+    {
+      "id": "swsh12-180",
+      "name": "Skuntank V",
+      "cardNumber": "180",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/180_hires.png"
+    },
+    {
+      "id": "swsh12-181",
+      "name": "Skuntank V",
+      "cardNumber": "181",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/181_hires.png"
+    },
+    {
+      "id": "swsh12-182",
+      "name": "Magearna V",
+      "cardNumber": "182",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/182_hires.png"
+    },
+    {
+      "id": "swsh12-183",
+      "name": "Regidrago V",
+      "cardNumber": "183",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/183_hires.png"
+    },
+    {
+      "id": "swsh12-184",
+      "name": "Regidrago V",
+      "cardNumber": "184",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/184_hires.png"
+    },
+    {
+      "id": "swsh12-185",
+      "name": "Lugia V",
+      "cardNumber": "185",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/185_hires.png"
+    },
+    {
+      "id": "swsh12-186",
+      "name": "Lugia V",
+      "cardNumber": "186",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/186_hires.png"
+    },
+    {
+      "id": "swsh12-187",
+      "name": "Ho-Oh V",
+      "cardNumber": "187",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/187_hires.png"
+    },
+    {
+      "id": "swsh12-188",
+      "name": "Brandon",
+      "cardNumber": "188",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/188_hires.png"
+    },
+    {
+      "id": "swsh12-189",
+      "name": "Candice",
+      "cardNumber": "189",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/189_hires.png"
+    },
+    {
+      "id": "swsh12-190",
+      "name": "Furisode Girl",
+      "cardNumber": "190",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/190_hires.png"
+    },
+    {
+      "id": "swsh12-191",
+      "name": "Gym Trainer",
+      "cardNumber": "191",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/191_hires.png"
+    },
+    {
+      "id": "swsh12-192",
+      "name": "Lance",
+      "cardNumber": "192",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/192_hires.png"
+    },
+    {
+      "id": "swsh12-193",
+      "name": "Serena",
+      "cardNumber": "193",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/193_hires.png"
+    },
+    {
+      "id": "swsh12-194",
+      "name": "Wallace",
+      "cardNumber": "194",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/194_hires.png"
+    },
+    {
+      "id": "swsh12-195",
+      "name": "Worker",
+      "cardNumber": "195",
+      "rarity": "Rare Ultra",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/195_hires.png"
+    },
+    {
+      "id": "swsh12-196",
+      "name": "Serperior VSTAR",
+      "cardNumber": "196",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/196_hires.png"
+    },
+    {
+      "id": "swsh12-197",
+      "name": "Alolan Vulpix VSTAR",
+      "cardNumber": "197",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/197_hires.png"
+    },
+    {
+      "id": "swsh12-198",
+      "name": "Regieleki VMAX",
+      "cardNumber": "198",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VMAX"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/198_hires.png"
+    },
+    {
+      "id": "swsh12-199",
+      "name": "Unown VSTAR",
+      "cardNumber": "199",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/199_hires.png"
+    },
+    {
+      "id": "swsh12-200",
+      "name": "Mawile VSTAR",
+      "cardNumber": "200",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/200_hires.png"
+    },
+    {
+      "id": "swsh12-201",
+      "name": "Regidrago VSTAR",
+      "cardNumber": "201",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/201_hires.png"
+    },
+    {
+      "id": "swsh12-202",
+      "name": "Lugia VSTAR",
+      "cardNumber": "202",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/202_hires.png"
+    },
+    {
+      "id": "swsh12-203",
+      "name": "Brandon",
+      "cardNumber": "203",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/203_hires.png"
+    },
+    {
+      "id": "swsh12-204",
+      "name": "Candice",
+      "cardNumber": "204",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/204_hires.png"
+    },
+    {
+      "id": "swsh12-205",
+      "name": "Furisode Girl",
+      "cardNumber": "205",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/205_hires.png"
+    },
+    {
+      "id": "swsh12-206",
+      "name": "Lance",
+      "cardNumber": "206",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/206_hires.png"
+    },
+    {
+      "id": "swsh12-207",
+      "name": "Serena",
+      "cardNumber": "207",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/207_hires.png"
+    },
+    {
+      "id": "swsh12-208",
+      "name": "Wallace",
+      "cardNumber": "208",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/208_hires.png"
+    },
+    {
+      "id": "swsh12-209",
+      "name": "Worker",
+      "cardNumber": "209",
+      "rarity": "Rare Rainbow",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/209_hires.png"
+    },
+    {
+      "id": "swsh12-210",
+      "name": "Serperior VSTAR",
+      "cardNumber": "210",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/210_hires.png"
+    },
+    {
+      "id": "swsh12-211",
+      "name": "Lugia VSTAR",
+      "cardNumber": "211",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "VSTAR"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/211_hires.png"
+    },
+    {
+      "id": "swsh12-212",
+      "name": "Energy Switch",
+      "cardNumber": "212",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/212_hires.png"
+    },
+    {
+      "id": "swsh12-213",
+      "name": "Gapejaw Bog",
+      "cardNumber": "213",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "Stadium"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/213_hires.png"
+    },
+    {
+      "id": "swsh12-214",
+      "name": "Leafy Camo Poncho",
+      "cardNumber": "214",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "Item",
+        "Pokémon Tool"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/214_hires.png"
+    },
+    {
+      "id": "swsh12-215",
+      "name": "V Guard Energy",
+      "cardNumber": "215",
+      "rarity": "Rare Secret",
+      "subtypes": [
+        "Special"
+      ],
+      "setName": "Silver Tempest",
+      "artUrl": "https://images.pokemontcg.io/swsh12/215_hires.png"
+    }
+  ],
+  "justTcgId": "swsh12-silver-tempest-pokemon"
+}

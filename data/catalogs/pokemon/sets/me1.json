@@ -1067,7 +1067,9 @@
       "cardNumber": "133",
       "rarity": "Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/133_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/133_hires.png",
+      "justTcgCardId": "96e46b35-7d52-5e3c-922d-a1718e618abc",
+      "justTcgNmHoloVariantId": "506a0629-d726-523a-a44d-bae608c75981"
     },
     {
       "id": "me1-134",
@@ -1075,7 +1077,9 @@
       "cardNumber": "134",
       "rarity": "Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/134_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/134_hires.png",
+      "justTcgCardId": "c3412ff0-4866-51e6-9b6a-aed3f95e9286",
+      "justTcgNmHoloVariantId": "b5bccb41-dc96-5924-b139-81af9e332702"
     },
     {
       "id": "me1-135",
@@ -1107,7 +1111,9 @@
       "cardNumber": "138",
       "rarity": "Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/138_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/138_hires.png",
+      "justTcgCardId": "02c03caf-36de-575e-9b69-e14a8cd0974e",
+      "justTcgNmHoloVariantId": "4f93bd48-4aa4-5143-991b-14eec119ddd8"
     },
     {
       "id": "me1-139",
@@ -1355,7 +1361,9 @@
       "cardNumber": "169",
       "rarity": "Ultra Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/169_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/169_hires.png",
+      "justTcgCardId": "95aa8e76-ec6a-5636-a94c-bdb7438dc6d4",
+      "justTcgNmHoloVariantId": "79ed4c56-88b6-5f03-b4ab-2e7eda33d3bd"
     },
     {
       "id": "me1-170",
@@ -1419,7 +1427,9 @@
       "cardNumber": "177",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/177_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/177_hires.png",
+      "justTcgCardId": "fe5775f6-625e-56c0-bf7e-e03f9bd65aa5",
+      "justTcgNmHoloVariantId": "4e1550e1-4cad-5b56-a6dc-3df79c381499"
     },
     {
       "id": "me1-178",
@@ -1427,7 +1437,9 @@
       "cardNumber": "178",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/178_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/178_hires.png",
+      "justTcgCardId": "05c416f4-32bf-579d-9459-1f07f8d76047",
+      "justTcgNmHoloVariantId": "a95950a8-98da-531c-8a57-8ad8bc3e9e2a"
     },
     {
       "id": "me1-179",
@@ -1435,7 +1447,9 @@
       "cardNumber": "179",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/179_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/179_hires.png",
+      "justTcgCardId": "6758326b-52c0-5e6b-ac29-9cd292b314d1",
+      "justTcgNmHoloVariantId": "e4c6799e-619f-5db1-8ada-17442593007a"
     },
     {
       "id": "me1-180",
@@ -1443,7 +1457,9 @@
       "cardNumber": "180",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/180_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/180_hires.png",
+      "justTcgCardId": "89ec6e3b-5b34-5a4f-b830-bb22b2f3da7b",
+      "justTcgNmHoloVariantId": "bd30147e-73e8-59c0-b200-9ada9b79f2b0"
     },
     {
       "id": "me1-181",
@@ -1451,7 +1467,9 @@
       "cardNumber": "181",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/181_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/181_hires.png",
+      "justTcgCardId": "a227a60d-6ded-5491-89e6-05d9a1712072",
+      "justTcgNmHoloVariantId": "04e45874-dbc7-58b5-8a78-989362e66a34"
     },
     {
       "id": "me1-182",
@@ -1459,7 +1477,9 @@
       "cardNumber": "182",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/182_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/182_hires.png",
+      "justTcgCardId": "ca51ec32-8511-5e51-b361-fa1805242a7b",
+      "justTcgNmHoloVariantId": "6393482d-e094-52c0-a3b1-860eb9624ff7"
     },
     {
       "id": "me1-183",
@@ -1467,7 +1487,9 @@
       "cardNumber": "183",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/183_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/183_hires.png",
+      "justTcgCardId": "dccc8ee2-5ad2-5aa7-b1cc-a3793df53dff",
+      "justTcgNmHoloVariantId": "f55cd9cf-720b-5127-8e87-a285ab035dd8"
     },
     {
       "id": "me1-184",
@@ -1475,7 +1497,9 @@
       "cardNumber": "184",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/184_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/184_hires.png",
+      "justTcgCardId": "0cb0c64a-035d-5594-831e-36eda25a7158",
+      "justTcgNmHoloVariantId": "2df3b261-ebdd-5575-8934-5ddf97823b98"
     },
     {
       "id": "me1-185",
@@ -1491,7 +1515,9 @@
       "cardNumber": "186",
       "rarity": "Special Illustration Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/186_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/186_hires.png",
+      "justTcgCardId": "64cd7af9-1263-5fd2-8c98-b720f0b390c7",
+      "justTcgNmHoloVariantId": "67b1bdc5-5429-5802-a490-2ce70b9eb012"
     },
     {
       "id": "me1-187",
@@ -1499,7 +1525,9 @@
       "cardNumber": "187",
       "rarity": "Mega Hyper Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/187_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/187_hires.png",
+      "justTcgCardId": "b9a05118-d0f3-58d2-818b-82b6c2f1e03d",
+      "justTcgNmHoloVariantId": "5ddfb322-5154-52c4-a13c-ec552217075c"
     },
     {
       "id": "me1-188",
@@ -1507,7 +1535,11 @@
       "cardNumber": "188",
       "rarity": "Mega Hyper Rare",
       "setName": "Mega Evolution",
-      "artUrl": "https://images.pokemontcg.io/me1/188_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me1/188_hires.png",
+      "justTcgCardId": "cb488d8d-86f3-59db-b22e-24ac057829eb",
+      "justTcgNmHoloVariantId": "4bf6fbca-e318-5e47-b46a-0be6d30fa050"
     }
-  ]
+  ],
+  "justTcgId": "me01-mega-evolution-pokemon",
+  "justTcgEnrichedAt": "2026-07-07T19:44:01.780Z"
 }

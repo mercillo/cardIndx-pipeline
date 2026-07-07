@@ -1,0 +1,797 @@
+{
+  "setId": "sv7",
+  "setName": "Stellar Crown",
+  "printedTotal": 142,
+  "totalCards": 175,
+  "builtAt": "2026-07-07T02:31:56.658Z",
+  "cards": [
+    {
+      "id": "sv7-1",
+      "name": "Venusaur ex",
+      "cardNumber": "1",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/1_hires.png"
+    },
+    {
+      "id": "sv7-3",
+      "name": "Ledian",
+      "cardNumber": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/3_hires.png"
+    },
+    {
+      "id": "sv7-6",
+      "name": "Cradily",
+      "cardNumber": "6",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/6_hires.png"
+    },
+    {
+      "id": "sv7-14",
+      "name": "Hydrapple ex",
+      "cardNumber": "14",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/14_hires.png"
+    },
+    {
+      "id": "sv7-28",
+      "name": "Cinderace ex",
+      "cardNumber": "28",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/28_hires.png"
+    },
+    {
+      "id": "sv7-30",
+      "name": "Blastoise ex",
+      "cardNumber": "30",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/30_hires.png"
+    },
+    {
+      "id": "sv7-32",
+      "name": "Lapras ex",
+      "cardNumber": "32",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/32_hires.png"
+    },
+    {
+      "id": "sv7-38",
+      "name": "Carracosta",
+      "cardNumber": "38",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/38_hires.png"
+    },
+    {
+      "id": "sv7-41",
+      "name": "Greninja ex",
+      "cardNumber": "41",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/41_hires.png"
+    },
+    {
+      "id": "sv7-44",
+      "name": "Drednaw",
+      "cardNumber": "44",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/44_hires.png"
+    },
+    {
+      "id": "sv7-51",
+      "name": "Galvantula ex",
+      "cardNumber": "51",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/51_hires.png"
+    },
+    {
+      "id": "sv7-55",
+      "name": "Zeraora",
+      "cardNumber": "55",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/55_hires.png"
+    },
+    {
+      "id": "sv7-65",
+      "name": "Alcremie",
+      "cardNumber": "65",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/65_hires.png"
+    },
+    {
+      "id": "sv7-67",
+      "name": "Dachsbun ex",
+      "cardNumber": "67",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/67_hires.png"
+    },
+    {
+      "id": "sv7-71",
+      "name": "Iron Boulder",
+      "cardNumber": "71",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Future"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/71_hires.png"
+    },
+    {
+      "id": "sv7-76",
+      "name": "Rhyperior",
+      "cardNumber": "76",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/76_hires.png"
+    },
+    {
+      "id": "sv7-80",
+      "name": "Medicham ex",
+      "cardNumber": "80",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/80_hires.png"
+    },
+    {
+      "id": "sv7-82",
+      "name": "Lucario ex",
+      "cardNumber": "82",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/82_hires.png"
+    },
+    {
+      "id": "sv7-89",
+      "name": "Garganacl ex",
+      "cardNumber": "89",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/89_hires.png"
+    },
+    {
+      "id": "sv7-96",
+      "name": "Grimmsnarl",
+      "cardNumber": "96",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/96_hires.png"
+    },
+    {
+      "id": "sv7-101",
+      "name": "Klinklang",
+      "cardNumber": "101",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/101_hires.png"
+    },
+    {
+      "id": "sv7-104",
+      "name": "Melmetal",
+      "cardNumber": "104",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/104_hires.png"
+    },
+    {
+      "id": "sv7-105",
+      "name": "Melmetal ex",
+      "cardNumber": "105",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/105_hires.png"
+    },
+    {
+      "id": "sv7-107",
+      "name": "Archaludon",
+      "cardNumber": "107",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/107_hires.png"
+    },
+    {
+      "id": "sv7-110",
+      "name": "Orthworm ex",
+      "cardNumber": "110",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/110_hires.png"
+    },
+    {
+      "id": "sv7-111",
+      "name": "Raging Bolt",
+      "cardNumber": "111",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Ancient"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/111_hires.png"
+    },
+    {
+      "id": "sv7-115",
+      "name": "Noctowl",
+      "cardNumber": "115",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/115_hires.png"
+    },
+    {
+      "id": "sv7-119",
+      "name": "Bouffalant",
+      "cardNumber": "119",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/119_hires.png"
+    },
+    {
+      "id": "sv7-128",
+      "name": "Terapagos ex",
+      "cardNumber": "128",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/128_hires.png"
+    },
+    {
+      "id": "sv7-134",
+      "name": "Deluxe Bomb",
+      "cardNumber": "134",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Pokémon Tool",
+        "ACE SPEC"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/134_hires.png"
+    },
+    {
+      "id": "sv7-136",
+      "name": "Grand Tree",
+      "cardNumber": "136",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Stadium",
+        "ACE SPEC"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/136_hires.png"
+    },
+    {
+      "id": "sv7-142",
+      "name": "Sparkling Crystal",
+      "cardNumber": "142",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Pokémon Tool",
+        "ACE SPEC"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/142_hires.png"
+    },
+    {
+      "id": "sv7-143",
+      "name": "Bulbasaur",
+      "cardNumber": "143",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/143_hires.png",
+      "justTcgCardId": "d57bb9d0-bf87-5416-ac03-54a87b7d6119",
+      "justTcgNmHoloVariantId": "2ae7ca17-1837-5fe6-8e68-78e5d6b365b2"
+    },
+    {
+      "id": "sv7-144",
+      "name": "Ledian",
+      "cardNumber": "144",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/144_hires.png"
+    },
+    {
+      "id": "sv7-145",
+      "name": "Lileep",
+      "cardNumber": "145",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/145_hires.png",
+      "justTcgCardId": "3fceda0b-370c-5241-acec-06f987e2b7f9",
+      "justTcgNmHoloVariantId": "19883b2e-1517-543d-98c5-e6728fd4b20e"
+    },
+    {
+      "id": "sv7-146",
+      "name": "Turtonator",
+      "cardNumber": "146",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/146_hires.png"
+    },
+    {
+      "id": "sv7-147",
+      "name": "Raboot",
+      "cardNumber": "147",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/147_hires.png"
+    },
+    {
+      "id": "sv7-148",
+      "name": "Squirtle",
+      "cardNumber": "148",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/148_hires.png",
+      "justTcgCardId": "97959606-c6d3-5a8c-a792-300f5a9d0c20",
+      "justTcgNmHoloVariantId": "2f693010-1f0f-5867-9b7f-55b0adfd5230"
+    },
+    {
+      "id": "sv7-149",
+      "name": "Crabominable",
+      "cardNumber": "149",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/149_hires.png"
+    },
+    {
+      "id": "sv7-150",
+      "name": "Joltik",
+      "cardNumber": "150",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/150_hires.png"
+    },
+    {
+      "id": "sv7-151",
+      "name": "Zeraora",
+      "cardNumber": "151",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/151_hires.png",
+      "justTcgCardId": "c8a6741e-8e46-53f8-9cb7-f97930cad91a",
+      "justTcgNmHoloVariantId": "ea7ad866-56ba-5289-be79-a90e7c016ccc"
+    },
+    {
+      "id": "sv7-152",
+      "name": "Milcery",
+      "cardNumber": "152",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/152_hires.png",
+      "justTcgCardId": "6649ba5f-1e74-5dd6-b08f-fc52c103b0e5",
+      "justTcgNmHoloVariantId": "2a34975c-15ab-59b2-b09e-1be05f315723"
+    },
+    {
+      "id": "sv7-153",
+      "name": "Meditite",
+      "cardNumber": "153",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/153_hires.png"
+    },
+    {
+      "id": "sv7-154",
+      "name": "Gulpin",
+      "cardNumber": "154",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/154_hires.png",
+      "justTcgCardId": "414d956a-c80d-5b79-9bad-61a5bed5cbd4",
+      "justTcgNmHoloVariantId": "41739d50-6c64-5660-8d91-c79e4ee97ece"
+    },
+    {
+      "id": "sv7-155",
+      "name": "Archaludon",
+      "cardNumber": "155",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/155_hires.png"
+    },
+    {
+      "id": "sv7-156",
+      "name": "Hydrapple ex",
+      "cardNumber": "156",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/156_hires.png"
+    },
+    {
+      "id": "sv7-157",
+      "name": "Cinderace ex",
+      "cardNumber": "157",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/157_hires.png"
+    },
+    {
+      "id": "sv7-158",
+      "name": "Lapras ex",
+      "cardNumber": "158",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/158_hires.png"
+    },
+    {
+      "id": "sv7-159",
+      "name": "Galvantula ex",
+      "cardNumber": "159",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/159_hires.png"
+    },
+    {
+      "id": "sv7-160",
+      "name": "Dachsbun ex",
+      "cardNumber": "160",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/160_hires.png"
+    },
+    {
+      "id": "sv7-161",
+      "name": "Medicham ex",
+      "cardNumber": "161",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/161_hires.png"
+    },
+    {
+      "id": "sv7-162",
+      "name": "Orthworm ex",
+      "cardNumber": "162",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/162_hires.png"
+    },
+    {
+      "id": "sv7-163",
+      "name": "Briar",
+      "cardNumber": "163",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/163_hires.png"
+    },
+    {
+      "id": "sv7-164",
+      "name": "Crispin",
+      "cardNumber": "164",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/164_hires.png",
+      "justTcgCardId": "d2c60821-dc3c-5427-b826-163cb9219e6d",
+      "justTcgNmHoloVariantId": "7b2abe0b-db59-56b2-a58f-8674d6aeb47f"
+    },
+    {
+      "id": "sv7-165",
+      "name": "Kofu",
+      "cardNumber": "165",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/165_hires.png"
+    },
+    {
+      "id": "sv7-166",
+      "name": "Lacey",
+      "cardNumber": "166",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/166_hires.png"
+    },
+    {
+      "id": "sv7-167",
+      "name": "Hydrapple ex",
+      "cardNumber": "167",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/167_hires.png",
+      "justTcgCardId": "5d8a2ff5-5fb2-5031-bdcc-f4ea3f6b5ca1",
+      "justTcgNmHoloVariantId": "742831de-fa58-5d54-858d-eb1b32c7ed44"
+    },
+    {
+      "id": "sv7-168",
+      "name": "Galvantula ex",
+      "cardNumber": "168",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/168_hires.png",
+      "justTcgCardId": "3392a52e-c6bb-5535-b275-a9cc81ee37ba",
+      "justTcgNmHoloVariantId": "b3332634-0174-5891-bbb8-623d318f1fc3"
+    },
+    {
+      "id": "sv7-169",
+      "name": "Dachsbun ex",
+      "cardNumber": "169",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/169_hires.png",
+      "justTcgCardId": "98c31c0a-8ab7-573f-8da9-12fbf2a3df3b",
+      "justTcgNmHoloVariantId": "f8ee1d25-df1e-5d59-acae-720ca532c932"
+    },
+    {
+      "id": "sv7-170",
+      "name": "Terapagos ex",
+      "cardNumber": "170",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/170_hires.png",
+      "justTcgCardId": "41c6491c-c7c1-5fe3-9b06-cf5060a7bcbc",
+      "justTcgNmHoloVariantId": "bad94015-b398-591a-9be7-7d3ef35a0935"
+    },
+    {
+      "id": "sv7-171",
+      "name": "Briar",
+      "cardNumber": "171",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/171_hires.png",
+      "justTcgCardId": "e8f39c4c-c0d3-5eb9-8255-2b37862f68a7",
+      "justTcgNmHoloVariantId": "254f6aa6-0e54-5842-9b2f-cd85a9ef3725"
+    },
+    {
+      "id": "sv7-172",
+      "name": "Lacey",
+      "cardNumber": "172",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/172_hires.png",
+      "justTcgCardId": "b563bfb3-cfb3-580f-97a5-0422bb3128f0",
+      "justTcgNmHoloVariantId": "d92a0de0-aaa3-56a5-870d-272de42b7227"
+    },
+    {
+      "id": "sv7-173",
+      "name": "Terapagos ex",
+      "cardNumber": "173",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/173_hires.png",
+      "justTcgCardId": "c1f19044-9e84-5723-98e7-baede1474574",
+      "justTcgNmHoloVariantId": "d52850df-a36c-5763-9fdb-500facefe123"
+    },
+    {
+      "id": "sv7-174",
+      "name": "Area Zero Underdepths",
+      "cardNumber": "174",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Stadium"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/174_hires.png",
+      "justTcgCardId": "fb20f6bb-3fef-5ce5-80aa-e226b85e10ca",
+      "justTcgNmHoloVariantId": "713caec8-7454-5bba-86ab-330d53d701a6"
+    },
+    {
+      "id": "sv7-175",
+      "name": "Bravery Charm",
+      "cardNumber": "175",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "setName": "Stellar Crown",
+      "artUrl": "https://images.pokemontcg.io/sv7/175_hires.png"
+    }
+  ],
+  "justTcgId": "sv07-stellar-crown-pokemon",
+  "justTcgEnrichedAt": "2026-07-07T02:32:06.191Z"
+}

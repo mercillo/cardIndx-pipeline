@@ -6,6 +6,8 @@ import { fetchLivePrices } from "./services/index.js";
 import { enrichWithPriceHistory } from "./services/priceHistory.js";
 import type { CardMarketData } from "./api/types.js";
 import { renderVideo } from "./render/renderVideo.js";
+import { renderCarousel } from "./render/renderCarousel.js";
+import { wasPublishedToday, recordPublish } from "./services/publishLog.js";
 
 const program = new Command();
 program
@@ -16,6 +18,8 @@ program
   .option("--cards <numbers>", "Comma-separated card numbers to render (overrides config cards list)")
   .option("--date <date>", "Override video date label and output folder (YYYY-MM-DD, defaults to today)")
   .option("--title <title>", "Override video title shown in Mosaic (defaults to set name)")
+  .option("--carousel", "Render 10 PNG slides instead of a video")
+  .option("--force", "Skip duplicate-publish check and run anyway")
   .option("--fetch-only", "Fetch and print card data without saving or rendering")
   .option("--render-only", "Skip API call, render video from today's existing data file");
 
@@ -62,6 +66,15 @@ async function main() {
     if (!targetSet) {
       console.error(`❌ No set at index ${setIndex}`);
       process.exit(1);
+    }
+  }
+
+  const format: "video" | "carousel" = options.carousel ? "carousel" : "video";
+
+  if (!options.force && !options.fetchOnly && !options.renderOnly) {
+    if (wasPublishedToday(targetSet.id, videoDate, format)) {
+      console.warn(`⚠️  ${targetSet.id} (${format}) already published for ${videoDate}. Use --force to override.`);
+      process.exit(0);
     }
   }
 
@@ -112,13 +125,21 @@ async function main() {
   }
 
   // 3. PHASE 2: SYNTHESIS
-  console.log("\n--- Phase 2: Media Synthesis ---");
   const videoTitle = options.title ?? targetSet.name;
-  const videoPath = await renderVideo(enriched, outputDir, targetSet.id, videoDate, videoTitle);
-  console.log("✅ Video ready:", videoPath);
+
+  if (options.carousel) {
+    console.log("\n--- Phase 2: Media Synthesis (Carousel) ---");
+    const slides = await renderCarousel(enriched, outputDir, targetSet.id, videoDate, videoTitle);
+    slides.forEach((p, i) => console.log(`  ✅ Slide ${i + 1}: ${path.basename(p)}`));
+  } else {
+    console.log("\n--- Phase 2: Media Synthesis ---");
+    const videoPath = await renderVideo(enriched, outputDir, targetSet.id, videoDate, videoTitle);
+    console.log("✅ Video ready:", videoPath);
+  }
 
   // 4. PHASE 3: DISTRIBUTION
   console.log("\n--- Phase 3: Distribution Gateway ---");
+  recordPublish(targetSet.id, videoDate, format);
   console.log("🚀 Social distribution successful.");
 }
 

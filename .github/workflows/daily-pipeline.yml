@@ -17,6 +17,15 @@ on:
         description: 'Video title shown in Mosaic — leave blank for set name'
         required: false
         type: string
+      format:
+        description: 'Output format'
+        required: false
+        default: 'video'
+        type: choice
+        options:
+          - video
+          - carousel
+          - both
 
 jobs:
   generate:
@@ -55,7 +64,16 @@ jobs:
           if [ -n "${{ inputs.title }}" ]; then
             ARGS="$ARGS --title \"${{ inputs.title }}\""
           fi
-          npx tsx src/pipeline.ts $ARGS
+          FORMAT="${{ inputs.format }}"
+          FORMAT="${FORMAT:-video}"
+          if [ "$FORMAT" = "carousel" ]; then
+            npx tsx src/pipeline.ts $ARGS --carousel
+          elif [ "$FORMAT" = "both" ]; then
+            npx tsx src/pipeline.ts $ARGS
+            npx tsx src/pipeline.ts $ARGS --carousel
+          else
+            npx tsx src/pipeline.ts $ARGS
+          fi
         env:
           POKEMON_TCG_API_KEY: ${{ secrets.POKEMON_TCG_API_KEY }}
           JUSTTCG_API_KEY: ${{ secrets.JUSTTCG_API_KEY }}
@@ -64,7 +82,7 @@ jobs:
         run: |
           git config user.name "cardIndx-bot"
           git config user.email "bot@cardindx.local"
-          git add data/prices/ data/catalogs/
+          git add data/prices/ data/catalogs/ data/publish-log.json
           git diff --cached --quiet || git commit -m "data: $(date +%Y-%m-%d) price snapshot"
           git push
 
@@ -72,5 +90,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: video-${{ github.run_number }}
-          path: output/*/*_video.mp4
+          path: |
+            output/*/*_video.mp4
+            output/*/*_slide_*.png
           retention-days: 14

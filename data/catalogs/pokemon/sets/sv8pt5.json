@@ -1465,7 +1465,9 @@
       "cardNumber": "179",
       "rarity": "Hyper Rare",
       "setName": "Prismatic Evolutions",
-      "artUrl": "https://images.pokemontcg.io/sv8pt5/179_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv8pt5/179_hires.png",
+      "justTcgCardId": "582a5c80-b7b4-5a31-92c3-95cf7f464e7b",
+      "justTcgNmHoloVariantId": "53dcd514-c6e9-5448-accd-7517eba65cd6"
     },
     {
       "id": "sv8pt5-180",

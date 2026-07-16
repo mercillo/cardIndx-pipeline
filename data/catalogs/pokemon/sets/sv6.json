@@ -1,0 +1,1124 @@
+{
+  "setId": "sv6",
+  "setName": "Twilight Masquerade",
+  "printedTotal": 167,
+  "totalCards": 226,
+  "builtAt": "2026-07-16T14:52:10.843Z",
+  "cards": [
+    {
+      "id": "sv6-19",
+      "name": "Iron Leaves",
+      "cardNumber": "19",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Future"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/19_hires.png"
+    },
+    {
+      "id": "sv6-22",
+      "name": "Sinistcha",
+      "cardNumber": "22",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/22_hires.png"
+    },
+    {
+      "id": "sv6-23",
+      "name": "Sinistcha ex",
+      "cardNumber": "23",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/23_hires.png"
+    },
+    {
+      "id": "sv6-24",
+      "name": "Teal Mask Ogerpon",
+      "cardNumber": "24",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/24_hires.png"
+    },
+    {
+      "id": "sv6-25",
+      "name": "Teal Mask Ogerpon ex",
+      "cardNumber": "25",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/25_hires.png"
+    },
+    {
+      "id": "sv6-29",
+      "name": "Magcargo ex",
+      "cardNumber": "29",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/29_hires.png"
+    },
+    {
+      "id": "sv6-33",
+      "name": "Infernape",
+      "cardNumber": "33",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/33_hires.png"
+    },
+    {
+      "id": "sv6-38",
+      "name": "Chandelure",
+      "cardNumber": "38",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/38_hires.png"
+    },
+    {
+      "id": "sv6-40",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "cardNumber": "40",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/40_hires.png"
+    },
+    {
+      "id": "sv6-53",
+      "name": "Froslass",
+      "cardNumber": "53",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/53_hires.png"
+    },
+    {
+      "id": "sv6-61",
+      "name": "Palafin ex",
+      "cardNumber": "61",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/61_hires.png"
+    },
+    {
+      "id": "sv6-63",
+      "name": "Walking Wake",
+      "cardNumber": "63",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic",
+        "Ancient"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/63_hires.png"
+    },
+    {
+      "id": "sv6-64",
+      "name": "Wellspring Mask Ogerpon ex",
+      "cardNumber": "64",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/64_hires.png"
+    },
+    {
+      "id": "sv6-65",
+      "name": "Zapdos",
+      "cardNumber": "65",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/65_hires.png"
+    },
+    {
+      "id": "sv6-68",
+      "name": "Luxray ex",
+      "cardNumber": "68",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/68_hires.png"
+    },
+    {
+      "id": "sv6-77",
+      "name": "Iron Thorns ex",
+      "cardNumber": "77",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/77_hires.png"
+    },
+    {
+      "id": "sv6-82",
+      "name": "Alakazam",
+      "cardNumber": "82",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/82_hires.png"
+    },
+    {
+      "id": "sv6-93",
+      "name": "Enamorus",
+      "cardNumber": "93",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/93_hires.png"
+    },
+    {
+      "id": "sv6-94",
+      "name": "Scream Tail ex",
+      "cardNumber": "94",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/94_hires.png"
+    },
+    {
+      "id": "sv6-95",
+      "name": "Munkidori",
+      "cardNumber": "95",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/95_hires.png"
+    },
+    {
+      "id": "sv6-96",
+      "name": "Fezandipiti",
+      "cardNumber": "96",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/96_hires.png"
+    },
+    {
+      "id": "sv6-100",
+      "name": "Hisuian Arcanine",
+      "cardNumber": "100",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/100_hires.png"
+    },
+    {
+      "id": "sv6-106",
+      "name": "Greninja ex",
+      "cardNumber": "106",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/106_hires.png"
+    },
+    {
+      "id": "sv6-110",
+      "name": "Ting-Lu",
+      "cardNumber": "110",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/110_hires.png"
+    },
+    {
+      "id": "sv6-111",
+      "name": "Okidogi",
+      "cardNumber": "111",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/111_hires.png"
+    },
+    {
+      "id": "sv6-112",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "cardNumber": "112",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/112_hires.png"
+    },
+    {
+      "id": "sv6-123",
+      "name": "Heatran",
+      "cardNumber": "123",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/123_hires.png"
+    },
+    {
+      "id": "sv6-130",
+      "name": "Dragapult ex",
+      "cardNumber": "130",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/130_hires.png"
+    },
+    {
+      "id": "sv6-134",
+      "name": "Blissey ex",
+      "cardNumber": "134",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/134_hires.png"
+    },
+    {
+      "id": "sv6-141",
+      "name": "Bloodmoon Ursaluna ex",
+      "cardNumber": "141",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/141_hires.png"
+    },
+    {
+      "id": "sv6-152",
+      "name": "Hyper Aroma",
+      "cardNumber": "152",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Item",
+        "ACE SPEC"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/152_hires.png"
+    },
+    {
+      "id": "sv6-162",
+      "name": "Scoop Up Cyclone",
+      "cardNumber": "162",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Item",
+        "ACE SPEC"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/162_hires.png"
+    },
+    {
+      "id": "sv6-163",
+      "name": "Secret Box",
+      "cardNumber": "163",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Item",
+        "ACE SPEC"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/163_hires.png"
+    },
+    {
+      "id": "sv6-164",
+      "name": "Survival Brace",
+      "cardNumber": "164",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Pokémon Tool",
+        "ACE SPEC"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/164_hires.png"
+    },
+    {
+      "id": "sv6-165",
+      "name": "Unfair Stamp",
+      "cardNumber": "165",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Item",
+        "ACE SPEC"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/165_hires.png"
+    },
+    {
+      "id": "sv6-167",
+      "name": "Legacy Energy",
+      "cardNumber": "167",
+      "rarity": "ACE SPEC Rare",
+      "subtypes": [
+        "Special",
+        "ACE SPEC"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/167_hires.png"
+    },
+    {
+      "id": "sv6-168",
+      "name": "Pinsir",
+      "cardNumber": "168",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/168_hires.png"
+    },
+    {
+      "id": "sv6-169",
+      "name": "Sunflora",
+      "cardNumber": "169",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/169_hires.png"
+    },
+    {
+      "id": "sv6-170",
+      "name": "Dipplin",
+      "cardNumber": "170",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/170_hires.png"
+    },
+    {
+      "id": "sv6-171",
+      "name": "Poltchageist",
+      "cardNumber": "171",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/171_hires.png"
+    },
+    {
+      "id": "sv6-172",
+      "name": "Torkoal",
+      "cardNumber": "172",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/172_hires.png"
+    },
+    {
+      "id": "sv6-173",
+      "name": "Infernape",
+      "cardNumber": "173",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/173_hires.png"
+    },
+    {
+      "id": "sv6-174",
+      "name": "Froslass",
+      "cardNumber": "174",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/174_hires.png"
+    },
+    {
+      "id": "sv6-175",
+      "name": "Phione",
+      "cardNumber": "175",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/175_hires.png"
+    },
+    {
+      "id": "sv6-176",
+      "name": "Cramorant",
+      "cardNumber": "176",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/176_hires.png"
+    },
+    {
+      "id": "sv6-177",
+      "name": "Heliolisk",
+      "cardNumber": "177",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/177_hires.png"
+    },
+    {
+      "id": "sv6-178",
+      "name": "Wattrel",
+      "cardNumber": "178",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/178_hires.png"
+    },
+    {
+      "id": "sv6-179",
+      "name": "Chimecho",
+      "cardNumber": "179",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/179_hires.png"
+    },
+    {
+      "id": "sv6-180",
+      "name": "Enamorus",
+      "cardNumber": "180",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/180_hires.png"
+    },
+    {
+      "id": "sv6-181",
+      "name": "Hisuian Growlithe",
+      "cardNumber": "181",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/181_hires.png"
+    },
+    {
+      "id": "sv6-182",
+      "name": "Probopass",
+      "cardNumber": "182",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/182_hires.png"
+    },
+    {
+      "id": "sv6-183",
+      "name": "Timburr",
+      "cardNumber": "183",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/183_hires.png"
+    },
+    {
+      "id": "sv6-184",
+      "name": "Lairon",
+      "cardNumber": "184",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/184_hires.png"
+    },
+    {
+      "id": "sv6-185",
+      "name": "Applin",
+      "cardNumber": "185",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/185_hires.png"
+    },
+    {
+      "id": "sv6-186",
+      "name": "Tatsugiri",
+      "cardNumber": "186",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/186_hires.png"
+    },
+    {
+      "id": "sv6-187",
+      "name": "Chansey",
+      "cardNumber": "187",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/187_hires.png"
+    },
+    {
+      "id": "sv6-188",
+      "name": "Eevee",
+      "cardNumber": "188",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/188_hires.png"
+    },
+    {
+      "id": "sv6-189",
+      "name": "Sinistcha ex",
+      "cardNumber": "189",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/189_hires.png"
+    },
+    {
+      "id": "sv6-190",
+      "name": "Teal Mask Ogerpon ex",
+      "cardNumber": "190",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/190_hires.png"
+    },
+    {
+      "id": "sv6-191",
+      "name": "Magcargo ex",
+      "cardNumber": "191",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/191_hires.png"
+    },
+    {
+      "id": "sv6-192",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "cardNumber": "192",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/192_hires.png"
+    },
+    {
+      "id": "sv6-193",
+      "name": "Palafin ex",
+      "cardNumber": "193",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/193_hires.png"
+    },
+    {
+      "id": "sv6-194",
+      "name": "Wellspring Mask Ogerpon ex",
+      "cardNumber": "194",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/194_hires.png"
+    },
+    {
+      "id": "sv6-195",
+      "name": "Luxray ex",
+      "cardNumber": "195",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/195_hires.png"
+    },
+    {
+      "id": "sv6-196",
+      "name": "Iron Thorns ex",
+      "cardNumber": "196",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Future"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/196_hires.png"
+    },
+    {
+      "id": "sv6-197",
+      "name": "Scream Tail ex",
+      "cardNumber": "197",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex",
+        "Ancient"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/197_hires.png"
+    },
+    {
+      "id": "sv6-198",
+      "name": "Greninja ex",
+      "cardNumber": "198",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/198_hires.png"
+    },
+    {
+      "id": "sv6-199",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "cardNumber": "199",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/199_hires.png"
+    },
+    {
+      "id": "sv6-200",
+      "name": "Dragapult ex",
+      "cardNumber": "200",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/200_hires.png"
+    },
+    {
+      "id": "sv6-201",
+      "name": "Blissey ex",
+      "cardNumber": "201",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/201_hires.png"
+    },
+    {
+      "id": "sv6-202",
+      "name": "Bloodmoon Ursaluna ex",
+      "cardNumber": "202",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/202_hires.png"
+    },
+    {
+      "id": "sv6-203",
+      "name": "Caretaker",
+      "cardNumber": "203",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/203_hires.png"
+    },
+    {
+      "id": "sv6-204",
+      "name": "Carmine",
+      "cardNumber": "204",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/204_hires.png"
+    },
+    {
+      "id": "sv6-205",
+      "name": "Hassel",
+      "cardNumber": "205",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/205_hires.png"
+    },
+    {
+      "id": "sv6-206",
+      "name": "Kieran",
+      "cardNumber": "206",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/206_hires.png"
+    },
+    {
+      "id": "sv6-207",
+      "name": "Lana's Aid",
+      "cardNumber": "207",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/207_hires.png"
+    },
+    {
+      "id": "sv6-208",
+      "name": "Lucian",
+      "cardNumber": "208",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/208_hires.png"
+    },
+    {
+      "id": "sv6-209",
+      "name": "Perrin",
+      "cardNumber": "209",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/209_hires.png"
+    },
+    {
+      "id": "sv6-210",
+      "name": "Sinistcha ex",
+      "cardNumber": "210",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/210_hires.png"
+    },
+    {
+      "id": "sv6-211",
+      "name": "Teal Mask Ogerpon ex",
+      "cardNumber": "211",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/211_hires.png"
+    },
+    {
+      "id": "sv6-212",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "cardNumber": "212",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/212_hires.png"
+    },
+    {
+      "id": "sv6-213",
+      "name": "Wellspring Mask Ogerpon ex",
+      "cardNumber": "213",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/213_hires.png"
+    },
+    {
+      "id": "sv6-214",
+      "name": "Greninja ex",
+      "cardNumber": "214",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Stage 2",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/214_hires.png"
+    },
+    {
+      "id": "sv6-215",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "cardNumber": "215",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/215_hires.png"
+    },
+    {
+      "id": "sv6-216",
+      "name": "Bloodmoon Ursaluna ex",
+      "cardNumber": "216",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/216_hires.png"
+    },
+    {
+      "id": "sv6-217",
+      "name": "Carmine",
+      "cardNumber": "217",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/217_hires.png"
+    },
+    {
+      "id": "sv6-218",
+      "name": "Kieran",
+      "cardNumber": "218",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/218_hires.png"
+    },
+    {
+      "id": "sv6-219",
+      "name": "Lana's Aid",
+      "cardNumber": "219",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/219_hires.png"
+    },
+    {
+      "id": "sv6-220",
+      "name": "Perrin",
+      "cardNumber": "220",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/220_hires.png"
+    },
+    {
+      "id": "sv6-221",
+      "name": "Teal Mask Ogerpon ex",
+      "cardNumber": "221",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "Tera",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/221_hires.png"
+    },
+    {
+      "id": "sv6-222",
+      "name": "Bloodmoon Ursaluna ex",
+      "cardNumber": "222",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/222_hires.png"
+    },
+    {
+      "id": "sv6-223",
+      "name": "Buddy-Buddy Poffin",
+      "cardNumber": "223",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/223_hires.png"
+    },
+    {
+      "id": "sv6-224",
+      "name": "Enhanced Hammer",
+      "cardNumber": "224",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/224_hires.png"
+    },
+    {
+      "id": "sv6-225",
+      "name": "Rescue Board",
+      "cardNumber": "225",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/225_hires.png"
+    },
+    {
+      "id": "sv6-226",
+      "name": "Luminous Energy",
+      "cardNumber": "226",
+      "rarity": "Hyper Rare",
+      "subtypes": [
+        "Special"
+      ],
+      "setName": "Twilight Masquerade",
+      "artUrl": "https://images.pokemontcg.io/sv6/226_hires.png"
+    }
+  ],
+  "justTcgId": "sv06-twilight-masquerade-pokemon"
+}

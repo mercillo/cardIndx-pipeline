@@ -774,7 +774,9 @@
         "Basic"
       ],
       "setName": "Paradox Rift",
-      "artUrl": "https://images.pokemontcg.io/sv4/201_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv4/201_hires.png",
+      "justTcgCardId": "becba42f-b66b-57ad-b1db-2182d8496468",
+      "justTcgNmHoloVariantId": "0df225d9-49cb-57c2-89c9-007fe33d6819"
     },
     {
       "id": "sv4-202",

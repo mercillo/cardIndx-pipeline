@@ -419,7 +419,9 @@
         "Stage 1"
       ],
       "setName": "Obsidian Flames",
-      "artUrl": "https://images.pokemontcg.io/sv3/201_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv3/201_hires.png",
+      "justTcgCardId": "3e28a7bc-4f96-557b-b450-8372bd1426f6",
+      "justTcgNmHoloVariantId": "de9d952c-cd9d-5653-949b-64500372f2ce"
     },
     {
       "id": "sv3-202",

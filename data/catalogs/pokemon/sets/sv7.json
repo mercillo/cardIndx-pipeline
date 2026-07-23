@@ -472,7 +472,9 @@
         "Basic"
       ],
       "setName": "Stellar Crown",
-      "artUrl": "https://images.pokemontcg.io/sv7/150_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv7/150_hires.png",
+      "justTcgCardId": "6f8d4aae-857b-5b85-b658-ef2b6a2ce39a",
+      "justTcgNmHoloVariantId": "3a444d2f-7219-5d7f-b60e-4e1f2f3fa6f8"
     },
     {
       "id": "sv7-151",

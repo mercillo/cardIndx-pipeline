@@ -26,6 +26,10 @@ on:
           - video
           - carousel
           - both
+      music:
+        description: 'Music file from public/ (e.g. pkmn_dandandan.mp3) — leave blank for default'
+        required: false
+        type: string
 
 jobs:
   generate:
@@ -63,6 +67,9 @@ jobs:
           fi
           if [ -n "${{ inputs.title }}" ]; then
             ARGS="$ARGS --title \"${{ inputs.title }}\""
+          fi
+          if [ -n "${{ inputs.music }}" ]; then
+            ARGS="$ARGS --music ${{ inputs.music }}"
           fi
           FORMAT="${{ inputs.format }}"
           FORMAT="${FORMAT:-video}"

@@ -1,6 +1,7 @@
 {
   "game": "pokemon",
   "targetSets": [
+    { "id": "me5", "name": "Pitch Black" },
     { "id": "me4", "name": "Chaos Rising" },
     { "id": "me3", "name": "Perfect Order" },
     { "id": "me2pt5", "name": "Ascended Heroes" },

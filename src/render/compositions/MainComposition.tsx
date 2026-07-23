@@ -21,6 +21,7 @@ interface MainCompositionProps {
   data: CardData[];
   date?: string;
   title?: string;
+  music?: string;
 }
 
 // Segment durations in frames (30fps)
@@ -28,7 +29,7 @@ const MOSAIC_DURATION = 150; // 5s
 const SLIDE_DURATION = 90;   // 3s per card
 const OUTRO_DURATION = 120;  // 4s
 
-export const MainComposition = ({ data, date, title }: MainCompositionProps) => {
+export const MainComposition = ({ data, date, title, music = "pokemon_music.mp3" }: MainCompositionProps) => {
   const { fps, durationInFrames } = useVideoConfig();
   const slidesStart = MOSAIC_DURATION;
   const outroStart = slidesStart + data.length * SLIDE_DURATION;
@@ -36,10 +37,8 @@ export const MainComposition = ({ data, date, title }: MainCompositionProps) => 
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#0F0F0F" }}>
-      {/* Background music — starts 17s into the file, fades out over last 2s */}
       <Audio
-        src={staticFile("pokemon_music.mp3")}
-        trimBefore={17 * fps}
+        src={staticFile(music)}
         volume={(f) => {
           const fadeStart = durationInFrames - fadeFrames;
           if (f < fadeStart) return 0.3;

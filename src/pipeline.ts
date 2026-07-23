@@ -18,6 +18,7 @@ program
   .option("--cards <numbers>", "Comma-separated card numbers to render (overrides config cards list)")
   .option("--date <date>", "Override video date label and output folder (YYYY-MM-DD, defaults to today)")
   .option("--title <title>", "Override video title shown in Mosaic (defaults to set name)")
+  .option("--music <filename>", "Music file from public/ folder (e.g. pkmn_dandandan.mp3, defaults to pokemon_music.mp3)")
   .option("--carousel", "Render 10 PNG slides instead of a video")
   .option("--force", "Skip duplicate-publish check and run anyway")
   .option("--fetch-only", "Fetch and print card data without saving or rendering")
@@ -129,11 +130,11 @@ async function main() {
 
   if (options.carousel) {
     console.log("\n--- Phase 2: Media Synthesis (Carousel) ---");
-    const slides = await renderCarousel(enriched, outputDir, targetSet.id, videoDate, videoTitle);
+    const slides = await renderCarousel(enriched, outputDir, targetSet.id, videoDate, videoTitle, options.music);
     slides.forEach((p, i) => console.log(`  ✅ Slide ${i + 1}: ${path.basename(p)}`));
   } else {
     console.log("\n--- Phase 2: Media Synthesis ---");
-    const videoPath = await renderVideo(enriched, outputDir, targetSet.id, videoDate, videoTitle);
+    const videoPath = await renderVideo(enriched, outputDir, targetSet.id, videoDate, videoTitle, options.music);
     console.log("✅ Video ready:", videoPath);
   }
 

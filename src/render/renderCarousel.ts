@@ -14,14 +14,15 @@ export async function renderCarousel(
   outputDir: string,
   setId: string,
   date: string,
-  title?: string
+  title?: string,
+  music?: string
 ): Promise<string[]> {
   const entryPoint = path.resolve("src/render/index.tsx");
 
   console.log("📦 Bundling Remotion composition...");
   const bundleLocation = await bundle({ entryPoint, enableCaching: false });
 
-  const inputProps = { data: cards, date, title };
+  const inputProps = { data: cards, date, title, music };
 
   console.log("🎨 Selecting composition...");
   const composition = await selectComposition({

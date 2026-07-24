@@ -39,6 +39,7 @@ export const MainComposition = ({ data, date, title, music = "pokemon_music.mp3"
     <AbsoluteFill style={{ backgroundColor: "#0F0F0F" }}>
       <Audio
         src={staticFile(music)}
+        trimBefore={music === "pokemon_music.mp3" ? 17 * fps : 0}
         volume={(f) => {
           const fadeStart = durationInFrames - fadeFrames;
           if (f < fadeStart) return 0.3;

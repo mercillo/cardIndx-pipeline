@@ -88,5 +88,10 @@
     "setId": "sv2",
     "date": "2026-07-24",
     "format": "video"
+  },
+  {
+    "setId": "sv6",
+    "date": "2026-07-25",
+    "format": "video"
   }
 ]

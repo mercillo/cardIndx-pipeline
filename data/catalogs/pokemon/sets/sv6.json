@@ -441,7 +441,9 @@
         "Basic"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/168_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/168_hires.png",
+      "justTcgCardId": "521baeda-dfc3-5539-ae44-ffc558945c04",
+      "justTcgNmHoloVariantId": "b62e1eca-3d7b-532b-b1d5-e1e2e295738a"
     },
     {
       "id": "sv6-169",
@@ -584,7 +586,9 @@
         "Basic"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/181_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/181_hires.png",
+      "justTcgCardId": "893e8053-a503-5734-89f4-cc93b50070c7",
+      "justTcgNmHoloVariantId": "b242fbfd-9b12-5402-8982-d980e436b7b7"
     },
     {
       "id": "sv6-182",
@@ -639,7 +643,9 @@
         "Basic"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/186_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/186_hires.png",
+      "justTcgCardId": "4d8ba079-f55e-5d67-ad4d-ee4365e6d883",
+      "justTcgNmHoloVariantId": "06e7ed66-97c2-59c8-bfc7-7e8680d5eabb"
     },
     {
       "id": "sv6-187",
@@ -650,7 +656,9 @@
         "Basic"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/187_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/187_hires.png",
+      "justTcgCardId": "38d15ecc-c3c8-585e-b669-cbbd5b0dbff4",
+      "justTcgNmHoloVariantId": "adc9a920-cb8f-58a6-82e2-9a5a3d2bb48e"
     },
     {
       "id": "sv6-188",
@@ -661,7 +669,9 @@
         "Basic"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/188_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/188_hires.png",
+      "justTcgCardId": "6f0be955-cd34-5aa8-83b2-1f1d018f1ce4",
+      "justTcgNmHoloVariantId": "a3f9072f-3eb8-55c3-ba55-5ed0d3760091"
     },
     {
       "id": "sv6-189",
@@ -788,7 +798,9 @@
         "ex"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/198_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/198_hires.png",
+      "justTcgCardId": "5b0f4e07-4e4e-58e7-8f9d-4f3d61ae37bc",
+      "justTcgNmHoloVariantId": "5fae6c1f-1776-5b49-9d38-775a82710a9b"
     },
     {
       "id": "sv6-199",
@@ -927,7 +939,9 @@
         "ex"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/210_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/210_hires.png",
+      "justTcgCardId": "fe38105d-6f2e-53e7-be54-5c5937b1949e",
+      "justTcgNmHoloVariantId": "c55edb00-e2ed-5baa-97b1-3161f3276385"
     },
     {
       "id": "sv6-211",
@@ -940,7 +954,9 @@
         "ex"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/211_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/211_hires.png",
+      "justTcgCardId": "e50ceef3-593f-54d3-97fb-c5bf833d2fd8",
+      "justTcgNmHoloVariantId": "19e8ab63-b3c0-5fcc-b9f7-964ed7edcd1c"
     },
     {
       "id": "sv6-212",
@@ -966,7 +982,9 @@
         "ex"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/213_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/213_hires.png",
+      "justTcgCardId": "b53c907c-fa7e-5139-ab30-3d4a82560284",
+      "justTcgNmHoloVariantId": "86961444-3f5f-5767-9b57-0d1845717cf7"
     },
     {
       "id": "sv6-214",
@@ -979,7 +997,9 @@
         "ex"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/214_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/214_hires.png",
+      "justTcgCardId": "38cac697-4738-54ac-af50-b0e2ec554a5f",
+      "justTcgNmHoloVariantId": "6d7079e8-5993-53cd-af6e-762a63f1452b"
     },
     {
       "id": "sv6-215",
@@ -1004,7 +1024,9 @@
         "ex"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/216_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/216_hires.png",
+      "justTcgCardId": "f5293459-7b2c-5495-a4a4-0cab30655706",
+      "justTcgNmHoloVariantId": "f0f49f97-a3e8-534a-b94f-c51c42f764ff"
     },
     {
       "id": "sv6-217",
@@ -1015,7 +1037,9 @@
         "Supporter"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/217_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/217_hires.png",
+      "justTcgCardId": "856eabcd-6165-5ead-a2ef-f68eec46a772",
+      "justTcgNmHoloVariantId": "4f8e1e65-2b64-504d-bcc6-7fe319f77973"
     },
     {
       "id": "sv6-218",
@@ -1026,7 +1050,9 @@
         "Supporter"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/218_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/218_hires.png",
+      "justTcgCardId": "dbdf5b43-abf6-5017-a98d-169c6a026848",
+      "justTcgNmHoloVariantId": "0982979f-0386-5353-b83f-3c94f560ebb7"
     },
     {
       "id": "sv6-219",
@@ -1037,7 +1063,9 @@
         "Supporter"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/219_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/219_hires.png",
+      "justTcgCardId": "99347833-8d1f-5edb-a7cb-7065b8a3ea6d",
+      "justTcgNmHoloVariantId": "a0a53efa-a81a-5502-a338-ae3ba4ad13a2"
     },
     {
       "id": "sv6-220",
@@ -1048,7 +1076,9 @@
         "Supporter"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/220_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/220_hires.png",
+      "justTcgCardId": "5e046bbb-85d7-50d4-a234-e7fe89cd9968",
+      "justTcgNmHoloVariantId": "e8b61b5f-41b2-54bf-a360-4c21f563a91a"
     },
     {
       "id": "sv6-221",
@@ -1120,5 +1150,6 @@
       "artUrl": "https://images.pokemontcg.io/sv6/226_hires.png"
     }
   ],
-  "justTcgId": "sv06-twilight-masquerade-pokemon"
+  "justTcgId": "sv06-twilight-masquerade-pokemon",
+  "justTcgEnrichedAt": "2026-07-25T14:26:09.054Z"
 }

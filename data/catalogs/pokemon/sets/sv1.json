@@ -391,7 +391,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/199_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/199_hires.png",
+      "justTcgCardId": "2d0407de-1fdf-54e9-8247-acb3262c115d",
+      "justTcgNmHoloVariantId": "225ad0ba-2e3e-5ac9-b133-76587cfbb949"
     },
     {
       "id": "sv1-200",
@@ -435,7 +437,9 @@
         "Stage 1"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/203_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/203_hires.png",
+      "justTcgCardId": "d78a0528-3804-5bf5-bc89-c951a760b1d3",
+      "justTcgNmHoloVariantId": "06b1c162-0282-59a0-812d-fa9092be7e3a"
     },
     {
       "id": "sv1-204",
@@ -446,7 +450,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/204_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/204_hires.png",
+      "justTcgCardId": "7553750e-a036-5650-b117-0516a2a8b332",
+      "justTcgNmHoloVariantId": "0dbc8d93-008b-50ce-ba5b-29c1f3ed60bf"
     },
     {
       "id": "sv1-205",
@@ -468,7 +474,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/206_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/206_hires.png",
+      "justTcgCardId": "3d2589d9-ad35-50c6-bb26-54bcae2110ce",
+      "justTcgNmHoloVariantId": "9675a756-659e-5ef8-8e25-c990c4f848e8"
     },
     {
       "id": "sv1-207",
@@ -490,7 +498,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/208_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/208_hires.png",
+      "justTcgCardId": "eed53e12-0575-547e-9938-7ba84a283cbd",
+      "justTcgNmHoloVariantId": "6f593748-755a-5a2a-8dad-d860ce61f51c"
     },
     {
       "id": "sv1-209",
@@ -512,7 +522,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/210_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/210_hires.png",
+      "justTcgCardId": "97b46e76-117b-5315-9e3e-97b1f826baa0",
+      "justTcgNmHoloVariantId": "47bdf199-f5f3-5b60-963e-0ffe69ef3be1"
     },
     {
       "id": "sv1-211",
@@ -523,7 +535,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/211_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/211_hires.png",
+      "justTcgCardId": "ba17f6e5-8de9-5ef7-afb1-ed1e16d977b8",
+      "justTcgNmHoloVariantId": "4eca33fd-b29c-5f52-98ec-524b09ae6df0"
     },
     {
       "id": "sv1-212",
@@ -534,7 +548,9 @@
         "Stage 1"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/212_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/212_hires.png",
+      "justTcgCardId": "8f2921d1-b3ac-53c7-8924-db472267e257",
+      "justTcgNmHoloVariantId": "95a97329-ced9-5fa3-816f-e61dbc820c4b"
     },
     {
       "id": "sv1-213",
@@ -545,7 +561,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/213_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/213_hires.png",
+      "justTcgCardId": "eb1ba5ea-6c35-5ce8-b176-ad1c10dab309",
+      "justTcgNmHoloVariantId": "1b04d5a9-2066-5d18-9897-d4e8592d8fa2"
     },
     {
       "id": "sv1-214",
@@ -556,7 +574,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/214_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/214_hires.png",
+      "justTcgCardId": "21940786-9998-5ed6-bd76-9164ed95405b",
+      "justTcgNmHoloVariantId": "e09dd3b2-3751-5fb1-8ffc-b6646a96462e"
     },
     {
       "id": "sv1-215",
@@ -567,7 +587,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/215_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/215_hires.png",
+      "justTcgCardId": "6c0a6069-4b1d-5011-85fb-e5973134cf51",
+      "justTcgNmHoloVariantId": "fd04eb73-2cf0-5079-a8d0-b71a09773d93"
     },
     {
       "id": "sv1-216",
@@ -902,7 +924,9 @@
         "ex"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/244_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/244_hires.png",
+      "justTcgCardId": "fe014085-46e7-5ea8-9f3c-22fe0e28b29e",
+      "justTcgNmHoloVariantId": "186bcc2c-c80f-56dd-9761-3254e41fe33d"
     },
     {
       "id": "sv1-245",
@@ -914,7 +938,9 @@
         "ex"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/245_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/245_hires.png",
+      "justTcgCardId": "29e66ad9-6eb8-544e-bd09-d7f9e66e384b",
+      "justTcgNmHoloVariantId": "041deed7-b105-5049-95db-4677d3dc70cd"
     },
     {
       "id": "sv1-246",
@@ -938,7 +964,9 @@
         "ex"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/247_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/247_hires.png",
+      "justTcgCardId": "9ba1c97c-ec15-5da7-8023-ca3db7c01164",
+      "justTcgNmHoloVariantId": "e7669b32-10a0-5ca8-8fbf-b127cb580583"
     },
     {
       "id": "sv1-248",
@@ -983,7 +1011,9 @@
         "Supporter"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/251_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/251_hires.png",
+      "justTcgCardId": "f73ac437-67d2-5583-9dc2-efb48abd68ab",
+      "justTcgNmHoloVariantId": "7bf6daa7-5dd8-5b64-880f-d451e91e1789"
     },
     {
       "id": "sv1-252",
@@ -1065,5 +1095,6 @@
       "artUrl": "https://images.pokemontcg.io/sv1/258_hires.png"
     }
   ],
-  "justTcgId": "sv01-scarlet-violet-base-set-pokemon"
+  "justTcgId": "sv01-scarlet-violet-base-set-pokemon",
+  "justTcgEnrichedAt": "2026-08-01T14:20:06.827Z"
 }

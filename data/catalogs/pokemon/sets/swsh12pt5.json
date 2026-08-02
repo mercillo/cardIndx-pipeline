@@ -967,7 +967,9 @@
         "Basic"
       ],
       "setName": "Crown Zenith",
-      "artUrl": "https://images.pokemontcg.io/swsh12pt5/154_hires.png"
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/154_hires.png",
+      "justTcgCardId": "09435a2e-b16d-5e1e-9060-d0fa93bf36b6",
+      "justTcgNmHoloVariantId": "6e33bd48-c3da-5b78-9f3e-05c11090959c"
     },
     {
       "id": "swsh12pt5-155",

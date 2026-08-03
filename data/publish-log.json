@@ -133,5 +133,10 @@
     "setId": "swsh12pt5",
     "date": "2026-08-02",
     "format": "video"
+  },
+  {
+    "setId": "swsh12",
+    "date": "2026-08-03",
+    "format": "video"
   }
 ]

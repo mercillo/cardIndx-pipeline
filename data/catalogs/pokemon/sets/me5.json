@@ -1,0 +1,704 @@
+{
+  "setId": "me5",
+  "setName": "Pitch Black",
+  "printedTotal": 84,
+  "totalCards": 120,
+  "builtAt": "2026-08-04T15:14:48.305Z",
+  "cards": [
+    {
+      "id": "me5-4",
+      "name": "Lurantis ex",
+      "cardNumber": "4",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-4/large"
+    },
+    {
+      "id": "me5-8",
+      "name": "Mega Delphox ex",
+      "cardNumber": "8",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-8/large"
+    },
+    {
+      "id": "me5-12",
+      "name": "Armarouge",
+      "cardNumber": "12",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-12/large"
+    },
+    {
+      "id": "me5-16",
+      "name": "Wailord ex",
+      "cardNumber": "16",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-16/large"
+    },
+    {
+      "id": "me5-20",
+      "name": "Primarina",
+      "cardNumber": "20",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-20/large"
+    },
+    {
+      "id": "me5-27",
+      "name": "Mega Zeraora ex",
+      "cardNumber": "27",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-27/large"
+    },
+    {
+      "id": "me5-28",
+      "name": "Miraidon",
+      "cardNumber": "28",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-28/large"
+    },
+    {
+      "id": "me5-31",
+      "name": "Mega Slowbro ex",
+      "cardNumber": "31",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-31/large"
+    },
+    {
+      "id": "me5-35",
+      "name": "Spiritomb",
+      "cardNumber": "35",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-35/large"
+    },
+    {
+      "id": "me5-38",
+      "name": "Mega Chandelure ex",
+      "cardNumber": "38",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-38/large"
+    },
+    {
+      "id": "me5-45",
+      "name": "Rampardos ex",
+      "cardNumber": "45",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-45/large"
+    },
+    {
+      "id": "me5-47",
+      "name": "Koraidon",
+      "cardNumber": "47",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-47/large"
+    },
+    {
+      "id": "me5-48",
+      "name": "Mega Darkrai ex",
+      "cardNumber": "48",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-48/large"
+    },
+    {
+      "id": "me5-55",
+      "name": "Morpeko ex",
+      "cardNumber": "55",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-55/large"
+    },
+    {
+      "id": "me5-56",
+      "name": "Zarude",
+      "cardNumber": "56",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-56/large"
+    },
+    {
+      "id": "me5-59",
+      "name": "Chi-Yu",
+      "cardNumber": "59",
+      "rarity": "Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-59/large"
+    },
+    {
+      "id": "me5-62",
+      "name": "Bastiodon",
+      "cardNumber": "62",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-62/large"
+    },
+    {
+      "id": "me5-65",
+      "name": "Mega Excadrill ex",
+      "cardNumber": "65",
+      "rarity": "Double Rare",
+      "subtypes": [
+        "Stage 1",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-65/large"
+    },
+    {
+      "id": "me5-70",
+      "name": "Silvally",
+      "cardNumber": "70",
+      "rarity": "Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-70/large"
+    },
+    {
+      "id": "me5-83",
+      "name": "Shadowy Darkness Energy",
+      "cardNumber": "83",
+      "rarity": "Rare",
+      "subtypes": [
+        "Special"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-83/large"
+    },
+    {
+      "id": "me5-84",
+      "name": "Voltaic Lightning Energy",
+      "cardNumber": "84",
+      "rarity": "Rare",
+      "subtypes": [
+        "Special"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-84/large"
+    },
+    {
+      "id": "me5-85",
+      "name": "Fomantis",
+      "cardNumber": "85",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-85/large"
+    },
+    {
+      "id": "me5-86",
+      "name": "Armarouge",
+      "cardNumber": "86",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-86/large"
+    },
+    {
+      "id": "me5-87",
+      "name": "Goldeen",
+      "cardNumber": "87",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-87/large",
+      "justTcgCardId": "ef478c11-8c15-5657-a9ea-8765cad3e202",
+      "justTcgNmHoloVariantId": "900da051-d3fe-5314-a235-b29233980a51"
+    },
+    {
+      "id": "me5-88",
+      "name": "Primarina",
+      "cardNumber": "88",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-88/large"
+    },
+    {
+      "id": "me5-89",
+      "name": "Manectric",
+      "cardNumber": "89",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-89/large"
+    },
+    {
+      "id": "me5-90",
+      "name": "Slowbro",
+      "cardNumber": "90",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-90/large",
+      "justTcgCardId": "6202a1e4-75ec-5b52-b78a-892028a2f0af",
+      "justTcgNmHoloVariantId": "2325964c-5ad7-5273-9883-edd50f1542c1"
+    },
+    {
+      "id": "me5-91",
+      "name": "Dhelmise",
+      "cardNumber": "91",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Basic"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-91/large"
+    },
+    {
+      "id": "me5-92",
+      "name": "Thievul",
+      "cardNumber": "92",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-92/large"
+    },
+    {
+      "id": "me5-93",
+      "name": "Bastiodon",
+      "cardNumber": "93",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-93/large"
+    },
+    {
+      "id": "me5-94",
+      "name": "Toucannon",
+      "cardNumber": "94",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-94/large"
+    },
+    {
+      "id": "me5-95",
+      "name": "Silvally",
+      "cardNumber": "95",
+      "rarity": "Illustration Rare",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-95/large"
+    },
+    {
+      "id": "me5-96",
+      "name": "Lurantis ex",
+      "cardNumber": "96",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-96/large"
+    },
+    {
+      "id": "me5-97",
+      "name": "Wailord ex",
+      "cardNumber": "97",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-97/large"
+    },
+    {
+      "id": "me5-98",
+      "name": "Mega Zeraora ex",
+      "cardNumber": "98",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-98/large"
+    },
+    {
+      "id": "me5-99",
+      "name": "Mega Chandelure ex",
+      "cardNumber": "99",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-99/large",
+      "justTcgCardId": "2768f870-79d4-5357-b163-4fd1cde4a0a0",
+      "justTcgNmHoloVariantId": "dccfdc67-f7f9-5b13-9bc6-cc5c8644c44f"
+    },
+    {
+      "id": "me5-100",
+      "name": "Rampardos ex",
+      "cardNumber": "100",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 2",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-100/large"
+    },
+    {
+      "id": "me5-101",
+      "name": "Mega Darkrai ex",
+      "cardNumber": "101",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-101/large",
+      "justTcgCardId": "59676541-8c7d-5f72-bec4-f53d1d1e3719",
+      "justTcgNmHoloVariantId": "e3ece8ee-f352-58a3-a7b0-9fdb6ae9d65a"
+    },
+    {
+      "id": "me5-102",
+      "name": "Morpeko ex",
+      "cardNumber": "102",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-102/large",
+      "justTcgCardId": "4c8bbab4-4765-5d14-a666-3943b4c35b16",
+      "justTcgNmHoloVariantId": "3cef548b-4253-5f1b-b40a-c95813abdd4e"
+    },
+    {
+      "id": "me5-103",
+      "name": "Mega Excadrill ex",
+      "cardNumber": "103",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Stage 1",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-103/large",
+      "justTcgCardId": "fe53baa3-96ba-5382-ae6e-af930ec90e83",
+      "justTcgNmHoloVariantId": "1787545e-e8f4-5b8c-b71c-2f19407bf919"
+    },
+    {
+      "id": "me5-104",
+      "name": "Brave Bangle",
+      "cardNumber": "104",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-104/large"
+    },
+    {
+      "id": "me5-105",
+      "name": "Crushing Hammer",
+      "cardNumber": "105",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-105/large"
+    },
+    {
+      "id": "me5-106",
+      "name": "Dark Bell",
+      "cardNumber": "106",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-106/large"
+    },
+    {
+      "id": "me5-107",
+      "name": "Energy Switch",
+      "cardNumber": "107",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-107/large"
+    },
+    {
+      "id": "me5-108",
+      "name": "Gladion's Final Battle",
+      "cardNumber": "108",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-108/large"
+    },
+    {
+      "id": "me5-109",
+      "name": "Gwynn",
+      "cardNumber": "109",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-109/large",
+      "justTcgCardId": "2ccdc21c-faa8-5735-ae73-ac112eb774bc",
+      "justTcgNmHoloVariantId": "70437055-ef60-550b-a5ec-6466f47f70f7"
+    },
+    {
+      "id": "me5-110",
+      "name": "Iron Defender",
+      "cardNumber": "110",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Item"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-110/large"
+    },
+    {
+      "id": "me5-111",
+      "name": "Misty's Vitality",
+      "cardNumber": "111",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-111/large",
+      "justTcgCardId": "e0df7f78-bee9-52ad-96fc-cca6c3ee2630",
+      "justTcgNmHoloVariantId": "a23dbb12-e42d-5dd7-b8f0-53123eacf807"
+    },
+    {
+      "id": "me5-112",
+      "name": "Rust Syndicate Grunt",
+      "cardNumber": "112",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-112/large"
+    },
+    {
+      "id": "me5-113",
+      "name": "Tremendous Bomb",
+      "cardNumber": "113",
+      "rarity": "Ultra Rare",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-113/large"
+    },
+    {
+      "id": "me5-114",
+      "name": "Mega Zeraora ex",
+      "cardNumber": "114",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-114/large",
+      "justTcgCardId": "6014c370-c53b-55af-8334-d8605898ce13",
+      "justTcgNmHoloVariantId": "7c8a5a04-8658-5c0c-b60d-b73674cc01b9"
+    },
+    {
+      "id": "me5-115",
+      "name": "Mega Chandelure ex",
+      "cardNumber": "115",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-115/large",
+      "justTcgCardId": "0fc9b3a4-4029-5977-8c27-0f94f8b86cb9",
+      "justTcgNmHoloVariantId": "b2482fd9-a3a8-5af0-9fe7-56c57d7934c5"
+    },
+    {
+      "id": "me5-116",
+      "name": "Mega Darkrai ex",
+      "cardNumber": "116",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-116/large",
+      "justTcgCardId": "54d600b2-c734-502c-8783-ac369f79bf09",
+      "justTcgNmHoloVariantId": "1aa397bf-3dc2-54b4-8b15-7c6756ad5350"
+    },
+    {
+      "id": "me5-117",
+      "name": "Morpeko ex",
+      "cardNumber": "117",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-117/large",
+      "justTcgCardId": "2c712117-0c10-522c-97b7-1269adbdedee",
+      "justTcgNmHoloVariantId": "ca96443b-9305-53c3-9f5b-b688722be9a5"
+    },
+    {
+      "id": "me5-118",
+      "name": "Gladion's Final Battle",
+      "cardNumber": "118",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-118/large",
+      "justTcgCardId": "464bcec2-7823-545f-b6e6-1d4b6f465a5e",
+      "justTcgNmHoloVariantId": "44fbc88a-6bfa-5676-b4bf-0d850426a345"
+    },
+    {
+      "id": "me5-119",
+      "name": "Gwynn",
+      "cardNumber": "119",
+      "rarity": "Special Illustration Rare",
+      "subtypes": [
+        "Supporter"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-119/large",
+      "justTcgCardId": "11a036d8-012f-5b2c-b870-1cfc387ef75b",
+      "justTcgNmHoloVariantId": "259259f6-37e7-5500-8a92-5ac7ceffb5a6"
+    },
+    {
+      "id": "me5-120",
+      "name": "Mega Darkrai ex",
+      "cardNumber": "120",
+      "rarity": "Mega Hyper Rare",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "setName": "Pitch Black",
+      "artUrl": "https://images.scrydex.com/pokemon/me5-120/large",
+      "justTcgCardId": "f725c886-eec6-5f5a-8a05-0b3523782ba5",
+      "justTcgNmHoloVariantId": "b6e8c36a-532b-5f20-a3ba-38c7b53d4407"
+    }
+  ],
+  "justTcgId": "me05-pitch-black-pokemon",
+  "justTcgEnrichedAt": "2026-08-04T15:14:54.934Z"
+}

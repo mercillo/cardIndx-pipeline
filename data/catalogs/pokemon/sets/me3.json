@@ -851,7 +851,9 @@
       "cardNumber": "105",
       "rarity": "Ultra Rare",
       "setName": "Perfect Order",
-      "artUrl": "https://images.scrydex.com/pokemon/me3-105/large"
+      "artUrl": "https://images.scrydex.com/pokemon/me3-105/large",
+      "justTcgCardId": "03369c2b-e994-57ae-92da-3f84021d3937",
+      "justTcgNmHoloVariantId": "b7df848e-05ec-506f-b306-2e912d8a7849"
     },
     {
       "id": "me3-106",

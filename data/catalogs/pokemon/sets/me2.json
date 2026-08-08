@@ -107,7 +107,9 @@
       "cardNumber": "13",
       "rarity": "Double Rare",
       "setName": "Phantasmal Flames",
-      "artUrl": "https://images.pokemontcg.io/me2/13_hires.png"
+      "artUrl": "https://images.pokemontcg.io/me2/13_hires.png",
+      "justTcgCardId": "bb9391d4-def2-54cd-86b4-5a2dec68557f",
+      "justTcgNmHoloVariantId": "6b933c44-d573-5432-ad84-f3d3494b7e3b"
     },
     {
       "id": "me2-14",
@@ -802,7 +804,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-dewgong-097-094-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "a431e3fe-bbba-56cb-9a55-97b2d0c3b28a"
     },
     {
       "id": "me2-98",
@@ -833,7 +836,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-piplup-098-094-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "e6b37a92-de89-5856-84db-535eefd005bc"
     },
     {
       "id": "me2-99",
@@ -926,7 +930,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-flygon-101-094-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "059f1c71-d174-5344-82e4-455d2721fd5a"
     },
     {
       "id": "me2-102",
@@ -957,7 +962,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-paldean-wooper-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "87938c95-6777-5b68-bbe5-ea463050e328"
     },
     {
       "id": "me2-103",
@@ -1004,7 +1010,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-wigglytuff-105-094-illustration-rare_heavily-played_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "7bcc0b3d-5751-5f3f-b2e8-129e83cc2d91"
     },
     {
       "id": "me2-106",
@@ -1035,7 +1042,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-meowth-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "3c6f0543-ed44-5849-8326-4d4dca0f129a"
     },
     {
       "id": "me2-107",
@@ -1082,7 +1090,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094-ultra-rare_heavily-played_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "23f25d68-b1f8-5f7a-a415-9648cdc7cdb2"
     },
     {
       "id": "me2-110",
@@ -1215,7 +1224,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-dawn-118-094-ultra-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "4cbfac8f-32ab-5a66-b2ad-74fdeb232c53"
     },
     {
       "id": "me2-119",
@@ -1294,7 +1304,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094-special-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "f162e5b8-8fce-5922-ba32-2c055b9e4d73"
     },
     {
       "id": "me2-126",
@@ -1325,7 +1336,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-rotom-ex-126-094-special-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "bad0e0a9-65bd-56bb-8d57-7c7bc72c013e"
     },
     {
       "id": "me2-127",
@@ -1356,7 +1368,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094-special-illustration-rare_heavily-played_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "c30a973a-29f7-58fe-b4ae-94ba1a6b4558"
     },
     {
       "id": "me2-128",
@@ -1383,7 +1396,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094-special-illustration-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "f54242e3-e152-527b-96d7-a5e557693fa1"
     },
     {
       "id": "me2-129",
@@ -1414,7 +1428,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-dawn-129-094-special-illustration-rare_heavily-played_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "bf5bf3a2-9b42-506e-9d30-df7b178410a5"
     },
     {
       "id": "me2-130",
@@ -1441,7 +1456,8 @@
           "variantId": "pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094-mega-hyper-rare_damaged_holofoil",
           "printing": "Holofoil"
         }
-      ]
+      ],
+      "justTcgNmHoloVariantId": "76b3bc9e-aaeb-5a56-92ed-149a129bdd79"
     }
   ],
   "justTcgId": "me02-phantasmal-flames-pokemon",

@@ -1941,7 +1941,9 @@
       "cardNumber": "239",
       "rarity": "Hyper Rare",
       "setName": "Destined Rivals",
-      "artUrl": "https://images.pokemontcg.io/sv10/239_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv10/239_hires.png",
+      "justTcgCardId": "e478b5ae-6101-5685-b002-96ade8432ab6",
+      "justTcgNmHoloVariantId": "c846e5c6-ea6b-5e68-830e-d0d8e734a06a"
     },
     {
       "id": "sv10-240",

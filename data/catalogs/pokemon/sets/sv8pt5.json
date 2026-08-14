@@ -1357,7 +1357,9 @@
       "cardNumber": "166",
       "rarity": "Special Illustration Rare",
       "setName": "Prismatic Evolutions",
-      "artUrl": "https://images.pokemontcg.io/sv8pt5/166_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv8pt5/166_hires.png",
+      "justTcgCardId": "57dd184e-6dbb-57ee-8f4e-bec3eafcf0e7",
+      "justTcgNmHoloVariantId": "af16c4f6-053a-591a-812b-1e6fc644f366"
     },
     {
       "id": "sv8pt5-167",

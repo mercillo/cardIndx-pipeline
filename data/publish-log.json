@@ -203,5 +203,10 @@
     "setId": "sv8",
     "date": "2026-08-15",
     "format": "video"
+  },
+  {
+    "setId": "sv7",
+    "date": "2026-08-16",
+    "format": "video"
   }
 ]

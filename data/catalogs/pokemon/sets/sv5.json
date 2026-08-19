@@ -649,7 +649,9 @@
         "Basic"
       ],
       "setName": "Temporal Forces",
-      "artUrl": "https://images.pokemontcg.io/sv5/180_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv5/180_hires.png",
+      "justTcgCardId": "aedf6337-b114-5662-9ed5-eddad28cb0a6",
+      "justTcgNmHoloVariantId": "f2a7a702-e51f-5193-be12-469c2521895a"
     },
     {
       "id": "sv5-181",

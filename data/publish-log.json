@@ -248,5 +248,10 @@
     "setId": "sv2",
     "date": "2026-08-24",
     "format": "video"
+  },
+  {
+    "setId": "sv1",
+    "date": "2026-08-25",
+    "format": "video"
   }
 ]

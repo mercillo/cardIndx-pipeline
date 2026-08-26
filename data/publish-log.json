@@ -253,5 +253,10 @@
     "setId": "sv1",
     "date": "2026-08-25",
     "format": "video"
+  },
+  {
+    "setId": "swsh12pt5",
+    "date": "2026-08-26",
+    "format": "video"
   }
 ]

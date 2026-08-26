@@ -327,7 +327,9 @@
         "VMAX"
       ],
       "setName": "Crown Zenith",
-      "artUrl": "https://images.pokemontcg.io/swsh12pt5/54_hires.png"
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/54_hires.png",
+      "justTcgCardId": "02ea689c-89c4-547b-8f66-0b1af99ed87c",
+      "justTcgNmHoloVariantId": "d6e8fe9d-3143-5d1e-99b8-3a933825addc"
     },
     {
       "id": "swsh12pt5-55",

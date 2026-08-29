@@ -855,7 +855,9 @@
       "cardNumber": "105",
       "rarity": "Ultra Rare",
       "setName": "Chaos Rising",
-      "artUrl": "https://images.scrydex.com/pokemon/me4-105/large"
+      "artUrl": "https://images.scrydex.com/pokemon/me4-105/large",
+      "justTcgCardId": "86f3953d-a9f0-5091-986c-9563a577e8ec",
+      "justTcgNmHoloVariantId": "755125e5-1b75-52c4-9f82-133e8e1e24c2"
     },
     {
       "id": "me4-106",

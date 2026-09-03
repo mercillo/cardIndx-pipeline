@@ -739,7 +739,9 @@
       "cardNumber": "92",
       "rarity": "Illustration Rare",
       "setName": "White Flare",
-      "artUrl": "https://images.pokemontcg.io/rsv10pt5/92_hires.png"
+      "artUrl": "https://images.pokemontcg.io/rsv10pt5/92_hires.png",
+      "justTcgCardId": "4215fefb-16cb-5633-961b-a287eade2273",
+      "justTcgNmHoloVariantId": "ec922d10-c813-5dde-999c-806f0d6c3f35"
     },
     {
       "id": "rsv10pt5-93",

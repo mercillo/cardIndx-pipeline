@@ -437,7 +437,9 @@
         "Stage 1"
       ],
       "setName": "Stellar Crown",
-      "artUrl": "https://images.pokemontcg.io/sv7/147_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv7/147_hires.png",
+      "justTcgCardId": "72fee1f6-32ac-570b-afd3-bafd3dfe75de",
+      "justTcgNmHoloVariantId": "63bcebf5-db83-5534-ab49-eeae8af91e66"
     },
     {
       "id": "sv7-148",

@@ -418,7 +418,9 @@
         "ACE SPEC"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/165_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/165_hires.png",
+      "justTcgCardId": "89514a22-ffce-5765-906b-bf1a2849c8b1",
+      "justTcgNmHoloVariantId": "593b5f92-cb15-5965-9a4a-0e37aa712f08"
     },
     {
       "id": "sv6-167",

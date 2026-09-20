@@ -1075,7 +1075,9 @@
         "VSTAR"
       ],
       "setName": "Silver Tempest",
-      "artUrl": "https://images.pokemontcg.io/swsh12/201_hires.png"
+      "artUrl": "https://images.pokemontcg.io/swsh12/201_hires.png",
+      "justTcgCardId": "2d6681b7-3e62-5715-842e-3d00379da2e0",
+      "justTcgNmHoloVariantId": "39d0046e-128f-50db-a9fa-aad2a30a8dce"
     },
     {
       "id": "swsh12-202",

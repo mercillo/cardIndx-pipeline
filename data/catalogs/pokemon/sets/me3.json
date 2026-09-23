@@ -723,7 +723,9 @@
       "cardNumber": "90",
       "rarity": "Illustration Rare",
       "setName": "Perfect Order",
-      "artUrl": "https://images.scrydex.com/pokemon/me3-90/large"
+      "artUrl": "https://images.scrydex.com/pokemon/me3-90/large",
+      "justTcgCardId": "40b32c69-8d08-55f9-80b6-6d1629914f84",
+      "justTcgNmHoloVariantId": "6089916f-59ac-5545-b453-725ea2f50df5"
     },
     {
       "id": "me3-91",

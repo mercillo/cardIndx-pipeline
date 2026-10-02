@@ -443,5 +443,10 @@
     "setId": "sv8pt5",
     "date": "2026-10-01",
     "format": "video"
+  },
+  {
+    "setId": "sv8",
+    "date": "2026-10-02",
+    "format": "video"
   }
 ]

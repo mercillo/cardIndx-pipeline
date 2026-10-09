@@ -642,7 +642,9 @@
         "ex"
       ],
       "setName": "151",
-      "artUrl": "https://images.pokemontcg.io/sv3pt5/183_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv3pt5/183_hires.png",
+      "justTcgCardId": "4f67f0a8-dffe-5fde-b41d-d3d144886e44",
+      "justTcgNmHoloVariantId": "5a44c475-f000-5b88-868c-77175d54deb5"
     },
     {
       "id": "sv3pt5-184",

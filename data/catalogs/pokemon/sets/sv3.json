@@ -252,7 +252,9 @@
         "Tera"
       ],
       "setName": "Obsidian Flames",
-      "artUrl": "https://images.pokemontcg.io/sv3/125_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv3/125_hires.png",
+      "justTcgCardId": "806c77c0-c329-591d-a452-627b3762066f",
+      "justTcgNmHoloVariantId": "c40d7678-73fa-5ed5-b000-e9d1731e53c8"
     },
     {
       "id": "sv3-134",

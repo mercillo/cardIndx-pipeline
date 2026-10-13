@@ -59,7 +59,9 @@
         "VSTAR"
       ],
       "setName": "Crown Zenith",
-      "artUrl": "https://images.pokemontcg.io/swsh12pt5/14_hires.png"
+      "artUrl": "https://images.pokemontcg.io/swsh12pt5/14_hires.png",
+      "justTcgCardId": "99c3eac3-2e47-5d7c-b50e-d448a4f932fe",
+      "justTcgNmHoloVariantId": "f36bf503-bce4-5998-94c4-70b4998a8975"
     },
     {
       "id": "swsh12pt5-16",

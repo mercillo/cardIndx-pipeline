@@ -412,7 +412,9 @@
         "ex"
       ],
       "setName": "Pitch Black",
-      "artUrl": "https://images.scrydex.com/pokemon/me5-98/large"
+      "artUrl": "https://images.scrydex.com/pokemon/me5-98/large",
+      "justTcgCardId": "951d24a5-ae0f-5d76-9c9e-d09e00c17887",
+      "justTcgNmHoloVariantId": "104d6088-1e96-5b36-b0d7-47e0296ed03e"
     },
     {
       "id": "me5-99",

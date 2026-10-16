@@ -797,7 +797,9 @@
       "cardNumber": "98",
       "rarity": "Ultra Rare",
       "setName": "Chaos Rising",
-      "artUrl": "https://images.scrydex.com/pokemon/me4-98/large"
+      "artUrl": "https://images.scrydex.com/pokemon/me4-98/large",
+      "justTcgCardId": "60af60d6-58ee-5558-8579-d99277c80bca",
+      "justTcgNmHoloVariantId": "c93d6a87-75e9-5100-a1d8-15569373c31b"
     },
     {
       "id": "me4-99",

@@ -2247,7 +2247,9 @@
       "cardNumber": "279",
       "rarity": "Special Illustration Rare",
       "setName": "Ascended Heroes",
-      "artUrl": "https://images.scrydex.com/pokemon/me2pt5-279/large"
+      "artUrl": "https://images.scrydex.com/pokemon/me2pt5-279/large",
+      "justTcgCardId": "90becd9e-3a85-512a-9ef4-422203b9e217",
+      "justTcgNmHoloVariantId": "9dafe89d-c9e7-50da-bdfd-1b9444621efa"
     },
     {
       "id": "me2pt5-280",

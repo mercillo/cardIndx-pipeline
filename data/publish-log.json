@@ -543,5 +543,10 @@
     "setId": "rsv10pt5",
     "date": "2026-10-21",
     "format": "video"
+  },
+  {
+    "setId": "zsv10pt5",
+    "date": "2026-10-22",
+    "format": "video"
   }
 ]

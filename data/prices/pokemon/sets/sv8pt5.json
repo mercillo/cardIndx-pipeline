@@ -59,6 +59,18 @@
       "max30d": 1451.94,
       "minAllTime": 799.29,
       "maxAllTime": 1586.47
+    },
+    "2026-10-25": {
+      "price": 1189.53,
+      "change7d": -4.1,
+      "change30d": -14.05,
+      "change90d": -21.18,
+      "min7d": 1189.53,
+      "max7d": 1240.35,
+      "min30d": 1189.53,
+      "max30d": 1384.05,
+      "minAllTime": 799.29,
+      "maxAllTime": 1586.47
     }
   },
   "sv8pt5-156": {
@@ -120,6 +132,18 @@
       "min30d": 503.59,
       "max30d": 541.74,
       "minAllTime": 296.95,
+      "maxAllTime": 565.7
+    },
+    "2026-10-25": {
+      "price": 381.51,
+      "change7d": 3.14,
+      "change30d": -25.9,
+      "change90d": -30.79,
+      "min7d": 369.9,
+      "max7d": 408.32,
+      "min30d": 369.9,
+      "max30d": 528.19,
+      "minAllTime": 290.08,
       "maxAllTime": 565.7
     }
   },
@@ -183,6 +207,18 @@
       "max30d": 340.75,
       "minAllTime": 238.3,
       "maxAllTime": 344.72
+    },
+    "2026-10-25": {
+      "price": 305.87,
+      "change7d": -1.7,
+      "change30d": -8.28,
+      "change90d": -10.1,
+      "min7d": 305.87,
+      "max7d": 311.16,
+      "min30d": 305.87,
+      "max30d": 333.47,
+      "minAllTime": 213.5,
+      "maxAllTime": 471.85
     }
   },
   "sv8pt5-155": {
@@ -245,6 +281,18 @@
       "max30d": 320.12,
       "minAllTime": 197.75,
       "maxAllTime": 334.73
+    },
+    "2026-10-25": {
+      "price": 268.65,
+      "change7d": -3.64,
+      "change30d": -14.19,
+      "change90d": -13.69,
+      "min7d": 268.65,
+      "max7d": 278.8,
+      "min30d": 268.65,
+      "max30d": 315.89,
+      "minAllTime": 197.75,
+      "maxAllTime": 429.92
     }
   },
   "sv8pt5-150": {
@@ -307,6 +355,18 @@
       "max30d": 290.99,
       "minAllTime": 171.64,
       "maxAllTime": 314
+    },
+    "2026-10-25": {
+      "price": 238.29,
+      "change7d": -5.81,
+      "change30d": -12.94,
+      "change90d": -18.87,
+      "min7d": 238.29,
+      "max7d": 252.98,
+      "min30d": 238.29,
+      "max30d": 273.7,
+      "minAllTime": 166.97,
+      "maxAllTime": 341.45
     }
   },
   "sv8pt5-149": {
@@ -369,6 +429,18 @@
       "max30d": 295.02,
       "minAllTime": 152.19,
       "maxAllTime": 310.77
+    },
+    "2026-10-25": {
+      "price": 236.83,
+      "change7d": -6.08,
+      "change30d": -16.64,
+      "change90d": -21.95,
+      "min7d": 236.83,
+      "max7d": 252.16,
+      "min30d": 236.83,
+      "max30d": 284.11,
+      "minAllTime": 152.19,
+      "maxAllTime": 387.92
     }
   },
   "sv8pt5-146": {
@@ -431,6 +503,18 @@
       "max30d": 207.97,
       "minAllTime": 150.59,
       "maxAllTime": 228.51
+    },
+    "2026-10-25": {
+      "price": 166.81,
+      "change7d": 0.62,
+      "change30d": -19.09,
+      "change90d": -26.41,
+      "min7d": 165.78,
+      "max7d": 170.86,
+      "min30d": 165.78,
+      "max30d": 207.97,
+      "minAllTime": 150.59,
+      "maxAllTime": 393
     }
   },
   "sv8pt5-153": {
@@ -493,6 +577,18 @@
       "max30d": 195.87,
       "minAllTime": 140.32,
       "maxAllTime": 209.14
+    },
+    "2026-10-25": {
+      "price": 157.05,
+      "change7d": -1.56,
+      "change30d": -19.44,
+      "change90d": -24.21,
+      "min7d": 156.46,
+      "max7d": 159.91,
+      "min30d": 156.46,
+      "max30d": 194.94,
+      "minAllTime": 140.32,
+      "maxAllTime": 331.59
     }
   },
   "sv8pt5-167": {
@@ -555,6 +651,18 @@
       "max30d": 182.08,
       "minAllTime": 106.15,
       "maxAllTime": 199.95
+    },
+    "2026-10-25": {
+      "price": 157.02,
+      "change7d": -3.49,
+      "change30d": -11.22,
+      "change90d": -18.35,
+      "min7d": 157.02,
+      "max7d": 162.69,
+      "min30d": 157.02,
+      "max30d": 176.86,
+      "minAllTime": 106.15,
+      "maxAllTime": 240.42
     }
   },
   "sv8pt5-162": {
@@ -617,6 +725,18 @@
       "max30d": 167.86,
       "minAllTime": 151.86,
       "maxAllTime": 300.52
+    },
+    "2026-10-25": {
+      "price": 155.9,
+      "change7d": -2.42,
+      "change30d": -6.33,
+      "change90d": -13.63,
+      "min7d": 155.9,
+      "max7d": 159.76,
+      "min30d": 155.9,
+      "max30d": 167.04,
+      "minAllTime": 135.82,
+      "maxAllTime": 308.41
     }
   },
   "sv8pt5-165": {
@@ -679,6 +799,18 @@
       "max30d": 106.95,
       "minAllTime": 85.16,
       "maxAllTime": 143.22
+    },
+    "2026-10-25": {
+      "price": 83.95,
+      "change7d": -6.91,
+      "change30d": -19.35,
+      "change90d": -31.93,
+      "min7d": 83.95,
+      "max7d": 90.18,
+      "min30d": 83.95,
+      "max30d": 104.74,
+      "minAllTime": 83.95,
+      "maxAllTime": 181.18
     }
   },
   "sv8pt5-147": {
@@ -741,6 +873,18 @@
       "max30d": 102.29,
       "minAllTime": 90.03,
       "maxAllTime": 142.12
+    },
+    "2026-10-25": {
+      "price": 86.14,
+      "change7d": -7.99,
+      "change30d": -14.22,
+      "change90d": -14.05,
+      "min7d": 86.14,
+      "max7d": 93.62,
+      "min30d": 86.14,
+      "max30d": 100.42,
+      "minAllTime": 86.14,
+      "maxAllTime": 228.56
     }
   },
   "sv8pt5-59": {
@@ -803,6 +947,18 @@
       "max30d": 79.47,
       "minAllTime": 55.35,
       "maxAllTime": 94.67
+    },
+    "2026-10-25": {
+      "price": 52.83,
+      "change7d": -2.04,
+      "change30d": -25.09,
+      "change90d": -39.03,
+      "min7d": 52.77,
+      "max7d": 53.93,
+      "min30d": 52.77,
+      "max30d": 70.52,
+      "minAllTime": 52.77,
+      "maxAllTime": 211.5
     }
   },
   "sv8pt5-168": {
@@ -865,6 +1021,18 @@
       "max30d": 63.95,
       "minAllTime": 59.6,
       "maxAllTime": 83.13
+    },
+    "2026-10-25": {
+      "price": 52.56,
+      "change7d": -2.9,
+      "change30d": -11.87,
+      "change90d": -22.49,
+      "min7d": 52.56,
+      "max7d": 54.13,
+      "min30d": 52.56,
+      "max30d": 59.78,
+      "minAllTime": 52.56,
+      "maxAllTime": 123.81
     }
   },
   "sv8pt5-157": {
@@ -931,6 +1099,18 @@
       "max30d": 68.22,
       "minAllTime": 59.82,
       "maxAllTime": 76.95
+    },
+    "2026-10-25": {
+      "price": 62.24,
+      "change7d": -3.01,
+      "change30d": -6.66,
+      "change90d": -11.09,
+      "min7d": 62.24,
+      "max7d": 64.17,
+      "min30d": 62.24,
+      "max30d": 66.9,
+      "minAllTime": 59.82,
+      "maxAllTime": 159.8
     }
   }
 }

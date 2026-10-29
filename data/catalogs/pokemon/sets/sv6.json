@@ -634,7 +634,9 @@
         "Basic"
       ],
       "setName": "Twilight Masquerade",
-      "artUrl": "https://images.pokemontcg.io/sv6/185_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6/185_hires.png",
+      "justTcgCardId": "d4a8891c-4a35-5e51-8c39-9020b5c0dfd8",
+      "justTcgNmHoloVariantId": "d5e1747e-a651-5369-83e2-3277c1f4ae6d"
     },
     {
       "id": "sv6-186",

@@ -603,5 +603,10 @@
     "setId": "sv3pt5",
     "date": "2026-11-02",
     "format": "video"
+  },
+  {
+    "setId": "sv3",
+    "date": "2026-11-03",
+    "format": "video"
   }
 ]

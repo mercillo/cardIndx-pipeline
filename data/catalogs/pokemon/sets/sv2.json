@@ -791,7 +791,9 @@
         "Basic"
       ],
       "setName": "Paldea Evolved",
-      "artUrl": "https://images.pokemontcg.io/sv2/219_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv2/219_hires.png",
+      "justTcgCardId": "dd414a2d-47c0-51ea-b1dc-137143035d36",
+      "justTcgNmHoloVariantId": "3dccf8d5-b1cd-5092-a0a4-fbf91050dc7f"
     },
     {
       "id": "sv2-220",

@@ -487,7 +487,9 @@
         "Basic"
       ],
       "setName": "Scarlet & Violet",
-      "artUrl": "https://images.pokemontcg.io/sv1/207_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv1/207_hires.png",
+      "justTcgCardId": "0a4dab56-e4df-5381-81cd-899c9857c966",
+      "justTcgNmHoloVariantId": "807c27b8-c967-54ed-ac06-1d9b0ebb0f93"
     },
     {
       "id": "sv1-208",

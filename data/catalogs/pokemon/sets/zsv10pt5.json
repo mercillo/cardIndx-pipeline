@@ -1227,7 +1227,9 @@
       "cardNumber": "151",
       "rarity": "Illustration Rare",
       "setName": "Black Bolt",
-      "artUrl": "https://images.pokemontcg.io/zsv10pt5/151_hires.png"
+      "artUrl": "https://images.pokemontcg.io/zsv10pt5/151_hires.png",
+      "justTcgCardId": "56383914-b221-555e-bdb4-35ac88c969bf",
+      "justTcgNmHoloVariantId": "b30e3571-6be7-5011-83a9-d598564e98c8"
     },
     {
       "id": "zsv10pt5-152",

@@ -2033,7 +2033,9 @@
       "cardNumber": "250",
       "rarity": "Hyper Rare",
       "setName": "Surging Sparks",
-      "artUrl": "https://images.pokemontcg.io/sv8/250_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv8/250_hires.png",
+      "justTcgCardId": "3027976a-4e33-5f4b-acff-44d79d5f45fb",
+      "justTcgNmHoloVariantId": "464102b0-1eae-5132-96d9-5e2dd4345677"
     },
     {
       "id": "sv8-251",

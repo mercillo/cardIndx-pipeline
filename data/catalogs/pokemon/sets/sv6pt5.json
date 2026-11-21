@@ -789,7 +789,9 @@
       "cardNumber": "95",
       "rarity": "Hyper Rare",
       "setName": "Shrouded Fable",
-      "artUrl": "https://images.pokemontcg.io/sv6pt5/95_hires.png"
+      "artUrl": "https://images.pokemontcg.io/sv6pt5/95_hires.png",
+      "justTcgCardId": "88e1858d-9c85-5295-bdec-07d0c2743538",
+      "justTcgNmHoloVariantId": "8582a6f4-9056-5a79-aba9-d2ba6f60ca72"
     },
     {
       "id": "sv6pt5-96",
